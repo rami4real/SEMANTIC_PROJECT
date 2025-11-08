@@ -1,0 +1,1555 @@
+dégât de tempête | r_has_causatif
+brûlure de soleil | r_has_causatif
+cicatrice de coupure | r_has_causatif
+inondation de pluie | r_has_causatif
+panne de surtension | r_has_causatif
+tache de graisse | r_has_causatif
+carie de sucre | r_has_causatif
+rouille de condensation | r_has_causatif
+fumée de combustion | r_has_causatif
+intoxication de champignon | r_has_causatif
+fièvre de grippe | r_has_causatif
+écorchure de chute | r_has_causatif
+fissure de gel | r_has_causatif
+retard de grève | r_has_causatif
+casse de surcharge | r_has_causatif
+usure de frottement | r_has_causatif
+odeur de brûlé | r_has_causatif
+crampe de déshydratation | r_has_causatif
+allergie de pollen | r_has_causatif
+panne de court-circuit | r_has_causatif
+érosion de vent | r_has_causatif
+glissement de pluie | r_has_causatif
+vertige de fatigue | r_has_causatif
+nausée de mal de mer | r_has_causatif
+migraine de stress | r_has_causatif
+insomnie de caféine | r_has_causatif
+irritation de savon | r_has_causatif
+déformation de chaleur | r_has_causatif
+corrosion de sel | r_has_causatif
+vibration de moteur | r_has_causatif
+blessure de choc | r_has_causatif
+fracture de collision | r_has_causatif
+décoloration de soleil | r_has_causatif
+contamination de bactérie | r_has_causatif
+infection de virus | r_has_causatif
+asphyxie de fumée | r_has_causatif
+empoisonnement de plomb | r_has_causatif
+inflammation de frottement | r_has_causatif
+obstruction de calcaire | r_has_causatif
+rupture de pression | r_has_causatif
+éclatement de gel | r_has_causatif
+déchirure de traction | r_has_causatif
+bosselure de grêle | r_has_causatif
+rayure de sable | r_has_causatif
+ternissement de humidité | r_has_causatif
+jaunissement de nicotine | r_has_causatif
+noircissement de fumée | r_has_causatif
+gonflement de chaleur | r_has_causatif
+rétrécissement de lavage | r_has_causatif
+durcissement de calcaire | r_has_causatif
+ramollissement de humidité | r_has_causatif
+pourriture de eau | r_has_causatif
+moisissure de condensation | r_has_causatif
+oxydation de air | r_has_causatif
+cristallisation de gel | r_has_causatif
+coagulation de chaleur | r_has_causatif
+fermentation de levure | r_has_causatif
+putréfaction de bactérie | r_has_causatif
+carbonisation de feu | r_has_causatif
+calcination de flamme | r_has_causatif
+vitrification de chaleur | r_has_causatif
+désagrégation de gel | r_has_causatif
+effritement de sécheresse | r_has_causatif
+délitement de pluie | r_has_causatif
+affaissement de sécheresse | r_has_causatif
+éboulement de pluie | r_has_causatif
+effondrement de termite | r_has_causatif
+écroulement de séisme | r_has_causatif
+engelure de froid | r_has_causatif
+gerçure de froid | r_has_causatif
+crevasse de sécheresse | r_has_causatif
+cloque de brûlure | r_has_causatif
+ampoule de frottement | r_has_causatif
+hématome de coup | r_has_causatif
+contusion de choc | r_has_causatif
+luxation de torsion | r_has_causatif
+entorse de mouvement | r_has_causatif
+déchirement de effort | r_has_causatif
+élongation de étirement | r_has_causatif
+courbature de effort | r_has_causatif
+ankylose de immobilité | r_has_causatif
+atrophie de inactivité | r_has_causatif
+hypertrophie de sollicitation | r_has_causatif
+dégénérescence de vieillissement | r_has_causatif
+nécrose de gangrène | r_has_causatif
+ulcération de acide | r_has_causatif
+perforation de corrosion | r_has_causatif
+hémorragie de rupture | r_has_causatif
+thrombose de stase | r_has_causatif
+embolie de caillot | r_has_causatif
+œdème de rétention | r_has_causatif
+congestion de inflammation | r_has_causatif
+obstruction de thrombus | r_has_causatif
+sténose de calcification | r_has_causatif
+dilatation de pression | r_has_causatif
+anévrisme de hypertension | r_has_causatif
+prolapsus de relâchement | r_has_causatif
+hernie de effort | r_has_causatif
+éventration de déchirure | r_has_causatif
+déhiscence de infection | r_has_causatif
+suppuration de bactérie | r_has_causatif
+(colmatage de filtre) de poussière | r_has_causatif
+(intoxication de pesticide) de verger | r_has_causatif
+(irritation de peau) de détergent | r_has_causatif
+(fissure de métal) de fatigue | r_has_causatif
+(rupture de canalisation) de gel | r_has_causatif
+(corrosion de tuyau) de acide | r_has_causatif
+(obstruction de artère) de cholestérol | r_has_causatif
+(inflammation de gorge) de virus | r_has_causatif
+(usure de pneu) de freinage | r_has_causatif
+(déformation de rail) de chaleur | r_has_causatif
+(panne de moteur) de surchauffe | r_has_causatif
+(blocage de serrure) de rouille | r_has_causatif
+(éclatement de conduite) de pression | r_has_causatif
+(casse de courroie) de tension | r_has_causatif
+(fuite de joint) de usure | r_has_causatif
+(décollement de peinture) de humidité | r_has_causatif
+(jaunissement de papier) de lumière | r_has_causatif
+(noircissement de mur) de fumée | r_has_causatif
+(effritement de pierre) de gel | r_has_causatif
+(pourrissement de bois) de eau | r_has_causatif
+(oxydation de fer) de oxygène | r_has_causatif
+(contamination de eau) de nitrate | r_has_causatif
+(infection de plaie) de bactérie | r_has_causatif
+(nécrose de tissu) de gangrène | r_has_causatif
+(calcification de valve) de calcium | r_has_causatif
+(thrombose de veine) de stase | r_has_causatif
+(embolie de poumon) de caillot | r_has_causatif
+(perforation de estomac) de ulcère | r_has_causatif
+(hémorragie de cerveau) de anévrisme | r_has_causatif
+(paralysie de membre) de compression | r_has_causatif
+(atrophie de muscle) de immobilisation | r_has_causatif
+(dégénérescence de cartilage) de arthrose | r_has_causatif
+(destruction de forêt) de incendie | r_has_causatif
+(érosion de sol) de ruissellement | r_has_causatif
+(affaissement de terrain) de sécheresse | r_has_causatif
+(glissement de talus) de pluie | r_has_causatif
+(éboulement de falaise) de tempête | r_has_causatif
+(effondrement de toit) de neige | r_has_causatif
+(explosion de chaudière) de surpression | r_has_causatif
+(implosion de réservoir) de vide | r_has_causatif
+(rupture de barrage) de crue | r_has_causatif
+(déversement de pétrole) de rupture | r_has_causatif
+(contamination de sol) de hydrocarbure | r_has_causatif
+(pollution de rivière) de pesticide | r_has_causatif
+(intoxication de bétail) de plomb | r_has_causatif
+(empoisonnement de chat) de antigel | r_has_causatif
+(asphyxie de poisson) de algue | r_has_causatif
+(mort de abeille) de insecticide | r_has_causatif
+(dépérissement de arbre) de pollution | r_has_causatif
+(brunissement de feuille) de sécheresse | r_has_causatif
+(flétrissement de fleur) de chaleur | r_has_causatif
+(dessèchement de plante) de vent | r_has_causatif
+(brûlure de gazon) de engrais | r_has_causatif
+(jaunissement de pelouse) de chlorose | r_has_causatif
+(tache de fruit) de champignon | r_has_causatif
+(pourriture de tomate) de mildiou | r_has_causatif
+(fendillement de cerise) de pluie | r_has_causatif
+(éclatement de raisin) de grêle | r_has_causatif
+(décoloration de textile) de soleil | r_has_causatif
+(rétrécissement de laine) de lavage | r_has_causatif
+(déformation de plastique) de chaleur | r_has_causatif
+(craquelure de cuir) de sécheresse | r_has_causatif
+(ternissement de argent) de soufre | r_has_causatif
+(piqûre de bronze) de chlorure | r_has_causatif
+(altération de tableau) de lumière | r_has_causatif
+(dégradation de papyrus) de acidité | r_has_causatif
+(délitage de schiste) de gel | r_has_causatif
+(désagrégation de granite) de érosion | r_has_causatif
+(pulvérisation de calcaire) de acide | r_has_causatif
+(dissolution de sel) de eau | r_has_causatif
+(liquéfaction de sol) de séisme | r_has_causatif
+(vitrification de sable) de foudre | r_has_causatif
+(fusion de câble) de court-circuit | r_has_causatif
+(carbonisation de pain) de chaleur | r_has_causatif
+(caramélisation de sucre) de température | r_has_causatif
+(coagulation de lait) de acide | r_has_causatif
+(caillage de sang) de enzyme | r_has_causatif
+(durcissement de artère) de cholestérol | r_has_causatif
+(ramollissement de os) de carence | r_has_causatif
+(fragilisation de ongle) de manque | r_has_causatif
+(cassure de cheveu) de décoloration | r_has_causatif
+(chute de poil) de stress | r_has_causatif
+(perte de dent) de carie | r_has_causatif
+(déchaussement de gencive) de tartre | r_has_causatif
+(saignement de nez) de sécheresse | r_has_causatif
+(irritation de œil) de poussière | r_has_causatif
+(rougeur de peau) de allergie | r_has_causatif
+(gonflement de cheville) de entorse | r_has_causatif
+(boursouflure de peinture) de humidité | r_has_causatif
+(cloquage de enduit) de infiltration | r_has_causatif
+(soulèvement de parquet) de eau | r_has_causatif
+(gondolement de porte) de humidité | r_has_causatif
+(gauchissement de planche) de séchage | r_has_causatif
+(vrillage de poutre) de tension | r_has_causatif
+(flambement de colonne) de charge | r_has_causatif
+(cisaillement de rivet) de vibration | r_has_causatif
+dégât de la tempête | r_has_causatif
+brûlure de la cigarette | r_has_causatif
+cicatrice de la coupure | r_has_causatif
+inondation de la pluie | r_has_causatif
+panne de la surtension | r_has_causatif
+tache de la graisse | r_has_causatif
+carie de la consommation | r_has_causatif
+rouille de la condensation | r_has_causatif
+fumée de la combustion | r_has_causatif
+intoxication de la nourriture | r_has_causatif
+fièvre de la grippe | r_has_causatif
+écorchure de la chute | r_has_causatif
+fissure de la chaleur | r_has_causatif
+retard de la panne | r_has_causatif
+casse de la surcharge | r_has_causatif
+usure de la friction | r_has_causatif
+odeur de la moisissure | r_has_causatif
+crampe de la déshydratation | r_has_causatif
+allergie de la poussière | r_has_causatif
+panne de la batterie | r_has_causatif
+cendre de la combustion | r_has_causatif
+érosion de la vague | r_has_causatif
+mousse de la bière | r_has_causatif
+suie de la cheminée | r_has_causatif
+éclat de la vitre | r_has_causatif
+tremblement de la peur | r_has_causatif
+courbature de la marche | r_has_causatif
+évanouissement de la chaleur | r_has_causatif
+éclaboussure de la boue | r_has_causatif
+érosion de la glace | r_has_causatif
+fissure de la sécheresse | r_has_causatif
+écho de la voix | r_has_causatif
+éblouissement de la lumière | r_has_causatif
+éruption de la pression | r_has_causatif
+éclat de la pierre | r_has_causatif
+épuisement de la course | r_has_causatif
+égratignure de la branche | r_has_causatif
+éboulement de la pluie | r_has_causatif
+éclatement de la chaleur | r_has_causatif
+érosion du vent | r_has_causatif
+évanouissement de la fatigue | r_has_causatif
+éclaboussure de la peinture | r_has_causatif
+éclat de l'explosion | r_has_causatif
+épuisement de la maladie | r_has_causatif
+égratignure de la griffe | r_has_causatif
+éboulement de la neige | r_has_causatif
+éclatement de la pression | r_has_causatif
+érosion de la pollution | r_has_causatif
+évanouissement de la faim | r_has_causatif
+éclaboussure de la vague | r_has_causatif
+éclat de la foudre | r_has_causatif
+épuisement de la soif | r_has_causatif
+égratignure de la pierre | r_has_causatif
+éboulement de la roche | r_has_causatif
+éclatement de la tension | r_has_causatif
+érosion de la rivière | r_has_causatif
+évanouissement de la surprise | r_has_causatif
+éclaboussure de la boue | r_has_causatif
+éclat de la vitre | r_has_causatif
+épuisement de la fatigue | r_has_causatif
+égratignure de la branche | r_has_causatif
+éboulement de la pluie | r_has_causatif
+éclatement de la chaleur | r_has_causatif
+érosion du vent | r_has_causatif
+évanouissement de la peur | r_has_causatif
+éclaboussure de la peinture | r_has_causatif
+éclat de l'explosion | r_has_causatif
+épuisement de la maladie | r_has_causatif
+égratignure de la griffe | r_has_causatif
+éboulement de la neige | r_has_causatif
+éclatement de la pression | r_has_causatif
+érosion de la pollution | r_has_causatif
+évanouissement de la faim | r_has_causatif
+éclaboussure de la vague | r_has_causatif
+éclat de la foudre | r_has_causatif
+épuisement de la soif | r_has_causatif
+égratignure de la pierre | r_has_causatif
+éboulement de la roche | r_has_causatif
+éclatement de la tension | r_has_causatif
+érosion de la rivière | r_has_causatif
+évanouissement de la surprise | r_has_causatif
+éclaboussure de la boue | r_has_causatif
+éclat de la vitre | r_has_causatif
+épuisement de la fatigue | r_has_causatif
+égratignure de la branche | r_has_causatif
+éboulement de la pluie | r_has_causatif
+éclatement de la chaleur | r_has_causatif
+érosion du vent | r_has_causatif
+évanouissement de la peur | r_has_causatif
+éclaboussure de la peinture | r_has_causatif
+éclat de l'explosion | r_has_causatif
+épuisement de la maladie | r_has_causatif
+égratignure de la griffe | r_has_causatif
+éboulement de la neige | r_has_causatif
+éclatement de la pression | r_has_causatif
+érosion de la pollution | r_has_causatif
+évanouissement de la faim | r_has_causatif
+éclaboussure de la vague | r_has_causatif
+éclat de la foudre | r_has_causatif
+épuisement de la soif | r_has_causatif
+égratignure de la pierre | r_has_causatif
+éboulement de la roche | r_has_causatif
+éclatement de la tension | r_has_causatif
+érosion de la rivière | r_has_causatif
+évanouissement de la surprise | r_has_causatif
+éclaboussure de la boue | r_has_causatif
+éclat de la vitre | r_has_causatif
+épuisement de la fatigue | r_has_causatif
+égratignure de la branche | r_has_causatif
+éboulement de la pluie | r_has_causatif
+éclatement de la chaleur | r_has_causatif
+érosion du vent | r_has_causatif
+évanouissement de la peur | r_has_causatif
+éclaboussure de la peinture | r_has_causatif
+éclat de l'explosion | r_has_causatif
+épuisement de la maladie | r_has_causatif
+égratignure de la griffe | r_has_causatif
+éboulement de la neige | r_has_causatif
+éclatement de la pression | r_has_causatif
+érosion de la pollution | r_has_causatif
+évanouissement de la faim | r_has_causatif
+éclaboussure de la vague | r_has_causatif
+éclat de la foudre | r_has_causatif
+épuisement de la soif | r_has_causatif
+égratignure de la pierre | r_has_causatif
+éboulement de la roche | r_has_causatif
+éclatement de la tension | r_has_causatif
+érosion de la rivière | r_has_causatif
+évanouissement de la surprise | r_has_causatif
+éclaboussure de la boue | r_has_causatif
+éclat de la vitre | r_has_causatif
+épuisement de la fatigue | r_has_causatif
+égratignure de la branche | r_has_causatif
+éboulement de la pluie | r_has_causatif
+éclatement de la chaleur | r_has_causatif
+érosion du vent | r_has_causatif
+évanouissement de la peur | r_has_causatif
+éclaboussure de la peinture | r_has_causatif
+éclat de l'explosion | r_has_causatif
+épuisement de la maladie | r_has_causatif
+égratignure de la griffe | r_has_causatif
+éboulement de la neige | r_has_causatif
+éclatement de la pression | r_has_causatif
+érosion de la pollution | r_has_causatif
+évanouissement de la faim | r_has_causatif
+éclaboussure de la vague | r_has_causatif
+éclat de la foudre | r_has_causatif
+épuisement de la soif | r_has_causatif
+égratignure de la pierre | r_has_causatif
+éboulement de la roche | r_has_causatif
+éclatement de la tension | r_has_causatif
+érosion de la rivière | r_has_causatif
+évanouissement de la surprise | r_has_causatif
+éclaboussure de la boue | r_has_causatif
+éclat de la vitre | r_has_causatif
+épuisement de la fatigue | r_has_causatif
+égratignure de la branche | r_has_causatif
+éboulement de la pluie | r_has_causatif
+éclatement de la chaleur | r_has_causatif
+érosion du vent | r_has_causatif
+évanouissement de la peur | r_has_causatif
+éclaboussure de la peinture | r_has_causatif
+éclat de l'explosion | r_has_causatif
+épuisement de la maladie | r_has_causatif
+égratignure de la griffe | r_has_causatif
+éboulement de la neige | r_has_causatif
+éclatement de la pression | r_has_causatif
+érosion de la pollution | r_has_causatif
+évanouissement de la faim | r_has_causatif
+éclaboussure de la vague | r_has_causatif
+éclat de la foudre | r_has_causatif
+épuisement de la soif | r_has_causatif
+égratignure de la pierre | r_has_causatif
+éboulement de la roche | r_has_causatif
+éclatement de la tension | r_has_causatif
+érosion de la rivière | r_has_causatif
+évanouissement de la surprise | r_has_causatif
+éclaboussure de la boue | r_has_causatif
+éclat de la vitre | r_has_causatif
+épuisement de la fatigue | r_has_causatif
+égratignure de la branche | r_has_causatif
+éboulement de la pluie | r_has_causatif
+éclatement de la chaleur | r_has_causatif
+érosion du vent | r_has_causatif
+évanouissement de la peur | r_has_causatif
+éclaboussure de la peinture | r_has_causatif
+éclat de l'explosion | r_has_causatif
+épuisement de la maladie | r_has_causatif
+égratignure de la griffe | r_has_causatif
+éboulement de la neige | r_has_causatif
+éclatement de la pression | r_has_causatif
+érosion de la pollution | r_has_causatif
+évanouissement de la faim | r_has_causatif
+éclaboussure de la vague | r_has_causatif
+éclat de la foudre | r_has_causatif
+épuisement de la soif | r_has_causatif
+égratignure de la pierre | r_has_causatif
+éboulement de la roche | r_has_causatif
+éclatement de la tension | r_has_causatif
+érosion de la rivière | r_has_causatif
+évanouissement de la surprise | r_has_causatif
+éclaboussure de la boue | r_has_causatif
+éclat de la vitre | r_has_causatif
+épuisement de la fatigue | r_has_causatif
+égratignure de la branche | r_has_causatif
+éboulement de la pluie | r_has_causatif
+éclatement de la chaleur | r_has_causatif
+érosion du vent | r_has_causatif
+évanouissement de la peur | r_has_causatif
+éclaboussure de la peinture | r_has_causatif
+éclat de l'explosion | r_has_causatif
+épuisement de la maladie | r_has_causatif
+égratignure de la griffe | r_has_causatif
+éboulement de la neige | r_has_causatif
+éclatement de la pression | r_has_causatif
+érosion de la pollution | r_has_causatif
+évanouissement de la faim | r_has_causatif
+éclaboussure de la vague | r_has_causatif
+éclat de la foudre | r_has_causatif
+épuisement de la soif | r_has_causatif
+égratignure de la pierre | r_has_causatif
+éboulement de la roche | r_has_causatif
+éclatement de la tension | r_has_causatif
+érosion de la rivière | r_has_causatif
+évanouissement de la surprise | r_has_causatif
+éclaboussure de la boue | r_has_causatif
+éclat de la vitre | r_has_causatif
+épuisement de la fatigue | r_has_causatif
+égratignure de la branche | r_has_causatif
+éboulement de la pluie | r_has_causatif
+éclatement de la chaleur | r_has_causatif
+érosion du vent | r_has_causatif
+évanouissement de la peur | r_has_causatif
+éclaboussure de la peinture | r_has_causatif
+éclat de l'explosion | r_has_causatif
+épuisement de la maladie | r_has_causatif
+égratignure de la griffe | r_has_causatif
+éboulement de la neige | r_has_causatif
+éclatement de la pression | r_has_causatif
+érosion de la pollution | r_has_causatif
+évanouissement de la faim | r_has_causatif
+éclaboussure de la vague | r_has_causatif
+éclat de la foudre | r_has_causatif
+épuisement de la soif | r_has_causatif
+égratignure de la pierre | r_has_causatif
+éboulement de la roche | r_has_causatif
+éclatement de la tension | r_has_causatif
+érosion de la rivière | r_has_causatif
+évanouissement de la surprise | r_has_causatif
+(colmatage de la poussière) de la ventilation | r_has_causatif
+(cassure de la contrainte) de la poutre | r_has_causatif
+(arrêt de la panne) de la pompe | r_has_causatif
+(fumée de la combustion) de la bougie | r_has_causatif
+(rouille de la condensation) de la canalisation | r_has_causatif
+(écorchure de la chute) de la bicyclette | r_has_causatif
+(tache de la graisse) de la poêle | r_has_causatif
+(allergie de la poussière) de la maison | r_has_causatif
+(fissure de la chaleur) de la vitre | r_has_causatif
+(déformation de la chaleur) de la pièce | r _has _causatif
+(oxydation de la vapeur) de la conduite | r _has _causatif
+(craquelure de la sécheresse) de la terre | r _has _causatif
+(tache de la moisissure) de la cloison | r _has _causatif
+(cassure de la surcharge) de la poutre | r _has _causatif
+(affaiblissement de la rouille) de la structure | r _has _causatif
+(brûlure de la flamme) de la bougie | r _has _causatif
+(fissure de la fatigue) de la paroi | r _has _causatif
+(surchauffe de la friction) de la machine | r _has _causatif
+(arrachement de la tempête) de la toiture | r _has _causatif
+(odeur de la fermentation) de la cave | r _has _causatif
+(intoxication de la viande) de la cuisson | r _has _causatif
+(gel de la température) de la canalisation | r _has _causatif
+(décoloration de la lumière) de la tapisserie | r _has _causatif
+(casse de la contrainte) de la pièce | r _has _causatif
+(écoulement de la pluie) de la gouttière | r _has _causatif
+(tremblement de la secousse) de la maison | r _has _causatif
+(fumée de la combustion) de la cheminée | r _has _causatif
+(éclatement de la pression) de la canalisation | r _has _causatif
+(coupure de la surtension) de la ligne | r _has _causatif
+dégât d' inondation | r_has_causatif
+brûlure d' huile | r_has_causatif
+blessure d' accident | r_has_causatif
+infection d' plaie | r_has_causatif
+crise d' asthme | r_has_causatif
+perte d' énergie | r_has_causatif
+dommages d' explosion | r_has_causatif
+panne d' ordinateur | r_has_causatif
+tache d' peinture | r_has_causatif
+fissure d' verre | r_has_causatif
+surcharge d' travail | r_has_causatif
+gêne d' anxiété | r_has_causatif
+éclat d' explosion | r_has_causatif
+coupure d' couteau | r_has_causatif
+malaise d' épuisement | r_has_causatif
+intoxication d' alcool | r_has_causatif
+fatigue d' effort | r_has_causatif
+choc d' impact | r_has_causatif
+déformation d' métal | r_has_causatif
+fuite d' air | r_has_causatif
+crampe d' exercice | r_has_causatif
+perte d' appétit | r_has_causatif
+délai d' expédition | r_has_causatif
+grève d' ouvriers | r_has_causatif
+dommages d' vent | r_has_causatif
+détérioration d' infrastructure | r_has_causatif
+cicatrice d' coup | r_has_causatif
+odeur d' fumée | r_has_causatif
+carie d' sucre | r_has_causatif
+rouille d' humidité | r_has_causatif
+risque d' infection | r_has_causatif
+accident d' voiture | r_has_causatif
+fuite d' eau | r_has_causatif
+irritation d' crème | r_has_causatif
+trouble d' humeur | r_has_causatif
+perte d' argent | r_has_causatif
+dégradation d' qualité | r_has_causatif
+perte d' équilibre | r_has_causatif
+dommage d' choc | r_has_causatif
+rouille d' chaleur | r_has_causatif
+brûlure d' chaleur | r_has_causatif
+incendie d' forêt | r_has_causatif
+intoxication d' nourriture | r_has_causatif
+chute d' objet | r_has_causatif
+fissure d' roche | r_has_causatif
+allergie d' pollen | r_has_causatif
+panne d' électricité | r_has_causatif
+blocage d' route | r_has_causatif
+bruit d' moteur | r_has_causatif
+perte d' information | r_has_causatif
+rupture d' câble | r_has_causatif
+effet d' alcool | r_has_causatif
+dommages d' sable | r_has_causatif
+panique d' alarme | r_has_causatif
+pression d' air | r_has_causatif
+lésion d' impact | r_has_causatif
+dégât d' huile | r_has_causatif
+mouvement d' air | r_has_causatif
+fracture d' os | r_has_causatif
+endommagement d' appareil | r_has_causatif
+détérioration d' objet | r_has_causatif
+dommages d' pluie | r_has_causatif
+obstruction d' conduit | r_has_causatif
+écoulement d' eau | r_has_causatif
+accident d' train | r_has_causatif
+coup d' épée | r_has_causatif
+perte d' conscience | r_has_causatif
+fuite d' gaz | r_has_causatif
+inondation d' égout | r_has_causatif
+débris d' explosion | r_has_causatif
+détérioration d' environnement | r_has_causatif
+éclatement d' pneu | r_has_causatif
+intoxication d' médicament | r_has_causatif
+explosion d' usine | r_has_causatif
+battement d' ailes | r_has_causatif
+brûlure d' eau | r_has_causatif
+fracture d' os | r_has_causatif
+tache d' encre | r_has_causatif
+dommages d' accident | r_has_causatif
+coupure d' objet | r_has_causatif
+fatigue d' effort | r_has_causatif
+fuite d' eau | r_has_causatif
+déformation d' métal | r_has_causatif
+gêne d' infection | r_has_causatif
+cicatrice d' brûlure | r_has_causatif
+panne d' électricité | r_has_causatif
+blessure d' chute | r_has_causatif
+détérioration d' peinture | r_has_causatif
+écrasement d' objet | r_has_causatif
+glaçon d' eau | r_has_causatif
+infection d' plaie | r_has_causatif
+dommage d' usure | r_has_causatif
+fissure d' béton | r_has_causatif
+poussée d' acné | r_has_causatif
+douleur d' entorse | r_has_causatif
+incendie d' forêt | r_has_causatif
+perte d' appétit | r_has_causatif
+détérioration d' équipement | r_has_causatif
+blocage d' circulation | r_has_causatif
+dégât d'un incendie | r_has_causatif
+brûlure d'un fer | r_has_causatif
+cicatrice d'un couteau | r_has_causatif
+inondation d'un barrage | r_has_causatif
+panne d'un câble | r_has_causatif
+tache d'un stylo | r_has_causatif
+carie d'un sucre | r_has_causatif
+rouille d'un sel | r_has_causatif
+fumée d'un moteur | r_has_causatif
+intoxication d'un champignon | r_has_causatif
+fièvre d'un microbe | r_has_causatif
+écorchure d'un gravier | r_has_causatif
+fissure d'un gel | r_has_causatif
+retard d'un embouteillage | r_has_causatif
+casse d'un choc | r_has_causatif
+usure d'un frottement | r_has_causatif
+odeur d'un égout | r_has_causatif
+crampe d'un exercice | r_has_causatif
+allergie d'un pollen | r_has_causatif
+panne d'un fusible | r_has_causatif
+colmatage d'un calcaire | r_has_causatif
+intoxication d'un gaz | r_has_causatif
+irritation d'un savon | r_has_causatif
+fissure d'un séisme | r_has_causatif
+explosion d'un réservoir | r_has_causatif
+court-circuit d'un fil | r_has_causatif
+gel d'un froid | r_has_causatif
+surchauffe d'un radiateur | r_has_causatif
+corrosion d'un acide | r_has_causatif
+décoloration d'un soleil | r_has_causatif
+étouffement d'un gaz | r_has_causatif
+empoisonnement d'un poison | r_has_causatif
+sécheresse d'un vent | r_has_causatif
+affaissement d'un tassement | r_has_causatif
+blocage d'un obstacle | r_has_causatif
+déchirure d'un clou | r_has_causatif
+perforation d'un éclat | r_has_causatif
+asphyxie d'un fumée | r_has_causatif
+inflammation d'un frottement | r_has_causatif
+érosion d'un courant | r_has_causatif
+effondrement d'un poids | r_has_causatif
+noyade d'un courant | r_has_causatif
+électrocution d'un contact | r_has_causatif
+congestion d'un accident | r_has_causatif
+débordement d'un torrent | r_has_causatif
+éboulement d'un glissement | r_has_causatif
+givre d'un froid | r_has_causatif
+moisissure d'un humidité | r_has_causatif
+pourriture d'un eau | r_has_causatif
+oxydation d'un air | r_has_causatif
+déformation d'un chaleur | r_has_causatif
+gonflement d'un eau | r_has_causatif
+rétrécissement d'un lavage | r_has_causatif
+décollement d'un humidité | r_has_causatif
+craquelure d'un sécheresse | r_has_causatif
+engourdissement d'un froid | r_has_causatif
+vertige d'un mouvement | r_has_causatif
+nausée d'un odeur | r_has_causatif
+migraine d'un bruit | r_has_causatif
+cécité d'un flash | r_has_causatif
+surdité d'un explosion | r_has_causatif
+paralysie d'un poison | r_has_causatif
+convulsion d'un choc | r_has_causatif
+syncope d'un chaleur | r_has_causatif
+hypothermie d'un immersion | r_has_causatif
+déshydratation d'un chaleur | r_has_causatif
+suffocation d'un fumée | r_has_causatif
+hémorragie d'un coupure | r_has_causatif
+infection d'un bactérie | r_has_causatif
+inflammation d'un piqûre | r_has_causatif
+gonflement d'un piqûre | r_has_causatif
+démangeaison d'un piqûre | r_has_causatif
+éruption d'un allergie | r_has_causatif
+cloque d'un brûlure | r_has_causatif
+hématome d'un coup | r_has_causatif
+fracture d'un chute | r_has_causatif
+entorse d'un torsion | r_has_causatif
+luxation d'un mouvement | r_has_causatif
+tendinite d'un surmenage | r_has_causatif
+courbature d'un effort | r_has_causatif
+fatigue d'un travail | r_has_causatif
+épuisement d'un marathon | r_has_causatif
+stress d'un examen | r_has_causatif
+angoisse d'un attente | r_has_causatif
+insomnie d'un stress | r_has_causatif
+cauchemar d'un trauma | r_has_causatif
+amnésie d'un choc | r_has_causatif
+confusion d'un coup | r_has_causatif
+étourdissement d'un rotation | r_has_causatif
+malaise d'un jeûne | r_has_causatif
+faiblesse d'un privation | r_has_causatif
+tremblement d'un froid | r_has_causatif
+frisson d'un fièvre | r_has_causatif
+sueur d'un effort | r_has_causatif
+rougeur d'un chaleur | r_has_causatif
+pâleur d'un choc | r_has_causatif
+toux d'un fumée | r_has_causatif
+éternuement d'un poussière | r_has_causatif
+larmoiement d'un vent | r_has_causatif
+écoulement d'un rhume | r_has_causatif
+congestion d'un allergie | r_has_causatif
+obstruction d'un mucus | r_has_causatif
+sifflement d'un asthme | r_has_causatif
+essoufflement d'un course | r_has_causatif
+palpitation d'un stress | r_has_causatif
+tachycardie d'un peur | r_has_causatif
+hypertension d'un stress | r_has_causatif
+crise d'un anxiété | r_has_causatif
+spasme d'un crampe | r_has_causatif
+contraction d'un effort | r_has_causatif
+raideur d'un froid | r_has_causatif
+douleur d'un blessure | r_has_causatif
+élancement d'un plaie | r_has_causatif
+picotement d'un ortie | r_has_causatif
+brûlure d'un piment | r_has_causatif
+irritation d'un rasage | r_has_causatif
+gerçure d'un froid | r_has_causatif
+crevasse d'un sécheresse | r_has_causatif
+desquamation d'un brûlure | r_has_causatif
+boursoufflure d'un chaleur | r_has_causatif
+ampoule d'un frottement | r_has_causatif
+durillon d'un pression | r_has_causatif
+cal d'un frottement | r_has_causatif
+bleu d'un choc | r_has_causatif
+ecchymose d'un coup | r_has_causatif
+plaie d'un coupure | r_has_causatif
+entaille d'un lame | r_has_causatif
+lacération d'un fil | r_has_causatif
+perforation d'un objet | r_has_causatif
+piqûre d'un aiguille | r_has_causatif
+morsure d'un chien | r_has_causatif
+griffure d'un chat | r_has_causatif
+écorchure d'un aspérité | r_has_causatif
+éraflure d'un frottement | r_has_causatif
+abrasion d'un frottement | r_has_causatif
+contusion d'un impact | r_has_causatif
+traumatisme d'un accident | r_has_causatif
+commotion d'un choc | r_has_causatif
+lésion d'un coup | r_has_causatif
+dommage d'un choc | r_has_causatif
+détérioration d'un usage | r_has_causatif
+dégradation d'un temps | r_has_causatif
+altération d'un chaleur | r_has_causatif
+corruption d'un virus | r_has_causatif
+contamination d'un contact | r_has_causatif
+pollution d'un usine | r_has_causatif
+salissure d'un boue | r_has_causatif
+souillure d'un liquide | r_has_causatif
+encrassement d'un poussière | r_has_causatif
+obstruction d'un dépôt | r_has_causatif
+engorgement d'un graisse | r_has_causatif
+bouchage d'un cheveu | r_has_causatif
+saturation d'un usage | r_has_causatif
+surcharge d'un poids | r_has_causatif
+débordement d'un flux | r_has_causatif
+fuite d'un fissure | r_has_causatif
+écoulement d'un fuite | r_has_causatif
+suintement d'un humidité | r_has_causatif
+infiltration d'un eau | r_has_causatif
+pénétration d'un liquide | r_has_causatif
+imprégnation d'un odeur | r_has_causatif
+absorption d'un liquide | r_has_causatif
+évaporation d'un chaleur | r_has_causatif
+condensation d'un froid | r_has_causatif
+cristallisation d'un froid | r_has_causatif
+solidification d'un froid | r_has_causatif
+liquéfaction d'un chaleur | r_has_causatif
+fusion d'un chaleur | r_has_causatif
+dissolution d'un eau | r_has_causatif
+précipitation d'un réaction | r_has_causatif
+coagulation d'un chaleur | r_has_causatif
+caillage d'un acide | r_has_causatif
+fermentation d'un levure | r_has_causatif
+putréfaction d'un bactérie | r_has_causatif
+décomposition d'un chaleur | r_has_causatif
+désintégration d'un temps | r_has_causatif
+émiettement d'un choc | r_has_causatif
+pulvérisation d'un broyage | r_has_causatif
+fragmentation d'un explosion | r_has_causatif
+éclatement d'un pression | r_has_causatif
+rupture d'un tension | r_has_causatif
+cassure d'un choc | r_has_causatif
+brisure d'un chute | r_has_causatif
+fêlure d'un coup | r_has_causatif
+craquelure d'un gel | r_has_causatif
+fendillement d'un sécheresse | r_has_causatif
+gerçure d'un gel | r_has_causatif
+écaillement d'un humidité | r_has_causatif
+décollement d'un chaleur | r_has_causatif
+décapage d'un produit | r_has_causatif
+érosion d'un vent | r_has_causatif
+abrasion d'un sable | r_has_causatif
+usure d'un usage | r_has_causatif
+râpure d'un frottement | r_has_causatif
+rayure d'un objet | r_has_causatif
+éraflure d'un contact | r_has_causatif
+griffure d'un ongle | r_has_causatif
+entaille d'un outil | r_has_causatif
+encoche d'un coup | r_has_causatif
+brèche d'un choc | r_has_causatif
+ébréchure d'un coup | r_has_causatif
+éclat d'un choc | r_has_causatif
+esquille d'un fracture | r_has_causatif
+débris d'un explosion | r_has_causatif
+décombre d'un effondrement | r_has_causatif
+ruine d'un incendie | r_has_causatif
+destruction d'un bombardement | r_has_causatif
+ravage d'un tempête | r_has_causatif
+dévastation d'un ouragan | r_has_causatif
+catastrophe d'un séisme | r_has_causatif
+sinistre d'un inondation | r_has_causatif
+désastre d'un cyclone | r_has_causatif
+calamité d'un sécheresse | r_has_causatif
+fléau d'un invasion | r_has_causatif
+épidémie d'un virus | r_has_causatif
+pandémie d'un contagion | r_has_causatif
+contagion d'un contact | r_has_causatif
+transmission d'un contact | r_has_causatif
+propagation d'un vent | r_has_causatif
+diffusion d'un courant | r_has_causatif
+dissémination d'un vent | r_has_causatif
+dispersion d'un explosion | r_has_causatif
+expansion d'un chaleur | r_has_causatif
+dilatation d'un chaleur | r_has_causatif
+gonflement d'un chaleur | r_has_causatif
+boursouflement d'un fermentation | r_has_causatif
+renflement d'un pression | r_has_causatif
+bombement d'un pression | r_has_causatif
+déformation d'un pression | r_has_causatif
+gauchissement d'un humidité | r_has_causatif
+voilage d'un humidité | r_has_causatif
+torsion d'un contrainte | r_has_causatif
+courbure d'un poids | r_has_causatif
+fléchissement d'un charge | r_has_causatif
+affaissement d'un poids | r_has_causatif
+tassement d'un poids | r_has_causatif
+compactage d'un pression | r_has_causatif
+compression d'un force | r_has_causatif
+écrasement d'un poids | r_has_causatif
+aplatissement d'un pression | r_has_causatif
+froissement d'un pression | r_has_causatif
+plissement d'un force | r_has_causatif
+ondulation d'un vent | r_has_causatif
+ride d'un contraction | r_has_causatif
+pli d'un pliage | r_has_causatif
+repli d'un mouvement | r_has_causatif
+enroulement d'un tension | r_has_causatif
+torsade d'un rotation | r_has_causatif
+vrille d'un rotation | r_has_causatif
+spirale d'un mouvement | r_has_causatif
+tourbillon d'un vent | r_has_causatif
+vortex d'un rotation | r_has_causatif
+remous d'un courant | r_has_causatif
+turbulence d'un vent | r_has_causatif
+agitation d'un vent | r_has_causatif
+perturbation d'un choc | r_has_causatif
+désordre d'un mouvement | r_has_causatif
+chaos d'un explosion | r_has_causatif
+confusion d'un impact | r_has_causatif
+bouleversement d'un choc | r_has_causatif
+chamboulement d'un secousse | r_has_causatif
+ébranlement d'un choc | r_has_causatif
+secousse d'un tremblement | r_has_causatif
+vibration d'un moteur | r_has_causatif
+tremblement d'un séisme | r_has_causatif
+oscillation d'un balancier | r_has_causatif
+balancement d'un vent | r_has_causatif
+tangage d'un vague | r_has_causatif
+roulis d'un houle | r_has_causatif
+ballottement d'un vague | r_has_causatif
+cahot d'un route | r_has_causatif
+sursaut d'un choc | r_has_causatif
+soubresaut d'un secousse | r_has_causatif
+tressaillement d'un peur | r_has_causatif
+tressautement d'un surprise | r_has_causatif
+saccade d'un mouvement | r_has_causatif
+à-coup d'un moteur | r_has_causatif
+ratée d'un moteur | r_has_causatif
+raté d'un allumage | r_has_causatif
+accroc d'un obstacle | r_has_causatif
+blocage d'un grain | r_has_causatif
+grippage d'un rouille | r_has_causatif
+coincement d'un débris | r_has_causatif
+enrayage d'un poussière | r_has_causatif
+bourrage d'un papier | r_has_causatif
+embouteillage d'un accident | r_has_causatif
+engorgement d'un affluence | r_has_causatif
+saturation d'un flux | r_has_causatif
+encombrement d'un volume | r_has_causatif
+accumulation d'un dépôt | r_has_causatif
+entassement d'un stock | r_has_causatif
+amoncellement d'un chute | r_has_causatif
+amas d'un accumulation | r_has_causatif
+tas d'un entassement | r_has_causatif
+pile d'un empilement | r_has_causatif
+empilement d'un rangement | r_has_causatif
+stratification d'un dépôt | r_has_causatif
+sédimentation d'un décantation | r_has_causatif
+dépôt d'un précipitation | r_has_causatif
+précipité d'un réaction | r_has_causatif
+résidu d'un évaporation | r_has_causatif
+reste d'un combustion | r_has_causatif
+vestige d'un destruction | r_has_causatif
+trace d'un passage | r_has_causatif
+marque d'un contact | r_has_causatif
+empreinte d'un pression | r_has_causatif
+impression d'un choc | r_has_causatif
+cachet d'un tampon | r_has_causatif
+sceau d'un pression | r_has_causatif
+stigmate d'un brûlure | r_has_causatif
+signe d'un maladie | r_has_causatif
+symptôme d'un infection | r_has_causatif
+indice d'un présence | r_has_causatif
+preuve d'un passage | r_has_causatif
+témoignage d'un événement | r_has_causatif
+manifestation d'un maladie | r_has_causatif
+expression d'un émotion | r_has_causatif
+révélation d'un choc | r_has_causatif
+découverte d'un fouille | r_has_causatif
+trouvaille d'un recherche | r_has_causatif
+résultat d'un calcul | r_has_causatif
+conséquence d'un acte | r_has_causatif
+effet d'un cause | r_has_causatif
+impact d'un choc | r_has_causatif
+répercussion d'un décision | r_has_causatif
+contrecoup d'un choc | r_has_causatif
+rebond d'un choc | r_has_causatif
+ricochet d'un impact | r_has_causatif
+retour d'un onde | r_has_causatif
+écho d'un son | r_has_causatif
+réverbération d'un son | r_has_causatif
+résonance d'un vibration | r_has_causatif
+amplification d'un résonance | r_has_causatif
+augmentation d'un apport | r_has_causatif
+accroissement d'un ajout | r_has_causatif
+croissance d'un nutrition | r_has_causatif
+développement d'un croissance | r_has_causatif
+expansion d'un croissance | r_has_causatif
+extension d'un étirement | r_has_causatif
+prolongement d'un extension | r_has_causatif
+allongement d'un traction | r_has_causatif
+étirement d'un traction | r_has_causatif
+étirage d'un force | r_has_causatif
+tension d'un traction | r_has_causatif
+contraction d'un froid | r_has_causatif
+rétrécissement d'un froid | r_has_causatif
+raccourcissement d'un coupe | r_has_causatif
+diminution d'un usure | r_has_causatif
+réduction d'un compression | r_has_causatif
+baisse d'un refroidissement | r_has_causatif
+chute d'un gravité | r_has_causatif
+descente d'un pente | r_has_causatif
+abaissement d'un poids | r_has_causatif
+affaissement d'un vidange | r_has_causatif
+enfoncement d'un pression | r_has_causatif
+pénétration d'un force | r_has_causatif
+introduction d'un insertion | r_has_causatif
+insertion d'un force | r_has_causatif
+incrustation d'un pression | r_has_causatif
+enchâssement d'un insertion | r_has_causatif
+encastrement d'un force | r_has_causatif
+emboîtement d'un pression | r_has_causatif
+ajustement d'un pression | r_has_causatif
+adaptation d'un contrainte | r_has_causatif
+modification d'un contrainte | r_has_causatif
+transformation d'un réaction | r_has_causatif
+mutation d'un radiation | r_has_causatif
+métamorphose d'un chaleur | r_has_causatif
+conversion d'un processus | r_has_causatif
+transmutation d'un alchimie | r_has_causatif
+changement d'un influence | r_has_causatif
+variation d'un fluctuation | r_has_causatif
+fluctuation d'un instabilité | r_has_causatif
+oscillation d'un variation | r_has_causatif
+alternance d'un cycle | r_has_causatif
+succession d'un rotation | r_has_causatif
+enchaînement d'un logique | r_has_causatif
+série d'un répétition | r_has_causatif
+suite d'un continuation | r_has_causatif
+continuation d'un élan | r_has_causatif
+prolongation d'un maintien | r_has_causatif
+persistance d'un inertie | r_has_causatif
+maintien d'un force | r_has_causatif
+conservation d'un protection | r_has_causatif
+préservation d'un traitement | r_has_causatif
+sauvegarde d'un copie | r_has_causatif
+protection d'un barrière | r_has_causatif
+défense d'un rempart | r_has_causatif
+résistance d'un matériau | r_has_causatif
+opposition d'un force | r_has_causatif
+réaction d'un stimulus | r_has_causatif
+réponse d'un signal | r_has_causatif
+réflexe d'un stimulus | r_has_causatif
+mouvement d'un impulsion | r_has_causatif
+déplacement d'un force | r_has_causatif
+translation d'un poussée | r_has_causatif
+glissement d'un pente | r_has_causatif
+coulissement d'un rail | r_has_causatif
+roulement d'un pente | r_has_causatif
+rotation d'un moteur | r_has_causatif
+pivotement d'un axe | r_has_causatif
+basculement d'un déséquilibre | r_has_causatif
+renversement d'un choc | r_has_causatif
+retournement d'un force | r_has_causatif
+inversion d'un rotation | r_has_causatif
+volte-face d'un décision | r_has_causatif
+demi-tour d'un obstacle | r_has_causatif
+virage d'un volant | r_has_causatif
+tournant d'un route | r_has_causatif
+courbe d'un tracé | r_has_causatif
+sinuosité d'un érosion | r_has_causatif
+méandre d'un courant | r_has_causatif
+détour d'un obstacle | r_has_causatif
+déviation d'un obstacle | r_has_causatif
+bifurcation d'un division | r_has_causatif
+embranchement d'un séparation | r_has_causatif
+ramification d'un division | r_has_causatif
+division d'un séparation | r_has_causatif
+séparation d'un coupure | r_has_causatif
+scission d'un rupture | r_has_causatif
+partition d'un division | r_has_causatif
+coupure d'un lame | r_has_causatif
+section d'un tranchage | r_has_causatif
+tranche d'un coupe | r_has_causatif
+morceau d'un découpe | r_has_causatif
+fragment d'un brisure | r_has_causatif
+éclat d'un fracture | r_has_causatif
+parcelle d'un division | r_has_causatif
+particule d'un broyage | r_has_causatif
+grain d'un mouture | r_has_causatif
+poudre d'un broyage | r_has_causatif
+farine d'un mouture | r_has_causatif
+semoule d'un broyage | r_has_causatif
+miette d'un émiettement | r_has_causatif
+brioche d'un cuisson | r_has_causatif
+croûte d'un cuisson | r_has_causatif
+caramélisation d'un chaleur | r_has_causatif
+carbonisation d'un chaleur | r_has_causatif
+calcination d'un feu | r_has_causatif
+combustion d'un flamme | r_has_causatif
+ignition d'un étincelle | r_has_causatif
+embrasement d'un flamme | r_has_causatif
+inflammation d'un chaleur | r_has_causatif
+incandescence d'un chaleur | r_has_causatif
+rougeoiement d'un chaleur | r_has_causatif
+lueur d'un flamme | r_has_causatif
+clarté d'un lumière | r_has_causatif
+luminosité d'un source | r_has_causatif
+éclat d'un reflet | r_has_causatif
+brillance d'un polissage | r_has_causatif
+lustre d'un cirage | r_has_causatif
+vernis d'un application | r_has_causatif
+patine d'un temps | r_has_causatif
+vieillissement d'un temps | r_has_causatif
+maturation d'un temps | r_has_causatif
+murissement d'un temps | r_has_causatif
+affinage d'un temps | r_has_causatif
+bonification d'un vieillissement | r_has_causatif
+amélioration d'un traitement | r_has_causatif
+perfectionnement d'un pratique | r_has_causatif
+raffinement d'un traitement | r_has_causatif
+épuration d'un filtration | r_has_causatif
+purification d'un distillation | r_has_causatif
+clarification d'un décantation | r_has_causatif
+filtration d'un passage | r_has_causatif
+tamisage d'un criblage | r_has_causatif
+criblage d'un secouage | r_has_causatif
+tri d'un sélection | r_has_causatif
+sélection d'un choix | r_has_causatif
+extraction d'un pression | r_has_causatif
+prélèvement d'un extraction | r_has_causatif
+échantillon d'un prélèvement | r_has_causatif
+spécimen d'un collecte | r_has_causatif
+exemplaire d'un tirage | r_has_causatif
+copie d'un reproduction | r_has_causatif
+reproduction d'un impression | r_has_causatif
+duplication d'un copie | r_has_causatif
+réplication d'un duplication | r_has_causatif
+clonage d'un reproduction | r_has_causatif
+multiplication d'un division | r_has_causatif
+prolifération d'un division | r_has_causatif
+bourgeonnement d'un croissance | r_has_causatif
+rejaillissement d'un choc | r_has_causatif
+jaillissement d'un pression | r_has_causatif
+giclée d'un pression | r_has_causatif
+jet d'un pression | r_has_causatif
+projection d'un force | r_has_causatif
+éjection d'un pression | r_has_causatif
+expulsion d'un force | r_has_causatif
+évacuation d'un pompage | r_has_causatif
+vidange d'un ouverture | r_has_causatif
+drainage d'un écoulement | r_has_causatif
+assèchement d'un drainage | r_has_causatif
+tarissement d'un sécheresse | r_has_causatif
+épuisement d'un pompage | r_has_causatif
+dégât d'une tempête | r_has_causatif
+brûlure d'une flamme | r_has_causatif
+cicatrice d'une opération | r_has_causatif
+inondation d'une crue | r_has_causatif
+panne d'une surtension | r_has_causatif
+tache d'une encre | r_has_causatif
+carie d'une sucrerie | r_has_causatif
+rouille d'une humidité | r_has_causatif
+fumée d'une combustion | r_has_causatif
+intoxication d'une bactérie | r_has_causatif
+fièvre d'une infection | r_has_causatif
+écorchure d'une branche | r_has_causatif
+fissure d'une dilatation | r_has_causatif
+retard d'une grève | r_has_causatif
+casse d'une chute | r_has_causatif
+usure d'une friction | r_has_causatif
+odeur d'une fermentation | r_has_causatif
+crampe d'une déshydratation | r_has_causatif
+allergie d'une piqûre | r_has_causatif
+panne d'une surchauffe | r_has_causatif
+colmatage d'une calcaire | r_has_causatif
+irritation d'une substance | r_has_causatif
+fissure d'une sécheresse | r_has_causatif
+pollution d'une combustion | r_has_causatif
+érosion d'une vague | r_has_causatif
+nausée d'une odeur | r_has_causatif
+explosion d'une fuite | r_has_causatif
+déformation d'une chaleur | r_has_causatif
+paralysie d'une lésion | r_has_causatif
+corrosion d'une acidité | r_has_causatif
+fracture d'une collision | r_has_causatif
+sécheresse d'une canicule | r_has_causatif
+extinction d'une catastrophe | r_has_causatif
+gelure d'une exposition | r_has_causatif
+contusion d'une percussion | r_has_causatif
+empoisonnement d'une toxine | r_has_causatif
+inflammation d'une blessure | r_has_causatif
+étouffement d'une fumée | r_has_causatif
+défaillance d'une usure | r_has_causatif
+court-circuit d'une surcharge | r_has_causatif
+déchirure d'une traction | r_has_causatif
+moisissure d'une condensation | r_has_causatif
+éboulement d'une pluie | r_has_causatif
+asphyxie d'une privation | r_has_causatif
+déshydratation d'une diarrhée | r_has_causatif
+ampoule d'une friction | r_has_causatif
+hémorragie d'une plaie | r_has_causatif
+luxation d'une torsion | r_has_causatif
+entorse d'une glissade | r_has_causatif
+blocage d'une obstruction | r_has_causatif
+surchauffe d'une ventilation | r_has_causatif
+givre d'une congélation | r_has_causatif
+effondrement d'une surcharge | r_has_causatif
+éraflure d'une frottement | r_has_causatif
+coupure d'une lame | r_has_causatif
+perforation d'une pointe | r_has_causatif
+salissure d'une boue | r_has_causatif
+décoloration d'une javellisation | r_has_causatif
+gonflement d'une réaction | r_has_causatif
+vertige d'une rotation | r_has_causatif
+éblouissement d'une lumière | r_has_causatif
+surdité d'une détonation | r_has_causatif
+cécité d'une projection | r_has_causatif
+courbature d'une activité | r_has_causatif
+éruption d'une allergie | r_has_causatif
+convulsion d'une électrocution | r_has_causatif
+syncope d'une émotion | r_has_causatif
+commotion d'une déflagration | r_has_causatif
+nécrose d'une privation | r_has_causatif
+gangrène d'une infection | r_has_causatif
+septicémie d'une contamination | r_has_causatif
+anémie d'une carence | r_has_causatif
+rachitisme d'une malnutrition | r_has_causatif
+scorbut d'une privation | r_has_causatif
+pneumonie d'une exposition | r_has_causatif
+bronchite d'une inhalation | r_has_causatif
+laryngite d'une irritation | r_has_causatif
+gastrite d'une intoxication | r_has_causatif
+ulcère d'une acidité | r_has_causatif
+cirrhose d'une consommation | r_has_causatif
+calcul d'une concentration | r_has_causatif
+kyste d'une obstruction | r_has_causatif
+tumeur d'une mutation | r_has_causatif
+métastase d'une prolifération | r_has_causatif
+thrombose d'une stagnation | r_has_causatif
+embolie d'une migration | r_has_causatif
+infarctus d'une occlusion | r_has_causatif
+attaque d'une hypertension | r_has_causatif
+rupture d'une pression | r_has_causatif
+hépatite d'une contamination | r_has_causatif
+méningite d'une propagation | r_has_causatif
+encéphalite d'une piqûre | r_has_causatif
+tétanos d'une blessure | r_has_causatif
+rage d'une morsure | r_has_causatif
+paludisme d'une piqûre | r_has_causatif
+typhoïde d'une ingestion | r_has_causatif
+choléra d'une contamination | r_has_causatif
+dysenterie d'une infection | r_has_causatif
+gale d'une contagion | r_has_causatif
+teigne d'une transmission | r_has_causatif
+verrue d'une infection | r_has_causatif
+herpès d'une transmission | r_has_causatif
+zona d'une réactivation | r_has_causatif
+varicelle d'une contagion | r_has_causatif
+rougeole d'une transmission | r_has_causatif
+oreillons d'une contagion | r_has_causatif
+coqueluche d'une infection | r_has_causatif
+diphtérie d'une contamination | r_has_causatif
+scarlatine d'une infection | r_has_causatif
+poliomyélite d'une contamination | r_has_causatif
+grippe d'une contagion | r_has_causatif
+rhume d'une exposition | r_has_causatif
+angine d'une infection | r_has_causatif
+sinusite d'une inflammation | r_has_causatif
+otite d'une infection | r_has_causatif
+conjonctivite d'une irritation | r_has_causatif
+cataracte d'une dégénérescence | r_has_causatif
+glaucome d'une pression | r_has_causatif
+myopie d'une déformation | r_has_causatif
+presbytie d'une dégénérescence | r_has_causatif
+daltonisme d'une anomalie | r_has_causatif
+acouphène d'une lésion | r_has_causatif
+migraine d'une tension | r_has_causatif
+céphalée d'une fatigue | r_has_causatif
+insomnie d'une anxiété | r_has_causatif
+dépression d'une carence | r_has_causatif
+psychose d'une intoxication | r_has_causatif
+démence d'une dégénérescence | r_has_causatif
+amnésie d'une lésion | r_has_causatif
+aphasie d'une atteinte | r_has_causatif
+dyslexie d'une anomalie | r_has_causatif
+bégaiement d'une lésion | r_has_causatif
+paralysie d'une atteinte | r_has_causatif
+hémiplégie d'une attaque | r_has_causatif
+paraplégie d'une lésion | r_has_causatif
+tétraplégie d'une fracture | r_has_causatif
+sclérose d'une dégénérescence | r_has_causatif
+parkinson d'une dégénérescence | r_has_causatif
+alzheimer d'une dégénérescence | r_has_causatif
+épilepsie d'une lésion | r_has_causatif
+catalepsie d'une pathologie | r_has_causatif
+narcolepsie d'une anomalie | r_has_causatif
+somnambulisme d'une perturbation | r_has_causatif
+apnée d'une obstruction | r_has_causatif
+ronflement d'une obstruction | r_has_causatif
+hoquet d'une irritation | r_has_causatif
+éternuement d'une irritation | r_has_causatif
+toux d'une irritation | r_has_causatif
+crachat d'une infection | r_has_causatif
+expectoration d'une inflammation | r_has_causatif
+vomissement d'une intoxication | r_has_causatif
+diarrhée d'une infection | r_has_causatif
+constipation d'une déshydratation | r_has_causatif
+ballonnement d'une fermentation | r_has_causatif
+flatulence d'une digestion | r_has_causatif
+colique d'une indigestion | r_has_causatif
+appendicite d'une obstruction | r_has_causatif
+péritonite d'une perforation | r_has_causatif
+hernie d'une pression | r_has_causatif
+occlusion d'une obstruction | r_has_causatif
+prolapsus d'une faiblesse | r_has_causatif
+incontinence d'une lésion | r_has_causatif
+rétention d'une obstruction | r_has_causatif
+calcul d'une précipitation | r_has_causatif
+cystite d'une infection | r_has_causatif
+néphrite d'une inflammation | r_has_causatif
+insuffisance d'une dégénérescence | r_has_causatif
+dialyse d'une défaillance | r_has_causatif
+hypertrophie d'une stimulation | r_has_causatif
+atrophie d'une inactivité | r_has_causatif
+hyperplasie d'une stimulation | r_has_causatif
+métaplasie d'une irritation | r_has_causatif
+dysplasie d'une mutation | r_has_causatif
+néoplasie d'une mutation | r_has_causatif
+carcinome d'une mutation | r_has_causatif
+sarcome d'une mutation | r_has_causatif
+lymphome d'une prolifération | r_has_causatif
+leucémie d'une mutation | r_has_causatif
+myélome d'une prolifération | r_has_causatif
+mélanome d'une exposition | r_has_causatif
+basaliome d'une exposition | r_has_causatif
+naevus d'une prolifération | r_has_causatif
+kératose d'une exposition | r_has_causatif
+eczéma d'une allergie | r_has_causatif
+psoriasis d'une inflammation | r_has_causatif
+urticaire d'une réaction | r_has_causatif
+dermite d'une irritation | r_has_causatif
+acné d'une sécrétion | r_has_causatif
+furoncle d'une infection | r_has_causatif
+abcès d'une infection | r_has_causatif
+phlegmon d'une infection | r_has_causatif
+panaris d'une infection | r_has_causatif
+anthrax d'une infection | r_has_causatif
+impétigo d'une infection | r_has_causatif
+érysipèle d'une infection | r_has_causatif
+cellulite d'une infection | r_has_causatif
+escarre d'une pression | r_has_causatif
+ulcère d'une compression | r_has_causatif
+escarification d'une incision | r_has_causatif
+tatouage d'une pigmentation | r_has_causatif
+cicatrice d'une brûlure | r_has_causatif
+chéloïde d'une cicatrisation | r_has_causatif
+kératine d'une synthèse | r_has_causatif
+sébum d'une sécrétion | r_has_causatif
+sueur d'une thermorégulation | r_has_causatif
+transpiration d'une chaleur | r_has_causatif
+déshydratation d'une transpiration | r_has_causatif
+hyperthermie d'une exposition | r_has_causatif
+hypothermie d'une exposition | r_has_causatif
+fièvre d'une réaction | r_has_causatif
+frisson d'une hypothermie | r_has_causatif
+tremblement d'une hypothermie | r_has_causatif
+claquement d'une contraction | r_has_causatif
+contracture d'une contraction | r_has_causatif
+spasme d'une irritation | r_has_causatif
+crampe d'une carence | r_has_causatif
+tétanie d'une carence | r_has_causatif
+myalgie d'une inflammation | r_has_causatif
+arthralgie d'une inflammation | r_has_causatif
+arthrite d'une inflammation | r_has_causatif
+arthrose d'une dégénérescence | r_has_causatif
+rhumatisme d'une inflammation | r_has_causatif
+polyarthrite d'une inflammation | r_has_causatif
+spondylarthrite d'une inflammation | r_has_causatif
+ostéoporose d'une déminéralisation | r_has_causatif
+ostéomalacie d'une carence | r_has_causatif
+ostéomyélite d'une infection | r_has_causatif
+périostite d'une inflammation | r_has_causatif
+tendinite d'une inflammation | r_has_causatif
+bursite d'une inflammation | r_has_causatif
+synovite d'une inflammation | r_has_causatif
+capsulite d'une inflammation | r_has_causatif
+épicondylite d'une inflammation | r_has_causatif
+périarthrite d'une inflammation | r_has_causatif
+myosite d'une inflammation | r_has_causatif
+fibromyalgie d'une sensibilisation | r_has_causatif
+lumbago d'une contraction | r_has_causatif
+sciatique d'une compression | r_has_causatif
+hernie d'une protrusion | r_has_causatif
+scoliose d'une déformation | r_has_causatif
+cyphose d'une déformation | r_has_causatif
+lordose d'une déformation | r_has_causatif
+torticolis d'une contraction | r_has_causatif
+cervicalgie d'une tension | r_has_causatif
+dorsalgie d'une tension | r_has_causatif
+lombalgie d'une tension | r_has_causatif
+cruralgie d'une compression | r_has_causatif
+névralgie d'une irritation | r_has_causatif
+neuropathie d'une lésion | r_has_causatif
+polynévrite d'une intoxication | r_has_causatif
+névrite d'une inflammation | r_has_causatif
+névrose d'une anxiété | r_has_causatif
+angoisse d'une appréhension | r_has_causatif
+phobie d'une peur | r_has_causatif
+panique d'une peur | r_has_causatif
+stress d'une pression | r_has_causatif
+anxiété d'une incertitude | r_has_causatif
+dépression d'une perte | r_has_causatif
+mélancolie d'une perte | r_has_causatif
+tristesse d'une déception | r_has_causatif
+chagrin d'une perte | r_has_causatif
+deuil d'une perte | r_has_causatif
+trauma d'une agression | r_has_causatif
+choc d'une révélation | r_has_causatif
+sidération d'une stupeur | r_has_causatif
+stupeur d'une révélation | r_has_causatif
+confusion d'une désorientation | r_has_causatif
+désorientation d'une confusion | r_has_causatif
+égarement d'une confusion | r_has_causatif
+délire d'une fièvre | r_has_causatif
+hallucination d'une intoxication | r_has_causatif
+illusion d'une perception | r_has_causatif
+obsession d'une fixation | r_has_causatif
+compulsion d'une obsession | r_has_causatif
+manie d'une excitation | r_has_causatif
+hystérie d'une émotion | r_has_causatif
+agitation d'une anxiété | r_has_causatif
+irritabilité d'une fatigue | r_has_causatif
+agressivité d'une frustration | r_has_causatif
+violence d'une frustration | r_has_causatif
+colère d'une frustration | r_has_causatif
+rage d'une frustration | r_has_causatif
+fureur d'une humiliation | r_has_causatif
+haine d'une offense | r_has_causatif
+rancune d'une offense | r_has_causatif
+ressentiment d'une injustice | r_has_causatif
+jalousie d'une comparaison | r_has_causatif
+envie d'une comparaison | r_has_causatif
+frustration d'une privation | r_has_causatif
+déception d'une attente | r_has_causatif
+désillusion d'une révélation | r_has_causatif
+amertume d'une déception | r_has_causatif
+regret d'une erreur | r_has_causatif
+remords d'une faute | r_has_causatif
+culpabilité d'une faute | r_has_causatif
+honte d'une humiliation | r_has_causatif
+humiliation d'une moquerie | r_has_causatif
+vexation d'une remarque | r_has_causatif
+offense d'une insulte | r_has_causatif
+affront d'une insulte | r_has_causatif
+insulte d'une provocation | r_has_causatif
+injure d'une provocation | r_has_causatif
+outrage d'une provocation | r_has_causatif
+calomnie d'une accusation | r_has_causatif
+diffamation d'une accusation | r_has_causatif
+médisance d'une rumeur | r_has_causatif
+rumeur d'une indiscrétion | r_has_causatif
+scandale d'une révélation | r_has_causatif
+polémique d'une déclaration | r_has_causatif
+controverse d'une affirmation | r_has_causatif
+dispute d'une divergence | r_has_causatif
+querelle d'une opposition | r_has_causatif
+conflit d'une opposition | r_has_causatif
+rivalité d'une compétition | r_has_causatif
+concurrence d'une compétition | r_has_causatif
+compétition d'une rivalité | r_has_causatif
+lutte d'une opposition | r_has_causatif
+combat d'une agression | r_has_causatif
+bataille d'une guerre | r_has_causatif
+guerre d'une invasion | r_has_causatif
+invasion d'une agression | r_has_causatif
+conquête d'une invasion | r_has_causatif
+occupation d'une invasion | r_has_causatif
+annexion d'une conquête | r_has_causatif
+colonisation d'une conquête | r_has_causatif
+domination d'une conquête | r_has_causatif
+oppression d'une domination | r_has_causatif
+exploitation d'une domination | r_has_causatif
+esclavage d'une capture | r_has_causatif
+servitude d'une soumission | r_has_causatif
+soumission d'une menace | r_has_causatif
+obéissance d'une contrainte | r_has_causatif
+contrainte d'une menace | r_has_causatif
+coercition d'une menace | r_has_causatif
+intimidation d'une menace | r_has_causatif
+menace d'une hostilité | r_has_causatif
+chantage d'une menace | r_has_causatif
+extorsion d'une menace | r_has_causatif
+racket d'une menace | r_has_causatif
+vol d'une intrusion | r_has_causatif
+cambriolage d'une intrusion | r_has_causatif
+effraction d'une forcée | r_has_causatif
+vandalisme d'une destruction | r_has_causatif
+sabotage d'une destruction | r_has_causatif
+destruction d'une explosion | r_has_causatif
+démolition d'une explosion | r_has_causatif
+anéantissement d'une destruction | r_has_causatif
+ruine d'une destruction | r_has_causatif
+décombres d'une explosion | r_has_causatif
+gravats d'une démolition | r_has_causatif
+débris d'une explosion | r_has_causatif
+fragments d'une explosion | r_has_causatif
+éclats d'une explosion | r_has_causatif
+projectile d'une explosion | r_has_causatif
+shrapnel d'une explosion | r_has_causatif
+blessure d'une explosion | r_has_causatif
+mutilation d'une explosion | r_has_causatif
+amputation d'une explosion | r_has_causatif
+décapitation d'une explosion | r_has_causatif
+éviscération d'une explosion | r_has_causatif
+mort d'une explosion | r_has_causatif
+décès d'une maladie | r_has_causatif
+trépas d'une maladie | r_has_causatif
+agonie d'une maladie | r_has_causatif
+cadavre d'une mort | r_has_causatif
+dépouille d'une mort | r_has_causatif
+corps d'une mort | r_has_causatif
+squelette d'une décomposition | r_has_causatif
+ossements d'une décomposition | r_has_causatif
+cendre d'une crémation | r_has_causatif
+poussière d'une décomposition | r_has_causatif
+putréfaction d'une décomposition | r_has_causatif
+décomposition d'une mort | r_has_causatif
+momification d'une dessiccation | r_has_causatif
+fossilisation d'une minéralisation | r_has_causatif
+pétrification d'une minéralisation | r_has_causatif
+fossilisation d'une sédimentation | r_has_causatif
+sédimentation d'une accumulation | r_has_causatif
+dépôt d'une sédimentation | r_has_causatif
+alluvion d'une crue | r_has_causatif
+limon d'une crue | r_has_causatif
+vase d'une stagnation | r_has_causatif
+boue d'une pluie | r_has_causatif
+gadoue d'une pluie | r_has_causatif
+fange d'une stagnation | r_has_causatif
+marécage d'une stagnation | r_has_causatif
+marais d'une stagnation | r_has_causatif
+tourbière d'une accumulation | r_has_causatif
+tourbe d'une décomposition | r_has_causatif
+compost d'une décomposition | r_has_causatif
+humus d'une décomposition | r_has_causatif
+terreau d'une décomposition | r_has_causatif
+fertilisant d'une décomposition | r_has_causatif
+engrais d'une décomposition | r_has_causatif
+fumier d'une décomposition | r_has_causatif
+lisier d'une fermentation | r_has_causatif
+purin d'une macération | r_has_causatif
+jus d'une pression | r_has_causatif
+suc d'une pression | r_has_causatif
+nectar d'une sécrétion | r_has_causatif
+miel d'une transformation | r_has_causatif
+cire d'une sécrétion | r_has_causatif
+propolis d'une sécrétion | r_has_causatif
+gelée d'une sécrétion | r_has_causatif
+lait d'une sécrétion | r_has_causatif
+crème d'une séparation | r_has_causatif
+beurre d'une agitation | r_has_causatif
+fromage d'une fermentation | r_has_causatif
+yaourt d'une fermentation | r_has_causatif
+kéfir d'une fermentation | r_has_causatif
+levain d'une fermentation | r_has_causatif
+levure d'une fermentation | r_has_causatif
+pain d'une cuisson | r_has_causatif
+croûte d'une cuisson | r_has_causatif
+mie d'une fermentation | r_has_causatif
+brioche d'une cuisson | r_has_causatif
+viennoiserie d'une cuisson | r_has_causatif
+pâtisserie d'une cuisson | r_has_causatif
+gâteau d'une cuisson | r_has_causatif
+tarte d'une cuisson | r_has_causatif
+biscuit d'une cuisson | r_has_causatif
+cookie d'une cuisson | r_has_causatif
+crêpe d'une cuisson | r_has_causatif
+galette d'une cuisson | r_has_causatif
+gaufre d'une cuisson | r_has_causatif
+omelette d'une cuisson | r_has_causatif
+soufflé d'une cuisson | r_has_causatif
+meringue d'une cuisson | r_has_causatif
+caramel d'une caramélisation | r_has_causatif
+sucre d'une évaporation | r_has_causatif
+sirop d'une concentration | r_has_causatif
+confiture d'une cuisson | r_has_causatif
+marmelade d'une cuisson | r_has_causatif
+gelée d'une cuisson | r_has_causatif
+compote d'une cuisson | r_has_causatif
+purée d'une cuisson | r_has_causatif
+soupe d'une cuisson | r_has_causatif
+bouillon d'une cuisson | r_has_causatif
+consommé d'une réduction | r_has_causatif
+sauce d'une réduction | r_has_causatif
+coulis d'une cuisson | r_has_causatif
+roux d'une cuisson | r_has_causatif
+béchamel d'une cuisson | r_has_causatif
+velouté d'une cuisson | r_has_causatif
+crème d'une cuisson | r_has_causatif
+émulsion d'une agitation | r_has_causatif
+mayonnaise d'une émulsion | r_has_causatif
+vinaigrette d'une émulsion | r_has_causatif
+marinade d'une macération | r_has_causatif
+saumure d'une dissolution | r_has_causatif
+salaison d'une imprégnation | r_has_causatif
+conservation d'une salaison | r_has_causatif
+séchage d'une évaporation | r_has_causatif
+dessiccation d'une évaporation | r_has_causatif
+déshydratation d'une évaporation | r_has_causatif
+momification d'une dessiccation | r_has_causatif
+fumage d'une exposition | r_has_causatif
+cuisson d'une chaleur | r_has_causatif
+rôtissage d'une chaleur | r_has_causatif
+grillage d'une chaleur | r_has_causatif
+friture d'une immersion | r_has_causatif
+carbonisation d'une combustion | r_has_causatif
+calcination d'une combustion | r_has_causatif
+cendre d'une combustion | r_has_causatif
+charbon d'une carbonisation | r_has_causatif
+braise d'une combustion | r_has_causatif
+tison d'une combustion | r_has_causatif
+escarbille d'une combustion | r_has_causatif
+flammèche d'une combustion | r_has_causatif
+étincelle d'une friction | r_has_causatif
+flamme d'une combustion | r_has_causatif
+feu d'une combustion | r_has_causatif
+incendie d'une combustion | r_has_causatif
+brasier d'une combustion | r_has_causatif
+embrasement d'une propagation | r_has_causatif
+conflagration d'une propagation | r_has_causatif
+déflagration d'une combustion | r_has_causatif
+explosion d'une déflagration | r_has_causatif
+détonation d'une explosion | r_has_causatif
+souffle d'une explosion | r_has_causatif
+onde d'une explosion | r_has_causatif
+vibration d'une onde | r_has_causatif
+résonance d'une vibration | r_has_causatif
+écho d'une réflexion | r_has_causatif
+répercussion d'une onde | r_has_causatif
+son d'une vibration | r_has_causatif
