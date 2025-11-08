@@ -1,0 +1,920 @@
+clé de porte | r_processus>instr-1
+clé de voiture | r_processus>instr-1
+clé de maison | r_processus>instr-1
+clé de coffre | r_processus>instr-1
+clé de cadenas | r_processus>instr-1
+tournevis de meuble | r_processus>instr-1
+tournevis de appareil | r_processus>instr-1
+marteau de menuisier | r_processus>instr-1
+marteau de forgeron | r_processus>instr-1
+scie de bûcheron | r_processus>instr-1
+scie de chirurgien | r_processus>instr-1
+couteau de cuisine | r_processus>instr-1
+couteau de boucher | r_processus>instr-1
+couteau de peintre | r_processus>instr-1
+cutter de cartonnier | r_processus>instr-1
+ciseaux de coiffeur | r_processus>instr-1
+ciseaux de couturier | r_processus>instr-1
+ciseaux de jardinier | r_processus>instr-1
+pince de électricien | r_processus>instr-1
+pince de chirurgien | r_processus>instr-1
+pince de mécanicien | r_processus>instr-1
+tenaille de charpentier | r_processus>instr-1
+tenaille de forgeron | r_processus>instr-1
+perceuse de bricoleur | r_processus>instr-1
+perceuse de dentiste | r_processus>instr-1
+rabot de menuisier | r_processus>instr-1
+rabot de ébéniste | r_processus>instr-1
+lime de mécanicien | r_processus>instr-1
+lime de bijoutier | r_processus>instr-1
+râpe de cuisinier | r_processus>instr-1
+râpe de menuisier | r_processus>instr-1
+brosse de peintre | r_processus>instr-1
+brosse de nettoyeur | r_processus>instr-1
+balai de concierge | r_processus>instr-1
+balai de cantonnier | r_processus>instr-1
+serpillière de femme | r_processus>instr-1
+éponge de plongeur | r_processus>instr-1
+chiffon de vitrier | r_processus>instr-1
+torchon de cuisinier | r_processus>instr-1
+aspirateur de maison | r_processus>instr-1
+aspirateur de voiture | r_processus>instr-1
+bêche de jardinier | r_processus>instr-1
+bêche de terrassier | r_processus>instr-1
+pelle de fossoyeur | r_processus>instr-1
+pelle de mineur | r_processus>instr-1
+pioche de mineur | r_processus>instr-1
+pioche de terrassier | r_processus>instr-1
+houe de agriculteur | r_processus>instr-1
+binette de jardinier | r_processus>instr-1
+sarcloir de maraîcher | r_processus>instr-1
+ratisseau de jardinier | r_processus>instr-1
+fourche de agriculteur | r_processus>instr-1
+fourche de jardinier | r_processus>instr-1
+râteau de jardinier | r_processus>instr-1
+faux de faucheur | r_processus>instr-1
+faucille de moissonneur | r_processus>instr-1
+serpe de bûcheron | r_processus>instr-1
+hache de bûcheron | r_processus>instr-1
+cognée de bûcheron | r_processus>instr-1
+merlin de bûcheron | r_processus>instr-1
+masse de forgeron | r_processus>instr-1
+maillet de sculpteur | r_processus>instr-1
+burin de sculpteur | r_processus>instr-1
+gouge de sculpteur | r_processus>instr-1
+ciseau de sculpteur | r_processus>instr-1
+compas de géomètre | r_processus>instr-1
+équerre de charpentier | r_processus>instr-1
+règle de dessinateur | r_processus>instr-1
+mètre de couturier | r_processus>instr-1
+niveau de maçon | r_processus>instr-1
+fil de maçon | r_processus>instr-1
+truelle de maçon | r_processus>instr-1
+taloche de plâtrier | r_processus>instr-1
+spatule de peintre | r_processus>instr-1
+rouleau de peintre | r_processus>instr-1
+pinceau de artiste | r_processus>instr-1
+palette de peintre | r_processus>instr-1
+chevalet de peintre | r_processus>instr-1
+toile de peintre | r_processus>instr-1
+crayon de dessinateur | r_processus>instr-1
+fusain de dessinateur | r_processus>instr-1
+gomme de dessinateur | r_processus>instr-1
+stylo de écrivain | r_processus>instr-1
+plume de calligraphe | r_processus>instr-1
+encre de calligraphe | r_processus>instr-1
+papier de écrivain | r_processus>instr-1
+cahier de écolier | r_processus>instr-1
+ardoise de écolier | r_processus>instr-1
+craie de professeur | r_processus>instr-1
+tableau de professeur | r_processus>instr-1
+ordinateur de programmeur | r_processus>instr-1
+clavier de dactylo | r_processus>instr-1
+souris de informaticien | r_processus>instr-1
+écran de concepteur | r_processus>instr-1
+imprimante de bureau | r_processus>instr-1
+scanner de archiviste | r_processus>instr-1
+photocopieuse de secrétaire | r_processus>instr-1
+téléphone de standardiste | r_processus>instr-1
+micro de journaliste | r_processus>instr-1
+caméra de cinéaste | r_processus>instr-1
+appareil de photographe | r_processus>instr-1
+objectif de photographe | r_processus>instr-1
+trépied de photographe | r_processus>instr-1
+flash de photographe | r_processus>instr-1
+projecteur de éclairagiste | r_processus>instr-1
+lampe de spéléologue | r_processus>instr-1
+torche de explorateur | r_processus>instr-1
+loupe de horloger | r_processus>instr-1
+microscope de biologiste | r_processus>instr-1
+télescope de astronome | r_processus>instr-1
+jumelles de ornithologue | r_processus>instr-1
+boussole de navigateur | r_processus>instr-1
+carte de navigateur | r_processus>instr-1
+sextant de marin | r_processus>instr-1
+gouvernail de barreur | r_processus>instr-1
+rame de rameur | r_processus>instr-1
+pagaie de kayakiste | r_processus>instr-1
+aviron d'avancement | r_processus>instr-1
+voile d'avancement | r_processus>instr-1
+ancre d'immobilisation | r_processus>instr-1
+filet d'emprisonnement | r_processus>instr-1
+canne d'attache | r_processus>instr-1
+hameçon d'accrochage | r_processus>instr-1
+appât d'attraction | r_processus>instr-1
+nasse d'emprisonnement | r_processus>instr-1
+harpon d'embrochage | r_processus>instr-1
+fusil d'abattage | r_processus>instr-1
+carabine d'abattage | r_processus>instr-1
+arc d'envoi | r_processus>instr-1
+flèche d'envoi | r_processus>instr-1
+arbalète d'envoi | r_processus>instr-1
+fronde d'envoi | r_processus>instr-1
+lance d'embrochage | r_processus>instr-1
+épée d'estoc | r_processus>instr-1
+sabre d'estoc | r_processus>instr-1
+fleuret d'estoc | r_processus>instr-1
+poignard d'estoc | r_processus>instr-1
+dague d'estoc | r_processus>instr-1
+bouclier d'arrêt | r_processus>instr-1
+casque d'arrêt | r_processus>instr-1
+armure d'arrêt | r_processus>instr-1
+cotte d'arrêt | r_processus>instr-1
+heaume d'arrêt | r_processus>instr-1
+clé d'un verrou | r_processus>instr-1
+clé d'un contact | r_processus>instr-1
+clé d'un antivol | r_processus>instr-1
+clé d'un coffret | r_processus>instr-1
+tournevis d'un montage | r_processus>instr-1
+marteau d'un clouage | r_processus>instr-1
+scie d'un débit | r_processus>instr-1
+couteau d'un tranchage | r_processus>instr-1
+cutter d'un tranchage | r_processus>instr-1
+ciseaux d'un tranchage | r_processus>instr-1
+pince d'un serrage | r_processus>instr-1
+tenaille d'un serrage | r_processus>instr-1
+perceuse d'un perçage | r_processus>instr-1
+rabot d'un dégrossissage | r_processus>instr-1
+lime d'un lissage | r_processus>instr-1
+râpe d'un lissage | r_processus>instr-1
+brosse d'un badigeonnage | r_processus>instr-1
+balai d'un nettoyage | r_processus>instr-1
+serpillière d'un nettoyage | r_processus>instr-1
+éponge d'un nettoyage | r_processus>instr-1
+chiffon d'un nettoyage | r_processus>instr-1
+torchon d'un nettoyage | r_processus>instr-1
+aspirateur d'un nettoyage | r_processus>instr-1
+bêche d'un bêchage | r_processus>instr-1
+pelle d'un pelletage | r_processus>instr-1
+pioche d'un piochage | r_processus>instr-1
+houe d'un houage | r_processus>instr-1
+binette d'un binage | r_processus>instr-1
+sarcloir d'un sarclage | r_processus>instr-1
+ratisseau d'un ratissage | r_processus>instr-1
+fourche d'un fourrage | r_processus>instr-1
+râteau d'un ratissage | r_processus>instr-1
+faux d'un fauchage | r_processus>instr-1
+faucille d'un fauchage | r_processus>instr-1
+serpe d'un élagage | r_processus>instr-1
+hache d'un hachage | r_processus>instr-1
+cognée d'un fendage | r_processus>instr-1
+merlin d'un fendage | r_processus>instr-1
+masse d'un matage | r_processus>instr-1
+maillet d'un matraquage | r_processus>instr-1
+burin d'un burinage | r_processus>instr-1
+gouge d'un gougeage | r_processus>instr-1
+ciseau d'un ciselage | r_processus>instr-1
+compas d'un traçage | r_processus>instr-1
+équerre d'un traçage | r_processus>instr-1
+règle d'un traçage | r_processus>instr-1
+mètre d'un mesurage | r_processus>instr-1
+niveau d'un nivellement | r_processus>instr-1
+fil d'un traçage | r_processus>instr-1
+truelle d'un lissage | r_processus>instr-1
+taloche d'un lissage | r_processus>instr-1
+spatule d'un lissage | r_processus>instr-1
+rouleau d'un roulage | r_processus>instr-1
+pinceau d'un pinceau | r_processus>instr-1
+palette d'un mélange | r_processus>instr-1
+chevalet d'un maintien | r_processus>instr-1
+toile d'un support | r_processus>instr-1
+crayon d'un crayonnage | r_processus>instr-1
+fusain d'un fusainement | r_processus>instr-1
+gomme d'un gommage | r_processus>instr-1
+stylo d'un styletage | r_processus>instr-1
+plume d'un plumage | r_processus>instr-1
+encre d'un encrage | r_processus>instr-1
+papier d'un papier | r_processus>instr-1
+cahier d'un cahier | r_processus>instr-1
+ardoise d'un ardoisage | r_processus>instr-1
+craie d'un craieage | r_processus>instr-1
+tableau d'un tableau | r_processus>instr-1
+ordinateur d'un traitement | r_processus>instr-1
+clavier d'un clavieriage | r_processus>instr-1
+souris d'un sourisage | r_processus>instr-1
+écran d'un écranage | r_processus>instr-1
+imprimante d'un imprimantage | r_processus>instr-1
+scanner d'un scannage | r_processus>instr-1
+photocopieuse d'un photocopiage | r_processus>instr-1
+téléphone d'un téléphonage | r_processus>instr-1
+micro d'un microphonage | r_processus>instr-1
+caméra d'un camérage | r_processus>instr-1
+appareil d'un appareilage | r_processus>instr-1
+objectif d'un objectivage | r_processus>instr-1
+trépied d'un trépiedage | r_processus>instr-1
+flash d'un flashage | r_processus>instr-1
+projecteur d'un projecteurage | r_processus>instr-1
+lampe d'un lampéage | r_processus>instr-1
+torche d'un torchage | r_processus>instr-1
+loupe d'un loupage | r_processus>instr-1
+microscope d'un microscopage | r_processus>instr-1
+télescope d'un télescopage | r_processus>instr-1
+jumelles d'un jumelage | r_processus>instr-1
+boussole d'un boussolage | r_processus>instr-1
+carte d'un cartage | r_processus>instr-1
+sextant d'un sextantage | r_processus>instr-1
+gouvernail d'un gouvernailage | r_processus>instr-1
+rame d'un ramage | r_processus>instr-1
+pagaie d'un pagaiage | r_processus>instr-1
+aviron d'un avironnage | r_processus>instr-1
+voile d'un voilage | r_processus>instr-1
+ancre d'un ancrage | r_processus>instr-1
+filet d'un filetage | r_processus>instr-1
+canne d'un cannage | r_processus>instr-1
+hameçon d'un hameçonnage | r_processus>instr-1
+appât d'un appâtage | r_processus>instr-1
+nasse d'un nassage | r_processus>instr-1
+harpon d'un harponnage | r_processus>instr-1
+fusil d'un fusilage | r_processus>instr-1
+carabine d'un carabinage | r_processus>instr-1
+arc d'un arcage | r_processus>instr-1
+flèche d'un flèchage | r_processus>instr-1
+arbalète d'un arbalétage | r_processus>instr-1
+fronde d'un frondage | r_processus>instr-1
+lance d'un lançage | r_processus>instr-1
+épée d'un épéage | r_processus>instr-1
+sabre d'un sabrage | r_processus>instr-1
+fleuret d'un fleuretage | r_processus>instr-1
+poignard d'un poignardage | r_processus>instr-1
+dague d'un daguage | r_processus>instr-1
+bouclier d'un bouclierage | r_processus>instr-1
+casque d'un casquage | r_processus>instr-1
+armure d'un armurage | r_processus>instr-1
+cotte d'un cottage | r_processus>instr-1
+heaume d'un heaumage | r_processus>instr-1
+clé d'une porte | r_processus>instr-1
+clé d'une voiture | r_processus>instr-1
+clé d'une maison | r_processus>instr-1
+clé d'une boîte | r_processus>instr-1
+tournevis d'une vis | r_processus>instr-1
+marteau d'une cheville | r_processus>instr-1
+scie d'une planche | r_processus>instr-1
+couteau d'une viande | r_processus>instr-1
+cutter d'une découpe | r_processus>instr-1
+ciseaux d'une coupe | r_processus>instr-1
+pince d'une extraction | r_processus>instr-1
+tenaille d'une extraction | r_processus>instr-1
+perceuse d'une perforation | r_processus>instr-1
+rabot d'une surface | r_processus>instr-1
+lime d'une surface | r_processus>instr-1
+râpe d'une surface | r_processus>instr-1
+brosse d'une surface | r_processus>instr-1
+balai d'une surface | r_processus>instr-1
+serpillière d'une surface | r_processus>instr-1
+éponge d'une surface | r_processus>instr-1
+chiffon d'une surface | r_processus>instr-1
+torchon d'une surface | r_processus>instr-1
+aspirateur d'une surface | r_processus>instr-1
+bêche d'une terre | r_processus>instr-1
+pelle d'une terre | r_processus>instr-1
+pioche d'une terre | r_processus>instr-1
+houe d'une terre | r_processus>instr-1
+binette d'une terre | r_processus>instr-1
+sarcloir d'une terre | r_processus>instr-1
+ratisseau d'une terre | r_processus>instr-1
+fourche d'une terre | r_processus>instr-1
+râteau d'une terre | r_processus>instr-1
+faux d'une herbe | r_processus>instr-1
+faucille d'une herbe | r_processus>instr-1
+serpe d'une branche | r_processus>instr-1
+hache d'une branche | r_processus>instr-1
+cognée d'une branche | r_processus>instr-1
+merlin d'une bûche | r_processus>instr-1
+masse d'une pierre | r_processus>instr-1
+maillet d'une pierre | r_processus>instr-1
+burin d'une pierre | r_processus>instr-1
+gouge d'une pierre | r_processus>instr-1
+ciseau d'une pierre | r_processus>instr-1
+compas d'une mesure | r_processus>instr-1
+équerre d'une mesure | r_processus>instr-1
+règle d'une mesure | r_processus>instr-1
+mètre d'une mesure | r_processus>instr-1
+niveau d'une mesure | r_processus>instr-1
+fil d'une mesure | r_processus>instr-1
+truelle d'une application | r_processus>instr-1
+taloche d'une application | r_processus>instr-1
+spatule d'une application | r_processus>instr-1
+rouleau d'une application | r_processus>instr-1
+pinceau d'une application | r_processus>instr-1
+palette d'une application | r_processus>instr-1
+chevalet d'une toile | r_processus>instr-1
+toile d'une peinture | r_processus>instr-1
+crayon d'une esquisse | r_processus>instr-1
+fusain d'une esquisse | r_processus>instr-1
+gomme d'une correction | r_processus>instr-1
+stylo d'une écriture | r_processus>instr-1
+plume d'une écriture | r_processus>instr-1
+encre d'une écriture | r_processus>instr-1
+papier d'une écriture | r_processus>instr-1
+cahier d'une écriture | r_processus>instr-1
+ardoise d'une écriture | r_processus>instr-1
+craie d'une écriture | r_processus>instr-1
+tableau d'une écriture | r_processus>instr-1
+ordinateur d'une saisie | r_processus>instr-1
+clavier d'une saisie | r_processus>instr-1
+souris d'une saisie | r_processus>instr-1
+écran d'une saisie | r_processus>instr-1
+imprimante d'une impression | r_processus>instr-1
+scanner d'une numérisation | r_processus>instr-1
+photocopieuse d'une copie | r_processus>instr-1
+téléphone d'une communication | r_processus>instr-1
+micro d'une captation | r_processus>instr-1
+caméra d'une captation | r_processus>instr-1
+appareil d'une prise | r_processus>instr-1
+objectif d'une prise | r_processus>instr-1
+trépied d'une stabilisation | r_processus>instr-1
+flash d'une illumination | r_processus>instr-1
+projecteur d'une illumination | r_processus>instr-1
+lampe d'une illumination | r_processus>instr-1
+torche d'une illumination | r_processus>instr-1
+loupe d'une observation | r_processus>instr-1
+microscope d'une observation | r_processus>instr-1
+télescope d'une observation | r_processus>instr-1
+jumelles d'une observation | r_processus>instr-1
+boussole d'une orientation | r_processus>instr-1
+carte d'une navigation | r_processus>instr-1
+sextant d'une navigation | r_processus>instr-1
+gouvernail d'une direction | r_processus>instr-1
+rame d'une propulsion | r_processus>instr-1
+pagaie d'une propulsion | r_processus>instr-1
+aviron d'une propulsion | r_processus>instr-1
+voile d'une propulsion | r_processus>instr-1
+ancre d'une fixation | r_processus>instr-1
+filet d'une capture | r_processus>instr-1
+canne d'une pêche | r_processus>instr-1
+hameçon d'une prise | r_processus>instr-1
+appât d'une pêche | r_processus>instr-1
+nasse d'une capture | r_processus>instr-1
+harpon d'une capture | r_processus>instr-1
+fusil d'une chasse | r_processus>instr-1
+carabine d'une chasse | r_processus>instr-1
+arc d'une chasse | r_processus>instr-1
+flèche d'une chasse | r_processus>instr-1
+arbalète d'une chasse | r_processus>instr-1
+fronde d'une projection | r_processus>instr-1
+lance d'une attaque | r_processus>instr-1
+épée d'une attaque | r_processus>instr-1
+sabre d'une attaque | r_processus>instr-1
+fleuret d'une attaque | r_processus>instr-1
+poignard d'une attaque | r_processus>instr-1
+dague d'une attaque | r_processus>instr-1
+bouclier d'une défense | r_processus>instr-1
+casque d'une protection | r_processus>instr-1
+armure d'une protection | r_processus>instr-1
+cotte d'une protection | r_processus>instr-1
+heaume d'une protection | r_processus>instr-1
+fourchette de table | r_processus>instr-1
+couteau de table | r_processus>instr-1
+cuillère de soupe | r_processus>instr-1
+louche de service | r_processus>instr-1
+écumoire de cuisine | r_processus>instr-1
+passoire de cuisine | r_processus>instr-1
+tamis de cuisine | r_processus>instr-1
+chinois de cuisine | r_processus>instr-1
+fouet de cuisine | r_processus>instr-1
+batteur de cuisine | r_processus>instr-1
+mixeur de cuisine | r_processus>instr-1
+blender de cuisine | r_processus>instr-1
+robot de cuisine | r_processus>instr-1
+hachoir de cuisine | r_processus>instr-1
+moulin de cuisine | r_processus>instr-1
+presse de cuisine | r_processus>instr-1
+rouleau de pâtisserie | r_processus>instr-1
+emporte-pièce de pâtisserie | r_processus>instr-1
+moule de pâtisserie | r_processus>instr-1
+plaque de cuisson | r_processus>instr-1
+casserole de cuisson | r_processus>instr-1
+poêle de cuisson | r_processus>instr-1
+marmite de cuisson | r_processus>instr-1
+faitout de cuisson | r_processus>instr-1
+cocotte de cuisson | r_processus>instr-1
+sauteuse de cuisson | r_processus>instr-1
+wok de cuisson | r_processus>instr-1
+grill de cuisson | r_processus>instr-1
+four de cuisson | r_processus>instr-1
+cuisinière de cuisson | r_processus>instr-1
+micro-onde de réchauffage | r_processus>instr-1
+grille-pain de cuisson | r_processus>instr-1
+bouilloire de chauffage | r_processus>instr-1
+cafetière de préparation | r_processus>instr-1
+théière de infusion | r_processus>instr-1
+carafe de service | r_processus>instr-1
+pichet de service | r_processus>instr-1
+verre de boisson | r_processus>instr-1
+tasse de boisson | r_processus>instr-1
+bol de boisson | r_processus>instr-1
+assiette de repas | r_processus>instr-1
+plat de service | r_processus>instr-1
+saladier de service | r_processus>instr-1
+compotier de service | r_processus>instr-1
+soupière de service | r_processus>instr-1
+saucière de service | r_processus>instr-1
+beurrier de service | r_processus>instr-1
+salière de service | r_processus>instr-1
+poivrière de service | r_processus>instr-1
+moutardier de service | r_processus>instr-1
+huilier de service | r_processus>instr-1
+vinaigrier de service | r_processus>instr-1
+nappe de protection | r_processus>instr-1
+set de protection | r_processus>instr-1
+serviette de essuyage | r_processus>instr-1
+décapsuleur de bouteille | r_processus>instr-1
+tire-bouchon de bouteille | r_processus>instr-1
+ouvre-boîte de conserve | r_processus>instr-1
+économe de épluchage | r_processus>instr-1
+mandoline de tranchage | r_processus>instr-1
+trancheuse de découpe | r_processus>instr-1
+balance de pesée | r_processus>instr-1
+verre de mesure | r_processus>instr-1
+minuteur de cuisson | r_processus>instr-1
+thermomètre de température | r_processus>instr-1
+sonde de température | r_processus>instr-1
+entonnoir de versement | r_processus>instr-1
+bocal de conservation | r_processus>instr-1
+pot de conservation | r_processus>instr-1
+boîte de conservation | r_processus>instr-1
+panier de conservation | r_processus>instr-1
+corbeille de présentation | r_processus>instr-1
+plateau de service | r_processus>instr-1
+cloche de protection | r_processus>instr-1
+film de protection | r_processus>instr-1
+papier de protection | r_processus>instr-1
+papier de cuisson | r_processus>instr-1
+gant de protection | r_processus>instr-1
+manique de protection | r_processus>instr-1
+tablier de protection | r_processus>instr-1
+torchon de essuyage | r_processus>instr-1
+lavette de nettoyage | r_processus>instr-1
+évier de nettoyage | r_processus>instr-1
+lave-vaisselle de nettoyage | r_processus>instr-1
+égouttoir de séchage | r_processus>instr-1
+panier de rangement | r_processus>instr-1
+placard de rangement | r_processus>instr-1
+tiroir de rangement | r_processus>instr-1
+étagère de rangement | r_processus>instr-1
+armoire de rangement | r_processus>instr-1
+buffet de rangement | r_processus>instr-1
+vaisselier de rangement | r_processus>instr-1
+desserte de service | r_processus>instr-1
+chariot de service | r_processus>instr-1
+table de préparation | r_processus>instr-1
+plan de travail | r_processus>instr-1
+billot de découpe | r_processus>instr-1
+planche de découpe | r_processus>instr-1
+pelle de jardinage | r_processus>instr-1
+transplantoir de jardinage | r_processus>instr-1
+griffe de jardinage | r_processus>instr-1
+serfouette de jardinage | r_processus>instr-1
+plantoir de jardinage | r_processus>instr-1
+cordeau de jardinage | r_processus>instr-1
+tuteur de jardinage | r_processus>instr-1
+tuteur de soutien | r_processus>instr-1
+attache de fixation | r_processus>instr-1
+raphia de fixation | r_processus>instr-1
+ficelle de fixation | r_processus>instr-1
+arrosoir de arrosage | r_processus>instr-1
+tuyau de arrosage | r_processus>instr-1
+lance de arrosage | r_processus>instr-1
+pistolet de arrosage | r_processus>instr-1
+asperseur de arrosage | r_processus>instr-1
+brumisateur de arrosage | r_processus>instr-1
+pulvérisateur de traitement | r_processus>instr-1
+vaporisateur de traitement | r_processus>instr-1
+sulfateuse de traitement | r_processus>instr-1
+pompe de traitement | r_processus>instr-1
+cisaille de taille | r_processus>instr-1
+sécateur de taille | r_processus>instr-1
+coupe-branche de taille | r_processus>instr-1
+ébrancheur de taille | r_processus>instr-1
+échenilloir de taille | r_processus>instr-1
+taille-haie de taille | r_processus>instr-1
+tondeuse de tonte | r_processus>instr-1
+débroussailleuse de débroussaillage | r_processus>instr-1
+motoculteur de labour | r_processus>instr-1
+binette de binage | r_processus>instr-1
+scarificateur de scarification | r_processus>instr-1
+rouleau de tassement | r_processus>instr-1
+souffleur de nettoyage | r_processus>instr-1
+ramasse-feuille de collecte | r_processus>instr-1
+brouette de transport | r_processus>instr-1
+bac de transport | r_processus>instr-1
+sac de collecte | r_processus>instr-1
+composteur de compostage | r_processus>instr-1
+silo de stockage | r_processus>instr-1
+serre de culture | r_processus>instr-1
+châssis de culture | r_processus>instr-1
+cloche de protection | r_processus>instr-1
+voile de protection | r_processus>instr-1
+filet de protection | r_processus>instr-1
+grillage de protection | r_processus>instr-1
+treillage de support | r_processus>instr-1
+pergola de support | r_processus>instr-1
+tonnelle de support | r_processus>instr-1
+arceau de support | r_processus>instr-1
+tige de support | r_processus>instr-1
+piquet de support | r_processus>instr-1
+poteau de support | r_processus>instr-1
+pot de culture | r_processus>instr-1
+jardinière de culture | r_processus>instr-1
+bac de culture | r_processus>instr-1
+terreau de culture | r_processus>instr-1
+substrat de culture | r_processus>instr-1
+engrais de fertilisation | r_processus>instr-1
+amendement de amélioration | r_processus>instr-1
+paillage de protection | r_processus>instr-1
+mulch de protection | r_processus>instr-1
+géotextile de protection | r_processus>instr-1
+bâche de protection | r_processus>instr-1
+toile de protection | r_processus>instr-1
+seau de transport | r_processus>instr-1
+bassine de transport | r_processus>instr-1
+cuvette de transport | r_processus>instr-1
+récipient de stockage | r_processus>instr-1
+caisse de rangement | r_processus>instr-1
+coffre de rangement | r_processus>instr-1
+abri de rangement | r_processus>instr-1
+remise de rangement | r_processus>instr-1
+cabane de rangement | r_processus>instr-1
+cabanon de rangement | r_processus>instr-1
+gant de protection | r_processus>instr-1
+salopette de protection | r_processus>instr-1
+genouillère de protection | r_processus>instr-1
+botte de protection | r_processus>instr-1
+chapeau de protection | r_processus>instr-1
+lunette de protection | r_processus>instr-1
+masque de protection | r_processus>instr-1de rameur | r_processus>instr-1
+voile de navigateur | r_processus>instr-1
+ancre de marin | r_processus>instr-1
+filet de pêcheur | r_processus>instr-1
+canne de pêcheur | r_processus>instr-1
+hameçon de pêcheur | r_processus>instr-1
+appât de pêcheur | r_processus>instr-1
+nasse de pêcheur | r_processus>instr-1
+harpon de pêcheur | r_processus>instr-1
+fusil de chasseur | r_processus>instr-1
+carabine de chasseur | r_processus>instr-1
+arc de archer | r_processus>instr-1
+flèche de archer | r_processus>instr-1
+arbalète de arbalétrier | r_processus>instr-1
+fronde de frondeur | r_processus>instr-1
+lance de lancier | r_processus>instr-1
+épée de escrimeur | r_processus>instr-1
+sabre de sabreur | r_processus>instr-1
+fleuret de escrimeur | r_processus>instr-1
+poignard de combattant | r_processus>instr-1
+dague de combattant | r_processus>instr-1
+bouclier de guerrier | r_processus>instr-1
+casque de soldat | r_processus>instr-1
+armure de chevalier | r_processus>instr-1
+cotte de chevalier | r_processus>instr-1
+heaume de chevalier | r_processus>instr-1
+clé du portail | r_processus>instr-1
+clé du garage | r_processus>instr-1
+clé du véhicule | r_processus>instr-1
+clé du appartement | r_processus>instr-1
+clé du bureau | r_processus>instr-1
+tournevis du électricien | r_processus>instr-1
+tournevis du bricoleur | r_processus>instr-1
+marteau du charpentier | r_processus>instr-1
+marteau du maçon | r_processus>instr-1
+scie du menuisier | r_processus>instr-1
+scie du charpentier | r_processus>instr-1
+couteau du sculpteur | r_processus>instr-1
+couteau du graveur | r_processus>instr-1
+cutter du maquettiste | r_processus>instr-1
+ciseaux du barbier | r_processus>instr-1
+ciseaux du tailleur | r_processus>instr-1
+pince du plombier | r_processus>instr-1
+pince du serrurier | r_processus>instr-1
+tenaille du maréchal | r_processus>instr-1
+perceuse du artisan | r_processus>instr-1
+rabot du ébéniste | r_processus>instr-1
+lime du ajusteur | r_processus>instr-1
+râpe du fromager | r_processus>instr-1
+brosse du décorateur | r_processus>instr-1
+balai du balayeur | r_processus>instr-1
+balai du ramoneur | r_processus>instr-1
+aspirateur du nettoyeur | r_processus>instr-1
+bêche du fossoyeur | r_processus>instr-1
+pelle du cantonnier | r_processus>instr-1
+pioche du carrier | r_processus>instr-1
+houe du paysan | r_processus>instr-1
+sarcloir du agriculteur | r_processus>instr-1
+fourche du palefrenier | r_processus>instr-1
+râteau du cantonnier | r_processus>instr-1
+faux du agriculteur | r_processus>instr-1
+faucille du paysan | r_processus>instr-1
+serpe du vigneron | r_processus>instr-1
+hache du charpentier | r_processus>instr-1
+masse du carrier | r_processus>instr-1
+maillet du graveur | r_processus>instr-1
+burin du graveur | r_processus>instr-1
+gouge du ébéniste | r_processus>instr-1
+ciseau du menuisier | r_processus>instr-1
+compas du architecte | r_processus>instr-1
+équerre du architecte | r_processus>instr-1
+règle du architecte | r_processus>instr-1
+mètre du tailleur | r_processus>instr-1
+niveau du charpentier | r_processus>instr-1
+fil du cordier | r_processus>instr-1
+truelle du ouvrier | r_processus>instr-1
+taloche du ouvrier | r_processus>instr-1
+spatule du décorateur | r_processus>instr-1
+rouleau du décorateur | r_processus>instr-1
+pinceau du décorateur | r_processus>instr-1
+palette du artiste | r_processus>instr-1
+chevalet du artiste | r_processus>instr-1
+toile du artiste | r_processus>instr-1
+crayon du artiste | r_processus>instr-1
+fusain du artiste | r_processus>instr-1
+gomme du correcteur | r_processus>instr-1
+stylo du notaire | r_processus>instr-1
+plume du écrivain | r_processus>instr-1
+encre du imprimeur | r_processus>instr-1
+papier du imprimeur | r_processus>instr-1
+cahier du étudiant | r_processus>instr-1
+ardoise du instituteur | r_processus>instr-1
+craie du instituteur | r_processus>instr-1
+tableau du enseignant | r_processus>instr-1
+ordinateur du informaticien | r_processus>instr-1
+clavier du secrétaire | r_processus>instr-1
+souris du graphiste | r_processus>instr-1
+écran du monteur | r_processus>instr-1
+imprimante du secrétariat | r_processus>instr-1
+scanner du documentaliste | r_processus>instr-1
+téléphone du réceptionniste | r_processus>instr-1
+micro du commentateur | r_processus>instr-1
+caméra du caméraman | r_processus>instr-1
+appareil du reporter | r_processus>instr-1
+objectif du cameraman | r_processus>instr-1
+trépied du vidéaste | r_processus>instr-1
+flash du reporter | r_processus>instr-1
+projecteur du technicien | r_processus>instr-1
+lampe du mineur | r_processus>instr-1
+torche du plongeur | r_processus>instr-1
+loupe du bijoutier | r_processus>instr-1
+microscope du chercheur | r_processus>instr-1
+télescope du observateur | r_processus>instr-1
+jumelles du observateur | r_processus>instr-1
+boussole du randonneur | r_processus>instr-1
+carte du randonneur | r_processus>instr-1
+sextant du navigateur | r_processus>instr-1
+gouvernail du capitaine | r_processus>instr-1
+rame du gondolier | r_processus>instr-1
+pagaie du canoéiste | r_processus>instr-1
+aviron du gondolier | r_processus>instr-1
+voile du skipper | r_processus>instr-1
+ancre du capitaine | r_processus>instr-1
+filet du chalutier | r_processus>instr-1
+canne du pêcheur | r_processus>instr-1
+hameçon du pêcheur | r_processus>instr-1
+appât du pêcheur | r_processus>instr-1
+nasse du pêcheur | r_processus>instr-1
+harpon du pêcheur | r_processus>instr-1
+fusil du tireur | r_processus>instr-1
+carabine du tireur | r_processus>instr-1
+arc du tireur | r_processus>instr-1
+flèche du tireur | r_processus>instr-1
+lance du guerrier | r_processus>instr-1
+épée du chevalier | r_processus>instr-1
+sabre du cavalier | r_processus>instr-1
+fleuret du tireur | r_processus>instr-1
+bouclier du soldat | r_processus>instr-1
+casque du motard | r_processus>instr-1
+armure du combattant | r_processus>instr-1
+clé de la serrure | r_processus>instr-1
+clé de la portière | r_processus>instr-1
+clé de la malle | r_processus>instr-1
+clé de la boîte | r_processus>instr-1
+tournevis de la vis | r_processus>instr-1
+marteau de la forge | r_processus>instr-1
+scie de la coupe | r_processus>instr-1
+couteau de la découpe | r_processus>instr-1
+cutter de la découpe | r_processus>instr-1
+ciseaux de la coupe | r_processus>instr-1
+pince de la saisie | r_processus>instr-1
+tenaille de la traction | r_processus>instr-1
+perceuse de la perforation | r_processus>instr-1
+rabot de la planification | r_processus>instr-1
+lime de la finition | r_processus>instr-1
+râpe de la finition | r_processus>instr-1
+brosse de la peinture | r_processus>instr-1
+balai de la propreté | r_processus>instr-1
+serpillière de la propreté | r_processus>instr-1
+éponge de la vaisselle | r_processus>instr-1
+chiffon de la vitre | r_processus>instr-1
+torchon de la cuisine | r_processus>instr-1
+aspirateur de la maison | r_processus>instr-1
+bêche de la terre | r_processus>instr-1
+pelle de la terre | r_processus>instr-1
+pioche de la terre | r_processus>instr-1
+houe de la culture | r_processus>instr-1
+binette de la culture | r_processus>instr-1
+sarcloir de la culture | r_processus>instr-1
+ratisseau de la culture | r_processus>instr-1
+fourche de la récolte | r_processus>instr-1
+râteau de la collecte | r_processus>instr-1
+faux de la fauche | r_processus>instr-1
+faucille de la moisson | r_processus>instr-1
+serpe de la taille | r_processus>instr-1
+hache de la coupe | r_processus>instr-1
+cognée de la coupe | r_processus>instr-1
+merlin de la fente | r_processus>instr-1
+masse de la frappe | r_processus>instr-1
+maillet de la frappe | r_processus>instr-1
+burin de la gravure | r_processus>instr-1
+gouge de la sculpture | r_processus>instr-1
+ciseau de la taille | r_processus>instr-1
+compas de la mesure | r_processus>instr-1
+équerre de la mesure | r_processus>instr-1
+règle de la mesure | r_processus>instr-1
+mètre de la mesure | r_processus>instr-1
+niveau de la mesure | r_processus>instr-1
+fil de la mesure | r_processus>instr-1
+truelle de la pose | r_processus>instr-1
+taloche de la pose | r_processus>instr-1
+spatule de la pose | r_processus>instr-1
+rouleau de la peinture | r_processus>instr-1
+pinceau de la peinture | r_processus>instr-1
+palette de la peinture | r_processus>instr-1
+chevalet de la peinture | r_processus>instr-1
+toile de la peinture | r_processus>instr-1
+crayon de la écriture | r_processus>instr-1
+fusain de la dessin | r_processus>instr-1
+gomme de la correction | r_processus>instr-1
+stylo de la écriture | r_processus>instr-1
+plume de la écriture | r_processus>instr-1
+encre de la écriture | r_processus>instr-1
+papier de la écriture | r_processus>instr-1
+cahier de la écriture | r_processus>instr-1
+ardoise de la écriture | r_processus>instr-1
+craie de la écriture | r_processus>instr-1
+tableau de la écriture | r_processus>instr-1
+ordinateur de la saisie | r_processus>instr-1
+clavier de la frappe | r_processus>instr-1
+souris de la navigation | r_processus>instr-1
+écran de la visualisation | r_processus>instr-1
+imprimante de la impression | r_processus>instr-1
+scanner de la numérisation | r_processus>instr-1
+photocopieuse de la copie | r_processus>instr-1
+téléphone de la communication | r_processus>instr-1
+micro de la captation | r_processus>instr-1
+caméra de la captation | r_processus>instr-1
+appareil de la prise | r_processus>instr-1
+objectif de la prise | r_processus>instr-1
+trépied de la stabilisation | r_processus>instr-1
+flash de la illumination | r_processus>instr-1
+projecteur de la illumination | r_processus>instr-1
+lampe de la illumination | r_processus>instr-1
+torche de la illumination | r_processus>instr-1
+loupe de la observation | r_processus>instr-1
+microscope de la observation | r_processus>instr-1
+télescope de la observation | r_processus>instr-1
+jumelles de la observation | r_processus>instr-1
+boussole de la orientation | r_processus>instr-1
+carte de la navigation | r_processus>instr-1
+sextant de la navigation | r_processus>instr-1
+gouvernail de la direction | r_processus>instr-1
+rame de la propulsion | r_processus>instr-1
+pagaie de la propulsion | r_processus>instr-1
+aviron de la propulsion | r_processus>instr-1
+voile de la propulsion | r_processus>instr-1
+ancre de la fixation | r_processus>instr-1
+filet de la capture | r_processus>instr-1
+canne de la pêche | r_processus>instr-1
+hameçon de la prise | r_processus>instr-1
+appât de la pêche | r_processus>instr-1
+nasse de la capture | r_processus>instr-1
+harpon de la capture | r_processus>instr-1
+fusil de la chasse | r_processus>instr-1
+carabine de la chasse | r_processus>instr-1
+arc de la chasse | r_processus>instr-1
+flèche de la chasse | r_processus>instr-1
+arbalète de la chasse | r_processus>instr-1
+fronde de la projection | r_processus>instr-1
+lance de la attaque | r_processus>instr-1
+épée de la attaque | r_processus>instr-1
+sabre de la attaque | r_processus>instr-1
+fleuret de la attaque | r_processus>instr-1
+poignard de la attaque | r_processus>instr-1
+dague de la attaque | r_processus>instr-1
+bouclier de la défense | r_processus>instr-1
+casque de la protection | r_processus>instr-1
+armure de la protection | r_processus>instr-1
+cotte de la protection | r_processus>instr-1
+heaume de la protection | r_processus>instr-1
+clé d'allumage | r_processus>instr-1
+clé d'ignition | r_processus>instr-1
+clé d'ouverture | r_processus>instr-1
+clé d'accès | r_processus>instr-1
+tournevis d'assemblage | r_processus>instr-1
+marteau d'enfoncement | r_processus>instr-1
+scie d'ébranchage | r_processus>instr-1
+couteau d'épluchage | r_processus>instr-1
+cutter d'ouverture | r_processus>instr-1
+ciseaux d'ébranchage | r_processus>instr-1
+pince d'arrachage | r_processus>instr-1
+tenaille d'arrachage | r_processus>instr-1
+perceuse d'assemblage | r_processus>instr-1
+rabot d'aplanissement | r_processus>instr-1
+lime d'affûtage | r_processus>instr-1
+râpe d'égalisation | r_processus>instr-1
+brosse d'application | r_processus>instr-1
+balai d'essuyage | r_processus>instr-1
+serpillière d'essuyage | r_processus>instr-1
+éponge d'absorption | r_processus>instr-1
+chiffon d'essuyage | r_processus>instr-1
+torchon d'essuyage | r_processus>instr-1
+aspirateur d'aspiration | r_processus>instr-1
+bêche d'excavation | r_processus>instr-1
+pelle d'excavation | r_processus>instr-1
+pioche d'excavation | r_processus>instr-1
+houe d'ameublissement | r_processus>instr-1
+binette d'ameublissement | r_processus>instr-1
+sarcloir d'arrachage | r_processus>instr-1
+ratisseau d'égalisation | r_processus>instr-1
+fourche d'épandage | r_processus>instr-1
+râteau d'égalisation | r_processus>instr-1
+faux d'abattage | r_processus>instr-1
+faucille d'abattage | r_processus>instr-1
+serpe d'ébranchage | r_processus>instr-1
+hache d'abattage | r_processus>instr-1
+cognée d'abattage | r_processus>instr-1
+merlin d'éclatement | r_processus>instr-1
+masse d'écrasement | r_processus>instr-1
+maillet d'enfoncement | r_processus>instr-1
+burin d'entaillage | r_processus>instr-1
+gouge d'évidement | r_processus>instr-1
+ciseau d'entaillage | r_processus>instr-1
+compas d'écartement | r_processus>instr-1
+équerre d'alignement | r_processus>instr-1
+règle d'alignement | r_processus>instr-1
+mètre d'évaluation | r_processus>instr-1
+niveau d'horizontalité | r_processus>instr-1
+fil d'aplomb | r_processus>instr-1
+truelle d'étalement | r_processus>instr-1
+taloche d'étalement | r_processus>instr-1
+spatule d'étalement | r_processus>instr-1
+rouleau d'application | r_processus>instr-1
+pinceau d'application | r_processus>instr-1
+palette d'application | r_processus>instr-1
+chevalet d'exposition | r_processus>instr-1
+toile d'exposition | r_processus>instr-1
+crayon d'esquisse | r_processus>instr-1
+fusain d'esquisse | r_processus>instr-1
+gomme d'effacement | r_processus>instr-1
+stylo d'annotation | r_processus>instr-1
+plume d'annotation | r_processus>instr-1
+encre d'imprégnation | r_processus>instr-1
+papier d'impression | r_processus>instr-1
+cahier d'annotation | r_processus>instr-1
+ardoise d'inscription | r_processus>instr-1
+craie d'inscription | r_processus>instr-1
+tableau d'affichage | r_processus>instr-1
+ordinateur d'édition | r_processus>instr-1
+clavier d'édition | r_processus>instr-1
+souris d'édition | r_processus>instr-1
+écran d'affichage | r_processus>instr-1
+imprimante d'édition | r_processus>instr-1
+scanner d'édition | r_processus>instr-1
+photocopieuse d'édition | r_processus>instr-1
+téléphone d'appel | r_processus>instr-1
+micro d'enregistrement | r_processus>instr-1
+caméra d'enregistrement | r_processus>instr-1
+appareil d'enregistrement | r_processus>instr-1
+objectif d'enregistrement | r_processus>instr-1
+trépied d'exposition | r_processus>instr-1
+flash d'exposition | r_processus>instr-1
+projecteur d'exposition | r_processus>instr-1
+lampe d'éclairage | r_processus>instr-1
+torche d'éclairage | r_processus>instr-1
+loupe d'examen | r_processus>instr-1
+microscope d'examen | r_processus>instr-1
+télescope d'examen | r_processus>instr-1
+jumelles d'examen | r_processus>instr-1
+boussole d'indication | r_processus>instr-1
+carte d'indication | r_processus>instr-1
+sextant d'orientation | r_processus>instr-1
+gouvernail d'orientation | r_processus>instr-1
+rame d'avancement | r_processus>instr-1
+pagaie d'avancement | r_processus>instr-1

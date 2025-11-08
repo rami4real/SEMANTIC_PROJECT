@@ -1,0 +1,1042 @@
+chef du groupe | r_social_tie
+directeur de société | r_social_tie
+président de association | r_social_tie
+patron de entreprise | r_social_tie
+responsable de équipe | r_social_tie
+dirigeant de organisation | r_social_tie
+gérant de magasin | r_social_tie
+manager de département | r_social_tie
+superviseur de service | r_social_tie
+coordinateur de projet | r_social_tie
+leader de mouvement | r_social_tie
+capitaine de équipe | r_social_tie
+commandant de bataillon | r_social_tie
+général de armée | r_social_tie
+colonel de régiment | r_social_tie
+major de compagnie | r_social_tie
+lieutenant de section | r_social_tie
+sergent de peloton | r_social_tie
+caporal de escouade | r_social_tie
+soldat de troupe | r_social_tie
+membre de famille | r_social_tie
+père de enfant | r_social_tie
+mère de bébé | r_social_tie
+fils de parent | r_social_tie
+fille de mère | r_social_tie
+frère de sœur | r_social_tie
+sœur de frère | r_social_tie
+grand-père de petit-fils | r_social_tie
+grand-mère de petite-fille | r_social_tie
+oncle de neveu | r_social_tie
+tante de nièce | r_social_tie
+cousin de cousine | r_social_tie
+neveu de oncle | r_social_tie
+nièce de tante | r_social_tie
+parrain de filleul | r_social_tie
+marraine de filleule | r_social_tie
+filleul de parrain | r_social_tie
+filleule de marraine | r_social_tie
+époux de épouse | r_social_tie
+mari de femme | r_social_tie
+femme de mari | r_social_tie
+conjoint de conjointe | r_social_tie
+compagnon de compagne | r_social_tie
+fiancé de fiancée | r_social_tie
+petit-ami de petite-amie | r_social_tie
+amant de amante | r_social_tie
+ami de ami | r_social_tie
+camarade de camarade | r_social_tie
+copain de copine | r_social_tie
+collègue de bureau | r_social_tie
+confrère de profession | r_social_tie
+consœur de métier | r_social_tie
+associé de affaire | r_social_tie
+partenaire de entreprise | r_social_tie
+collaborateur de projet | r_social_tie
+coéquipier de équipe | r_social_tie
+complice de action | r_social_tie
+allié de cause | r_social_tie
+partisan de mouvement | r_social_tie
+adhérent de parti | r_social_tie
+militant de organisation | r_social_tie
+sympathisant de idée | r_social_tie
+supporter de club | r_social_tie
+fan de artiste | r_social_tie
+admirateur de personnalité | r_social_tie
+disciple de maître | r_social_tie
+élève de professeur | r_social_tie
+étudiant de université | r_social_tie
+écolier de école | r_social_tie
+apprenant de formation | r_social_tie
+stagiaire de stage | r_social_tie
+apprenti de maître | r_social_tie
+novice de domaine | r_social_tie
+débutant de activité | r_social_tie
+professeur de classe | r_social_tie
+enseignant de matière | r_social_tie
+instituteur de école | r_social_tie
+maître de élève | r_social_tie
+formateur de formation | r_social_tie
+instructeur de cours | r_social_tie
+tuteur de élève | r_social_tie
+mentor de protégé | r_social_tie
+guide de groupe | r_social_tie
+conseiller de client | r_social_tie
+expert de domaine | r_social_tie
+spécialiste de sujet | r_social_tie
+consultant de entreprise | r_social_tie
+médecin de patient | r_social_tie
+docteur de malade | r_social_tie
+infirmier de patient | r_social_tie
+chirurgien de hôpital | r_social_tie
+dentiste de cabinet | r_social_tie
+pharmacien de pharmacie | r_social_tie
+thérapeute de patient | r_social_tie
+psychologue de consultation | r_social_tie
+psychiatre de clinique | r_social_tie
+avocat de client | r_social_tie
+notaire de étude | r_social_tie
+juge de tribunal | r_social_tie
+procureur de parquet | r_social_tie
+magistrat de cour | r_social_tie
+huissier de justice | r_social_tie
+greffier de tribunal | r_social_tie
+policier de commissariat | r_social_tie
+gendarme de brigade | r_social_tie
+inspecteur de police | r_social_tie
+détective de agence | r_social_tie
+garde de sécurité | r_social_tie
+vigile de entreprise | r_social_tie
+pompier de caserne | r_social_tie
+sauveteur de plage | r_social_tie
+secouriste de équipe | r_social_tie
+prêtre de paroisse | r_social_tie
+pasteur de église | r_social_tie
+imam de mosquée | r_social_tie
+rabbin de synagogue | r_social_tie
+moine de monastère | r_social_tie
+religieux de ordre | r_social_tie
+évêque de diocèse | r_social_tie
+cardinal de église | r_social_tie
+pape de église | r_social_tie
+maire de ville | r_social_tie
+député de circonscription | r_social_tie
+sénateur de région | r_social_tie
+ministre de gouvernement | r_social_tie
+secrétaire de cabinet | r_social_tie
+conseiller de mairie | r_social_tie
+préfet de département | r_social_tie
+ambassadeur de pays | r_social_tie
+consul de consulat | r_social_tie
+diplomate de ambassade | r_social_tie
+fonctionnaire de administration | r_social_tie
+employé de fonction | r_social_tie
+agent de service | r_social_tie
+ouvrier de usine | r_social_tie
+artisan de atelier | r_social_tie
+commerçant de boutique | r_social_tie
+vendeur de magasin | r_social_tie
+caissier de caisse | r_social_tie
+serveur de restaurant | r_social_tie
+cuisinier de cuisine | r_social_tie
+chef de cuisine | r_social_tie
+pâtissier de pâtisserie | r_social_tie
+boulanger de boulangerie | r_social_tie
+boucher de boucherie | r_social_tie
+poissonnier de poissonnerie | r_social_tie
+épicier de épicerie | r_social_tie
+libraire de librairie | r_social_tie
+fleuriste de fleuriste | r_social_tie
+coiffeur de salon | r_social_tie
+esthéticienne de institut | r_social_tie
+banquier de banque | r_social_tie
+comptable de cabinet | r_social_tie
+économiste de institut | r_social_tie
+financier de société | r_social_tie
+trader de bourse | r_social_tie
+courtier de bourse | r_social_tie
+agent de assurance | r_social_tie
+assureur de compagnie | r_social_tie
+architecte de cabinet | r_social_tie
+ingénieur de bureau | r_social_tie
+technicien de laboratoire | r_social_tie
+mécanicien de garage | r_social_tie
+électricien de entreprise | r_social_tie
+plombier de société | r_social_tie
+maçon de chantier | r_social_tie
+charpentier de chantier | r_social_tie
+menuisier de atelier | r_social_tie
+peintre de bâtiment | r_social_tie
+jardinier de jardin | r_social_tie
+paysagiste de entreprise | r_social_tie
+agriculteur de ferme | r_social_tie
+éleveur de exploitation | r_social_tie
+berger de troupeau | r_social_tie
+paysan de terre | r_social_tie
+vigneron de vignoble | r_social_tie
+viticulteur de domaine | r_social_tie
+pêcheur de bateau | r_social_tie
+marin de navire | r_social_tie
+capitaine de bateau | r_social_tie
+pilote de avion | r_social_tie
+steward de compagnie | r_social_tie
+hôtesse de air | r_social_tie
+conducteur de train | r_social_tie
+chauffeur de bus | r_social_tie
+routier de camion | r_social_tie
+livreur de société | r_social_tie
+facteur de poste | r_social_tie
+postier de bureau | r_social_tie
+journaliste de journal | r_social_tie
+reporter de presse | r_social_tie
+rédacteur de magazine | r_social_tie
+éditeur de maison | r_social_tie
+écrivain de livre | r_social_tie
+auteur de œuvre | r_social_tie
+poète de poésie | r_social_tie
+romancier de roman | r_social_tie
+dramaturge de théâtre | r_social_tie
+scénariste de film | r_social_tie
+réalisateur de cinéma | r_social_tie
+metteur de scène | r_social_tie
+acteur de théâtre | r_social_tie
+comédien de troupe | r_social_tie
+artiste de scène | r_social_tie
+chanteur de groupe | r_social_tie
+musicien de orchestre | r_social_tie
+compositeur de musique | r_social_tie
+chef de orchestre | r_social_tie
+soliste de concert | r_social_tie
+danseur de ballet | r_social_tie
+chorégraphe de compagnie | r_social_tie
+peintre de tableau | r_social_tie
+sculpteur de statue | r_social_tie
+photographe de studio | r_social_tie
+dessinateur de bande | r_social_tie
+illustrateur de livre | r_social_tie
+graphiste de agence | r_social_tie
+designer de mode | r_social_tie
+styliste de collection | r_social_tie
+couturier de maison | r_social_tie
+modéliste de atelier | r_social_tie
+mannequin de défilé | r_social_tie
+sportif de équipe | r_social_tie
+athlète de club | r_social_tie
+joueur de football | r_social_tie
+footballeur de équipe | r_social_tie
+basketteur de club | r_social_tie
+tennismann de circuit | r_social_tie
+cycliste de équipe | r_social_tie
+nageur de club | r_social_tie
+skieur de équipe | r_social_tie
+boxeur de club | r_social_tie
+judoka de dojo | r_social_tie
+karatéka de club | r_social_tie
+entraîneur de équipe | r_social_tie
+coach de sportif | r_social_tie
+préparateur de physique | r_social_tie
+arbitre de match | r_social_tie
+juge de compétition | r_social_tie
+chef du département | r_social_tie
+directeur du service | r_social_tie
+président du conseil | r_social_tie
+patron du restaurant | r_social_tie
+responsable du projet | r_social_tie
+dirigeant du parti | r_social_tie
+gérant du commerce | r_social_tie
+manager du magasin | r_social_tie
+superviseur du chantier | r_social_tie
+coordinateur du programme | r_social_tie
+leader du syndicat | r_social_tie
+capitaine du navire | r_social_tie
+commandant du régiment | r_social_tie
+général du corps | r_social_tie
+colonel du bataillon | r_social_tie
+major du escadron | r_social_tie
+lieutenant du peloton | r_social_tie
+sergent du groupe | r_social_tie
+caporal du détachement | r_social_tie
+soldat du contingent | r_social_tie
+membre du club | r_social_tie
+père du foyer | r_social_tie
+mère du ménage | r_social_tie
+fils du couple | r_social_tie
+fille du mariage | r_social_tie
+frère du garçon | r_social_tie
+sœur du enfant | r_social_tie
+grand-père du patriarche | r_social_tie
+grand-mère du clan | r_social_tie
+oncle du côté | r_social_tie
+tante du parent | r_social_tie
+cousin du degré | r_social_tie
+neveu du frère | r_social_tie
+nièce du parent | r_social_tie
+parrain du baptême | r_social_tie
+marraine du sacrement | r_social_tie
+filleul du baptême | r_social_tie
+époux du couple | r_social_tie
+mari du mariage | r_social_tie
+femme du foyer | r_social_tie
+conjoint du ménage | r_social_tie
+compagnon du duo | r_social_tie
+fiancé du mariage | r_social_tie
+petit-ami du couple | r_social_tie
+amant du secret | r_social_tie
+ami du cœur | r_social_tie
+camarade du groupe | r_social_tie
+copain du bande | r_social_tie
+collègue du travail | r_social_tie
+confrère du barreau | r_social_tie
+consœur du métier | r_social_tie
+associé du cabinet | r_social_tie
+partenaire du contrat | r_social_tie
+collaborateur du dossier | r_social_tie
+coéquipier du match | r_social_tie
+complice du crime | r_social_tie
+allié du pacte | r_social_tie
+partisan du leader | r_social_tie
+adhérent du syndicat | r_social_tie
+militant du combat | r_social_tie
+sympathisant du parti | r_social_tie
+supporter du stade | r_social_tie
+fan du concert | r_social_tie
+admirateur du talent | r_social_tie
+disciple du gourou | r_social_tie
+élève du cours | r_social_tie
+étudiant du campus | r_social_tie
+écolier du primaire | r_social_tie
+apprenant du programme | r_social_tie
+stagiaire du centre | r_social_tie
+apprenti du métier | r_social_tie
+novice du couvent | r_social_tie
+débutant du secteur | r_social_tie
+professeur du lycée | r_social_tie
+enseignant du collège | r_social_tie
+instituteur du village | r_social_tie
+maître du savoir | r_social_tie
+formateur du organisme | r_social_tie
+instructeur du stage | r_social_tie
+tuteur du système | r_social_tie
+mentor du parcours | r_social_tie
+guide du voyage | r_social_tie
+conseiller du orientation | r_social_tie
+expert du tribunal | r_social_tie
+spécialiste du domaine | r_social_tie
+consultant du cabinet | r_social_tie
+médecin du centre | r_social_tie
+docteur du cabinet | r_social_tie
+infirmier du hôpital | r_social_tie
+chirurgien du bloc | r_social_tie
+dentiste du centre | r_social_tie
+pharmacien du quartier | r_social_tie
+thérapeute du cabinet | r_social_tie
+psychologue du centre | r_social_tie
+psychiatre du service | r_social_tie
+avocat du barreau | r_social_tie
+notaire du canton | r_social_tie
+juge du siège | r_social_tie
+procureur du ministère | r_social_tie
+magistrat du parquet | r_social_tie
+huissier du ressort | r_social_tie
+greffier du greffe | r_social_tie
+policier du poste | r_social_tie
+gendarme du canton | r_social_tie
+inspecteur du service | r_social_tie
+détective du bureau | r_social_tie
+garde du corps | r_social_tie
+vigile du site | r_social_tie
+pompier du centre | r_social_tie
+sauveteur du poste | r_social_tie
+secouriste du poste | r_social_tie
+prêtre du diocèse | r_social_tie
+pasteur du temple | r_social_tie
+imam du quartier | r_social_tie
+rabbin du consistoire | r_social_tie
+moine du couvent | r_social_tie
+religieux du clergé | r_social_tie
+évêque du siège | r_social_tie
+cardinal du Vatican | r_social_tie
+pape du Vatican | r_social_tie
+maire du canton | r_social_tie
+député du parlement | r_social_tie
+sénateur du sénat | r_social_tie
+ministre du portefeuille | r_social_tie
+secrétaire du ministère | r_social_tie
+conseiller du conseil | r_social_tie
+préfet du territoire | r_social_tie
+ambassadeur du poste | r_social_tie
+consul du poste | r_social_tie
+diplomate du ministère | r_social_tie
+fonctionnaire du ministère | r_social_tie
+employé du service | r_social_tie
+agent du bureau | r_social_tie
+ouvrier du atelier | r_social_tie
+artisan du quartier | r_social_tie
+commerçant du centre | r_social_tie
+vendeur du rayon | r_social_tie
+caissier du supermarché | r_social_tie
+serveur du café | r_social_tie
+cuisinier du restaurant | r_social_tie
+chef du établissement | r_social_tie
+pâtissier du quartier | r_social_tie
+boulanger du village | r_social_tie
+boucher du marché | r_social_tie
+poissonnier du port | r_social_tie
+épicier du coin | r_social_tie
+libraire du centre | r_social_tie
+fleuriste du marché | r_social_tie
+coiffeur du quartier | r_social_tie
+esthéticienne du centre | r_social_tie
+banquier du agence | r_social_tie
+comptable du bureau | r_social_tie
+économiste du ministère | r_social_tie
+financier du groupe | r_social_tie
+trader du salle | r_social_tie
+courtier du marché | r_social_tie
+agent du réseau | r_social_tie
+assureur du secteur | r_social_tie
+architecte du projet | r_social_tie
+ingénieur du chantier | r_social_tie
+technicien du service | r_social_tie
+mécanicien du atelier | r_social_tie
+électricien du chantier | r_social_tie
+plombier du quartier | r_social_tie
+maçon du bâtiment | r_social_tie
+charpentier du toit | r_social_tie
+menuisier du bois | r_social_tie
+peintre du mur | r_social_tie
+jardinier du parc | r_social_tie
+paysagiste du terrain | r_social_tie
+agriculteur du village | r_social_tie
+éleveur du bétail | r_social_tie
+berger du alpage | r_social_tie
+paysan du terroir | r_social_tie
+vigneron du coteau | r_social_tie
+viticulteur du chai | r_social_tie
+pêcheur du port | r_social_tie
+marin du bord | r_social_tie
+capitaine du pont | r_social_tie
+pilote du cockpit | r_social_tie
+steward du vol | r_social_tie
+hôtesse du vol | r_social_tie
+conducteur du train | r_social_tie
+chauffeur du véhicule | r_social_tie
+routier du transport | r_social_tie
+livreur du colis | r_social_tie
+facteur du secteur | r_social_tie
+postier du guichet | r_social_tie
+journaliste du quotidien | r_social_tie
+reporter du terrain | r_social_tie
+rédacteur du journal | r_social_tie
+éditeur du livre | r_social_tie
+écrivain du roman | r_social_tie
+auteur du texte | r_social_tie
+poète du vers | r_social_tie
+romancier du récit | r_social_tie
+dramaturge du pièce | r_social_tie
+scénariste du scénario | r_social_tie
+réalisateur du film | r_social_tie
+metteur du spectacle | r_social_tie
+acteur du rôle | r_social_tie
+comédien du plateau | r_social_tie
+artiste du spectacle | r_social_tie
+chanteur du concert | r_social_tie
+musicien du pupitre | r_social_tie
+compositeur du morceau | r_social_tie
+chef du podium | r_social_tie
+soliste du récital | r_social_tie
+danseur du corps | r_social_tie
+chorégraphe du ballet | r_social_tie
+peintre du chevalet | r_social_tie
+sculpteur du atelier | r_social_tie
+photographe du cliché | r_social_tie
+dessinateur du trait | r_social_tie
+illustrateur du dessin | r_social_tie
+graphiste du design | r_social_tie
+designer du bureau | r_social_tie
+styliste du atelier | r_social_tie
+couturier du haute | r_social_tie
+modéliste du patron | r_social_tie
+mannequin du podium | r_social_tie
+sportif du sport | r_social_tie
+athlète du stade | r_social_tie
+joueur du terrain | r_social_tie
+footballeur du ballon | r_social_tie
+basketteur du panier | r_social_tie
+tennismann du court | r_social_tie
+cycliste du peloton | r_social_tie
+nageur du bassin | r_social_tie
+skieur du piste | r_social_tie
+boxeur du ring | r_social_tie
+judoka du tatami | r_social_tie
+karatéka du combat | r_social_tie
+entraîneur du banc | r_social_tie
+coach du staff | r_social_tie
+préparateur du condition | r_social_tie
+arbitre du sifflet | r_social_tie
+juge du jury | r_social_tie
+chef de la équipe | r_social_tie
+directeur de la société | r_social_tie
+président de la association | r_social_tie
+patron de la entreprise | r_social_tie
+responsable de la section | r_social_tie
+dirigeant de la organisation | r_social_tie
+gérant de la boutique | r_social_tie
+manager de la équipe | r_social_tie
+superviseur de la production | r_social_tie
+coordinateur de la mission | r_social_tie
+leader de la révolution | r_social_tie
+capitaine de la équipe | r_social_tie
+commandant de la troupe | r_social_tie
+général de la division | r_social_tie
+colonel de la garnison | r_social_tie
+major de la promotion | r_social_tie
+lieutenant de la compagnie | r_social_tie
+sergent de la garde | r_social_tie
+caporal de la patrouille | r_social_tie
+soldat de la armée | r_social_tie
+membre de la famille | r_social_tie
+père de la famille | r_social_tie
+mère de la maison | r_social_tie
+fils de la lignée | r_social_tie
+fille de la maison | r_social_tie
+frère de la fratrie | r_social_tie
+sœur de la famille | r_social_tie
+grand-père de la famille | r_social_tie
+grand-mère de la famille | r_social_tie
+oncle de la branche | r_social_tie
+tante de la famille | r_social_tie
+cousin de la famille | r_social_tie
+neveu de la famille | r_social_tie
+nièce de la tante | r_social_tie
+parrain de la cérémonie | r_social_tie
+marraine de la enfant | r_social_tie
+filleul de la marraine | r_social_tie
+filleule de la parrain | r_social_tie
+époux de la union | r_social_tie
+mari de la épouse | r_social_tie
+femme de la époux | r_social_tie
+conjoint de la union | r_social_tie
+compagnon de la vie | r_social_tie
+fiancé de la promise | r_social_tie
+petit-ami de la fille | r_social_tie
+amant de la liaison | r_social_tie
+ami de la vie | r_social_tie
+camarade de la classe | r_social_tie
+copain de la bande | r_social_tie
+collègue de la entreprise | r_social_tie
+confrère de la profession | r_social_tie
+consœur de la corporation | r_social_tie
+associé de la firme | r_social_tie
+partenaire de la affaire | r_social_tie
+collaborateur de la équipe | r_social_tie
+coéquipier de la formation | r_social_tie
+complice de la affaire | r_social_tie
+allié de la coalition | r_social_tie
+partisan de la cause | r_social_tie
+adhérent de la association | r_social_tie
+militant de la lutte | r_social_tie
+sympathisant de la cause | r_social_tie
+supporter de la équipe | r_social_tie
+fan de la star | r_social_tie
+admirateur de la diva | r_social_tie
+disciple de la doctrine | r_social_tie
+élève de la école | r_social_tie
+étudiant de la faculté | r_social_tie
+écolier de la classe | r_social_tie
+apprenant de la école | r_social_tie
+stagiaire de la entreprise | r_social_tie
+apprenti de la corporation | r_social_tie
+novice de la congrégation | r_social_tie
+débutant de la carrière | r_social_tie
+professeur de la faculté | r_social_tie
+enseignant de la école | r_social_tie
+instituteur de la classe | r_social_tie
+maître de la école | r_social_tie
+formateur de la école | r_social_tie
+instructeur de la école | r_social_tie
+tuteur de la école | r_social_tie
+mentor de la carrière | r_social_tie
+guide de la expédition | r_social_tie
+conseiller de la orientation | r_social_tie
+expert de la cour | r_social_tie
+spécialiste de la matière | r_social_tie
+consultant de la firme | r_social_tie
+médecin de la clinique | r_social_tie
+docteur de la pratique | r_social_tie
+infirmier de la service | r_social_tie
+chirurgien de la clinique | r_social_tie
+dentiste de la clinique | r_social_tie
+pharmacien de la officine | r_social_tie
+thérapeute de la clinique | r_social_tie
+psychologue de la clinique | r_social_tie
+psychiatre de la clinique | r_social_tie
+avocat de la défense | r_social_tie
+notaire de la étude | r_social_tie
+juge de la chambre | r_social_tie
+procureur de la république | r_social_tie
+magistrat de la justice | r_social_tie
+huissier de la justice | r_social_tie
+greffier de la chambre | r_social_tie
+policier de la brigade | r_social_tie
+gendarme de la compagnie | r_social_tie
+inspecteur de la brigade | r_social_tie
+détective de la agence | r_social_tie
+garde de la propriété | r_social_tie
+vigile de la nuit | r_social_tie
+pompier de la brigade | r_social_tie
+sauveteur de la mer | r_social_tie
+secouriste de la croix | r_social_tie
+prêtre de la église | r_social_tie
+pasteur de la communauté | r_social_tie
+imam de la communauté | r_social_tie
+rabbin de la communauté | r_social_tie
+moine de la abbaye | r_social_tie
+religieux de la congrégation | r_social_tie
+évêque de la église | r_social_tie
+cardinal de la église | r_social_tie
+pape de la chrétienté | r_social_tie
+maire de la commune | r_social_tie
+député de la nation | r_social_tie
+sénateur de la république | r_social_tie
+ministre de la république | r_social_tie
+secrétaire de la état | r_social_tie
+conseiller de la municipalité | r_social_tie
+préfet de la région | r_social_tie
+ambassadeur de la nation | r_social_tie
+consul de la nation | r_social_tie
+diplomate de la carrière | r_social_tie
+fonctionnaire de la état | r_social_tie
+employé de la fonction | r_social_tie
+agent de la administration | r_social_tie
+ouvrier de la fabrique | r_social_tie
+artisan de la corporation | r_social_tie
+commerçant de la rue | r_social_tie
+vendeur de la boutique | r_social_tie
+caissier de la boutique | r_social_tie
+serveur de la salle | r_social_tie
+cuisinier de la brigade | r_social_tie
+chef de la brigade | r_social_tie
+pâtissier de la boutique | r_social_tie
+boulanger de la boutique | r_social_tie
+boucher de la boutique | r_social_tie
+poissonnier de la halle | r_social_tie
+épicier de la boutique | r_social_tie
+libraire de la boutique | r_social_tie
+fleuriste de la boutique | r_social_tie
+coiffeur de la boutique | r_social_tie
+esthéticienne de la boutique | r_social_tie
+banquier de la banque | r_social_tie
+comptable de la entreprise | r_social_tie
+économiste de la banque | r_social_tie
+financier de la banque | r_social_tie
+trader de la banque | r_social_tie
+courtier de la banque | r_social_tie
+agent de la compagnie | r_social_tie
+assureur de la compagnie | r_social_tie
+architecte de la agence | r_social_tie
+ingénieur de la agence | r_social_tie
+technicien de la agence | r_social_tie
+mécanicien de la agence | r_social_tie
+électricien de la agence | r_social_tie
+plombier de la agence | r_social_tie
+maçon de la entreprise | r_social_tie
+charpentier de la entreprise | r_social_tie
+menuisier de la entreprise | r_social_tie
+peintre de la entreprise | r_social_tie
+jardinier de la entreprise | r_social_tie
+paysagiste de la agence | r_social_tie
+agriculteur de la exploitation | r_social_tie
+éleveur de la ferme | r_social_tie
+berger de la montagne | r_social_tie
+paysan de la campagne | r_social_tie
+vigneron de la vigne | r_social_tie
+viticulteur de la propriété | r_social_tie
+pêcheur de la flotte | r_social_tie
+marin de la flotte | r_social_tie
+capitaine de la flotte | r_social_tie
+pilote de la compagnie | r_social_tie
+steward de la compagnie | r_social_tie
+hôtesse de la compagnie | r_social_tie
+conducteur de la ligne | r_social_tie
+chauffeur de la ligne | r_social_tie
+routier de la route | r_social_tie
+livreur de la tournée | r_social_tie
+facteur de la tournée | r_social_tie
+postier de la poste | r_social_tie
+journaliste de la rédaction | r_social_tie
+reporter de la rédaction | r_social_tie
+rédacteur de la rédaction | r_social_tie
+éditeur de la maison | r_social_tie
+écrivain de la littérature | r_social_tie
+auteur de la littérature | r_social_tie
+poète de la poésie | r_social_tie
+romancier de la littérature | r_social_tie
+dramaturge de la scène | r_social_tie
+scénariste de la production | r_social_tie
+réalisateur de la production | r_social_tie
+metteur de la scène | r_social_tie
+acteur de la troupe | r_social_tie
+comédien de la scène | r_social_tie
+artiste de la troupe | r_social_tie
+chanteur de la troupe | r_social_tie
+musicien de la formation | r_social_tie
+compositeur de la musique | r_social_tie
+chef de la formation | r_social_tie
+soliste de la formation | r_social_tie
+danseur de la troupe | r_social_tie
+chorégraphe de la troupe | r_social_tie
+peintre de la galerie | r_social_tie
+sculpteur de la galerie | r_social_tie
+photographe de la agence | r_social_tie
+dessinateur de la agence | r_social_tie
+illustrateur de la agence | r_social_tie
+graphiste de la agence | r_social_tie
+designer de la agence | r_social_tie
+styliste de la maison | r_social_tie
+couturier de la maison | r_social_tie
+modéliste de la maison | r_social_tie
+mannequin de la agence | r_social_tie
+sportif de la fédération | r_social_tie
+athlète de la fédération | r_social_tie
+joueur de la ligue | r_social_tie
+footballeur de la ligue | r_social_tie
+basketteur de la ligue | r_social_tie
+tennismann de la fédération | r_social_tie
+cycliste de la fédération | r_social_tie
+nageur de la fédération | r_social_tie
+skieur de la fédération | r_social_tie
+boxeur de la fédération | r_social_tie
+judoka de la fédération | r_social_tie
+karatéka de la fédération | r_social_tie
+entraîneur de la fédération | r_social_tie
+coach de la équipe | r_social_tie
+préparateur de la équipe | r_social_tie
+arbitre de la fédération | r_social_tie
+juge de la compétition | r_social_tie
+chef d'un groupe | r_social_tie
+directeur d'un service | r_social_tie
+président d'un conseil | r_social_tie
+patron d'un établissement | r_social_tie
+responsable d'un projet | r_social_tie
+dirigeant d'un parti | r_social_tie
+gérant d'un hôtel | r_social_tie
+manager d'un équipe | r_social_tie
+superviseur d'un site | r_social_tie
+coordinateur d'un événement | r_social_tie
+leader d'un mouvement | r_social_tie
+capitaine d'un vaisseau | r_social_tie
+commandant d'un poste | r_social_tie
+général d'un armée | r_social_tie
+colonel d'un régiment | r_social_tie
+major d'un bataillon | r_social_tie
+lieutenant d'un détachement | r_social_tie
+sergent d'un escouade | r_social_tie
+caporal d'un section | r_social_tie
+soldat d'un régiment | r_social_tie
+membre d'un comité | r_social_tie
+père d'un famille | r_social_tie
+mère d'un foyer | r_social_tie
+fils d'un père | r_social_tie
+fille d'un père | r_social_tie
+frère d'un famille | r_social_tie
+sœur d'un famille | r_social_tie
+grand-père d'un lignée | r_social_tie
+grand-mère d'un lignée | r_social_tie
+oncle d'un famille | r_social_tie
+tante d'un famille | r_social_tie
+cousin d'un cousin | r_social_tie
+neveu d'un oncle | r_social_tie
+nièce d'un oncle | r_social_tie
+parrain d'un enfant | r_social_tie
+marraine d'un enfant | r_social_tie
+filleul d'un parrain | r_social_tie
+filleule d'un parrain | r_social_tie
+époux d'un mariage | r_social_tie
+mari d'un couple | r_social_tie
+femme d'un couple | r_social_tie
+conjoint d'un couple | r_social_tie
+compagnon d'un relation | r_social_tie
+fiancé d'un engagement | r_social_tie
+petit-ami d'un fille | r_social_tie
+amant d'un femme | r_social_tie
+ami d'un personne | r_social_tie
+camarade d'un élève | r_social_tie
+copain d'un garçon | r_social_tie
+collègue d'un collègue | r_social_tie
+confrère d'un confrère | r_social_tie
+consœur d'un consœur | r_social_tie
+associé d'un société | r_social_tie
+partenaire d'un projet | r_social_tie
+collaborateur d'un projet | r_social_tie
+coéquipier d'un joueur | r_social_tie
+complice d'un plan | r_social_tie
+allié d'un guerre | r_social_tie
+partisan d'un chef | r_social_tie
+adhérent d'un club | r_social_tie
+militant d'un parti | r_social_tie
+sympathisant d'un mouvement | r_social_tie
+supporter d'un joueur | r_social_tie
+fan d'un groupe | r_social_tie
+admirateur d'un artiste | r_social_tie
+disciple d'un philosophe | r_social_tie
+élève d'un maître | r_social_tie
+étudiant d'un professeur | r_social_tie
+écolier d'un instituteur | r_social_tie
+apprenant d'un formateur | r_social_tie
+stagiaire d'un entreprise | r_social_tie
+apprenti d'un artisan | r_social_tie
+novice d'un ordre | r_social_tie
+débutant d'un métier | r_social_tie
+professeur d'un élève | r_social_tie
+enseignant d'un classe | r_social_tie
+instituteur d'un école | r_social_tie
+maître d'un atelier | r_social_tie
+formateur d'un centre | r_social_tie
+instructeur d'un académie | r_social_tie
+tuteur d'un étudiant | r_social_tie
+mentor d'un jeune | r_social_tie
+guide d'un touriste | r_social_tie
+conseiller d'un personne | r_social_tie
+expert d'un domaine | r_social_tie
+spécialiste d'un secteur | r_social_tie
+consultant d'un société | r_social_tie
+médecin d'un hôpital | r_social_tie
+docteur d'un clinique | r_social_tie
+infirmier d'un service | r_social_tie
+chirurgien d'un service | r_social_tie
+dentiste d'un cabinet | r_social_tie
+pharmacien d'un pharmacie | r_social_tie
+thérapeute d'un centre | r_social_tie
+psychologue d'un cabinet | r_social_tie
+psychiatre d'un hôpital | r_social_tie
+avocat d'un cabinet | r_social_tie
+notaire d'un office | r_social_tie
+juge d'un tribunal | r_social_tie
+procureur d'un tribunal | r_social_tie
+magistrat d'un tribunal | r_social_tie
+huissier d'un tribunal | r_social_tie
+greffier d'un tribunal | r_social_tie
+policier d'un commissariat | r_social_tie
+gendarme d'un gendarmerie | r_social_tie
+inspecteur d'un police | r_social_tie
+détective d'un bureau | r_social_tie
+garde d'un bâtiment | r_social_tie
+vigile d'un site | r_social_tie
+pompier d'un caserne | r_social_tie
+sauveteur d'un station | r_social_tie
+secouriste d'un poste | r_social_tie
+prêtre d'un église | r_social_tie
+pasteur d'un église | r_social_tie
+imam d'un mosquée | r_social_tie
+rabbin d'un synagogue | r_social_tie
+moine d'un monastère | r_social_tie
+religieux d'un communauté | r_social_tie
+évêque d'un diocèse | r_social_tie
+cardinal d'un église | r_social_tie
+pape d'un église | r_social_tie
+maire d'un commune | r_social_tie
+député d'un circonscription | r_social_tie
+sénateur d'un département | r_social_tie
+ministre d'un ministère | r_social_tie
+secrétaire d'un ministère | r_social_tie
+conseiller d'un maire | r_social_tie
+préfet d'un préfecture | r_social_tie
+ambassadeur d'un pays | r_social_tie
+consul d'un pays | r_social_tie
+diplomate d'un pays | r_social_tie
+fonctionnaire d'un administration | r_social_tie
+employé d'un entreprise | r_social_tie
+agent d'un service | r_social_tie
+ouvrier d'un chantier | r_social_tie
+artisan d'un métier | r_social_tie
+commerçant d'un commerce | r_social_tie
+vendeur d'un magasin | r_social_tie
+caissier d'un magasin | r_social_tie
+serveur d'un café | r_social_tie
+cuisinier d'un restaurant | r_social_tie
+chef d'un restaurant | r_social_tie
+pâtissier d'un boutique | r_social_tie
+boulanger d'un boulangerie | r_social_tie
+boucher d'un boucherie | r_social_tie
+poissonnier d'un marché | r_social_tie
+épicier d'un épicerie | r_social_tie
+libraire d'un librairie | r_social_tie
+fleuriste d'un magasin | r_social_tie
+coiffeur d'un salon | r_social_tie
+esthéticienne d'un salon | r_social_tie
+banquier d'un banque | r_social_tie
+comptable d'un cabinet | r_social_tie
+économiste d'un institut | r_social_tie
+financier d'un banque | r_social_tie
+trader d'un banque | r_social_tie
+courtier d'un société | r_social_tie
+agent d'un compagnie | r_social_tie
+assureur d'un compagnie | r_social_tie
+architecte d'un bureau | r_social_tie
+ingénieur d'un bureau | r_social_tie
+technicien d'un bureau | r_social_tie
+mécanicien d'un atelier | r_social_tie
+électricien d'un société | r_social_tie
+plombier d'un société | r_social_tie
+maçon d'un entreprise | r_social_tie
+charpentier d'un entreprise | r_social_tie
+menuisier d'un entreprise | r_social_tie
+peintre d'un entreprise | r_social_tie
+jardinier d'un propriété | r_social_tie
+paysagiste d'un société | r_social_tie
+agriculteur d'un exploitation | r_social_tie
+éleveur d'un exploitation | r_social_tie
+berger d'un troupeau | r_social_tie
+paysan d'un ferme | r_social_tie
+vigneron d'un domaine | r_social_tie
+viticulteur d'un domaine | r_social_tie
+pêcheur d'un port | r_social_tie
+marin d'un navire | r_social_tie
+capitaine d'un navire | r_social_tie
+pilote d'un avion | r_social_tie
+steward d'un vol | r_social_tie
+hôtesse d'un vol | r_social_tie
+conducteur d'un train | r_social_tie
+chauffeur d'un bus | r_social_tie
+routier d'un société | r_social_tie
+livreur d'un entreprise | r_social_tie
+facteur d'un poste | r_social_tie
+postier d'un bureau | r_social_tie
+journaliste d'un journal | r_social_tie
+reporter d'un journal | r_social_tie
+rédacteur d'un magazine | r_social_tie
+éditeur d'un édition | r_social_tie
+écrivain d'un livre | r_social_tie
+auteur d'un œuvre | r_social_tie
+poète d'un recueil | r_social_tie
+romancier d'un roman | r_social_tie
+dramaturge d'un pièce | r_social_tie
+scénariste d'un film | r_social_tie
+réalisateur d'un film | r_social_tie
+metteur d'un scène | r_social_tie
+acteur d'un film | r_social_tie
+comédien d'un spectacle | r_social_tie
+artiste d'un galerie | r_social_tie
+chanteur d'un chanson | r_social_tie
+musicien d'un groupe | r_social_tie
+compositeur d'un symphonie | r_social_tie
+chef d'un orchestre | r_social_tie
+soliste d'un opéra | r_social_tie
+danseur d'un spectacle | r_social_tie
+chorégraphe d'un spectacle | r_social_tie
+peintre d'un tableau | r_social_tie
+sculpteur d'un œuvre | r_social_tie
+photographe d'un photo | r_social_tie
+dessinateur d'un dessin | r_social_tie
+illustrateur d'un illustration | r_social_tie
+graphiste d'un projet | r_social_tie
+designer d'un projet | r_social_tie
+styliste d'un collection | r_social_tie
+couturier d'un robe | r_social_tie
+modéliste d'un patron | r_social_tie
+mannequin d'un défilé | r_social_tie
+sportif d'un club | r_social_tie
+athlète d'un équipe | r_social_tie
+joueur d'un équipe | r_social_tie
+footballeur d'un club | r_social_tie
+basketteur d'un équipe | r_social_tie
+tennismann d'un club | r_social_tie
+cycliste d'un équipe | r_social_tie
+nageur d'un équipe | r_social_tie
+skieur d'un club | r_social_tie
+boxeur d'un salle | r_social_tie
+judoka d'un club | r_social_tie
+karatéka d'un dojo | r_social_tie
+entraîneur d'un équipe | r_social_tie
+coach d'un athlète | r_social_tie
+préparateur d'un athlète | r_social_tie
+arbitre d'un match | r_social_tie
+juge d'un épreuve | r_social_tie
+chef d'une équipe | r_social_tie
+directeur d'une société | r_social_tie
+président d'une association | r_social_tie
+patron d'une entreprise | r_social_tie
+responsable d'une section | r_social_tie
+dirigeant d'une organisation | r_social_tie
+gérant d'une boutique | r_social_tie
+manager d'une équipe | r_social_tie
+superviseur d'une production | r_social_tie
+coordinateur d'une mission | r_social_tie
+leader d'une révolution | r_social_tie
+capitaine d'une équipe | r_social_tie
+commandant d'une troupe | r_social_tie
+général d'une division | r_social_tie
+colonel d'une garnison | r_social_tie
+major d'une promotion | r_social_tie
+lieutenant d'une compagnie | r_social_tie
+sergent d'une garde | r_social_tie
+caporal d'une patrouille | r_social_tie
+soldat d'une armée | r_social_tie
+membre d'une famille | r_social_tie
+père d'une famille | r_social_tie
+mère d'une famille | r_social_tie
+fils d'une mère | r_social_tie
+fille d'une mère | r_social_tie
+frère d'une sœur | r_social_tie
+sœur d'une famille | r_social_tie
+grand-père d'une famille | r_social_tie
+grand-mère d'une famille | r_social_tie
+oncle d'une famille | r_social_tie
+tante d'une famille | r_social_tie
+cousin d'une famille | r_social_tie
+neveu d'une tante | r_social_tie
+nièce d'une tante | r_social_tie
+parrain d'une enfant | r_social_tie
+marraine d'une enfant | r_social_tie
+filleul d'une marraine | r_social_tie
+filleule d'une marraine | r_social_tie
+époux d'une femme | r_social_tie
+mari d'une épouse | r_social_tie
+femme d'une famille | r_social_tie
+conjoint d'une personne | r_social_tie
+compagnon d'une femme | r_social_tie
+fiancé d'une promise | r_social_tie
+petit-ami d'une fille | r_social_tie
+amant d'une femme | r_social_tie
+ami d'une personne | r_social_tie
+camarade d'une classe | r_social_tie
+copain d'une bande | r_social_tie
+collègue d'une entreprise | r_social_tie
+confrère d'une profession | r_social_tie
+consœur d'une corporation | r_social_tie
+associé d'une firme | r_social_tie
+partenaire d'une affaire | r_social_tie
+collaborateur d'une équipe | r_social_tie
+coéquipier d'une formation | r_social_tie
+complice d'une affaire | r_social_tie
+allié d'une coalition | r_social_tie
+partisan d'une cause | r_social_tie
+adhérent d'une association | r_social_tie
+militant d'une lutte | r_social_tie
+sympathisant d'une cause | r_social_tie
+supporter d'une équipe | r_social_tie
+fan d'une star | r_social_tie
+admirateur d'une diva | r_social_tie
+disciple d'une doctrine | r_social_tie
+élève d'une école | r_social_tie
+étudiant d'une faculté | r_social_tie
+écolier d'une classe | r_social_tie
+apprenant d'une école | r_social_tie
+stagiaire d'une entreprise | r_social_tie
+apprenti d'une corporation | r_social_tie
+novice d'une congrégation | r_social_tie
+débutant d'une carrière | r_social_tie
+professeur d'une faculté | r_social_tie
+enseignant d'une école | r_social_tie
+instituteur d'une classe | r_social_tie
+maître d'une école | r_social_tie
+formateur d'une école | r_social_tie
+instructeur d'une école | r_social_tie
+tuteur d'une école | r_social_tie
+mentor d'une carrière | r_social_tie
+guide d'une expédition | r_social_tie
+conseiller d'une orientation | r_social_tie
+expert d'une cour | r_social_tie
+spécialiste d'une matière | r_social_tie
+consultant d'une firme | r_social_tie

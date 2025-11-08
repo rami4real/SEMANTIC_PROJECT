@@ -1,0 +1,1527 @@
+ouverture de la porte | r_processus>patient
+fermeture de la fenêtre | r_processus>patient
+cassure du verre | r_processus>patient
+rupture du câble | r_processus>patient
+bris de la vitre | r_processus>patient
+coupure du fil | r_processus>patient
+éclatement du ballon | r_processus>patient
+explosion du moteur | r_processus>patient
+déchirure du tissu | r_processus>patient
+usure de la roue | r_processus>patient
+corrosion du métal | r_processus>patient
+fusion du métal | r_processus>patient
+oxydation du fer | r_processus>patient
+mouillage du papier | r_processus>patient
+chauffage de l’eau | r_processus>patient
+refroidissement de l’air | r_processus>patient
+évaporation de l’eau | r_processus>patient
+condensation de la vapeur | r_processus>patient
+cristallisation du sel | r_processus>patient
+ébullition du liquide | r_processus>patient
+mouvement du levier | r_processus>patient
+rotation de la roue | r_processus>patient
+vibration du moteur | r_processus>patient
+oscillation du pendule | r_processus>patient
+chute de la pierre | r_processus>patient
+déplacement du véhicule | r_processus>patient
+arrêt du train | r_processus>patient
+démarrage du moteur | r_processus>patient
+atterrissage de l’avion | r_processus>patient
+décollage de l’avion | r_processus>patient
+freinage du camion | r_processus>patient
+accélération de la voiture | r_processus>patient
+ralentissement du bus | r_processus>patient
+arrêt de la machine | r_processus>patient
+activation du système | r_processus>patient
+désactivation du dispositif | r_processus>patient
+mise en marche du moteur | r_processus>patient
+allumage de la lampe | r_processus>patient
+extinction de la lumière | r_processus>patient
+allumage du feu | r_processus>patient
+éclatement du pneu | r_processus>patient
+percement du mur | r_processus>patient
+creusement du trou | r_processus>patient
+remplissage du réservoir | r_processus>patient
+vidage de la bouteille | r_processus>patient
+déplacement du meuble | r_processus>patient
+transport du colis | r_processus>patient
+déchargement du camion | r_processus>patient
+chargement de la voiture | r_processus>patient
+lavage du linge | r_processus>patient
+nettoyage de la table | r_processus>patient
+essuyage du verre | r_processus>patient
+balayage du sol | r_processus>patient
+repassage de la chemise | r_processus>patient
+pliage de la serviette | r_processus>patient
+découpage du papier | r_processus>patient
+collage de l’affiche | r_processus>patient
+peinture du mur | r_processus>patient
+vernissage du meuble | r_processus>patient
+décoration de la salle | r_processus>patient
+aménagement du bureau | r_processus>patient
+rénovation de la maison | r_processus>patient
+construction du bâtiment | r_processus>patient
+démolition du mur | r_processus>patient
+réparation de la machine | r_processus>patient
+entretien du jardin | r_processus>patient
+tonte du gazon | r_processus>patient
+arrosage des plantes | r_processus>patient
+taille de la haie | r_processus>patient
+nettoyage du bassin | r_processus>patient
+vidange du réservoir | r_processus>patient
+remplissage du seau | r_processus>patient
+mélange du ciment | r_processus>patient
+application de la peinture | r_processus>patient
+fixation du cadre | r_processus>patient
+assemblage du meuble | r_processus>patient
+désassemblage du moteur | r_processus>patient
+remontage de la montre | r_processus>patient
+lubrification du mécanisme | r_processus>patient
+graissage de la chaîne | r_processus>patient
+entretien de la bicyclette | r_processus>patient
+révision du moteur | r_processus>patient
+remplacement du filtre | r_processus>patient
+nettoyage du carburateur | r_processus>patient
+vidange de l’huile | r_processus>patient
+changement de la roue | r_processus>patient
+remontage de la roue | r_processus>patient
+démontage du pneu | r_processus>patient
+installation du logiciel | r_processus>patient
+désinstallation du programme | r_processus>patient
+mise à jour du système | r_processus>patient
+réinitialisation de l’appareil | r_processus>patient
+sauvegarde du fichier | r_processus>patient
+suppression du document | r_processus>patient
+ouverture du dossier | r_processus>patient
+fermeture du fichier | r_processus>patient
+compression du dossier | r_processus>patient
+transfert du message | r_processus>patient
+envoi du courriel | r_processus>patient
+réception du courrier | r_processus>patient
+affichage de la page | r_processus>patient
+chargement du site | r_processus>patient
+téléchargement du fichier | r_processus>patient
+impression du document | r_processus>patient
+numérisation de la photo | r_processus>patient
+copie du texte | r_processus>patient
+collage du texte | r_processus>patient
+effacement du tableau | r_processus>patient
+écriture de la phrase | r_processus>patient
+lecture du livre | r_processus>patient
+traduction du texte | r_processus>patient
+correction de la faute | r_processus>patient
+analyse du mot | r_processus>patient
+extraction du mot | r_processus>patient
+suppression du mot | r_processus>patient
+ajout du mot | r_processus>patient
+remplacement du mot | r_processus>patient
+modification du texte | r_processus>patient
+édition du document | r_processus>patient
+impression de la page | r_processus>patient
+publication du livre | r_processus>patient
+diffusion du message | r_processus>patient
+enregistrement du son | r_processus>patient
+lecture du disque | r_processus>patient
+gravure du disque | r_processus>patient
+effacement de la piste | r_processus>patient
+répétition du morceau | r_processus>patient
+interprétation de la chanson | r_processus>patient
+diffusion du film | r_processus>patient
+projection du film | r_processus>patient
+montage du film | r_processus>patient
+tournage du film | r_processus>patient
+prise du plan | r_processus>patient
+capture de l’image | r_processus>patient
+retouche de la photo | r_processus>patient
+correction de la couleur | r_processus>patient
+ajustement du contraste | r_processus>patient
+réduction du bruit | r_processus>patient
+amélioration de la netteté | r_processus>patient
+stabilisation de l’image | r_processus>patient
+exportation du fichier | r_processus>patient
+sauvegarde du projet | r_processus>patient
+fermeture du programme | r_processus>patient
+arrêt du serveur | r_processus>patient
+redémarrage du système | r_processus>patient
+activation du service | r_processus>patient
+désactivation du service | r_processus>patient
+connexion du câble | r_processus>patient
+déconnexion du câble | r_processus>patient
+transmission du signal | r_processus>patient
+réception du signal | r_processus>patient
+interruption du courant | r_processus>patient
+passage du courant | r_processus>patient
+augmentation de la tension | r_processus>patient
+diminution de la température | r_processus>patient
+variation de la pression | r_processus>patient
+circulation de l’air | r_processus>patient
+filtration de l’eau | r_processus>patient
+purification du liquide | r_processus>patient
+désinfection de la surface | r_processus>patient
+stérilisation du matériel | r_processus>patient
+contamination de l’eau | r_processus>patient
+pollution de l’air | r_processus>patient
+nettoyage de la rivière | r_processus>patient
+épuration de l’eau | r_processus>patient
+traitement du déchet | r_processus>patient
+recyclage du plastique | r_processus>patient
+compostage du déchet | r_processus>patient
+incinération du déchet | r_processus>patient
+collecte de l’ordure | r_processus>patient
+tri du papier | r_processus>patient
+emballage du produit | r_processus>patient
+ouverture du colis | r_processus>patient
+livraison du paquet | r_processus>patient
+réception de la commande | r_processus>patient
+distribution du courrier | r_processus>patient
+transport du passager | r_processus>patient
+déplacement du train | r_processus>patient
+stationnement de la voiture | r_processus>patient
+arrêt du bus | r_processus>patient
+ouverture de porte | r_processus>patient
+fermeture de fenêtre | r_processus>patient
+cuisson de viande | r_processus>patient
+lavage de linge | r_processus>patient
+réparation de voiture | r_processus>patient
+nettoyage de sol | r_processus>patient
+construction de maison | r_processus>patient
+destruction de bâtiment | r_processus>patient
+plantation de arbre | r_processus>patient
+récolte de fruit | r_processus>patient
+coupe de cheveu | r_processus>patient
+peinture de mur | r_processus>patient
+lecture de livre | r_processus>patient
+écriture de lettre | r_processus>patient
+signature de contrat | r_processus>patient
+validation de document | r_processus>patient
+archivage de dossier | r_processus>patient
+impression de texte | r_processus>patient
+numérisation de photo | r_processus>patient
+suppression de fichier | r_processus>patient
+installation de logiciel | r_processus>patient
+mise à jour de système | r_processus>patient
+sauvegarde de donnée | r_processus>patient
+restauration de base | r_processus>patient
+chiffrement de message | r_processus>patient
+déchiffrement de code | r_processus>patient
+compression de archive | r_processus>patient
+décompression de paquet | r_processus>patient
+téléchargement de application | r_processus>patient
+envoi de courriel | r_processus>patient
+réception de colis | r_processus>patient
+livraison de marchandise | r_processus>patient
+expédition de paquet | r_processus>patient
+transport de bagage | r_processus>patient
+chargement de camion | r_processus>patient
+déchargement de container | r_processus>patient
+stockage de produit | r_processus>patient
+rangement de outil | r_processus>patient
+classement de papier | r_processus>patient
+tri de déchet | r_processus>patient
+recyclage de plastique | r_processus>patient
+incinération de ordure | r_processus>patient
+compostage de reste | r_processus>patient
+broyage de branche | r_processus>patient
+découpage de planche | r_processus>patient
+sciage de bois | r_processus>patient
+ponçage de surface | r_processus>patient
+vernissage de meuble | r_processus>patient
+polissage de métal | r_processus>patient
+soudure de pièce | r_processus>patient
+assemblage de composant | r_processus>patient
+montage de structure | r_processus>patient
+démontage de appareil | r_processus>patient
+désassemblage de moteur | r_processus>patient
+révision de machine | r_processus>patient
+entretien de équipement | r_processus>patient
+graissage de mécanisme | r_processus>patient
+huilage de chaîne | r_processus>patient
+gonflage de pneu | r_processus>patient
+dégonflage de ballon | r_processus>patient
+remplissage de réservoir | r_processus>patient
+vidange de cuve | r_processus>patient
+drainage de terrain | r_processus>patient
+irrigation de champ | r_processus>patient
+arrosage de plante | r_processus>patient
+taille de haie | r_processus>patient
+tonte de pelouse | r_processus>patient
+désherbage de jardin | r_processus>patient
+bêchage de terre | r_processus>patient
+labourage de sol | r_processus>patient
+hersage de parcelle | r_processus>patient
+semis de graine | r_processus>patient
+repiquage de plant | r_processus>patient
+greffe de branche | r_processus>patient
+élagage de arbre | r_processus>patient
+abattage de tronc | r_processus>patient
+débroussaillage de zone | r_processus>patient
+défrichement de terrain | r_processus>patient
+nivellement de surface | r_processus>patient
+terrassement de site | r_processus>patient
+ouverture du robinet | r_processus>patient
+fermeture du volet | r_processus>patient
+allumage du four | r_processus>patient
+extinction du feu | r_processus>patient
+réglage du thermostat | r_processus>patient
+démarrage du moteur | r_processus>patient
+arrêt du véhicule | r_processus>patient
+freinage du train | r_processus>patient
+accélération du bolide | r_processus>patient
+ralentissement du convoi | r_processus>patient
+stationnement du camion | r_processus>patient
+remorquage du véhicule | r_processus>patient
+lavage du linge | r_processus>patient
+séchage du tissu | r_processus>patient
+repassage du vêtement | r_processus>patient
+pliage du drap | r_processus>patient
+racommodage du pantalon | r_processus>patient
+rapiéçage du manteau | r_processus>patient
+détachage du chemisier | r_processus>patient
+blanchiment du linge | r_processus>patient
+teinture du textile | r_processus>patient
+décoloration du tissu | r_processus>patient
+essorage du linge | r_processus>patient
+rinçage du vêtement | r_processus>patient
+trempage du linge | r_processus>patient
+brossage du manteau | r_processus>patient
+dépoussiérage du meuble | r_processus>patient
+cirage du parquet | r_processus>patient
+balayage du sol | r_processus>patient
+lavage du carrelage | r_processus>patient
+récurage du plan | r_processus>patient
+débouchage du évier | r_processus>patient
+détartrage du robinet | r_processus>patient
+désinfection du sanitaire | r_processus>patient
+javellisation du mur | r_processus>patient
+aération du local | r_processus>patient
+chauffage du logement | r_processus>patient
+refroidissement du bâtiment | r_processus>patient
+climatisation du bureau | r_processus>patient
+ventilation du grenier | r_processus>patient
+isolation du toit | r_processus>patient
+étanchéification du mur | r_processus>patient
+crépissage du façade | r_processus>patient
+ravalement du immeuble | r_processus>patient
+rejointoiement du mur | r_processus>patient
+plâtrage du plafond | r_processus>patient
+carrelage du sol | r_processus>patient
+dallage du terrain | r_processus>patient
+pavage du chemin | r_processus>patient
+goudronnage du route | r_processus>patient
+bétonnage du sol | r_processus>patient
+coulage du béton | r_processus>patient
+coffrage du mur | r_processus>patient
+ferraillage du dalle | r_processus>patient
+armature du poteau | r_processus>patient
+scellement du portail | r_processus>patient
+fixation du panneau | r_processus>patient
+clouage du planche | r_processus>patient
+vissage du cadre | r_processus>patient
+collage du papier | r_processus>patient
+agrafage du document | r_processus>patient
+perforation du feuille | r_processus>patient
+découpage du carton | r_processus>patient
+pliage du papier | r_processus>patient
+froissage du tissu | r_processus>patient
+défroissage du linge | r_processus>patient
+aplatissement du carton | r_processus>patient
+roulage du tapis | r_processus>patient
+déroulement du câble | r_processus>patient
+enroulement du fil | r_processus>patient
+dévissement du boulon | r_processus>patient
+serrage du écrou | r_processus>patient
+desserrage du joint | r_processus>patient
+ajustement du mécanisme | r_processus>patient
+calibrage du instrument | r_processus>patient
+étalonnage du appareil | r_processus>patient
+vérification du système | r_processus>patient
+contrôle du dispositif | r_processus>patient
+inspection du matériel | r_processus>patient
+examen du produit | r_processus>patient
+ouverture de la boîte | r_processus>patient
+fermeture de la valise | r_processus>patient
+cuisson de la pâte | r_processus>patient
+préparation de la sauce | r_processus>patient
+découpe de la viande | r_processus>patient
+hachage de la chair | r_processus>patient
+mixage de la préparation | r_processus>patient
+pétrissage de la pâte | r_processus>patient
+levée de la pâte | r_processus>patient
+cuisson de la pizza | r_processus>patient
+friture de la pomme | r_processus>patient
+ébullition de la eau | r_processus>patient
+congélation de la soupe | r_processus>patient
+décongélation de la viande | r_processus>patient
+marinade de la volaille | r_processus>patient
+assaisonnement de la salade | r_processus>patient
+épluchage de la carotte | r_processus>patient
+lavage de la laitue | r_processus>patient
+essorage de la salade | r_processus>patient
+extraction de la pulpe | r_processus>patient
+pressage de la orange | r_processus>patient
+filtration de la boisson | r_processus>patient
+distillation de la eau | r_processus>patient
+pasteurisation de la lait | r_processus>patient
+stérilisation de la conserve | r_processus>patient
+fermentation de la pâte | r_processus>patient
+maturation de la fromage | r_processus>patient
+affinage de la charcuterie | r_processus>patient
+fumage de la viande | r_processus>patient
+salaison de la chair | r_processus>patient
+séchage de la herbe | r_processus>patient
+déshydratation de la fruit | r_processus>patient
+lyophilisation de la substance | r_processus>patient
+torréfaction de la graine | r_processus>patient
+mouture de la café | r_processus>patient
+broyage de la épice | r_processus>patient
+pilage de la ail | r_processus>patient
+râpage de la fromage | r_processus>patient
+émincage de la oignon | r_processus>patient
+ciselage de la herbe | r_processus>patient
+fouettage de la crème | r_processus>patient
+montage de la neige | r_processus>patient
+incorporation de la farine | r_processus>patient
+mélange de la préparation | r_processus>patient
+dilution de la solution | r_processus>patient
+dissolution de la poudre | r_processus>patient
+émulsion de la sauce | r_processus>patient
+réduction de la sauce | r_processus>patient
+clarification de la gelée | r_processus>patient
+glaçage de la pâtisserie | r_processus>patient
+nappement de la tarte | r_processus>patient
+décoration de la gâteau | r_processus>patient
+dressage de la assiette | r_processus>patient
+présentation de la plat | r_processus>patient
+réparation de la chaussure | r_processus>patient
+ressemelage de la botte | r_processus>patient
+couture de la robe | r_processus>patient
+broderie de la nappe | r_processus>patient
+tricotage de la écharpe | r_processus>patient
+tissage de la toile | r_processus>patient
+filage de la laine | r_processus>patient
+cardage de la fibre | r_processus>patient
+peignage de la bourre | r_processus>patient
+blanchiment de la toile | r_processus>patient
+impression de la tissu | r_processus>patient
+teinture de la laine | r_processus>patient
+fixation de la couleur | r_processus>patient
+délavage de la jean | r_processus>patient
+stonewashing de la toile | r_processus>patient
+froissage de la étoffe | r_processus>patient
+calandrage de la tissu | r_processus>patient
+apprêtage de la étoffe | r_processus>patient
+mercerisation de la coton | r_processus>patient
+feutrage de la laine | r_processus>patient
+imperméabilisation de la toile | r_processus>patient
+ignifugation de la tissu | r_processus>patient
+découpe de la toile | r_processus>patient
+coupe de la tissu | r_processus>patient
+taille de la patron | r_processus>patient
+assemblage de la pièce | r_processus>patient
+ouverture d'enveloppe | r_processus>patient
+fermeture d'usine | r_processus>patient
+construction d'immeuble | r_processus>patient
+démolition d'édifice | r_processus>patient
+rénovation d'appartement | r_processus>patient
+aménagement d'espace | r_processus>patient
+décoration d'intérieur | r_processus>patient
+restauration d'objet | r_processus>patient
+conservation d'artefact | r_processus>patient
+préservation d'œuvre | r_processus>patient
+nettoyage d'objet | r_processus>patient
+dépoussiérage d'antiquité | r_processus>patient
+assainissement d'habitat | r_processus>patient
+purification d'air | r_processus>patient
+filtration d'eau | r_processus>patient
+épuration d'effluent | r_processus>patient
+traitement d'eau | r_processus>patient
+potabilisation d'eau | r_processus>patient
+désinfection d'eau | r_processus>patient
+chloration d'eau | r_processus>patient
+ozonation d'eau | r_processus>patient
+floculation d'eau | r_processus>patient
+décantation d'eau | r_processus>patient
+coagulation d'eau | r_processus>patient
+adoucissement d'eau | r_processus>patient
+déminéralisation d'eau | r_processus>patient
+osmose d'eau | r_processus>patient
+ultrafiltration d'eau | r_processus>patient
+acidification d'eau | r_processus>patient
+alcalinisation d'eau | r_processus>patient
+neutralisation d'effluent | r_processus>patient
+oxydation d'eau | r_processus>patient
+réduction d'eau | r_processus>patient
+précipitation d'eau | r_processus>patient
+cristallisation d'eau | r_processus>patient
+sublimation d'eau | r_processus>patient
+évaporation d'eau | r_processus>patient
+condensation d'eau | r_processus>patient
+liquéfaction d'air | r_processus>patient
+solidification d'eau | r_processus>patient
+fusion d'eau | r_processus>patient
+vaporisation d'eau | r_processus>patient
+ionisation d'air | r_processus>patient
+magnétisation d'eau | r_processus>patient
+électrification d'air | r_processus>patient
+irradiation d'aliment | r_processus>patient
+illumination d'espace | r_processus>patient
+éclairage d'endroit | r_processus>patient
+assombrissement d'endroit | r_processus>patient
+occultation d'ouverture | r_processus>patient
+obturation d'ouverture | r_processus>patient
+bouchage d'ouverture | r_processus>patient
+colmatage d'ouverture | r_processus>patient
+calfeutrage d'ouverture | r_processus>patient
+étanchéification d'ouverture | r_processus>patient
+imperméabilisation d'ouverture | r_processus>patient
+isolation d'ouverture | r_processus>patient
+insonorisation d'espace | r_processus>patient
+capitonnage d'espace | r_processus>patient
+garnissage d'espace | r_processus>patient
+rembourrage d'objet | r_processus>patient
+matelassage d'objet | r_processus>patient
+bourrage d'objet | r_processus>patient
+remplissage d'objet | r_processus>patient
+vidage d'objet | r_processus>patient
+évacuation d'eau | r_processus>patient
+écoulement d'eau | r_processus>patient
+ruissellement d'eau | r_processus>patient
+percolation d'eau | r_processus>patient
+infiltration d'eau | r_processus>patient
+absorption d'eau | r_processus>patient
+imbibition d'objet | r_processus>patient
+saturation d'objet | r_processus>patient
+imprégnation d'objet | r_processus>patient
+trempage d'objet | r_processus>patient
+macération d'objet | r_processus>patient
+détrempement d'objet | r_processus>patient
+humidification d'air | r_processus>patient
+déshumidification d'air | r_processus>patient
+séchage d'air | r_processus>patient
+ouverture d'un coffre | r_processus>patient
+fermeture d'un tiroir | r_processus>patient
+installation d'un système | r_processus>patient
+désinstallation d'un programme | r_processus>patient
+configuration d'un appareil | r_processus>patient
+paramétrage d'un dispositif | r_processus>patient
+réglage d'un instrument | r_processus>patient
+ajustement d'un mécanisme | r_processus>patient
+calibrage d'un outil | r_processus>patient
+étalonnage d'un capteur | r_processus>patient
+activation d'un dispositif | r_processus>patient
+désactivation d'un système | r_processus>patient
+déclenchement d'un mécanisme | r_processus>patient
+enclenchement d'un système | r_processus>patient
+déverrouillage d'un cadenas | r_processus>patient
+verrouillage d'un coffre | r_processus>patient
+blocage d'un mécanisme | r_processus>patient
+déblocage d'un système | r_processus>patient
+démarrage d'un processus | r_processus>patient
+lancement d'un programme | r_processus>patient
+exécution d'un script | r_processus>patient
+interruption d'un processus | r_processus>patient
+suspension d'un programme | r_processus>patient
+reprise d'un processus | r_processus>patient
+redémarrage d'un système | r_processus>patient
+réinitialisation d'un appareil | r_processus>patient
+formatage d'un disque | r_processus>patient
+partitionnement d'un disque | r_processus>patient
+clonage d'un disque | r_processus>patient
+duplication d'un fichier | r_processus>patient
+copie d'un document | r_processus>patient
+déplacement d'un fichier | r_processus>patient
+renommage d'un fichier | r_processus>patient
+effacement d'un fichier | r_processus>patient
+récupération d'un fichier | r_processus>patient
+restauration d'un système | r_processus>patient
+reconstruction d'un fichier | r_processus>patient
+réparation d'un système | r_processus>patient
+optimisation d'un système | r_processus>patient
+défragmentation d'un disque | r_processus>patient
+nettoyage d'un disque | r_processus>patient
+vidage d'un cache | r_processus>patient
+purge d'un système | r_processus>patient
+analyse d'un fichier | r_processus>patient
+scan d'un document | r_processus>patient
+numérisation d'un document | r_processus>patient
+océrisation d'un document | r_processus>patient
+reconnaissance d'un texte | r_processus>patient
+indexation d'un document | r_processus>patient
+catalogage d'un livre | r_processus>patient
+référencement d'un site | r_processus>patient
+archivage d'un document | r_processus>patient
+stockage d'un fichier | r_processus>patient
+sauvegarde d'un fichier | r_processus>patient
+synchronisation d'un fichier | r_processus>patient
+transfert d'un fichier | r_processus>patient
+téléchargement d'un fichier | r_processus>patient
+téléversement d'un fichier | r_processus>patient
+envoi d'un message | r_processus>patient
+réception d'un message | r_processus>patient
+transmission d'un signal | r_processus>patient
+diffusion d'un signal | r_processus>patient
+émission d'un signal | r_processus>patient
+réception d'un signal | r_processus>patient
+amplification d'un signal | r_processus>patient
+atténuation d'un signal | r_processus>patient
+filtrage d'un signal | r_processus>patient
+modulation d'un signal | r_processus>patient
+démodulation d'un signal | r_processus>patient
+encodage d'un message | r_processus>patient
+décodage d'un message | r_processus>patient
+cryptage d'un message | r_processus>patient
+décryptage d'un message | r_processus>patient
+hachage d'un fichier | r_processus>patient
+signature d'un document | r_processus>patient
+certification d'un document | r_processus>patient
+validation d'un document | r_processus>patient
+vérification d'un document | r_processus>patient
+authentification d'un document | r_processus>patient
+horodatage d'un document | r_processus>patient
+ouverture d'une fenêtre | r_processus>patient
+fermeture d'une porte | r_processus>patient
+installation d'une application | r_processus>patient
+désinstallation d'une application | r_processus>patient
+configuration d'une machine | r_processus>patient
+initialisation d'une base | r_processus>patient
+création d'une table | r_processus>patient
+suppression d'une table | r_processus>patient
+modification d'une table | r_processus>patient
+mise à jour d'une table | r_processus>patient
+insertion d'une ligne | r_processus>patient
+extraction d'une ligne | r_processus>patient
+lecture d'une donnée | r_processus>patient
+écriture d'une donnée | r_processus>patient
+correction d'une erreur | r_processus>patient
+rectification d'une erreur | r_processus>patient
+résolution d'une erreur | r_processus>patient
+détection d'une erreur | r_processus>patient
+identification d'une erreur | r_processus>patient
+localisation d'une erreur | r_processus>patient
+isolation d'une erreur | r_processus>patient
+reproduction d'une erreur | r_processus>patient
+documentation d'une erreur | r_processus>patient
+compilation d'une source | r_processus>patient
+interprétation d'une source | r_processus>patient
+exécution d'une commande | r_processus>patient
+invocation d'une fonction | r_processus>patient
+appel d'une méthode | r_processus>patient
+instanciation d'une classe | r_processus>patient
+initialisation d'une variable | r_processus>patient
+déclaration d'une variable | r_processus>patient
+affectation d'une variable | r_processus>patient
+incrémentation d'une variable | r_processus>patient
+décrémentation d'une variable | r_processus>patient
+réinitialisation d'une variable | r_processus>patient
+conversion d'une donnée | r_processus>patient
+transformation d'une donnée | r_processus>patient
+normalisation d'une donnée | r_processus>patient
+standardisation d'une donnée | r_processus>patient
+validation d'une donnée | r_processus>patient
+sanitisation d'une donnée | r_processus>patient
+désinfection d'une surface | r_processus>patient
+stérilisation d'une surface | r_processus>patient
+pasteurisation d'une substance | r_processus>patient
+autoclavage d'une substance | r_processus>patient
+ébullition d'une substance | r_processus>patient
+chauffage d'une substance | r_processus>patient
+refroidissement d'une substance | r_processus>patient
+congélation d'une substance | r_processus>patient
+décongélation d'une substance | r_processus>patient
+surgélation d'une substance | r_processus>patient
+cryogénisation d'une substance | r_processus>patient
+lyophilisation d'une substance | r_processus>patient
+atomisation d'une substance | r_processus>patient
+nébulisation d'une substance | r_processus>patient
+pulvérisation d'une substance | r_processus>patient
+vaporisation d'une substance | r_processus>patient
+gazéification d'une substance | r_processus>patient
+liquéfaction d'une substance | r_processus>patient
+solidification d'une substance | r_processus>patient
+cristallisation d'une substance | r_processus>patient
+recristallisation d'une substance | r_processus>patient
+précipitation d'une substance | r_processus>patient
+sédimentation d'une substance | r_processus>patient
+centrifugation d'une substance | r_processus>patient
+ultracentrifugation d'une substance | r_processus>patient
+séparation d'une substance | r_processus>patient
+purification d'une substance | r_processus>patient
+raffinage d'une substance | r_processus>patient
+distillation d'une substance | r_processus>patient
+rectification d'une substance | r_processus>patient
+extraction d'une substance | r_processus>patient
+lixiviation d'une substance | r_processus>patient
+percolation d'une substance | r_processus>patient
+macération d'une substance | r_processus>patient
+infusion d'une substance | r_processus>patient
+décoction d'une substance | r_processus>patient
+digestion d'une substance | r_processus>patient
+hydrolyse d'une substance | r_processus>patient
+oxydation d'une substance | r_processus>patient
+brûlage de déchet | r_processus>patient
+combustion de matière | r_processus>patient
+calcination de minéral | r_processus>patient
+torréfaction de café | r_processus>patient
+grillage de viande | r_processus>patient
+rôtissage de poulet | r_processus>patient
+braiser de légume | r_processus>patient
+poêlage de poisson | r_processus>patient
+sauté de crevette | r_processus>patient
+blanchi de asperge | r_processus>patient
+pochage de œuf | r_processus>patient
+bouillir de pâte | r_processus>patient
+mijoter de ragoût | r_processus>patient
+réduire de sauce | r_processus>patient
+flambage de crêpe | r_processus>patient
+caramélisation de sucre | r_processus>patient
+confisage de fruit | r_processus>patient
+candissage de écorce | r_processus>patient
+glaçage de gâteau | r_processus>patient
+nappage de entremet | r_processus>patient
+trempage de biscuit | r_processus>patient
+imbibition de génoise | r_processus>patient
+fourrage de pâtisserie | r_processus>patient
+garnissage de tarte | r_processus>patient
+montage de entremet | r_processus>patient
+démoulage de gâteau | r_processus>patient
+refroidissement de préparation | r_processus>patient
+surgélation de plat | r_processus>patient
+réchauffage de repas | r_processus>patient
+maintien de température | r_processus>patient
+conservation de aliment | r_processus>patient
+emballage de produit | r_processus>patient
+conditionnement de marchandise | r_processus>patient
+ensachage de grain | r_processus>patient
+mise en boîte de conserve | r_processus>patient
+mise en pot de confiture | r_processus>patient
+mise en bouteille de vin | r_processus>patient
+embouteillage de liquide | r_processus>patient
+capsulage de bouteille | r_processus>patient
+bouchage de flacon | r_processus>patient
+étiquetage de produit | r_processus>patient
+marquage de colis | r_processus>patient
+codage de article | r_processus>patient
+pesage de marchandise | r_processus>patient
+mesure de quantité | r_processus>patient
+comptage de pièce | r_processus>patient
+inventaire de stock | r_processus>patient
+recensement de bien | r_processus>patient
+évaluation de marchandise | r_processus>patient
+estimation de valeur | r_processus>patient
+cotation de produit | r_processus>patient
+tarification de service | r_processus>patient
+facturation de prestation | r_processus>patient
+encaissement de paiement | r_processus>patient
+perception de taxe | r_processus>patient
+recouvrement de créance | r_processus>patient
+remboursement de somme | r_processus>patient
+versement de montant | r_processus>patient
+paiement de facture | r_processus>patient
+règlement de dette | r_processus>patient
+acquittement de charge | r_processus>patient
+prélèvement de somme | r_processus>patient
+retrait de argent | r_processus>patient
+dépôt de espèce | r_processus>patient
+virement de fonds | r_processus>patient
+transfert de montant | r_processus>patient
+conversion de devise | r_processus>patient
+change de monnaie | r_processus>patient
+échange de billet | r_processus>patient
+achat de marchandise | r_processus>patient
+vente de produit | r_processus>patient
+location de bien | r_processus>patient
+crédit de montant | r_processus>patient
+débit de compte | r_processus>patient
+inscription de écriture | r_processus>patient
+enregistrement de opération | r_processus>patient
+comptabilisation de mouvement | r_processus>patient
+saisie de donnée | r_processus>patient
+report de information | r_processus>patient
+transcription de texte | r_processus>patient
+traduction de document | r_processus>patient
+interprétation de texte | r_processus>patient
+annotation de document | r_processus>patient
+commentaire de texte | r_processus>patient
+révision de document | r_processus>patient
+relecture de texte | r_processus>patient
+ouverture de porte | r_processus>patient
+fermeture de fenêtre | r_processus>patient
+cuisson de viande | r_processus>patient
+lavage de linge | r_processus>patient
+réparation de voiture | r_processus>patient
+nettoyage de sol | r_processus>patient
+construction de maison | r_processus>patient
+destruction de bâtiment | r_processus>patient
+plantation de arbre | r_processus>patient
+récolte de fruit | r_processus>patient
+coupe de cheveu | r_processus>patient
+peinture de mur | r_processus>patient
+lecture de livre | r_processus>patient
+écriture de lettre | r_processus>patient
+signature de contrat | r_processus>patient
+validation de document | r_processus>patient
+archivage de dossier | r_processus>patient
+impression de texte | r_processus>patient
+numérisation de photo | r_processus>patient
+suppression de fichier | r_processus>patient
+installation de logiciel | r_processus>patient
+mise à jour de système | r_processus>patient
+sauvegarde de donnée | r_processus>patient
+restauration de base | r_processus>patient
+chiffrement de message | r_processus>patient
+déchiffrement de code | r_processus>patient
+compression de archive | r_processus>patient
+décompression de paquet | r_processus>patient
+téléchargement de application | r_processus>patient
+envoi de courriel | r_processus>patient
+réception de colis | r_processus>patient
+livraison de marchandise | r_processus>patient
+expédition de paquet | r_processus>patient
+transport de bagage | r_processus>patient
+chargement de camion | r_processus>patient
+déchargement de container | r_processus>patient
+stockage de produit | r_processus>patient
+rangement de outil | r_processus>patient
+classement de papier | r_processus>patient
+tri de déchet | r_processus>patient
+recyclage de plastique | r_processus>patient
+incinération de ordure | r_processus>patient
+compostage de reste | r_processus>patient
+broyage de branche | r_processus>patient
+découpage de planche | r_processus>patient
+sciage de bois | r_processus>patient
+ponçage de surface | r_processus>patient
+vernissage de meuble | r_processus>patient
+polissage de métal | r_processus>patient
+soudure de pièce | r_processus>patient
+assemblage de composant | r_processus>patient
+montage de structure | r_processus>patient
+démontage de appareil | r_processus>patient
+désassemblage de moteur | r_processus>patient
+révision de machine | r_processus>patient
+entretien de équipement | r_processus>patient
+graissage de mécanisme | r_processus>patient
+huilage de chaîne | r_processus>patient
+gonflage de pneu | r_processus>patient
+dégonflage de ballon | r_processus>patient
+remplissage de réservoir | r_processus>patient
+vidange de cuve | r_processus>patient
+drainage de terrain | r_processus>patient
+irrigation de champ | r_processus>patient
+arrosage de plante | r_processus>patient
+taille de haie | r_processus>patient
+tonte de pelouse | r_processus>patient
+désherbage de jardin | r_processus>patient
+bêchage de terre | r_processus>patient
+labourage de sol | r_processus>patient
+hersage de parcelle | r_processus>patient
+semis de graine | r_processus>patient
+repiquage de plant | r_processus>patient
+greffe de branche | r_processus>patient
+élagage de arbre | r_processus>patient
+abattage de tronc | r_processus>patient
+débroussaillage de zone | r_processus>patient
+défrichement de terrain | r_processus>patient
+nivellement de surface | r_processus>patient
+terrassement de site | r_processus>patient
+ouverture du robinet | r_processus>patient
+fermeture du volet | r_processus>patient
+allumage du four | r_processus>patient
+extinction du feu | r_processus>patient
+réglage du thermostat | r_processus>patient
+démarrage du moteur | r_processus>patient
+arrêt du véhicule | r_processus>patient
+freinage du train | r_processus>patient
+accélération du bolide | r_processus>patient
+ralentissement du convoi | r_processus>patient
+stationnement du camion | r_processus>patient
+remorquage du véhicule | r_processus>patient
+lavage du linge | r_processus>patient
+séchage du tissu | r_processus>patient
+repassage du vêtement | r_processus>patient
+pliage du drap | r_processus>patient
+racommodage du pantalon | r_processus>patient
+rapiéçage du manteau | r_processus>patient
+détachage du chemisier | r_processus>patient
+blanchiment du linge | r_processus>patient
+teinture du textile | r_processus>patient
+décoloration du tissu | r_processus>patient
+essorage du linge | r_processus>patient
+rinçage du vêtement | r_processus>patient
+trempage du linge | r_processus>patient
+brossage du manteau | r_processus>patient
+dépoussiérage du meuble | r_processus>patient
+cirage du parquet | r_processus>patient
+balayage du sol | r_processus>patient
+lavage du carrelage | r_processus>patient
+récurage du plan | r_processus>patient
+débouchage du évier | r_processus>patient
+détartrage du robinet | r_processus>patient
+désinfection du sanitaire | r_processus>patient
+javellisation du mur | r_processus>patient
+aération du local | r_processus>patient
+chauffage du logement | r_processus>patient
+refroidissement du bâtiment | r_processus>patient
+climatisation du bureau | r_processus>patient
+ventilation du grenier | r_processus>patient
+isolation du toit | r_processus>patient
+étanchéification du mur | r_processus>patient
+crépissage du façade | r_processus>patient
+ravalement du immeuble | r_processus>patient
+rejointoiement du mur | r_processus>patient
+plâtrage du plafond | r_processus>patient
+carrelage du sol | r_processus>patient
+dallage du terrain | r_processus>patient
+pavage du chemin | r_processus>patient
+goudronnage du route | r_processus>patient
+bétonnage du sol | r_processus>patient
+coulage du béton | r_processus>patient
+coffrage du mur | r_processus>patient
+ferraillage du dalle | r_processus>patient
+armature du poteau | r_processus>patient
+scellement du portail | r_processus>patient
+fixation du panneau | r_processus>patient
+clouage du planche | r_processus>patient
+vissage du cadre | r_processus>patient
+collage du papier | r_processus>patient
+agrafage du document | r_processus>patient
+perforation du feuille | r_processus>patient
+découpage du carton | r_processus>patient
+pliage du papier | r_processus>patient
+froissage du tissu | r_processus>patient
+défroissage du linge | r_processus>patient
+aplatissement du carton | r_processus>patient
+roulage du tapis | r_processus>patient
+déroulement du câble | r_processus>patient
+enroulement du fil | r_processus>patient
+dévissement du boulon | r_processus>patient
+serrage du écrou | r_processus>patient
+desserrage du joint | r_processus>patient
+ajustement du mécanisme | r_processus>patient
+calibrage du instrument | r_processus>patient
+étalonnage du appareil | r_processus>patient
+vérification du système | r_processus>patient
+contrôle du dispositif | r_processus>patient
+inspection du matériel | r_processus>patient
+examen du produit | r_processus>patient
+ouverture de la boîte | r_processus>patient
+fermeture de la valise | r_processus>patient
+cuisson de la pâte | r_processus>patient
+préparation de la sauce | r_processus>patient
+découpe de la viande | r_processus>patient
+hachage de la chair | r_processus>patient
+mixage de la préparation | r_processus>patient
+pétrissage de la pâte | r_processus>patient
+levée de la pâte | r_processus>patient
+cuisson de la pizza | r_processus>patient
+friture de la pomme | r_processus>patient
+ébullition de la eau | r_processus>patient
+congélation de la soupe | r_processus>patient
+décongélation de la viande | r_processus>patient
+marinade de la volaille | r_processus>patient
+assaisonnement de la salade | r_processus>patient
+épluchage de la carotte | r_processus>patient
+lavage de la laitue | r_processus>patient
+essorage de la salade | r_processus>patient
+extraction de la pulpe | r_processus>patient
+pressage de la orange | r_processus>patient
+filtration de la boisson | r_processus>patient
+distillation de la eau | r_processus>patient
+pasteurisation de la lait | r_processus>patient
+stérilisation de la conserve | r_processus>patient
+fermentation de la pâte | r_processus>patient
+maturation de la fromage | r_processus>patient
+affinage de la charcuterie | r_processus>patient
+fumage de la viande | r_processus>patient
+salaison de la chair | r_processus>patient
+séchage de la herbe | r_processus>patient
+déshydratation de la fruit | r_processus>patient
+lyophilisation de la substance | r_processus>patient
+torréfaction de la graine | r_processus>patient
+mouture de la café | r_processus>patient
+broyage de la épice | r_processus>patient
+pilage de la ail | r_processus>patient
+râpage de la fromage | r_processus>patient
+émincage de la oignon | r_processus>patient
+ciselage de la herbe | r_processus>patient
+fouettage de la crème | r_processus>patient
+montage de la neige | r_processus>patient
+incorporation de la farine | r_processus>patient
+mélange de la préparation | r_processus>patient
+dilution de la solution | r_processus>patient
+dissolution de la poudre | r_processus>patient
+émulsion de la sauce | r_processus>patient
+réduction de la sauce | r_processus>patient
+clarification de la gelée | r_processus>patient
+glaçage de la pâtisserie | r_processus>patient
+nappement de la tarte | r_processus>patient
+décoration de la gâteau | r_processus>patient
+dressage de la assiette | r_processus>patient
+présentation de la plat | r_processus>patient
+réparation de la chaussure | r_processus>patient
+ressemelage de la botte | r_processus>patient
+couture de la robe | r_processus>patient
+broderie de la nappe | r_processus>patient
+tricotage de la écharpe | r_processus>patient
+tissage de la toile | r_processus>patient
+filage de la laine | r_processus>patient
+cardage de la fibre | r_processus>patient
+peignage de la bourre | r_processus>patient
+blanchiment de la toile | r_processus>patient
+impression de la tissu | r_processus>patient
+teinture de la laine | r_processus>patient
+fixation de la couleur | r_processus>patient
+délavage de la jean | r_processus>patient
+stonewashing de la toile | r_processus>patient
+froissage de la étoffe | r_processus>patient
+calandrage de la tissu | r_processus>patient
+apprêtage de la étoffe | r_processus>patient
+mercerisation de la coton | r_processus>patient
+feutrage de la laine | r_processus>patient
+imperméabilisation de la toile | r_processus>patient
+ignifugation de la tissu | r_processus>patient
+découpe de la toile | r_processus>patient
+coupe de la tissu | r_processus>patient
+taille de la patron | r_processus>patient
+assemblage de la pièce | r_processus>patient
+ouverture d'enveloppe | r_processus>patient
+fermeture d'usine | r_processus>patient
+construction d'immeuble | r_processus>patient
+démolition d'édifice | r_processus>patient
+rénovation d'appartement | r_processus>patient
+aménagement d'espace | r_processus>patient
+décoration d'intérieur | r_processus>patient
+restauration d'objet | r_processus>patient
+conservation d'artefact | r_processus>patient
+préservation d'œuvre | r_processus>patient
+nettoyage d'objet | r_processus>patient
+dépoussiérage d'antiquité | r_processus>patient
+assainissement d'habitat | r_processus>patient
+purification d'air | r_processus>patient
+filtration d'eau | r_processus>patient
+épuration d'effluent | r_processus>patient
+traitement d'eau | r_processus>patient
+potabilisation d'eau | r_processus>patient
+désinfection d'eau | r_processus>patient
+chloration d'eau | r_processus>patient
+ozonation d'eau | r_processus>patient
+floculation d'eau | r_processus>patient
+décantation d'eau | r_processus>patient
+coagulation d'eau | r_processus>patient
+adoucissement d'eau | r_processus>patient
+déminéralisation d'eau | r_processus>patient
+osmose d'eau | r_processus>patient
+ultrafiltration d'eau | r_processus>patient
+acidification d'eau | r_processus>patient
+alcalinisation d'eau | r_processus>patient
+neutralisation d'effluent | r_processus>patient
+oxydation d'eau | r_processus>patient
+réduction d'eau | r_processus>patient
+précipitation d'eau | r_processus>patient
+cristallisation d'eau | r_processus>patient
+sublimation d'eau | r_processus>patient
+évaporation d'eau | r_processus>patient
+condensation d'eau | r_processus>patient
+liquéfaction d'air | r_processus>patient
+solidification d'eau | r_processus>patient
+fusion d'eau | r_processus>patient
+vaporisation d'eau | r_processus>patient
+ionisation d'air | r_processus>patient
+magnétisation d'eau | r_processus>patient
+électrification d'air | r_processus>patient
+irradiation d'aliment | r_processus>patient
+illumination d'espace | r_processus>patient
+éclairage d'endroit | r_processus>patient
+assombrissement d'endroit | r_processus>patient
+occultation d'ouverture | r_processus>patient
+obturation d'ouverture | r_processus>patient
+bouchage d'ouverture | r_processus>patient
+colmatage d'ouverture | r_processus>patient
+calfeutrage d'ouverture | r_processus>patient
+étanchéification d'ouverture | r_processus>patient
+imperméabilisation d'ouverture | r_processus>patient
+isolation d'ouverture | r_processus>patient
+insonorisation d'espace | r_processus>patient
+capitonnage d'espace | r_processus>patient
+garnissage d'espace | r_processus>patient
+rembourrage d'objet | r_processus>patient
+matelassage d'objet | r_processus>patient
+bourrage d'objet | r_processus>patient
+remplissage d'objet | r_processus>patient
+vidage d'objet | r_processus>patient
+évacuation d'eau | r_processus>patient
+écoulement d'eau | r_processus>patient
+ruissellement d'eau | r_processus>patient
+percolation d'eau | r_processus>patient
+infiltration d'eau | r_processus>patient
+absorption d'eau | r_processus>patient
+imbibition d'objet | r_processus>patient
+saturation d'objet | r_processus>patient
+imprégnation d'objet | r_processus>patient
+trempage d'objet | r_processus>patient
+macération d'objet | r_processus>patient
+détrempement d'objet | r_processus>patient
+humidification d'air | r_processus>patient
+déshumidification d'air | r_processus>patient
+séchage d'air | r_processus>patient
+ouverture d'un coffre | r_processus>patient
+fermeture d'un tiroir | r_processus>patient
+installation d'un système | r_processus>patient
+désinstallation d'un programme | r_processus>patient
+configuration d'un appareil | r_processus>patient
+paramétrage d'un dispositif | r_processus>patient
+réglage d'un instrument | r_processus>patient
+ajustement d'un mécanisme | r_processus>patient
+calibrage d'un outil | r_processus>patient
+étalonnage d'un capteur | r_processus>patient
+activation d'un dispositif | r_processus>patient
+désactivation d'un système | r_processus>patient
+déclenchement d'un mécanisme | r_processus>patient
+enclenchement d'un système | r_processus>patient
+déverrouillage d'un cadenas | r_processus>patient
+verrouillage d'un coffre | r_processus>patient
+blocage d'un mécanisme | r_processus>patient
+déblocage d'un système | r_processus>patient
+démarrage d'un processus | r_processus>patient
+lancement d'un programme | r_processus>patient
+exécution d'un script | r_processus>patient
+interruption d'un processus | r_processus>patient
+suspension d'un programme | r_processus>patient
+reprise d'un processus | r_processus>patient
+redémarrage d'un système | r_processus>patient
+réinitialisation d'un appareil | r_processus>patient
+formatage d'un disque | r_processus>patient
+partitionnement d'un disque | r_processus>patient
+clonage d'un disque | r_processus>patient
+duplication d'un fichier | r_processus>patient
+copie d'un document | r_processus>patient
+déplacement d'un fichier | r_processus>patient
+renommage d'un fichier | r_processus>patient
+effacement d'un fichier | r_processus>patient
+récupération d'un fichier | r_processus>patient
+restauration d'un système | r_processus>patient
+reconstruction d'un fichier | r_processus>patient
+réparation d'un système | r_processus>patient
+optimisation d'un système | r_processus>patient
+défragmentation d'un disque | r_processus>patient
+nettoyage d'un disque | r_processus>patient
+vidage d'un cache | r_processus>patient
+purge d'un système | r_processus>patient
+analyse d'un fichier | r_processus>patient
+scan d'un document | r_processus>patient
+numérisation d'un document | r_processus>patient
+océrisation d'un document | r_processus>patient
+reconnaissance d'un texte | r_processus>patient
+indexation d'un document | r_processus>patient
+catalogage d'un livre | r_processus>patient
+référencement d'un site | r_processus>patient
+archivage d'un document | r_processus>patient
+stockage d'un fichier | r_processus>patient
+sauvegarde d'un fichier | r_processus>patient
+synchronisation d'un fichier | r_processus>patient
+transfert d'un fichier | r_processus>patient
+téléchargement d'un fichier | r_processus>patient
+téléversement d'un fichier | r_processus>patient
+envoi d'un message | r_processus>patient
+réception d'un message | r_processus>patient
+transmission d'un signal | r_processus>patient
+diffusion d'un signal | r_processus>patient
+émission d'un signal | r_processus>patient
+réception d'un signal | r_processus>patient
+amplification d'un signal | r_processus>patient
+atténuation d'un signal | r_processus>patient
+filtrage d'un signal | r_processus>patient
+modulation d'un signal | r_processus>patient
+démodulation d'un signal | r_processus>patient
+encodage d'un message | r_processus>patient
+décodage d'un message | r_processus>patient
+cryptage d'un message | r_processus>patient
+décryptage d'un message | r_processus>patient
+hachage d'un fichier | r_processus>patient
+signature d'un document | r_processus>patient
+certification d'un document | r_processus>patient
+validation d'un document | r_processus>patient
+vérification d'un document | r_processus>patient
+authentification d'un document | r_processus>patient
+horodatage d'un document | r_processus>patient
+ouverture d'une fenêtre | r_processus>patient
+fermeture d'une porte | r_processus>patient
+installation d'une application | r_processus>patient
+désinstallation d'une application | r_processus>patient
+configuration d'une machine | r_processus>patient
+initialisation d'une base | r_processus>patient
+création d'une table | r_processus>patient
+suppression d'une table | r_processus>patient
+modification d'une table | r_processus>patient
+mise à jour d'une table | r_processus>patient
+insertion d'une ligne | r_processus>patient
+extraction d'une ligne | r_processus>patient
+lecture d'une donnée | r_processus>patient
+écriture d'une donnée | r_processus>patient
+correction d'une erreur | r_processus>patient
+rectification d'une erreur | r_processus>patient
+résolution d'une erreur | r_processus>patient
+détection d'une erreur | r_processus>patient
+identification d'une erreur | r_processus>patient
+localisation d'une erreur | r_processus>patient
+isolation d'une erreur | r_processus>patient
+reproduction d'une erreur | r_processus>patient
+documentation d'une erreur | r_processus>patient
+compilation d'une source | r_processus>patient
+interprétation d'une source | r_processus>patient
+exécution d'une commande | r_processus>patient
+invocation d'une fonction | r_processus>patient
+appel d'une méthode | r_processus>patient
+instanciation d'une classe | r_processus>patient
+initialisation d'une variable | r_processus>patient
+déclaration d'une variable | r_processus>patient
+affectation d'une variable | r_processus>patient
+incrémentation d'une variable | r_processus>patient
+décrémentation d'une variable | r_processus>patient
+réinitialisation d'une variable | r_processus>patient
+conversion d'une donnée | r_processus>patient
+transformation d'une donnée | r_processus>patient
+normalisation d'une donnée | r_processus>patient
+standardisation d'une donnée | r_processus>patient
+validation d'une donnée | r_processus>patient
+sanitisation d'une donnée | r_processus>patient
+désinfection d'une surface | r_processus>patient
+stérilisation d'une surface | r_processus>patient
+pasteurisation d'une substance | r_processus>patient
+autoclavage d'une substance | r_processus>patient
+ébullition d'une substance | r_processus>patient
+chauffage d'une substance | r_processus>patient
+refroidissement d'une substance | r_processus>patient
+congélation d'une substance | r_processus>patient
+décongélation d'une substance | r_processus>patient
+surgélation d'une substance | r_processus>patient
+cryogénisation d'une substance | r_processus>patient
+lyophilisation d'une substance | r_processus>patient
+atomisation d'une substance | r_processus>patient
+nébulisation d'une substance | r_processus>patient
+pulvérisation d'une substance | r_processus>patient
+vaporisation d'une substance | r_processus>patient
+gazéification d'une substance | r_processus>patient
+liquéfaction d'une substance | r_processus>patient
+solidification d'une substance | r_processus>patient
+cristallisation d'une substance | r_processus>patient
+recristallisation d'une substance | r_processus>patient
+précipitation d'une substance | r_processus>patient
+sédimentation d'une substance | r_processus>patient
+centrifugation d'une substance | r_processus>patient
+ultracentrifugation d'une substance | r_processus>patient
+séparation d'une substance | r_processus>patient
+purification d'une substance | r_processus>patient
+raffinage d'une substance | r_processus>patient
+distillation d'une substance | r_processus>patient
+rectification d'une substance | r_processus>patient
+extraction d'une substance | r_processus>patient
+lixiviation d'une substance | r_processus>patient
+percolation d'une substance | r_processus>patient
+macération d'une substance | r_processus>patient
+infusion d'une substance | r_processus>patient
+décoction d'une substance | r_processus>patient
+digestion d'une substance | r_processus>patient
+hydrolyse d'une substance | r_processus>patient
+oxydation d'une substance | r_processus>patient
+brûlage de déchet | r_processus>patient
+combustion de matière | r_processus>patient
+calcination de minéral | r_processus>patient
+torréfaction de café | r_processus>patient
+grillage de viande | r_processus>patient
+rôtissage de poulet | r_processus>patient
+braiser de légume | r_processus>patient
+poêlage de poisson | r_processus>patient
+sauté de crevette | r_processus>patient
+blanchi de asperge | r_processus>patient
+pochage de œuf | r_processus>patient
+bouillir de pâte | r_processus>patient
+mijoter de ragoût | r_processus>patient
+réduire de sauce | r_processus>patient
+flambage de crêpe | r_processus>patient
+caramélisation de sucre | r_processus>patient
+confisage de fruit | r_processus>patient
+candissage de écorce | r_processus>patient
+glaçage de gâteau | r_processus>patient
+nappage de entremet | r_processus>patient
+trempage de biscuit | r_processus>patient
+imbibition de génoise | r_processus>patient
+fourrage de pâtisserie | r_processus>patient
+garnissage de tarte | r_processus>patient
+montage de entremet | r_processus>patient
+démoulage de gâteau | r_processus>patient
+refroidissement de préparation | r_processus>patient
+surgélation de plat | r_processus>patient
+réchauffage de repas | r_processus>patient
+maintien de température | r_processus>patient
+conservation de aliment | r_processus>patient
+emballage de produit | r_processus>patient
+conditionnement de marchandise | r_processus>patient
+ensachage de grain | r_processus>patient
+mise en boîte de conserve | r_processus>patient
+mise en pot de confiture | r_processus>patient
+mise en bouteille de vin | r_processus>patient
+embouteillage de liquide | r_processus>patient
+capsulage de bouteille | r_processus>patient
+bouchage de flacon | r_processus>patient
+étiquetage de produit | r_processus>patient
+marquage de colis | r_processus>patient
+codage de article | r_processus>patient
+pesage de marchandise | r_processus>patient
+mesure de quantité | r_processus>patient
+comptage de pièce | r_processus>patient
+inventaire de stock | r_processus>patient
+recensement de bien | r_processus>patient
+évaluation de marchandise | r_processus>patient
+estimation de valeur | r_processus>patient
+cotation de produit | r_processus>patient
+tarification de service | r_processus>patient
+facturation de prestation | r_processus>patient
+encaissement de paiement | r_processus>patient
+perception de taxe | r_processus>patient
+recouvrement de créance | r_processus>patient
+remboursement de somme | r_processus>patient
+versement de montant | r_processus>patient
+paiement de facture | r_processus>patient
+règlement de dette | r_processus>patient
+acquittement de charge | r_processus>patient
+prélèvement de somme | r_processus>patient
+retrait de argent | r_processus>patient
+dépôt de espèce | r_processus>patient
+virement de fonds | r_processus>patient
+transfert de montant | r_processus>patient
+conversion de devise | r_processus>patient
+change de monnaie | r_processus>patient
+échange de billet | r_processus>patient
+achat de marchandise | r_processus>patient
+vente de produit | r_processus>patient
+location de bien | r_processus>patient
+crédit de montant | r_processus>patient
+débit de compte | r_processus>patient
+inscription de écriture | r_processus>patient
+enregistrement de opération | r_processus>patient
+comptabilisation de mouvement | r_processus>patient
+saisie de donnée | r_processus>patient
+report de information | r_processus>patient
+transcription de texte | r_processus>patient
+traduction de document | r_processus>patient
+interprétation de texte | r_processus>patient
+annotation de document | r_processus>patient
+commentaire de texte | r_processus>patient
+révision de document | r_processus>patient
+relecture de texte | r_processus>patient
+correction de épreuve | r_processus>patient
+modification de texte | r_processus>patient
+amendement de document | r_processus>patient
+reformulation de phrase | r_processus>patient
+réécriture de paragraphe | r_processus>patient
+paraphrase de texte | r_processus>patient
+résumé de article | r_processus>patient
+synthèse de rapport | r_processus>patient
+abrégement de texte | r_processus>patient
+expansion de note | r_processus>patient
+développement de idée | r_processus>patient
+élaboration de concept | r_processus>patient
+explicitation de notion | r_processus>patient
+clarification de propos | r_processus>patient
+simplification de texte | r_processus>patient
+vulgarisation de concept | r_processus>patient
+adaptation de texte | r_processus>patient
+transposition de œuvre | r_processus>patient
+rédaction de rapport | r_processus>patient
+composition de texte | r_processus>patient
+confection de document | r_processus>patient
+élaboration de dossier | r_processus>patient
+préparation de document | r_processus>patient
+mise en page de texte | r_processus>patient
+mise en forme de document | r_processus>patient
+formatage de texte | r_processus>patient
+structuration de document | r_processus>patient
+organisation de contenu | r_processus>patient
+hiérarchisation de information | r_processus>patient
+ordonnancement de élément | r_processus>patient
+agencement de partie | r_processus>patient
+disposition de section | r_processus>patient
+répartition de contenu | r_processus>patient
+distribution de élément | r_processus>patient
+allocation de ressource | r_processus>patient
+attribution de tâche | r_processus>patient
+assignation de mission | r_processus>patient
+affectation de poste | r_processus>patient
+nomination de responsable | r_processus>patient
+désignation de représentant | r_processus>patient
+élection de délégué | r_processus>patient
+sélection de candidat | r_processus>patient
+choix de option | r_processus>patient
+tri de élément | r_processus>patient
+filtrage de donnée | r_processus>patient
+tamisage de matière | r_processus>patient
+criblage de grain | r_processus>patient
+vannage de céréale | r_processus>patient
+battage de blé | r_processus>patient
+égrenage de maïs | r_processus>patient
+décorticage de noix | r_processus>patient
+écalage de graine | r_processus>patient
+écossage de pois | r_processus>patient
+épluchage de fruit | r_processus>patient
+pelage de pomme | r_processus>patient
+mondage de amande | r_processus>patient
+blanchiment de amande | r_processus>patient
+émondage de arbre | r_processus>patient
+écimage de arbre | r_processus>patient
+étêtage de arbre | r_processus>patient
+recépage de arbuste | r_processus>patient
+rabattage de haie | r_processus>patient
+taille de vigne | r_processus>patient
+émondage de branche | r_processus>patient
+éclaircissage de forêt | r_processus>patient
+ébranchage de tronc | r_processus>patient
+écorçage de tronc | r_processus>patient
+débitage de bois | r_processus>patient
+refente de planche | r_processus>patient
+délignage de grume | r_processus>patient
+équarrissage de tronc | r_processus>patient
+corroyage de bois | r_processus>patient
+dégauchissage de planche | r_processus>patient
+rabotage de surface | r_processus>patient
+dressage de pièce | r_processus>patient
+aplanissement de surface | r_processus>patient
+égalisation de niveau | r_processus>patient
+uniformisation de surface | r_processus>patient
+lissage de surface | r_processus>patient
+polissage de surface | r_processus>patient
+lustrage de surface | r_processus>patient
+brillantage de surface | r_processus>patient
+satinage de surface | r_processus>patient
+glaçage de surface | r_processus>patient
+vernissage de surface | r_processus>patient
+laquage de surface | r_processus>patient
+émaillage de surface | r_processus>patient
+vitrification de surface | r_processus>patient
+céramisation de surface | r_processus>patient
+zingage de surface | r_processus>patient
+chromage de surface | r_processus>patient
+nickelage de surface | r_processus>patient
+argenture de surface | r_processus>patient
+dorure de surface | r_processus>patient
+placage de surface | r_processus>patient
+revêtement de surface | r_processus>patient
+enduction de surface | r_processus>patient
+enrobage de surface | r_processus>patient
+pelliculage de surface | r_processus>patient
+laminage de surface | r_processus>patient
+stratification de surface | r_processus>patient
+feuilletage de pâte | r_processus>patient
+abaissement de pâte | r_processus>patient
+étalage de pâte | r_processus>patient
+étalement de pâte | r_processus>patient
+aplatissement de pâte | r_processus>patient
+détente de pâte | r_processus>patient
+repos de pâte | r_processus>patient
+pousse de pâte | r_processus>patient
+fermentation de pâte | r_processus>patient
+panification de pâte | r_processus>patient
+façonnage de pâte | r_processus>patient
+modelage de pâte | r_processus>patient
+moulage de pâte | r_processus>patient
+coulage de pâte | r_processus>patient
+versement de pâte | r_processus>patient
+enfournement de pâte | r_processus>patient
+cuisson de pâte | r_processus>patient
+défournement de pain | r_processus>patient
+ressuage de pain | r_processus>patient
+tranchage de pain | r_processus>patient
+découpe de pain | r_processus>patient
+tartinage de pain | r_processus>patient
+beurrure de pain | r_processus>patient
+garniture de sandwich | r_processus>patient
+confection de sandwich | r_processus>patient
+préparation de repas | r_processus>patient
+élaboration de menu | r_processus>patient
+planification de repas | r_processus>patient
+organisation de événement | r_processus>patient
+coordination de activité | r_processus>patient
+gestion de projet | r_processus>patient
+pilotage de projet | r_processus>patient
+conduite de projet | r_processus>patient
+direction de projet | r_processus>patient
+supervision de projet | r_processus>patient
+surveillance de projet | r_processus>patient
+contrôle de projet | r_processus>patient
+suivi de projet | r_processus>patient
+monitoring de système | r_processus>patient
+traçabilité de produit | r_processus>patient
+pistage de colis | r_processus>patient
+localisation de objet | r_processus>patient
+géolocalisation de véhicule | r_processus>patient
+repérage de position | r_processus>patient
+balisage de zone | r_processus>patient
+jalonnement de terrain | r_processus>patient
+piquetage de terrain | r_processus>patient
+arpentage de terrain | r_processus>patient
+mesurage de terrain | r_processus>patient
+bornage de terrain | r_processus>patient
+délimitation de terrain | r_processus>patient
+démarcation de zone | r_processus>patient
+circonscription de zone | r_processus>patient
+clôture de terrain | r_processus>patient
+enclosure de terrain | r_processus>patient
+grillage de terrain | r_processus>patient
+palissade de terrain | r_processus>patient
+murage de terrain | r_processus>patient
+emmurement de ouverture | r_processus>patient
+condamnation de ouverture | r_processus>patient
+scellement de ouverture | r_processus>patient
+obstruction de passage | r_processus>patient
+barrage de route | r_processus>patient
+blocage de route | r_processus>patient
+fermeture de route | r_processus>patient
+interdiction de accès | r_processus>patient
+restriction de accès | r_processus>patient
+limitation de accès | r_processus>patient
+contrôle de accès | r_processus>patient
+filtrage de accès | r_processus>patient
+sécurisation de accès | r_processus>patient
+protection de accès | r_processus>patient
+gardiennage de site | r_processus>patient
+surveillance de site | r_processus>patient
+vidéosurveillance de site | r_processus>patient
+télésurveillance de site | r_processus>patient
+alarme de site | r_processus>patient
+détection de intrusion | r_processus>patient
+signalement de intrusion | r_processus>patient
+alerte de intrusion | r_processus>patient
+avertissement de danger | r_processus>patient
+notification de événement | r_processus>patient
+communication de information | r_processus>patient
+transmission de information | r_processus>patient
+diffusion de information | r_processus>patient
+propagation de information | r_processus>patient
+divulgation de information | r_processus>patient
+révélation de information | r_processus>patient
+publication de information | r_processus>patient
+édition de livre | r_processus>patient
+impression de livre | r_processus>patient
+tirage de livre | r_processus>patient
+reliure de livre | r_processus>patient
+brochage de livre | r_processus>patient
+massicotage de livre | r_processus>patient
+rognage de livre | r_processus>patient
+découpe de livre | r_processus>patient
+pelliculage de couverture | r_processus>patient
+plastification de document | r_processus>patient
+contrecollage de affiche | r_processus>patient
+encadrement de affiche | r_processus>patient
+montage de affiche | r_processus>patient
+pose de affiche | r_processus>patient
+collage de affiche | r_processus>patient
+placardage de affiche | r_processus>patient
+affichage de annonce | r_processus>patient
+publication de annonce | r_processus>patient
+insertion de annonce | r_processus>patient
+parution de article | r_processus>patient
+diffusion de journal | r_processus>patient
+distribution de journal | r_processus>patient
+livraison de journal | r_processus>patient
+portage de journal | r_processus>patient
+acheminement de courrier | r_processus>patient

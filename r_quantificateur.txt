@@ -1,0 +1,1000 @@
+minute d'attente | r_quantificateur
+heure de travail | r_quantificateur
+jour de repos | r_quantificateur
+semaine de vacances | r_quantificateur
+mois de formation | r_quantificateur
+année d'expérience | r_quantificateur
+seconde de réflexion | r_quantificateur
+instant de bonheur | r_quantificateur
+moment de silence | r_quantificateur
+période d'essai | r_quantificateur
+trimestre de croissance | r_quantificateur
+décennie de paix | r_quantificateur
+siècle d'histoire | r_quantificateur
+millénaire d'évolution | r_quantificateur
+époque de prospérité | r_quantificateur
+ère de progrès | r_quantificateur
+gramme de sel | r_quantificateur
+kilogramme de farine | r_quantificateur
+tonne de charbon | r_quantificateur
+once de précaution | r_quantificateur
+livre de beurre | r_quantificateur
+quintal de blé | r_quantificateur
+milligramme de substance | r_quantificateur
+carat de diamant | r_quantificateur
+litre d'eau | r_quantificateur
+millilitre de sirop | r_quantificateur
+décilitre de crème | r_quantificateur
+centilitre d'alcool | r_quantificateur
+hectolitre de vin | r_quantificateur
+gallon d'essence | r_quantificateur
+baril de pétrole | r_quantificateur
+pinte de bière | r_quantificateur
+verre de lait | r_quantificateur
+tasse de café | r_quantificateur
+cuillère de sucre | r_quantificateur
+goutte de pluie | r_quantificateur
+dose de médicament | r_quantificateur
+mètre de tissu | r_quantificateur
+kilomètre de route | r_quantificateur
+centimètre de ruban | r_quantificateur
+millimètre de précision | r_quantificateur
+pouce de terrain | r_quantificateur
+pied de profondeur | r_quantificateur
+yard de câble | r_quantificateur
+mile de distance | r_quantificateur
+lieue de voyage | r_quantificateur
+coudée de longueur | r_quantificateur
+brasse de cordage | r_quantificateur
+degré de température | r_quantificateur
+grade de pente | r_quantificateur
+radian d'angle | r_quantificateur
+pourcentage de réussite | r_quantificateur
+fraction de total | r_quantificateur
+part de marché | r_quantificateur
+portion de gâteau | r_quantificateur
+tranche de pain | r_quantificateur
+morceau de fromage | r_quantificateur
+bout de ficelle | r_quantificateur
+bouchée de nourriture | r_quantificateur
+gorgée de boisson | r_quantificateur
+pincée de sel | r_quantificateur
+poignée de riz | r_quantificateur
+brassée de fleurs | r_quantificateur
+tas de sable | r_quantificateur
+pile de livres | r_quantificateur
+amas de pierres | r_quantificateur
+paquet de cigarettes | r_quantificateur
+boîte de conserve | r_quantificateur
+carton de déménagement | r_quantificateur
+caisse de pommes | r_quantificateur
+ballot de foin | r_quantificateur
+botte de radis | r_quantificateur
+bouquet de roses | r_quantificateur
+gerbe de blé | r_quantificateur
+fagot de bois | r_quantificateur
+bûche de chauffage | r_quantificateur
+planche de chêne | r_quantificateur
+poutre de soutien | r_quantificateur
+brique de construction | r_quantificateur
+tuile de toiture | r_quantificateur
+carreau de céramique | r_quantificateur
+dalle de marbre | r_quantificateur
+pavé de rue | r_quantificateur
+lingot d'or | r_quantificateur
+barre de fer | r_quantificateur
+tige de métal | r_quantificateur
+fil de cuivre | r_quantificateur
+câble d'acier | r_quantificateur
+corde de chanvre | r_quantificateur
+ficelle de lin | r_quantificateur
+ruban de soie | r_quantificateur
+bande de tissu | r_quantificateur
+rouleau de papier | r_quantificateur
+feuille de carton | r_quantificateur
+page de journal | r_quantificateur
+ligne de texte | r_quantificateur
+mot de passe | r_quantificateur
+lettre d'alphabet | r_quantificateur
+chiffre de code | r_quantificateur
+numéro de série | r_quantificateur
+quantité de matière | r_quantificateur
+volume de liquide | r_quantificateur
+masse de substance | r_quantificateur
+poids de colis | r_quantificateur
+charge de camion | r_quantificateur
+fardeau de responsabilité | r_quantificateur
+minute du chronomètre | r_quantificateur
+heure du réveil | r_quantificateur
+jour du calendrier | r_quantificateur
+semaine du planning | r_quantificateur
+mois du trimestre | r_quantificateur
+année du siècle | r_quantificateur
+seconde du compte | r_quantificateur
+instant du moment | r_quantificateur
+période du cycle | r_quantificateur
+phase du projet | r_quantificateur
+étape du parcours | r_quantificateur
+stade du développement | r_quantificateur
+niveau d'expertise | r_quantificateur
+degré d'urgence | r_quantificateur
+taux de croissance | r_quantificateur
+ratio de conversion | r_quantificateur
+coefficient de performance | r_quantificateur
+indice de satisfaction | r_quantificateur
+score de réussite | r_quantificateur
+note d'examen | r_quantificateur
+point de bonus | r_quantificateur
+unité de mesure | r_quantificateur
+multiple de base | r_quantificateur
+diviseur de nombre | r_quantificateur
+facteur de multiplication | r_quantificateur
+puissance de calcul | r_quantificateur
+racine d'équation | r_quantificateur
+somme de total | r_quantificateur
+différence de valeur | r_quantificateur
+produit de facteurs | r_quantificateur
+quotient de division | r_quantificateur
+reste de partage | r_quantificateur
+gramme du sel | r_quantificateur
+kilogramme du sucre | r_quantificateur
+tonne du charbon | r_quantificateur
+once du parfum | r_quantificateur
+livre du beurre | r_quantificateur
+quintal du blé | r_quantificateur
+milligramme du médicament | r_quantificateur
+carat du diamant | r_quantificateur
+litre du lait | r_quantificateur
+millilitre du sirop | r_quantificateur
+décilitre du vin | r_quantificateur
+centilitre du rhum | r_quantificateur
+hectolitre du cidre | r_quantificateur
+gallon du carburant | r_quantificateur
+baril du pétrole | r_quantificateur
+pinte du liquide | r_quantificateur
+verre du jus | r_quantificateur
+tasse du thé | r_quantificateur
+cuillère du miel | r_quantificateur
+goutte du sérum | r_quantificateur
+dose du traitement | r_quantificateur
+mètre du câble | r_quantificateur
+kilomètre du trajet | r_quantificateur
+centimètre du ruban | r_quantificateur
+millimètre du fil | r_quantificateur
+pouce du clou | r_quantificateur
+pied du mur | r_quantificateur
+yard du terrain | r_quantificateur
+mile du parcours | r_quantificateur
+lieue du chemin | r_quantificateur
+coudée du bâton | r_quantificateur
+brasse du filet | r_quantificateur
+degré du four | r_quantificateur
+grade du thermomètre | r_quantificateur
+radian du cercle | r_quantificateur
+pourcentage du total | r_quantificateur
+fraction du nombre | r_quantificateur
+part du gâteau | r_quantificateur
+portion du repas | r_quantificateur
+tranche du jambon | r_quantificateur
+morceau du pain | r_quantificateur
+bout du bois | r_quantificateur
+bouchée du plat | r_quantificateur
+gorgée du breuvage | r_quantificateur
+pincée du poivre | r_quantificateur
+poignée du sable | r_quantificateur
+brassée du foin | r_quantificateur
+tas du gravier | r_quantificateur
+pile du linge | r_quantificateur
+amas du déchet | r_quantificateur
+paquet du tabac | r_quantificateur
+boîte du chocolat | r_quantificateur
+carton du vin | r_quantificateur
+caisse du matériel | r_quantificateur
+ballot du coton | r_quantificateur
+botte du persil | r_quantificateur
+bouquet du muguet | r_quantificateur
+gerbe du seigle | r_quantificateur
+fagot du sarment | r_quantificateur
+bûche du chêne | r_quantificateur
+planche du sapin | r_quantificateur
+poutre du toit | r_quantificateur
+brique du mur | r_quantificateur
+tuile du toit | r_quantificateur
+carreau du sol | r_quantificateur
+dalle du plancher | r_quantificateur
+pavé du chemin | r_quantificateur
+lingot du métal | r_quantificateur
+barre du fer | r_quantificateur
+tige du bambou | r_quantificateur
+fil du coton | r_quantificateur
+câble du téléphone | r_quantificateur
+corde du puits | r_quantificateur
+ficelle du paquet | r_quantificateur
+ruban du cadeau | r_quantificateur
+bande du pansement | r_quantificateur
+rouleau du scotch | r_quantificateur
+feuille du papier | r_quantificateur
+page du livre | r_quantificateur
+ligne du cahier | r_quantificateur
+mot du texte | r_quantificateur
+lettre du message | r_quantificateur
+chiffre du nombre | r_quantificateur
+numéro du billet | r_quantificateur
+quantité du produit | r_quantificateur
+volume du réservoir | r_quantificateur
+minute de la pause | r_quantificateur
+heure de la réunion | r_quantificateur
+jour de la semaine | r_quantificateur
+semaine de la formation | r_quantificateur
+mois de la saison | r_quantificateur
+année de la décennie | r_quantificateur
+seconde de la minute | r_quantificateur
+instant de la vie | r_quantificateur
+moment de la journée | r_quantificateur
+période de la crise | r_quantificateur
+trimestre de la fiscalité | r_quantificateur
+décennie de la carrière | r_quantificateur
+siècle de la civilisation | r_quantificateur
+millénaire de la culture | r_quantificateur
+époque de la renaissance | r_quantificateur
+ère de la technologie | r_quantificateur
+gramme de la poudre | r_quantificateur
+kilogramme de la viande | r_quantificateur
+tonne de la marchandise | r_quantificateur
+once de la sagesse | r_quantificateur
+livre de la provision | r_quantificateur
+quintal de la récolte | r_quantificateur
+milligramme de la dose | r_quantificateur
+carat de la pierre | r_quantificateur
+litre de la boisson | r_quantificateur
+millilitre de la solution | r_quantificateur
+décilitre de la sauce | r_quantificateur
+centilitre de la liqueur | r_quantificateur
+hectolitre de la production | r_quantificateur
+gallon de la peinture | r_quantificateur
+baril de la bière | r_quantificateur
+pinte de la mesure | r_quantificateur
+verre de la dégustation | r_quantificateur
+tasse de la collation | r_quantificateur
+cuillère de la recette | r_quantificateur
+goutte de la perfusion | r_quantificateur
+dose de la prescription | r_quantificateur
+mètre de la distance | r_quantificateur
+kilomètre de la course | r_quantificateur
+centimètre de la mesure | r_quantificateur
+millimètre de la précision | r_quantificateur
+pouce de la taille | r_quantificateur
+pied de la hauteur | r_quantificateur
+yard de la largeur | r_quantificateur
+mile de la randonnée | r_quantificateur
+lieue de la marche | r_quantificateur
+coudée de la mesure | r_quantificateur
+brasse de la natation | r_quantificateur
+degré de la cuisson | r_quantificateur
+grade de la pente | r_quantificateur
+radian de la rotation | r_quantificateur
+pourcentage de la remise | r_quantificateur
+fraction de la quantité | r_quantificateur
+part de la succession | r_quantificateur
+portion de la tarte | r_quantificateur
+tranche de la pastèque | r_quantificateur
+morceau de la viande | r_quantificateur
+bout de la corde | r_quantificateur
+bouchée de la bouchée | r_quantificateur
+gorgée de la gorgée | r_quantificateur
+pincée de la pincée | r_quantificateur
+poignée de la terre | r_quantificateur
+brassée de la paille | r_quantificateur
+tas de la neige | r_quantificateur
+pile de la vaisselle | r_quantificateur
+amas de la ferraille | r_quantificateur
+paquet de la lessive | r_quantificateur
+boîte de la collection | r_quantificateur
+carton de la livraison | r_quantificateur
+caisse de la réserve | r_quantificateur
+ballot de la toile | r_quantificateur
+botte de la menthe | r_quantificateur
+bouquet de la mariée | r_quantificateur
+gerbe de la moisson | r_quantificateur
+fagot de la vigne | r_quantificateur
+bûche de la bûche | r_quantificateur
+planche de la planche | r_quantificateur
+poutre de la charpente | r_quantificateur
+brique de la façade | r_quantificateur
+tuile de la couverture | r_quantificateur
+carreau de la mosaïque | r_quantificateur
+dalle de la terrasse | r_quantificateur
+pavé de la place | r_quantificateur
+lingot de la banque | r_quantificateur
+barre de la grille | r_quantificateur
+tige de la tige | r_quantificateur
+fil de la broderie | r_quantificateur
+câble de la transmission | r_quantificateur
+corde de la guitare | r_quantificateur
+ficelle de la ficelle | r_quantificateur
+ruban de la décoration | r_quantificateur
+bande de la bande | r_quantificateur
+rouleau de la tapisserie | r_quantificateur
+feuille de la feuille | r_quantificateur
+page de la page | r_quantificateur
+ligne de la ligne | r_quantificateur
+mot de la phrase | r_quantificateur
+lettre de la lettre | r_quantificateur
+chiffre de la statistique | r_quantificateur
+numéro de la loterie | r_quantificateur
+quantité de la commande | r_quantificateur
+volume de la cuve | r_quantificateur
+minute d'un retard | r_quantificateur
+heure d'un vol | r_quantificateur
+jour d'un stage | r_quantificateur
+semaine d'un chantier | r_quantificateur
+mois d'un abonnement | r_quantificateur
+année d'un contrat | r_quantificateur
+seconde d'un éclair | r_quantificateur
+instant d'un regard | r_quantificateur
+moment d'un échange | r_quantificateur
+période d'un bail | r_quantificateur
+trimestre d'un exercice | r_quantificateur
+décennie d'un règne | r_quantificateur
+siècle d'un empire | r_quantificateur
+millénaire d'un âge | r_quantificateur
+époque d'un mouvement | r_quantificateur
+ère d'un âge | r_quantificateur
+gramme d'un ingrédient | r_quantificateur
+kilogramme d'un produit | r_quantificateur
+tonne d'un chargement | r_quantificateur
+once d'un élément | r_quantificateur
+livre d'un article | r_quantificateur
+quintal d'un stock | r_quantificateur
+milligramme d'un composant | r_quantificateur
+carat d'un bijou | r_quantificateur
+litre d'un fluide | r_quantificateur
+millilitre d'un échantillon | r_quantificateur
+décilitre d'un mélange | r_quantificateur
+centilitre d'un spiritueux | r_quantificateur
+hectolitre d'un brassin | r_quantificateur
+gallon d'un réservoir | r_quantificateur
+baril d'un fût | r_quantificateur
+pinte d'un récipient | r_quantificateur
+verre d'un service | r_quantificateur
+tasse d'un ensemble | r_quantificateur
+cuillère d'un assortiment | r_quantificateur
+goutte d'un flacon | r_quantificateur
+dose d'un vaccin | r_quantificateur
+mètre d'un rouleau | r_quantificateur
+kilomètre d'un itinéraire | r_quantificateur
+centimètre d'un segment | r_quantificateur
+millimètre d'un écart | r_quantificateur
+pouce d'un espace | r_quantificateur
+pied d'un escalier | r_quantificateur
+yard d'un tissu | r_quantificateur
+mile d'un marathon | r_quantificateur
+lieue d'un périple | r_quantificateur
+coudée d'un monument | r_quantificateur
+brasse d'un bassin | r_quantificateur
+degré d'un angle | r_quantificateur
+grade d'un niveau | r_quantificateur
+radian d'un arc | r_quantificateur
+pourcentage d'un résultat | r_quantificateur
+fraction d'un ensemble | r_quantificateur
+part d'un héritage | r_quantificateur
+portion d'un menu | r_quantificateur
+tranche d'un salaire | r_quantificateur
+morceau d'un puzzle | r_quantificateur
+bout d'un câble | r_quantificateur
+bouchée d'un sandwich | r_quantificateur
+gorgée d'un cocktail | r_quantificateur
+pincée d'un assaisonnement | r_quantificateur
+poignée d'un outil | r_quantificateur
+brassée d'un bouquet | r_quantificateur
+tas d'un amas | r_quantificateur
+pile d'un stock | r_quantificateur
+amas d'un dépôt | r_quantificateur
+paquet d'un envoi | r_quantificateur
+boîte d'un lot | r_quantificateur
+carton d'un container | r_quantificateur
+caisse d'un inventaire | r_quantificateur
+ballot d'un chargement | r_quantificateur
+botte d'un fagot | r_quantificateur
+bouquet d'un arrangement | r_quantificateur
+gerbe d'un champ | r_quantificateur
+fagot d'un tas | r_quantificateur
+bûche d'un feu | r_quantificateur
+planche d'un plancher | r_quantificateur
+poutre d'un bâtiment | r_quantificateur
+brique d'un édifice | r_quantificateur
+tuile d'un toit | r_quantificateur
+carreau d'un carrelage | r_quantificateur
+dalle d'un dallage | r_quantificateur
+pavé d'un pavage | r_quantificateur
+lingot d'un trésor | r_quantificateur
+barre d'un acier | r_quantificateur
+tige d'un support | r_quantificateur
+fil d'un tissage | r_quantificateur
+câble d'un réseau | r_quantificateur
+corde d'un instrument | r_quantificateur
+ficelle d'un emballage | r_quantificateur
+ruban d'un ruban | r_quantificateur
+bande d'un rouleau | r_quantificateur
+rouleau d'un stock | r_quantificateur
+feuille d'un bloc | r_quantificateur
+page d'un document | r_quantificateur
+ligne d'un paragraphe | r_quantificateur
+mot d'un discours | r_quantificateur
+lettre d'un courrier | r_quantificateur
+chiffre d'un montant | r_quantificateur
+numéro d'un tirage | r_quantificateur
+quantité d'un stock | r_quantificateur
+volume d'un contenant | r_quantificateur
+minute d'une durée | r_quantificateur
+heure d'une journée | r_quantificateur
+jour d'une période | r_quantificateur
+semaine d'une session | r_quantificateur
+mois d'une année | r_quantificateur
+année d'une époque | r_quantificateur
+seconde d'une course | r_quantificateur
+instant d'une éternité | r_quantificateur
+moment d'une existence | r_quantificateur
+période d'une phase | r_quantificateur
+trimestre d'une année | r_quantificateur
+décennie d'une vie | r_quantificateur
+siècle d'une ère | r_quantificateur
+millénaire d'une histoire | r_quantificateur
+époque d'une civilisation | r_quantificateur
+ère d'une période | r_quantificateur
+gramme d'une quantité | r_quantificateur
+kilogramme d'une masse | r_quantificateur
+tonne d'une charge | r_quantificateur
+once d'une mesure | r_quantificateur
+livre d'une livre | r_quantificateur
+quintal d'une cargaison | r_quantificateur
+milligramme d'une trace | r_quantificateur
+carat d'une gemme | r_quantificateur
+litre d'une contenance | r_quantificateur
+millilitre d'une dose | r_quantificateur
+décilitre d'une mesure | r_quantificateur
+centilitre d'une quantité | r_quantificateur
+hectolitre d'une cuve | r_quantificateur
+gallon d'une capacité | r_quantificateur
+baril d'une production | r_quantificateur
+pinte d'une contenance | r_quantificateur
+verre d'une consommation | r_quantificateur
+tasse d'une infusion | r_quantificateur
+cuillère d'une préparation | r_quantificateur
+goutte d'une administration | r_quantificateur
+dose d'une posologie | r_quantificateur
+mètre d'une longueur | r_quantificateur
+kilomètre d'une étendue | r_quantificateur
+centimètre d'une dimension | r_quantificateur
+millimètre d'une épaisseur | r_quantificateur
+pouce d'une hauteur | r_quantificateur
+pied d'une longueur | r_quantificateur
+yard d'une distance | r_quantificateur
+mile d'une étendue | r_quantificateur
+lieue d'une distance | r_quantificateur
+coudée d'une longueur | r_quantificateur
+brasse d'une profondeur | r_quantificateur
+degré d'une température | r_quantificateur
+grade d'une inclinaison | r_quantificateur
+radian d'une mesure | r_quantificateur
+pourcentage d'une proportion | r_quantificateur
+fraction d'une division | r_quantificateur
+part d'une répartition | r_quantificateur
+portion d'une distribution | r_quantificateur
+tranche d'une division | r_quantificateur
+morceau d'une division | r_quantificateur
+bout d'une extrémité | r_quantificateur
+bouchée d'une portion | r_quantificateur
+gorgée d'une quantité | r_quantificateur
+pincée d'une mesure | r_quantificateur
+poignée d'une quantité | r_quantificateur
+brassée d'une charge | r_quantificateur
+tas d'une accumulation | r_quantificateur
+pile d'une accumulation | r_quantificateur
+amas d'une accumulation | r_quantificateur
+paquet d'une quantité | r_quantificateur
+boîte d'une contenance | r_quantificateur
+carton d'une capacité | r_quantificateur
+caisse d'une contenance | r_quantificateur
+ballot d'une quantité | r_quantificateur
+botte d'une quantité | r_quantificateur
+bouquet d'une composition | r_quantificateur
+gerbe d'une récolte | r_quantificateur
+fagot d'une quantité | r_quantificateur
+bûche d'une quantité | r_quantificateur
+planche d'une épaisseur | r_quantificateur
+poutre d'une section | r_quantificateur
+brique d'une dimension | r_quantificateur
+tuile d'une surface | r_quantificateur
+carreau d'une dimension | r_quantificateur
+dalle d'une surface | r_quantificateur
+pavé d'une dimension | r_quantificateur
+lingot d'une masse | r_quantificateur
+barre d'une longueur | r_quantificateur
+tige d'une longueur | r_quantificateur
+fil d'une longueur | r_quantificateur
+câble d'une longueur | r_quantificateur
+corde d'une longueur | r_quantificateur
+ficelle d'une longueur | r_quantificateur
+ruban d'une longueur | r_quantificateur
+bande d'une longueur | r_quantificateur
+rouleau d'une longueur | r_quantificateur
+feuille d'une surface | r_quantificateur
+page d'une surface | r_quantificateur
+ligne d'une longueur | r_quantificateur
+mot d'une longueur | r_quantificateur
+lettre d'une taille | r_quantificateur
+chiffre d'une valeur | r_quantificateur
+numéro d'une valeur | r_quantificateur
+quantité d'une mesure | r_quantificateur
+volume d'une capacité | r_quantificateur
+masse d'une quantité | r_quantificateur
+poids d'une mesure | r_quantificateur
+charge d'une capacité | r_quantificateur
+fardeau d'une quantité | r_quantificateur
+dose d'une concentration | r_quantificateur
+taux d'une proportion | r_quantificateur
+ratio d'une relation | r_quantificateur
+coefficient d'une mesure | r_quantificateur
+indice d'une valeur | r_quantificateur
+score d'une évaluation | r_quantificateur
+note d'une appréciation | r_quantificateur
+point d'une mesure | r_quantificateur
+unité d'une quantité | r_quantificateur
+multiple d'une quantité | r_quantificateur
+diviseur d'une quantité | r_quantificateur
+facteur d'une quantité | r_quantificateur
+puissance d'une quantité | r_quantificateur
+racine d'une quantité | r_quantificateur
+somme d'une addition | r_quantificateur
+différence d'une soustraction | r_quantificateur
+produit d'une multiplication | r_quantificateur
+quotient d'une division | r_quantificateur
+reste d'une division | r_quantificateur
+niveau d'une mesure | r_quantificateur
+degré d'une intensité | r_quantificateur
+stade d'une évolution | r_quantificateur
+phase d'une progression | r_quantificateur
+étape d'une évolution | r_quantificateur
+palier d'une progression | r_quantificateur
+échelon d'une hiérarchie | r_quantificateur
+rang d'une classification | r_quantificateur
+position d'une classification | r_quantificateur
+place d'une hiérarchie | r_quantificateur
+ordre d'une série | r_quantificateur
+série d'une suite | r_quantificateur
+suite d'une séquence | r_quantificateur
+séquence d'une série | r_quantificateur
+cycle d'une répétition | r_quantificateur
+tour d'une rotation | r_quantificateur
+rotation d'une répétition | r_quantificateur
+révolution d'une rotation | r_quantificateur
+oscillation d'une vibration | r_quantificateur
+vibration d'une oscillation | r_quantificateur
+fréquence d'une répétition | r_quantificateur
+amplitude d'une oscillation | r_quantificateur
+longueur d'une onde | r_quantificateur
+période d'une oscillation | r_quantificateur
+vitesse d'une propagation | r_quantificateur
+accélération d'une variation | r_quantificateur
+débit d'une circulation | r_quantificateur
+flux d'une circulation | r_quantificateur
+courant d'une circulation | r_quantificateur
+pression d'une force | r_quantificateur
+tension d'une force | r_quantificateur
+force d'une intensité | r_quantificateur
+énergie d'une quantité | r_quantificateur
+puissance d'une intensité | r_quantificateur
+travail d'une quantité | r_quantificateur
+chaleur d'une quantité | r_quantificateur
+lumière d'une intensité | r_quantificateur
+son d'une intensité | r_quantificateur
+bruit d'une intensité | r_quantificateur
+intensité d'une force | r_quantificateur
+magnitude d'une force | r_quantificateur
+amplitude d'une force | r_quantificateur
+portée d'une distance | r_quantificateur
+étendue d'une surface | r_quantificateur
+superficie d'une surface | r_quantificateur
+aire d'une surface | r_quantificateur
+surface d'une étendue | r_quantificateur
+espace d'une étendue | r_quantificateur
+capacité d'une contenance | r_quantificateur
+contenance d'une capacité | r_quantificateur
+densité d'une concentration | r_quantificateur
+concentration d'une densité | r_quantificateur
+dilution d'une concentration | r_quantificateur
+saturation d'une concentration | r_quantificateur
+pureté d'une concentration | r_quantificateur
+teneur d'une concentration | r_quantificateur
+titre d'une concentration | r_quantificateur
+richesse d'une concentration | r_quantificateur
+abondance d'une quantité | r_quantificateur
+rareté d'une quantité | r_quantificateur
+profusion d'une quantité | r_quantificateur
+pénurie d'une quantité | r_quantificateur
+excès d'une quantité | r_quantificateur
+déficit d'une quantité | r_quantificateur
+surplus d'une quantité | r_quantificateur
+manque d'une quantité | r_quantificateur
+insuffisance d'une quantité | r_quantificateur
+carence d'une quantité | r_quantificateur
+privation d'une quantité | r_quantificateur
+absence d'une quantité | r_quantificateur
+présence d'une quantité | r_quantificateur
+existence d'une quantité | r_quantificateur
+total d'une somme | r_quantificateur
+ensemble d'une collection | r_quantificateur
+collection d'une série | r_quantificateur
+série d'une collection | r_quantificateur
+lot d'une quantité | r_quantificateur
+batch d'une production | r_quantificateur
+fournée d'une cuisson | r_quantificateur
+tournée d'une distribution | r_quantificateur
+livraison d'une quantité | r_quantificateur
+cargaison d'une quantité | r_quantificateur
+chargement d'une capacité | r_quantificateur
+déchargement d'une quantité | r_quantificateur
+stock d'une réserve | r_quantificateur
+réserve d'un stock | r_quantificateur
+provision d'une réserve | r_quantificateur
+approvisionnement d'une quantité | r_quantificateur
+ravitaillement d'une quantité | r_quantificateur
+fourniture d'une quantité | r_quantificateur
+dotation d'une quantité | r_quantificateur
+allocation d'une quantité | r_quantificateur
+attribution d'une quantité | r_quantificateur
+distribution d'une quantité | r_quantificateur
+répartition d'une quantité | r_quantificateur
+partage d'une quantité | r_quantificateur
+division d'une quantité | r_quantificateur
+subdivision d'une quantité | r_quantificateur
+sectionnement d'une quantité | r_quantificateur
+fractionnement d'une quantité | r_quantificateur
+morcellement d'une quantité | r_quantificateur
+découpage d'une quantité | r_quantificateur
+tranche d'une période | r_quantificateur
+segment d'une durée | r_quantificateur
+intervalle d'une durée | r_quantificateur
+laps d'une durée | r_quantificateur
+délai d'une attente | r_quantificateur
+échéance d'une date | r_quantificateur
+terme d'une période | r_quantificateur
+expiration d'une validité | r_quantificateur
+validité d'une durée | r_quantificateur
+durée d'une période | r_quantificateur
+longueur d'une durée | r_quantificateur
+étendue d'une période | r_quantificateur
+amplitude d'une variation | r_quantificateur
+écart d'une différence | r_quantificateur
+différence d'un écart | r_quantificateur
+décalage d'une variation | r_quantificateur
+variation d'une amplitude | r_quantificateur
+fluctuation d'une variation | r_quantificateur
+oscillation d'une variation | r_quantificateur
+modification d'une quantité | r_quantificateur
+changement d'une quantité | r_quantificateur
+transformation d'une quantité | r_quantificateur
+mutation d'une quantité | r_quantificateur
+évolution d'une quantité | r_quantificateur
+progression d'une quantité | r_quantificateur
+régression d'une quantité | r_quantificateur
+augmentation d'une quantité | r_quantificateur
+diminution d'une quantité | r_quantificateur
+accroissement d'une quantité | r_quantificateur
+réduction d'une quantité | r_quantificateur
+expansion d'une quantité | r_quantificateur
+contraction d'une quantité | r_quantificateur
+extension d'une quantité | r_quantificateur
+restriction d'une quantité | r_quantificateur
+amplification d'une quantité | r_quantificateur
+atténuation d'une quantité | r_quantificateur
+intensification d'une quantité | r_quantificateur
+affaiblissement d'une quantité | r_quantificateur
+renforcement d'une quantité | r_quantificateur
+consolidation d'une quantité | r_quantificateur
+stabilisation d'une quantité | r_quantificateur
+maintien d'une quantité | r_quantificateur
+conservation d'une quantité | r_quantificateur
+préservation d'une quantité | r_quantificateur
+sauvegarde d'une quantité | r_quantificateur
+protection d'une quantité | r_quantificateur
+sécurisation d'une quantité | r_quantificateur
+garantie d'une quantité | r_quantificateur
+assurance d'une quantité | r_quantificateur
+certitude d'une quantité | r_quantificateur
+probabilité d'une chance | r_quantificateur
+possibilité d'une chance | r_quantificateur
+chance d'une probabilité | r_quantificateur
+risque d'une probabilité | r_quantificateur
+danger d'une intensité | r_quantificateur
+menace d'une intensité | r_quantificateur
+péril d'une intensité | r_quantificateur
+sécurité d'une garantie | r_quantificateur
+fiabilité d'une garantie | r_quantificateur
+solidité d'une résistance | r_quantificateur
+résistance d'une force | r_quantificateur
+robustesse d'une force | r_quantificateur
+fragilité d'une faiblesse | r_quantificateur
+faiblesse d'une intensité | r_quantificateur
+vulnérabilité d'une faiblesse | r_quantificateur
+sensibilité d'une intensité | r_quantificateur
+réactivité d'une intensité | r_quantificateur
+tolérance d'une capacité | r_quantificateur
+résistance d'une capacité | r_quantificateur
+endurance d'une capacité | r_quantificateur
+capacité d'une mesure | r_quantificateur
+aptitude d'une mesure | r_quantificateur
+compétence d'une mesure | r_quantificateur
+habileté d'une mesure | r_quantificateur
+dextérité d'une mesure | r_quantificateur
+adresse d'une mesure | r_quantificateur
+maîtrise d'une mesure | r_quantificateur
+expertise d'une mesure | r_quantificateur
+expérience d'une durée | r_quantificateur
+pratique d'une durée | r_quantificateur
+exercice d'une durée | r_quantificateur
+entraînement d'une durée | r_quantificateur
+préparation d'une durée | r_quantificateur
+formation d'une durée | r_quantificateur
+éducation d'une durée | r_quantificateur
+instruction d'une durée | r_quantificateur
+apprentissage d'une durée | r_quantificateur
+étude d'une durée | r_quantificateur
+recherche d'une durée | r_quantificateur
+investigation d'une durée | r_quantificateur
+exploration d'une durée | r_quantificateur
+examen d'une durée | r_quantificateur
+analyse d'une durée | r_quantificateur
+évaluation d'une durée | r_quantificateur
+appréciation d'une mesure | r_quantificateur
+estimation d'une mesure | r_quantificateur
+calcul d'une mesure | r_quantificateur
+computation d'une mesure | r_quantificateur
+mesure d'une quantité | r_quantificateur
+mesurage d'une quantité | r_quantificateur
+jaugeage d'une quantité | r_quantificateur
+dosage d'une quantité | r_quantificateur
+pesage d'une quantité | r_quantificateur
+comptage d'une quantité | r_quantificateur
+dénombrement d'une quantité | r_quantificateur
+recensement d'une quantité | r_quantificateur
+inventaire d'une quantité | r_quantificateur
+catalogue d'une quantité | r_quantificateur
+liste d'une quantité | r_quantificateur
+énumération d'une quantité | r_quantificateur
+série d'une énumération | r_quantificateur
+succession d'une série | r_quantificateur
+enchaînement d'une série | r_quantificateur
+continuité d'une série | r_quantificateur
+suite d'une continuité | r_quantificateur
+poursuite d'une durée | r_quantificateur
+continuation d'une durée | r_quantificateur
+prolongation d'une durée | r_quantificateur
+extension d'une durée | r_quantificateur
+allongement d'une durée | r_quantificateur
+raccourcissement d'une durée | r_quantificateur
+abrégement d'une durée | r_quantificateur
+réduction d'une durée | r_quantificateur
+compression d'une durée | r_quantificateur
+condensation d'une quantité | r_quantificateur
+concentration d'une quantité | r_quantificateur
+accumulation d'une quantité | r_quantificateur
+entassement d'une quantité | r_quantificateur
+empilage d'une quantité | r_quantificateur
+amoncellement d'une quantité | r_quantificateur
+agrégation d'une quantité | r_quantificateur
+agglomération d'une quantité | r_quantificateur
+agglutination d'une quantité | r_quantificateur
+amalgame d'une quantité | r_quantificateur
+mélange d'une quantité | r_quantificateur
+combinaison d'une quantité | r_quantificateur
+composition d'une quantité | r_quantificateur
+association d'une quantité | r_quantificateur
+union d'une quantité | r_quantificateur
+jonction d'une quantité | r_quantificateur
+liaison d'une quantité | r_quantificateur
+connexion d'une quantité | r_quantificateur
+rattachement d'une quantité | r_quantificateur
+assemblage d'une quantité | r_quantificateur
+montage d'une quantité | r_quantificateur
+construction d'une quantité | r_quantificateur
+édification d'une quantité | r_quantificateur
+érection d'une quantité | r_quantificateur
+élévation d'une hauteur | r_quantificateur
+hauteur d'une mesure | r_quantificateur
+altitude d'une mesure | r_quantificateur
+niveau d'une hauteur | r_quantificateur
+cote d'une hauteur | r_quantificateur
+profondeur d'une mesure | r_quantificateur
+creux d'une profondeur | r_quantificateur
+cavité d'une profondeur | r_quantificateur
+fosse d'une profondeur | r_quantificateur
+trou d'une profondeur | r_quantificateur
+puits d'une profondeur | r_quantificateur
+abîme d'une profondeur | r_quantificateur
+gouffre d'une profondeur | r_quantificateur
+précipice d'une profondeur | r_quantificateur
+ravin d'une profondeur | r_quantificateur
+vallée d'une profondeur | r_quantificateur
+dépression d'une profondeur | r_quantificateur
+cuvette d'une profondeur | r_quantificateur
+bassin d'une profondeur | r_quantificateur
+réservoir d'une capacité | r_quantificateur
+citerne d'une capacité | r_quantificateur
+cuve d'une capacité | r_quantificateur
+bac d'une capacité | r_quantificateur
+baquet d'une capacité | r_quantificateur
+seau d'une capacité | r_quantificateur
+sceau d'une quantité | r_quantificateur
+bidon d'une capacité | r_quantificateur
+jerrycan d'une capacité | r_quantificateur
+tonneau d'une capacité | r_quantificateur
+fût d'une capacité | r_quantificateur
+barrique d'une capacité | r_quantificateur
+amphore d'une capacité | r_quantificateur
+jarre d'une capacité | r_quantificateur
+cruche d'une capacité | r_quantificateur
+pichet d'une capacité | r_quantificateur
+pot d'une capacité | r_quantificateur
+récipient d'une capacité | r_quantificateur
+contenant d'une capacité | r_quantificateur
+conteneur d'une capacité | r_quantificateur
+emballage d'une capacité | r_quantificateur
+conditionnement d'une quantité | r_quantificateur
+présentation d'une quantité | r_quantificateur
+format d'une dimension | r_quantificateur
+taille d'une dimension | r_quantificateur
+dimension d'une mesure | r_quantificateur
+gabarit d'une dimension | r_quantificateur
+calibre d'une dimension | r_quantificateur
+module d'une dimension | r_quantificateur
+échelle d'une proportion | r_quantificateur
+proportion d'une mesure | r_quantificateur
+rapport d'une proportion | r_quantificateur
+relation d'une proportion | r_quantificateur
+correspondance d'une relation | r_quantificateur
+équivalence d'une relation | r_quantificateur
+égalité d'une relation | r_quantificateur
+identité d'une relation | r_quantificateur
+similitude d'une relation | r_quantificateur
+ressemblance d'une relation | r_quantificateur
+analogie d'une relation | r_quantificateur
+parenté d'une relation | r_quantificateur
+affinité d'une relation | r_quantificateur
+proximité d'une distance | r_quantificateur
+voisinage d'une distance | r_quantificateur
+distance d'une mesure | r_quantificateur
+éloignement d'une distance | r_quantificateur
+écartement d'une distance | r_quantificateur
+espacement d'une distance | r_quantificateur
+intervalle d'une distance | r_quantificateur
+séparation d'une distance | r_quantificateur
+division d'une séparation | r_quantificateur
+coupure d'une séparation | r_quantificateur
+rupture d'une séparation | r_quantificateur
+cassure d'une rupture | r_quantificateur
+fracture d'une rupture | r_quantificateur
+fissure d'une rupture | r_quantificateur
+fente d'une ouverture | r_quantificateur
+faille d'une rupture | r_quantificateur
+brèche d'une ouverture | r_quantificateur
+ouverture d'une dimension | r_quantificateur
+fermeture d'une dimension | r_quantificateur
+occlusion d'une fermeture | r_quantificateur
+obturation d'une fermeture | r_quantificateur
+colmatage d'une fermeture | r_quantificateur
+bouchage d'une fermeture | r_quantificateur
+obstruction d'une fermeture | r_quantificateur
+blocage d'une obstruction | r_quantificateur
+barrage d'une obstruction | r_quantificateur
+digue d'une hauteur | r_quantificateur
+rempart d'une hauteur | r_quantificateur
+muraille d'une hauteur | r_quantificateur
+fortification d'une hauteur | r_quantificateur
+enceinte d'une dimension | r_quantificateur
+clôture d'une dimension | r_quantificateur
+palissade d'une dimension | r_quantificateur
+barrière d'une dimension | r_quantificateur
+grille d'une dimension | r_quantificateur
+portail d'une dimension | r_quantificateur
+porte d'une dimension | r_quantificateur
+seuil d'une hauteur | r_quantificateur
+passage d'une dimension | r_quantificateur
+corridor d'une dimension | r_quantificateur
+couloir d'une dimension | r_quantificateur
+galerie d'une dimension | r_quantificateur
+tunnel d'une dimension | r_quantificateur
+souterrain d'une dimension | r_quantificateur
+conduit d'une dimension | r_quantificateur
+canal d'une dimension | r_quantificateur
+tube d'une dimension | r_quantificateur
+tuyau d'une dimension | r_quantificateur
+pipe d'une dimension | r_quantificateur
+conduite d'une dimension | r_quantificateur
+canalisation d'une dimension | r_quantificateur
+tuyauterie d'une dimension | r_quantificateur
+plomberie d'une dimension | r_quantificateur
+réseau d'une étendue | r_quantificateur
+système d'une étendue | r_quantificateur
+installation d'une étendue | r_quantificateur
+équipement d'une quantité | r_quantificateur
+matériel d'une quantité | r_quantificateur
+outillage d'une quantité | r_quantificateur
+machinerie d'une quantité | r_quantificateur
+appareillage d'une quantité | r_quantificateur
+dispositif d'une quantité | r_quantificateur
+mécanisme d'une quantité | r_quantificateur
+engin d'une quantité | r_quantificateur
+machine d'une quantité | r_quantificateur
+instrument d'une quantité | r_quantificateur
+outil d'une quantité | r_quantificateur
+ustensile d'une quantité | r_quantificateur
+accessoire d'une quantité | r_quantificateur
+pièce d'une quantité | r_quantificateur
+élément d'une quantité | r_quantificateur
+composant d'une quantité | r_quantificateur
+constituant d'une quantité | r_quantificateur
+ingrédient d'une quantité | r_quantificateur
+composante d'une quantité | r_quantificateur
+partie d'une quantité | r_quantificateur
+fragment d'une quantité | r_quantificateur
+morceau d'une quantité | r_quantificateur
+bribe d'une quantité | r_quantificateur
+lambeau d'une quantité | r_quantificateur
+débris d'une quantité | r_quantificateur
+reste d'une quantité | r_quantificateur
+résidu d'une quantité | r_quantificateur
+déchet d'une quantité | r_quantificateur
+rebut d'une quantité | r_quantificateur
+ordure d'une quantité | r_quantificateur
+détritus d'une quantité | r_quantificateur
+immondice d'une quantité | r_quantificateur
+poubelle d'une quantité | r_quantificateur
+décharge d'une quantité | r_quantificateur
+dépotoir d'une quantité | r_quantificateur
+tas d'une accumulation | r_quantificateur
+amas d'une concentration | r_quantificateur
+monceau d'une quantité | r_quantificateur
+montagne d'une quantité | r_quantificateur
+colline d'une hauteur | r_quantificateur
+butte d'une hauteur | r_quantificateur
+tertre d'une hauteur | r_quantificateur
+monticule d'une hauteur | r_quantificateur
+élévation d'une altitude | r_quantificateur
+relief d'une hauteur | r_quantificateur
+sommet d'une hauteur | r_quantificateur
+cime d'une hauteur | r_quantificateur
+pic d'une hauteur | r_quantificateur
+crête d'une hauteur | r_quantificateur
+faîte d'une hauteur | r_quantificateur
+apogée d'une hauteur | r_quantificateur
+zénith d'une hauteur | r_quantificateur
+maximum d'une quantité | r_quantificateur
+optimum d'une quantité | r_quantificateur
+plafond d'une limite | r_quantificateur
+limite d'une quantité | r_quantificateur
+borne d'une limite | r_quantificateur
+seuil d'une limite | r_quantificateur
+plancher d'une limite | r_quantificateur
+minimum d'une quantité | r_quantificateur
+nadir d'une profondeur | r_quantificateur
+creux d'une intensité | r_quantificateur
+base d'une quantité | r_quantificateur
+fond d'une profondeur | r_quantificateur
+fondement d'une base | r_quantificateur
+fondation d'une base | r_quantificateur
+soubassement d'une base | r_quantificateur
+assise d'une base | r_quantificateur
+support d'une capacité | r_quantificateur
+soutien d'une capacité | r_quantificateur
+appui d'une capacité | r_quantificateur
+étai d'une capacité | r_quantificateur
+béquille d'une capacité | r_quantificateur
+pilier d'une capacité | r_quantificateur
+colonne d'une capacité | r_quantificateur
+poteau d'une hauteur | r_quantificateur
+pylône d'une hauteur | r_quantificateur
+mât d'une hauteur | r_quantificateur
+perche d'une longueur | r_quantificateur
+barre d'une longueur | r_quantificateur

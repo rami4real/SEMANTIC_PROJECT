@@ -1,0 +1,1197 @@
+vélo de cycliste | r_own-1
+voiture de conducteur | r_own-1
+moto de motard | r_own-1
+camion de routier | r_own-1
+tracteur de agriculteur | r_own-1
+bateau de marin | r_own-1
+avion de pilote | r_own-1
+hélicoptère de pilote | r_own-1
+scooter de livreur | r_own-1
+trottinette de enfant | r_own-1
+skateboard de skateur | r_own-1
+patins de patineur | r_own-1
+skis de skieur | r_own-1
+snowboard de surfeur | r_own-1
+planche de surfeur | r_own-1
+kayak de kayakiste | r_own-1
+canoë de canoéiste | r_own-1
+péniche de marinier | r_own-1
+yacht de plaisancier | r_own-1
+voilier de navigateur | r_own-1
+catamaran de navigateur | r_own-1
+trimaran de navigateur | r_own-1
+dériveur de régatier | r_own-1
+zodiac de plongeur | r_own-1
+jet-ski de plaisancier | r_own-1
+cheval de cavalier | r_own-1
+poney de cavalier | r_own-1
+âne de paysan | r_own-1
+mulet de paysan | r_own-1
+chameau de nomade | r_own-1
+dromadaire de nomade | r_own-1
+éléphant de cornac | r_own-1
+chien de maître | r_own-1
+chat de propriétaire | r_own-1
+perroquet de propriétaire | r_own-1
+canari de propriétaire | r_own-1
+poisson de propriétaire | r_own-1
+hamster de enfant | r_own-1
+cochon de paysan | r_own-1
+vache de éleveur | r_own-1
+bœuf de éleveur | r_own-1
+taureau de éleveur | r_own-1
+mouton de berger | r_own-1
+brebis de berger | r_own-1
+agneau de berger | r_own-1
+chèvre de berger | r_own-1
+chevreau de berger | r_own-1
+poule de fermier | r_own-1
+coq de fermier | r_own-1
+canard de fermier | r_own-1
+oie de fermier | r_own-1
+dinde de fermier | r_own-1
+lapin de fermier | r_own-1
+maison de propriétaire | r_own-1
+appartement de locataire | r_own-1
+villa de propriétaire | r_own-1
+château de propriétaire | r_own-1
+manoir de propriétaire | r_own-1
+chalet de propriétaire | r_own-1
+cabane de propriétaire | r_own-1
+hutte de habitant | r_own-1
+tente de campeur | r_own-1
+caravane de campeur | r_own-1
+mobile-home de campeur | r_own-1
+roulotte de nomade | r_own-1
+yourte de nomade | r_own-1
+igloo de esquimau | r_own-1
+tipi de indien | r_own-1
+garage de propriétaire | r_own-1
+hangar de propriétaire | r_own-1
+entrepôt de propriétaire | r_own-1
+atelier de artisan | r_own-1
+boutique de commerçant | r_own-1
+magasin de commerçant | r_own-1
+bureau de employé | r_own-1
+cabinet de médecin | r_own-1
+étude de notaire | r_own-1
+laboratoire de chercheur | r_own-1
+usine de industriel | r_own-1
+ferme de fermier | r_own-1
+exploitation de agriculteur | r_own-1
+parcelle de propriétaire | r_own-1
+terrain de propriétaire | r_own-1
+champ de paysan | r_own-1
+pré de éleveur | r_own-1
+prairie de éleveur | r_own-1
+jardin de jardinier | r_own-1
+potager de jardinier | r_own-1
+verger de arboriculteur | r_own-1
+vigne de vigneron | r_own-1
+oliveraie de oléiculteur | r_own-1
+plantation de planteur | r_own-1
+forêt de forestier | r_own-1
+bois de propriétaire | r_own-1
+étang de pisciculteur | r_own-1
+mare de propriétaire | r_own-1
+puits de propriétaire | r_own-1
+fontaine de propriétaire | r_own-1
+piscine de propriétaire | r_own-1
+livre de lecteur | r_own-1
+cahier de écolier | r_own-1
+carnet de écrivain | r_own-1
+journal de abonné | r_own-1
+magazine de abonné | r_own-1
+revue de abonné | r_own-1
+dictionnaire de étudiant | r_own-1
+encyclopédie de collectionneur | r_own-1
+atlas de géographe | r_own-1
+carte de randonneur | r_own-1
+plan de touriste | r_own-1
+guide de voyageur | r_own-1
+album de photographe | r_own-1
+disque de collectionneur | r_own-1
+vinyle de collectionneur | r_own-1
+cassette de collectionneur | r_own-1
+cd de mélomane | r_own-1
+dvd de cinéphile | r_own-1
+blu-ray de cinéphile | r_own-1
+film de cinéaste | r_own-1
+photo de photographe | r_own-1
+tableau de peintre | r_own-1
+toile de artiste | r_own-1
+dessin de dessinateur | r_own-1
+sculpture de sculpteur | r_own-1
+statue de sculpteur | r_own-1
+buste de sculpteur | r_own-1
+vase de collectionneur | r_own-1
+pot de potier | r_own-1
+assiette de céramiste | r_own-1
+bol de céramiste | r_own-1
+tasse de collectionneur | r_own-1
+verre de verrier | r_own-1
+coupe de verrier | r_own-1
+carafe de verrier | r_own-1
+bouteille de vigneron | r_own-1
+flacon de parfumeur | r_own-1
+bijou de joaillier | r_own-1
+collier de bijoutier | r_own-1
+bague de bijoutier | r_own-1
+bracelet de bijoutier | r_own-1
+boucle de bijoutier | r_own-1
+broche de bijoutier | r_own-1
+montre de horloger | r_own-1
+pendule de horloger | r_own-1
+horloge de horloger | r_own-1
+réveil de propriétaire | r_own-1
+chronomètre de sportif | r_own-1
+ordinateur de informaticien | r_own-1
+portable de utilisateur | r_own-1
+tablette de utilisateur | r_own-1
+smartphone de utilisateur | r_own-1
+téléphone de abonné | r_own-1
+téléviseur de téléspectateur | r_own-1
+écran de utilisateur | r_own-1
+imprimante de utilisateur | r_own-1
+scanner de utilisateur | r_own-1
+appareil de photographe | r_own-1
+caméra de vidéaste | r_own-1
+caméscope de vidéaste | r_own-1
+micro de chanteur | r_own-1
+enceinte de musicien | r_own-1
+platine de disc-jockey | r_own-1
+guitare de guitariste | r_own-1
+piano de pianiste | r_own-1
+violon de violoniste | r_own-1
+flûte de flûtiste | r_own-1
+saxophone de saxophoniste | r_own-1
+trompette de trompettiste | r_own-1
+batterie de batteur | r_own-1
+tambour de percussionniste | r_own-1
+harpe de harpiste | r_own-1
+accordéon de accordéoniste | r_own-1
+harmonica de musicien | r_own-1
+synthétiseur de musicien | r_own-1
+amplificateur de musicien | r_own-1
+vêtement de propriétaire | r_own-1
+chemise de propriétaire | r_own-1
+pantalon de propriétaire | r_own-1
+jupe de propriétaire | r_own-1
+robe de propriétaire | r_own-1
+manteau de propriétaire | r_own-1
+veste de propriétaire | r_own-1
+blouson de propriétaire | r_own-1
+gilet de propriétaire | r_own-1
+pull de propriétaire | r_own-1
+chandail de propriétaire | r_own-1
+tricot de propriétaire | r_own-1
+cardigan de propriétaire | r_own-1
+sweat de propriétaire | r_own-1
+polo de propriétaire | r_own-1
+tee-shirt de propriétaire | r_own-1
+débardeur de propriétaire | r_own-1
+maillot de sportif | r_own-1
+short de sportif | r_own-1
+bermuda de propriétaire | r_own-1
+costume de propriétaire | r_own-1
+complet de propriétaire | r_own-1
+smoking de propriétaire | r_own-1
+habit de propriétaire | r_own-1
+uniforme de employé | r_own-1
+blouse de employé | r_own-1
+tablier de cuisinier | r_own-1
+salopette de ouvrier | r_own-1
+combinaison de mécanicien | r_own-1
+chaussure de propriétaire | r_own-1
+soulier de propriétaire | r_own-1
+botte de propriétaire | r_own-1
+bottine de propriétaire | r_own-1
+sandale de propriétaire | r_own-1
+tong de propriétaire | r_own-1
+espadrille de propriétaire | r_own-1
+basket de sportif | r_own-1
+tennis de joueur | r_own-1
+ballerine de danseuse | r_own-1
+escarpin de propriétaire | r_own-1
+mocassin de propriétaire | r_own-1
+sabot de propriétaire | r_own-1
+pantoufle de propriétaire | r_own-1
+chausson de propriétaire | r_own-1
+chapeau de propriétaire | r_own-1
+casquette de propriétaire | r_own-1
+béret de propriétaire | r_own-1
+bonnet de propriétaire | r_own-1
+calotte de propriétaire | r_own-1
+coiffe de propriétaire | r_own-1
+foulard de propriétaire | r_own-1
+écharpe de propriétaire | r_own-1
+châle de propriétaire | r_own-1
+cravate de propriétaire | r_own-1
+nœud de propriétaire | r_own-1
+ceinture de propriétaire | r_own-1
+bretelle de propriétaire | r_own-1
+gant de propriétaire | r_own-1
+moufle de propriétaire | r_own-1
+mitaine de propriétaire | r_own-1
+chaussette de propriétaire | r_own-1
+bas de propriétaire | r_own-1
+collant de propriétaire | r_own-1
+sac de propriétaire | r_own-1
+sacoche de propriétaire | r_own-1
+besace de propriétaire | r_own-1
+cartable de écolier | r_own-1
+valise de voyageur | r_own-1
+malle de voyageur | r_own-1
+bagage de voyageur | r_own-1
+sac-à-dos de randonneur | r_own-1
+parapluie de propriétaire | r_own-1
+parasol de propriétaire | r_own-1
+ombrelle de propriétaire | r_own-1
+canne de propriétaire | r_own-1
+bâton de randonneur | r_own-1
+vélo du cycliste | r_own-1
+voiture du conducteur | r_own-1
+moto du motard | r_own-1
+camion du routier | r_own-1
+tracteur du agriculteur | r_own-1
+bateau du marin | r_own-1
+avion du pilote | r_own-1
+hélicoptère du pilote | r_own-1
+scooter du livreur | r_own-1
+skateboard du skateur | r_own-1
+patins du patineur | r_own-1
+skis du skieur | r_own-1
+snowboard du surfeur | r_own-1
+kayak du kayakiste | r_own-1
+canoë du canoéiste | r_own-1
+yacht du plaisancier | r_own-1
+voilier du navigateur | r_own-1
+catamaran du navigateur | r_own-1
+dériveur du régatier | r_own-1
+zodiac du plongeur | r_own-1
+jet-ski du plaisancier | r_own-1
+cheval du cavalier | r_own-1
+poney du cavalier | r_own-1
+âne du paysan | r_own-1
+mulet du paysan | r_own-1
+chameau du nomade | r_own-1
+dromadaire du nomade | r_own-1
+éléphant du cornac | r_own-1
+chien du maître | r_own-1
+chat du propriétaire | r_own-1
+perroquet du propriétaire | r_own-1
+canari du propriétaire | r_own-1
+poisson du propriétaire | r_own-1
+hamster du enfant | r_own-1
+cochon du paysan | r_own-1
+vache du éleveur | r_own-1
+bœuf du éleveur | r_own-1
+taureau du éleveur | r_own-1
+mouton du berger | r_own-1
+brebis du berger | r_own-1
+agneau du berger | r_own-1
+chèvre du berger | r_own-1
+chevreau du berger | r_own-1
+poule du fermier | r_own-1
+coq du fermier | r_own-1
+canard du fermier | r_own-1
+oie du fermier | r_own-1
+dinde du fermier | r_own-1
+lapin du fermier | r_own-1
+maison du propriétaire | r_own-1
+appartement du locataire | r_own-1
+villa du propriétaire | r_own-1
+château du propriétaire | r_own-1
+manoir du propriétaire | r_own-1
+chalet du propriétaire | r_own-1
+garage du propriétaire | r_own-1
+hangar du propriétaire | r_own-1
+entrepôt du propriétaire | r_own-1
+atelier du artisan | r_own-1
+boutique du commerçant | r_own-1
+magasin du commerçant | r_own-1
+bureau du employé | r_own-1
+cabinet du médecin | r_own-1
+étude du notaire | r_own-1
+laboratoire du chercheur | r_own-1
+usine du industriel | r_own-1
+ferme du fermier | r_own-1
+exploitation du agriculteur | r_own-1
+parcelle du propriétaire | r_own-1
+terrain du propriétaire | r_own-1
+champ du paysan | r_own-1
+pré du éleveur | r_own-1
+prairie du éleveur | r_own-1
+jardin du jardinier | r_own-1
+potager du jardinier | r_own-1
+verger du arboriculteur | r_own-1
+vigne du vigneron | r_own-1
+plantation du planteur | r_own-1
+forêt du forestier | r_own-1
+bois du propriétaire | r_own-1
+étang du pisciculteur | r_own-1
+puits du propriétaire | r_own-1
+piscine du propriétaire | r_own-1
+livre du lecteur | r_own-1
+cahier du écolier | r_own-1
+carnet du écrivain | r_own-1
+journal du abonné | r_own-1
+magazine du abonné | r_own-1
+revue du abonné | r_own-1
+dictionnaire du étudiant | r_own-1
+encyclopédie du collectionneur | r_own-1
+atlas du géographe | r_own-1
+carte du randonneur | r_own-1
+plan du touriste | r_own-1
+guide du voyageur | r_own-1
+album du photographe | r_own-1
+disque du collectionneur | r_own-1
+vinyle du collectionneur | r_own-1
+cassette du collectionneur | r_own-1
+cd du mélomane | r_own-1
+dvd du cinéphile | r_own-1
+film du cinéaste | r_own-1
+photo du photographe | r_own-1
+tableau du peintre | r_own-1
+toile du artiste | r_own-1
+dessin du dessinateur | r_own-1
+sculpture du sculpteur | r_own-1
+statue du sculpteur | r_own-1
+buste du sculpteur | r_own-1
+vase du collectionneur | r_own-1
+pot du potier | r_own-1
+assiette du céramiste | r_own-1
+bol du céramiste | r_own-1
+tasse du collectionneur | r_own-1
+verre du verrier | r_own-1
+coupe du verrier | r_own-1
+carafe du verrier | r_own-1
+bouteille du vigneron | r_own-1
+flacon du parfumeur | r_own-1
+bijou du joaillier | r_own-1
+collier du bijoutier | r_own-1
+bague du bijoutier | r_own-1
+bracelet du bijoutier | r_own-1
+boucle du bijoutier | r_own-1
+broche du bijoutier | r_own-1
+montre du horloger | r_own-1
+pendule du horloger | r_own-1
+horloge du horloger | r_own-1
+réveil du propriétaire | r_own-1
+chronomètre du sportif | r_own-1
+ordinateur du informaticien | r_own-1
+portable du utilisateur | r_own-1
+tablette du utilisateur | r_own-1
+smartphone du utilisateur | r_own-1
+téléphone du abonné | r_own-1
+téléviseur du téléspectateur | r_own-1
+écran du utilisateur | r_own-1
+imprimante du utilisateur | r_own-1
+scanner du utilisateur | r_own-1
+appareil du photographe | r_own-1
+caméra du vidéaste | r_own-1
+caméscope du vidéaste | r_own-1
+micro du chanteur | r_own-1
+enceinte du musicien | r_own-1
+platine du disc-jockey | r_own-1
+guitare du guitariste | r_own-1
+piano du pianiste | r_own-1
+violon du violoniste | r_own-1
+flûte du flûtiste | r_own-1
+saxophone du saxophoniste | r_own-1
+trompette du trompettiste | r_own-1
+batterie du batteur | r_own-1
+tambour du percussionniste | r_own-1
+harpe du harpiste | r_own-1
+accordéon du accordéoniste | r_own-1
+harmonica du musicien | r_own-1
+synthétiseur du musicien | r_own-1
+amplificateur du musicien | r_own-1
+vêtement du propriétaire | r_own-1
+chemise du propriétaire | r_own-1
+pantalon du propriétaire | r_own-1
+manteau du propriétaire | r_own-1
+veste du propriétaire | r_own-1
+blouson du propriétaire | r_own-1
+gilet du propriétaire | r_own-1
+pull du propriétaire | r_own-1
+chandail du propriétaire | r_own-1
+tricot du propriétaire | r_own-1
+cardigan du propriétaire | r_own-1
+sweat du propriétaire | r_own-1
+polo du propriétaire | r_own-1
+tee-shirt du propriétaire | r_own-1
+débardeur du propriétaire | r_own-1
+maillot du sportif | r_own-1
+short du sportif | r_own-1
+bermuda du propriétaire | r_own-1
+costume du propriétaire | r_own-1
+complet du propriétaire | r_own-1
+smoking du propriétaire | r_own-1
+habit du propriétaire | r_own-1
+uniforme du employé | r_own-1
+blouse du employé | r_own-1
+tablier du cuisinier | r_own-1
+salopette du ouvrier | r_own-1
+combinaison du mécanicien | r_own-1
+chaussure du propriétaire | r_own-1
+soulier du propriétaire | r_own-1
+botte du propriétaire | r_own-1
+bottine du propriétaire | r_own-1
+sandale du propriétaire | r_own-1
+espadrille du propriétaire | r_own-1
+basket du sportif | r_own-1
+tennis du joueur | r_own-1
+ballerine du danseuse | r_own-1
+escarpin du propriétaire | r_own-1
+mocassin du propriétaire | r_own-1
+sabot du propriétaire | r_own-1
+pantoufle du propriétaire | r_own-1
+chausson du propriétaire | r_own-1
+chapeau du propriétaire | r_own-1
+casquette du propriétaire | r_own-1
+béret du propriétaire | r_own-1
+bonnet du propriétaire | r_own-1
+foulard du propriétaire | r_own-1
+écharpe du propriétaire | r_own-1
+châle du propriétaire | r_own-1
+cravate du propriétaire | r_own-1
+ceinture du propriétaire | r_own-1
+bretelle du propriétaire | r_own-1
+gant du propriétaire | r_own-1
+moufle du propriétaire | r_own-1
+mitaine du propriétaire | r_own-1
+chaussette du propriétaire | r_own-1
+bas du propriétaire | r_own-1
+collant du propriétaire | r_own-1
+sac du propriétaire | r_own-1
+sacoche du propriétaire | r_own-1
+besace du propriétaire | r_own-1
+cartable du écolier | r_own-1
+valise du voyageur | r_own-1
+malle du voyageur | r_own-1
+bagage du voyageur | r_own-1
+sac-à-dos du randonneur | r_own-1
+parapluie du propriétaire | r_own-1
+parasol du propriétaire | r_own-1
+ombrelle du propriétaire | r_own-1
+canne du propriétaire | r_own-1
+bâton du randonneur | r_own-1
+vélo de la cycliste | r_own-1
+voiture de la conductrice | r_own-1
+moto de la motarde | r_own-1
+trottinette de la enfant | r_own-1
+planche de la surfeuse | r_own-1
+maison de la propriétaire | r_own-1
+villa de la propriétaire | r_own-1
+boutique de la commerçante | r_own-1
+ferme de la fermière | r_own-1
+vigne de la vigneronne | r_own-1
+guitare de la guitariste | r_own-1
+harpe de la harpiste | r_own-1
+flûte de la flûtiste | r_own-1
+robe de la propriétaire | r_own-1
+jupe de la propriétaire | r_own-1
+blouse de la employée | r_own-1
+ballerine de la danseuse | r_own-1
+coiffe de la propriétaire | r_own-1
+broche de la bijoutière | r_own-1
+bague de la fiancée | r_own-1
+collier de la femme | r_own-1
+montre de la femme | r_own-1
+parfum de la femme | r_own-1
+rouge de la femme | r_own-1
+poudre de la femme | r_own-1
+crème de la femme | r_own-1
+brosse de la coiffeuse | r_own-1
+peigne de la coiffeuse | r_own-1
+miroir de la femme | r_own-1
+pince de la coiffeuse | r_own-1
+fer de la coiffeuse | r_own-1
+aiguille de la couturière | r_own-1
+machine de la couturière | r_own-1
+ciseaux de la couturière | r_own-1
+mannequin de la couturière | r_own-1
+roulette de la couturière | r_own-1
+mètre de la couturière | r_own-1
+patron de la couturière | r_own-1
+toile de la peintre | r_own-1
+palette de la peintre | r_own-1
+pinceau de la artiste | r_own-1
+sculpture de la sculptrice | r_own-1
+photo de la photographe | r_own-1
+caméra de la vidéaste | r_own-1
+tablette de la utilisatrice | r_own-1
+ordinateur de la programmeuse | r_own-1
+livre de la lectrice | r_own-1
+cahier de la écolière | r_own-1
+plume de la écrivaine | r_own-1
+sac de la femme | r_own-1
+pochette de la femme | r_own-1
+trousse de la écolière | r_own-1
+valise de la voyageuse | r_own-1
+ombrelle de la dame | r_own-1
+éventail de la dame | r_own-1
+dentelle de la couturière | r_own-1
+tapisserie de la brodeuse | r_own-1
+nappe de la maîtresse | r_own-1
+serviette de la maîtresse | r_own-1
+vaisselle de la maîtresse | r_own-1
+casserole de la cuisinière | r_own-1
+poêle de la cuisinière | r_own-1
+marmite de la cuisinière | r_own-1
+louche de la cuisinière | r_own-1
+cuillère de la cuisinière | r_own-1
+fourchette de la maîtresse | r_own-1
+couteau de la cuisinière | r_own-1
+assiette de la maîtresse | r_own-1
+tasse de la maîtresse | r_own-1
+théière de la maîtresse | r_own-1
+cafetière de la maîtresse | r_own-1
+bouilloire de la cuisinière | r_own-1
+balance de la pâtissière | r_own-1
+fouet de la pâtissière | r_own-1
+rouleau de la pâtissière | r_own-1
+moule de la pâtissière | r_own-1
+plaque de la pâtissière | r_own-1
+four de la boulangère | r_own-1
+pétrin de la boulangère | r_own-1
+chambre de la propriétaire | r_own-1
+cuisine de la maîtresse | r_own-1
+salle de la maîtresse | r_own-1
+salon de la maîtresse | r_own-1
+lingerie de la maîtresse | r_own-1
+buanderie de la maîtresse | r_own-1
+cave de la propriétaire | r_own-1
+terrasse de la propriétaire | r_own-1
+véranda de la propriétaire | r_own-1
+pergola de la propriétaire | r_own-1
+piscine de la propriétaire | r_own-1
+fontaine de la propriétaire | r_own-1
+roseraie de la jardinière | r_own-1
+serre de la jardinière | r_own-1
+bêche de la jardinière | r_own-1
+binette de la jardinière | r_own-1
+griffe de la jardinière | r_own-1
+transplantoir de la jardinière | r_own-1
+arrosoir de la jardinière | r_own-1
+brouette de la jardinière | r_own-1
+tondeuse de la jardinière | r_own-1
+cisaille de la jardinière | r_own-1
+sécateur de la jardinière | r_own-1
+gant de la jardinière | r_own-1
+tablier de la jardinière | r_own-1
+chapeau de la jardinière | r_own-1
+botte de la jardinière | r_own-1
+poule de la fermière | r_own-1
+vache de la fermière | r_own-1
+chèvre de la bergère | r_own-1
+brebis de la bergère | r_own-1
+panier de la fermière | r_own-1
+corbeille de la fermière | r_own-1
+cruche de la laitière | r_own-1
+écuelle de la laitière | r_own-1
+baratte de la laitière | r_own-1
+faisselle de la fromagère | r_own-1
+moule de la fromagère | r_own-1
+pressoir de la fromagère | r_own-1
+cave de la fromagère | r_own-1
+hâloir de la fromagère | r_own-1
+claie de la fromagère | r_own-1
+égouttoir de la fromagère | r_own-1
+cuve de la fromagère | r_own-1
+chaudron de la fromagère | r_own-1
+thermomètre de la fromagère | r_own-1
+vélo d'un cycliste | r_own-1
+voiture d'un conducteur | r_own-1
+moto d'un motard | r_own-1
+camion d'un routier | r_own-1
+tracteur d'un agriculteur | r_own-1
+bateau d'un marin | r_own-1
+avion d'un pilote | r_own-1
+vélo de cycliste | r_own-1
+voiture de conducteur | r_own-1
+moto de motard | r_own-1
+camion de routier | r_own-1
+tracteur de agriculteur | r_own-1
+bateau de marin | r_own-1
+avion de pilote | r_own-1
+hélicoptère de pilote | r_own-1
+scooter de livreur | r_own-1
+trottinette de enfant | r_own-1
+skateboard de skateur | r_own-1
+patins de patineur | r_own-1
+skis de skieur | r_own-1
+snowboard de surfeur | r_own-1
+planche de surfeur | r_own-1
+kayak de kayakiste | r_own-1
+canoë de canoéiste | r_own-1
+péniche de marinier | r_own-1
+yacht de plaisancier | r_own-1
+voilier de navigateur | r_own-1
+catamaran de navigateur | r_own-1
+trimaran de navigateur | r_own-1
+dériveur de régatier | r_own-1
+zodiac de plongeur | r_own-1
+jet-ski de plaisancier | r_own-1
+cheval de cavalier | r_own-1
+poney de cavalier | r_own-1
+âne de paysan | r_own-1
+mulet de paysan | r_own-1
+chameau de nomade | r_own-1
+dromadaire de nomade | r_own-1
+éléphant de cornac | r_own-1
+chien de maître | r_own-1
+chat de propriétaire | r_own-1
+perroquet de propriétaire | r_own-1
+canari de propriétaire | r_own-1
+poisson de propriétaire | r_own-1
+hamster de enfant | r_own-1
+cochon de paysan | r_own-1
+vache de éleveur | r_own-1
+bœuf de éleveur | r_own-1
+taureau de éleveur | r_own-1
+mouton de berger | r_own-1
+brebis de berger | r_own-1
+agneau de berger | r_own-1
+chèvre de berger | r_own-1
+chevreau de berger | r_own-1
+poule de fermier | r_own-1
+coq de fermier | r_own-1
+canard de fermier | r_own-1
+oie de fermier | r_own-1
+dinde de fermier | r_own-1
+lapin de fermier | r_own-1
+maison de propriétaire | r_own-1
+appartement de locataire | r_own-1
+villa de propriétaire | r_own-1
+château de propriétaire | r_own-1
+manoir de propriétaire | r_own-1
+chalet de propriétaire | r_own-1
+cabane de propriétaire | r_own-1
+hutte de habitant | r_own-1
+tente de campeur | r_own-1
+caravane de campeur | r_own-1
+mobile-home de campeur | r_own-1
+roulotte de nomade | r_own-1
+yourte de nomade | r_own-1
+igloo de esquimau | r_own-1
+tipi de indien | r_own-1
+garage de propriétaire | r_own-1
+hangar de propriétaire | r_own-1
+entrepôt de propriétaire | r_own-1
+atelier de artisan | r_own-1
+boutique de commerçant | r_own-1
+magasin de commerçant | r_own-1
+bureau de employé | r_own-1
+cabinet de médecin | r_own-1
+étude de notaire | r_own-1
+laboratoire de chercheur | r_own-1
+usine de industriel | r_own-1
+ferme de fermier | r_own-1
+exploitation de agriculteur | r_own-1
+parcelle de propriétaire | r_own-1
+terrain de propriétaire | r_own-1
+champ de paysan | r_own-1
+pré de éleveur | r_own-1
+prairie de éleveur | r_own-1
+jardin de jardinier | r_own-1
+potager de jardinier | r_own-1
+verger de arboriculteur | r_own-1
+vigne de vigneron | r_own-1
+oliveraie de oléiculteur | r_own-1
+plantation de planteur | r_own-1
+forêt de forestier | r_own-1
+bois de propriétaire | r_own-1
+étang de pisciculteur | r_own-1
+mare de propriétaire | r_own-1
+puits de propriétaire | r_own-1
+fontaine de propriétaire | r_own-1
+piscine de propriétaire | r_own-1
+livre de lecteur | r_own-1
+cahier de écolier | r_own-1
+carnet de écrivain | r_own-1
+journal de abonné | r_own-1
+magazine de abonné | r_own-1
+revue de abonné | r_own-1
+dictionnaire de étudiant | r_own-1
+encyclopédie de collectionneur | r_own-1
+atlas de géographe | r_own-1
+carte de randonneur | r_own-1
+plan de touriste | r_own-1
+guide de voyageur | r_own-1
+album de photographe | r_own-1
+disque de collectionneur | r_own-1
+vinyle de collectionneur | r_own-1
+cassette de collectionneur | r_own-1
+cd de mélomane | r_own-1
+dvd de cinéphile | r_own-1
+blu-ray de cinéphile | r_own-1
+film de cinéaste | r_own-1
+photo de photographe | r_own-1
+vélo du cycliste | r_own-1
+voiture du conducteur | r_own-1
+moto du motard | r_own-1
+camion du routier | r_own-1
+tracteur du agriculteur | r_own-1
+bateau du marin | r_own-1
+avion du pilote | r_own-1
+hélicoptère du pilote | r_own-1
+scooter du livreur | r_own-1
+skateboard du skateur | r_own-1
+patins du patineur | r_own-1
+skis du skieur | r_own-1
+snowboard du surfeur | r_own-1
+kayak du kayakiste | r_own-1
+canoë du canoéiste | r_own-1
+yacht du plaisancier | r_own-1
+voilier du navigateur | r_own-1
+catamaran du navigateur | r_own-1
+dériveur du régatier | r_own-1
+zodiac du plongeur | r_own-1
+jet-ski du plaisancier | r_own-1
+cheval du cavalier | r_own-1
+poney du cavalier | r_own-1
+âne du paysan | r_own-1
+mulet du paysan | r_own-1
+chameau du nomade | r_own-1
+dromadaire du nomade | r_own-1
+éléphant du cornac | r_own-1
+chien du maître | r_own-1
+chat du propriétaire | r_own-1
+perroquet du propriétaire | r_own-1
+canari du propriétaire | r_own-1
+poisson du propriétaire | r_own-1
+hamster du enfant | r_own-1
+cochon du paysan | r_own-1
+vache du éleveur | r_own-1
+bœuf du éleveur | r_own-1
+taureau du éleveur | r_own-1
+mouton du berger | r_own-1
+brebis du berger | r_own-1
+agneau du berger | r_own-1
+chèvre du berger | r_own-1
+chevreau du berger | r_own-1
+poule du fermier | r_own-1
+coq du fermier | r_own-1
+canard du fermier | r_own-1
+oie du fermier | r_own-1
+dinde du fermier | r_own-1
+lapin du fermier | r_own-1
+maison du propriétaire | r_own-1
+appartement du locataire | r_own-1
+villa du propriétaire | r_own-1
+château du propriétaire | r_own-1
+manoir du propriétaire | r_own-1
+chalet du propriétaire | r_own-1
+garage du propriétaire | r_own-1
+hangar du propriétaire | r_own-1
+entrepôt du propriétaire | r_own-1
+atelier du artisan | r_own-1
+boutique du commerçant | r_own-1
+magasin du commerçant | r_own-1
+bureau du employé | r_own-1
+cabinet du médecin | r_own-1
+étude du notaire | r_own-1
+laboratoire du chercheur | r_own-1
+usine du industriel | r_own-1
+ferme du fermier | r_own-1
+exploitation du agriculteur | r_own-1
+parcelle du propriétaire | r_own-1
+terrain du propriétaire | r_own-1
+champ du paysan | r_own-1
+pré du éleveur | r_own-1
+prairie du éleveur | r_own-1
+jardin du jardinier | r_own-1
+potager du jardinier | r_own-1
+verger du arboriculteur | r_own-1
+vigne du vigneron | r_own-1
+plantation du planteur | r_own-1
+forêt du forestier | r_own-1
+bois du propriétaire | r_own-1
+étang du pisciculteur | r_own-1
+puits du propriétaire | r_own-1
+piscine du propriétaire | r_own-1
+livre du lecteur | r_own-1
+cahier du écolier | r_own-1
+carnet du écrivain | r_own-1
+journal du abonné | r_own-1
+magazine du abonné | r_own-1
+revue du abonné | r_own-1
+dictionnaire du étudiant | r_own-1
+encyclopédie du collectionneur | r_own-1
+atlas du géographe | r_own-1
+carte du randonneur | r_own-1
+plan du touriste | r_own-1
+guide du voyageur | r_own-1
+album du photographe | r_own-1
+disque du collectionneur | r_own-1
+vinyle du collectionneur | r_own-1
+cassette du collectionneur | r_own-1
+cd du mélomane | r_own-1
+dvd du cinéphile | r_own-1
+film du cinéaste | r_own-1
+photo du photographe | r_own-1
+tableau du peintre | r_own-1
+toile du artiste | r_own-1
+dessin du dessinateur | r_own-1
+sculpture du sculpteur | r_own-1
+statue du sculpteur | r_own-1
+buste du sculpteur | r_own-1
+vase du collectionneur | r_own-1
+pot du potier | r_own-1
+assiette du céramiste | r_own-1
+bol du céramiste | r_own-1
+tasse du collectionneur | r_own-1
+verre du verrier | r_own-1
+coupe du verrier | r_own-1
+carafe du verrier | r_own-1
+bouteille du vigneron | r_own-1
+flacon du parfumeur | r_own-1
+vélo de la cycliste | r_own-1
+voiture de la conductrice | r_own-1
+moto de la motarde | r_own-1
+trottinette de la enfant | r_own-1
+planche de la surfeuse | r_own-1
+maison de la propriétaire | r_own-1
+villa de la propriétaire | r_own-1
+boutique de la commerçante | r_own-1
+ferme de la fermière | r_own-1
+vigne de la vigneronne | r_own-1
+guitare de la guitariste | r_own-1
+harpe de la harpiste | r_own-1
+flûte de la flûtiste | r_own-1
+robe de la propriétaire | r_own-1
+jupe de la propriétaire | r_own-1
+blouse de la employée | r_own-1
+ballerine de la danseuse | r_own-1
+coiffe de la propriétaire | r_own-1
+broche de la bijoutière | r_own-1
+bague de la fiancée | r_own-1
+collier de la femme | r_own-1
+montre de la femme | r_own-1
+parfum de la femme | r_own-1
+rouge de la femme | r_own-1
+poudre de la femme | r_own-1
+crème de la femme | r_own-1
+brosse de la coiffeuse | r_own-1
+peigne de la coiffeuse | r_own-1
+miroir de la femme | r_own-1
+pince de la coiffeuse | r_own-1
+fer de la coiffeuse | r_own-1
+aiguille de la couturière | r_own-1
+machine de la couturière | r_own-1
+ciseaux de la couturière | r_own-1
+mannequin de la couturière | r_own-1
+roulette de la couturière | r_own-1
+mètre de la couturière | r_own-1
+patron de la couturière | r_own-1
+toile de la peintre | r_own-1
+palette de la peintre | r_own-1
+pinceau de la artiste | r_own-1
+sculpture de la sculptrice | r_own-1
+photo de la photographe | r_own-1
+caméra de la vidéaste | r_own-1
+tablette de la utilisatrice | r_own-1
+ordinateur de la programmeuse | r_own-1
+livre de la lectrice | r_own-1
+cahier de la écolière | r_own-1
+plume de la écrivaine | r_own-1
+sac de la femme | r_own-1
+pochette de la femme | r_own-1
+trousse de la écolière | r_own-1
+valise de la voyageuse | r_own-1
+ombrelle de la dame | r_own-1
+éventail de la dame | r_own-1
+dentelle de la couturière | r_own-1
+tapisserie de la brodeuse | r_own-1
+nappe de la maîtresse | r_own-1
+serviette de la maîtresse | r_own-1
+vaisselle de la maîtresse | r_own-1
+casserole de la cuisinière | r_own-1
+poêle de la cuisinière | r_own-1
+marmite de la cuisinière | r_own-1
+louche de la cuisinière | r_own-1
+cuillère de la cuisinière | r_own-1
+fourchette de la maîtresse | r_own-1
+couteau de la cuisinière | r_own-1
+assiette de la maîtresse | r_own-1
+tasse de la maîtresse | r_own-1
+théière de la maîtresse | r_own-1
+cafetière de la maîtresse | r_own-1
+bouilloire de la cuisinière | r_own-1
+balance de la pâtissière | r_own-1
+fouet de la pâtissière | r_own-1
+rouleau de la pâtissière | r_own-1
+moule de la pâtissière | r_own-1
+plaque de la pâtissière | r_own-1
+four de la boulangère | r_own-1
+pétrin de la boulangère | r_own-1
+chambre de la propriétaire | r_own-1
+cuisine de la maîtresse | r_own-1
+salle de la maîtresse | r_own-1
+salon de la maîtresse | r_own-1
+lingerie de la maîtresse | r_own-1
+buanderie de la maîtresse | r_own-1
+cave de la propriétaire | r_own-1
+terrasse de la propriétaire | r_own-1
+véranda de la propriétaire | r_own-1
+pergola de la propriétaire | r_own-1
+piscine de la propriétaire | r_own-1
+fontaine de la propriétaire | r_own-1
+roseraie de la jardinière | r_own-1
+serre de la jardinière | r_own-1
+bêche de la jardinière | r_own-1
+binette de la jardinière | r_own-1
+griffe de la jardinière | r_own-1
+transplantoir de la jardinière | r_own-1
+arrosoir de la jardinière | r_own-1
+brouette de la jardinière | r_own-1
+tondeuse de la jardinière | r_own-1
+cisaille de la jardinière | r_own-1
+sécateur de la jardinière | r_own-1
+gant de la jardinière | r_own-1
+tablier de la jardinière | r_own-1
+chapeau de la jardinière | r_own-1
+botte de la jardinière | r_own-1
+poule de la fermière | r_own-1
+vache de la fermière | r_own-1
+chèvre de la bergère | r_own-1
+brebis de la bergère | r_own-1
+panier de la fermière | r_own-1
+corbeille de la fermière | r_own-1
+cruche de la laitière | r_own-1
+écuelle de la laitière | r_own-1
+baratte de la laitière | r_own-1
+faisselle de la fromagère | r_own-1
+moule de la fromagère | r_own-1
+pressoir de la fromagère | r_own-1
+cave de la fromagère | r_own-1
+hâloir de la fromagère | r_own-1
+vélo d'un cycliste | r_own-1
+voiture d'un conducteur | r_own-1
+moto d'un motard | r_own-1
+camion d'un routier | r_own-1
+tracteur d'un agriculteur | r_own-1
+bateau d'un marin | r_own-1
+avion d'un pilote | r_own-1
+hélicoptère d'un pilote | r_own-1
+scooter d'un livreur | r_own-1
+skateboard d'un skateur | r_own-1
+kayak d'un kayakiste | r_own-1
+canoë d'un canoéiste | r_own-1
+yacht d'un plaisancier | r_own-1
+voilier d'un navigateur | r_own-1
+cheval d'un cavalier | r_own-1
+poney d'un cavalier | r_own-1
+âne d'un paysan | r_own-1
+chameau d'un nomade | r_own-1
+éléphant d'un cornac | r_own-1
+chien d'un maître | r_own-1
+chat d'un propriétaire | r_own-1
+perroquet d'un propriétaire | r_own-1
+hamster d'un enfant | r_own-1
+cochon d'un paysan | r_own-1
+mouton d'un berger | r_own-1
+agneau d'un berger | r_own-1
+poulet d'un fermier | r_own-1
+canard d'un fermier | r_own-1
+lapin d'un fermier | r_own-1
+maison d'un propriétaire | r_own-1
+appartement d'un locataire | r_own-1
+château d'un propriétaire | r_own-1
+manoir d'un propriétaire | r_own-1
+chalet d'un propriétaire | r_own-1
+garage d'un propriétaire | r_own-1
+hangar d'un propriétaire | r_own-1
+atelier d'un artisan | r_own-1
+magasin d'un commerçant | r_own-1
+bureau d'un employé | r_own-1
+cabinet d'un médecin | r_own-1
+laboratoire d'un chercheur | r_own-1
+usine d'un industriel | r_own-1
+ferme d'un fermier | r_own-1
+champ d'un paysan | r_own-1
+jardin d'un jardinier | r_own-1
+verger d'un arboriculteur | r_own-1
+vignoble d'un vigneron | r_own-1
+bois d'un propriétaire | r_own-1
+étang d'un pisciculteur | r_own-1
+puits d'un propriétaire | r_own-1
+livre d'un lecteur | r_own-1
+cahier d'un écolier | r_own-1
+carnet d'un écrivain | r_own-1
+journal d'un abonné | r_own-1
+magazine d'un abonné | r_own-1
+dictionnaire d'un étudiant | r_own-1
+atlas d'un géographe | r_own-1
+guide d'un voyageur | r_own-1
+album d'un photographe | r_own-1
+disque d'un collectionneur | r_own-1
+film d'un cinéaste | r_own-1
+tableau d'un peintre | r_own-1
+dessin d'un dessinateur | r_own-1
+sculpture d'un sculpteur | r_own-1
+vase d'un collectionneur | r_own-1
+pot d'un potier | r_own-1
+verre d'un verrier | r_own-1
+bijou d'un joaillier | r_own-1
+collier d'un bijoutier | r_own-1
+bracelet d'un bijoutier | r_own-1
+montre d'un horloger | r_own-1
+réveil d'un propriétaire | r_own-1
+chronomètre d'un sportif | r_own-1
+ordinateur d'un informaticien | r_own-1
+téléphone d'un abonné | r_own-1
+appareil d'un photographe | r_own-1
+micro d'un chanteur | r_own-1
+guitare d'un guitariste | r_own-1
+piano d'un pianiste | r_own-1
+violon d'un violoniste | r_own-1
+saxophone d'un saxophoniste | r_own-1
+tambour d'un percussionniste | r_own-1
+vêtement d'un propriétaire | r_own-1
+costume d'un propriétaire | r_own-1
+uniforme d'un employé | r_own-1
+tablier d'un cuisinier | r_own-1
+soulier d'un propriétaire | r_own-1
+chapeau d'un propriétaire | r_own-1
+bonnet d'un propriétaire | r_own-1
+foulard d'un propriétaire | r_own-1
+gant d'un propriétaire | r_own-1
+sac d'un propriétaire | r_own-1
+cartable d'un écolier | r_own-1
+valise d'un voyageur | r_own-1
+parapluie d'un propriétaire | r_own-1
+canne d'un propriétaire | r_own-1
+bâton d'un randonneur | r_own-1
+outil d'un ouvrier | r_own-1
+marteau d'un menuisier | r_own-1
+tournevis d'un mécanicien | r_own-1
+pinceau d'un peintre | r_own-1
+ciseau d'un sculpteur | r_own-1
+crayon d'un dessinateur | r_own-1
+stylo d'un écrivain | r_own-1
+compas d'un architecte | r_own-1
+équerre d'un architecte | r_own-1
+microscope d'un biologiste | r_own-1
+télescope d'un astronome | r_own-1
+stéthoscope d'un médecin | r_own-1
+scalpel d'un chirurgien | r_own-1
+bistouri d'un chirurgien | r_own-1
+thermomètre d'un infirmier | r_own-1
+ballon d'un footballeur | r_own-1
+raquette d'un tennisman | r_own-1
+club d'un golfeur | r_own-1
+arc d'un archer | r_own-1
+vélo d'une cycliste | r_own-1
+voiture d'une conductrice | r_own-1
+moto d'une motarde | r_own-1
+trottinette d'une enfant | r_own-1
+planche d'une surfeuse | r_own-1
+maison d'une propriétaire | r_own-1
+villa d'une propriétaire | r_own-1
+boutique d'une commerçante | r_own-1
+ferme d'une fermière | r_own-1
+vigne d'une vigneronne | r_own-1
+guitare d'une guitariste | r_own-1
+harpe d'une harpiste | r_own-1
+flûte d'une flûtiste | r_own-1
+robe d'une propriétaire | r_own-1
+jupe d'une propriétaire | r_own-1
+blouse d'une employée | r_own-1
+ballerine d'une danseuse | r_own-1
+broche d'une bijoutière | r_own-1
+bague d'une fiancée | r_own-1
+montre d'une femme | r_own-1
+parfum d'une femme | r_own-1
+brosse d'une coiffeuse | r_own-1
+peigne d'une coiffeuse | r_own-1
+miroir d'une femme | r_own-1
+aiguille d'une couturière | r_own-1
+machine d'une couturière | r_own-1
+ciseaux d'une couturière | r_own-1
+toile d'une peintre | r_own-1
+palette d'une peintre | r_own-1
+sculpture d'une sculptrice | r_own-1
+photo d'une photographe | r_own-1
+caméra d'une vidéaste | r_own-1
+tablette d'une utilisatrice | r_own-1
+ordinateur d'une programmeuse | r_own-1
+livre d'une lectrice | r_own-1
+cahier d'une écolière | r_own-1
+plume d'une écrivaine | r_own-1
+sac d'une femme | r_own-1
+pochette d'une femme | r_own-1
+trousse d'une écolière | r_own-1
+valise d'une voyageuse | r_own-1
+ombrelle d'une dame | r_own-1
+éventail d'une dame | r_own-1
+tapisserie d'une brodeuse | r_own-1
+nappe d'une maîtresse | r_own-1
+vaisselle d'une maîtresse | r_own-1
+casserole d'une cuisinière | r_own-1
+poêle d'une cuisinière | r_own-1
+marmite d'une cuisinière | r_own-1
+louche d'une cuisinière | r_own-1
+assiette d'une maîtresse | r_own-1
+tasse d'une maîtresse | r_own-1
+théière d'une maîtresse | r_own-1
+cafetière d'une maîtresse | r_own-1
+balance d'une pâtissière | r_own-1
+fouet d'une pâtissière | r_own-1
+moule d'une pâtissière | r_own-1
+four d'une boulangère | r_own-1
+chambre d'une propriétaire | r_own-1
+cuisine d'une maîtresse | r_own-1
+salle d'une maîtresse | r_own-1
+salon d'une maîtresse | r_own-1
+cave d'une propriétaire | r_own-1
+terrasse d'une propriétaire | r_own-1
+véranda d'une propriétaire | r_own-1
+piscine d'une propriétaire | r_own-1
+fontaine d'une propriétaire | r_own-1
+roseraie d'une jardinière | r_own-1
+serre d'une jardinière | r_own-1
+bêche d'une jardinière | r_own-1
+binette d'une jardinière | r_own-1
+brouette d'une jardinière | r_own-1
+tondeuse d'une jardinière | r_own-1
+botte d'une jardinière | r_own-1
+poule d'une fermière | r_own-1
+vache d'une fermière | r_own-1
+chèvre d'une bergère | r_own-1
+brebis d'une bergère | r_own-1
+panier d'une fermière | r_own-1
+corbeille d'une fermière | r_own-1
+cruche d'une laitière | r_own-1
+baratte d'une laitière | r_own-1
+faisselle d'une fromagère | r_own-1
+cave d'une fromagère | r_own-1
+bicyclette d'une étudiante | r_own-1
+mobylette d'une jeune | r_own-1
+patinette d'une fillette | r_own-1
+chambre d'une adolescente | r_own-1
+bibliothèque d'une érudite | r_own-1
+collection d'une passionnée | r_own-1
+galerie d'une artiste | r_own-1
+exposition d'une peintre | r_own-1
+œuvre d'une créatrice | r_own-1
+partition d'une compositrice | r_own-1
+mélodie d'une musicienne | r_own-1
+chanson d'une chanteuse | r_own-1
+voix d'une soprano | r_own-1
+danse d'une ballerine | r_own-1
+chorégraphie d'une chorégraphe | r_own-1
+costume d'une actrice | r_own-1
+loge d'une artiste | r_own-1
+scène d'une comédienne | r_own-1
+théâtre d'une directrice | r_own-1
+cinéma d'une exploitante | r_own-1
+caméra d'une réalisatrice | r_own-1
+projet d'une cinéaste | r_own-1
+émission d'une productrice | r_own-1
+studio d'une animatrice | r_own-1
+microphone d'une journaliste | r_own-1
+article d'une reporter | r_own-1
+enquête d'une détective | r_own-1
