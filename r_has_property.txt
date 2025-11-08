@@ -1,0 +1,1397 @@
+sagesse d'aîné | r_has_property
+élégance de mannequin | r_has_property
+rapidité de guépard | r_has_property
+courage de soldat | r_has_property
+douceur de miel | r_has_property
+finesse de bijou | r_has_property
+puissance de moteur | r_has_property
+agilité de chat | r_has_property
+ténacité de fourmi | r_has_property
+grâce de danseur | r_has_property
+ruse de renard | r_has_property
+force de lion | r_has_property
+fragilité de verre | r_has_property
+souplesse de gymnaste | r_has_property
+précision de chirurgien | r_has_property
+audace d'entrepreneur | r_has_property
+patience de pêcheur | r_has_property
+intelligence d'élève | r_has_property
+crédulité d'enfant | r_has_property
+vanité de star | r_has_property
+gourmandise de gourmet | r_has_property
+paresse de chat | r_has_property
+colère de chef | r_has_property
+jalousie de rival | r_has_property
+générosité de bienfaiteur | r_has_property
+avarice d'avare | r_has_property
+optimisme de jeunesse | r_has_property
+pessimisme de vieillard | r_has_property
+curiosité d'enfant | r_has_property
+nonchalance d'artiste | r_has_property
+détermination de sportif | r_has_property
+timidité d'adolescent | r_has_property
+extravagance d'artiste | r_has_property
+rigueur de scientifique | r_has_property
+fantaisie de poète | r_has_property
+sobriété de moine | r_has_property
+exubérance d'enfant | r_has_property
+méfiance de vieillard | r_has_property
+ingéniosité d'inventeur | r_has_property
+clarté d'explication | r_has_property
+complexité de problème | r_has_property
+profondeur de pensée | r_has_property
+superficialité de conversation | r_has_property
+originalité de création | r_has_property
+banalité de remarque | r_has_property
+beauté de paysage | r_has_property
+laideur de monstre | r_has_property
+harmonie de musique | r_has_property
+dissonance d'accord | r_has_property
+fluidité de mouvement | r_has_property
+raideur d'articulation | r_has_property
+légèreté de plume | r_has_property
+lourdeur d'atmosphère | r_has_property
+transparence d'eau | r_has_property
+opacité de verre | r_has_property
+brillance de diamant | r_has_property
+matité de surface | r_has_property
+douceur de velours | r_has_property
+âpreté de vin | r_has_property
+fraîcheur de fruit | r_has_property
+fadeur de plat | r_has_property
+richesse de sol | r_has_property
+pauvreté de terre | r_has_property
+fertilité de vallée | r_has_property
+aridité de désert | r_has_property
+stabilité de structure | r_has_property
+instabilité d'équilibre | r_has_property
+souplesse de tige | r_has_property
+rigidité de métal | r_has_property
+résistance de matériau | r_has_property
+durabilité de produit | r_has_property
+éphémère de fleur | r_has_property
+constance d'ami | r_has_property
+inconstance d'humeur | r_has_property
+fiabilité d'outil | r_has_property
+défaillance de système | r_has_property
+efficacité de méthode | r_has_property
+inefficacité de procédé | r_has_property
+praticité de solution | r_has_property
+inutilité d'objet | r_has_property
+commodité de dispositif | r_has_property
+incommodité de situation | r_has_property
+sécurité d'environnement | r_has_property
+dangerosité de produit | r_has_property
+confort de siège | r_has_property
+inconfort de position | r_has_property
+luxe d'hôtel | r_has_property
+austérité de cellule | r_has_property
+modernité de design | r_has_property
+archaïsme de méthode | r_has_property
+innovation de technologie | r_has_property
+tradition de culture | r_has_property
+progressisme de pensée | r_has_property
+conservatisme d'institution | r_has_property
+prudence de décision | r_has_property
+témérité de conducteur | r_has_property
+circonspection de juge | r_has_property
+spontanéité de réaction | r_has_property
+calcul de geste | r_has_property
+sincérité de sentiment | r_has_property
+hypocrisie de comportement | r_has_property
+loyauté de compagnon | r_has_property
+trahison d'ami | r_has_property
+fidélité de chien | r_has_property
+infidélité de partenaire | r_has_property
+dévouement de mère | r_has_property
+égoïsme d'individu | r_has_property
+altruisme de bénévole | r_has_property
+indifférence de spectateur | r_has_property
+compassion de soignant | r_has_property
+cruauté de bourreau | r_has_property
+bienveillance de professeur | r_has_property
+malveillance de critique | r_has_property
+(indépendance de caractère) de leader | r_has_property
+(profondeur d'analyse) d'expert | r_has_property
+(acuité de regard) d'observateur | r_has_property
+(perspicacité de jugement) de psychologue | r_has_property
+(pénétration d'esprit) de philosophe | r_has_property
+(subtilité de raisonnement) de logicien | r_has_property
+(vivacité de répartie) de débatteur | r_has_property
+(fertilité d'imagination) de créateur | r_has_property
+(fécondité de travail) d'artiste | r_has_property
+(stérilité d'effort) d'écrivain | r_has_property
+(abondance de production) d'usine | r_has_property
+(rareté de ressource) de région | r_has_property
+(diversité d'offre) de magasin | r_has_property
+(uniformité de produit) de chaîne | r_has_property
+(regularité de rythme) de machine | r_has_property
+(irrégularité de battement) de cœur | r_has_property
+(symétrie de forme) de cristal | r_has_property
+(asymétrie de composition) de tableau | r_has_property
+(proportion de taille) de modèle | r_has_property
+(démesure d'ambition) de conquérant | r_has_property
+(modération de propos) de diplomate | r_has_property
+(exagération de récit) de conteur | r_has_property
+(minimalisme de style) de designer | r_has_property
+(ostentation de richesse) de parvenu | r_has_property
+(discretion de présence) de serviteur | r_has_property
+(emphase de discours) d'orateur | r_has_property
+(laconisme de réponse) de militaire | r_has_property
+(prolixité d'écrivain) de romancier | r_has_property
+(concision de style) de journaliste | r_has_property
+(verbosité d'auteur) d'essayiste | r_has_property
+(élégance de solution) de mathématicien | r_has_property
+(lourdeur de démonstration) d'étudiant | r_has_property
+(limpidité d'expression) de poète | r_has_property
+(obscurité de texte) de philosophe | r_has_property
+(accessibilité de langage) de vulgarisateur | r_has_property
+(hermétisme de théorie) de physicien | r_has_property
+(popularité de chanson) d'artiste | r_has_property
+(méconnaissance d'œuvre) de compositeur | r_has_property
+(célébrité d'acteur) de star | r_has_property
+(anonymat d'employé) de fonctionnaire | r_has_property
+(prestige d'institution) d'université | r_has_property
+(discrédit de politicien) de scandale | r_has_property
+(honneur de famille) de tradition | r_has_property
+(honte de communauté) de faute | r_has_property
+(dignité de comportement) de personne | r_has_property
+(bassesse d'action) d'individu | r_has_property
+(noblesse de cœur) de bienfaiteur | r_has_property
+(vilenie de caractère) de criminel | r_has_property
+(grandeur d'âme) de héros | r_has_property
+(petitesse d'esprit) de jaloux | r_has_property
+(magnanimité de vainqueur) de champion | r_has_property
+(mesquinerie de perdant) de rival | r_has_property
+(générosité de don) de mécène | r_has_property
+(radinerie d'avare) de pingre | r_has_property
+(prodigalité d'héritier) de playboy | r_has_property
+(économie de gestion) d'administrateur | r_has_property
+(gaspillage de ressources) de société | r_has_property
+(prévoyance de gestion) de directeur | r_has_property
+(imprévoyance de planification) d'équipe | r_has_property
+(vigilance de garde) de sentinelle | r_has_property
+(négligence de surveillance) de gardien | r_has_property
+(attention de détail) d'artisan | r_has_property
+(inattention de conducteur) d'automobiliste | r_has_property
+(précipitation de décision) de manager | r_has_property
+(lenteur de réflexion) de bureaucrate | r_has_property
+(célérité d'exécution) d'assistant | r_has_property
+(diligence de travail) d'employé | r_has_property
+(nonchalance d'attitude) d'étudiant | r_has_property
+(assiduité de présence) d'élève | r_has_property
+(absenteisme de travail) d'employé | r_has_property
+(ponctualité d'arrivée) de professionnel | r_has_property
+(retard de train) de conducteur | r_has_property
+(ponctualité de paiement) de client | r_has_property
+(default de remboursement) de débiteur | r_has_property
+(fiabilité de service) d'entreprise | r_has_property
+(inconstance de qualité) de produit | r_has_property
+(stabilité de prix) de marché | r_has_property
+(volatilité de cours) d'action | r_has_property
+(croissance d'économie) de pays | r_has_property
+(stagnation de secteur) d'industrie | r_has_property
+(expansion d'entreprise) de groupe | r_has_property
+(récession d'activité) de région | r_has_property
+(prospérité de commerce) de ville | r_has_property
+(déclin d'industrie) de région | r_has_property
+(essor de technologie) de startup | r_has_property
+(obsolescence de matériel) d'entreprise | r_has_property
+(modernisation d'équipement) d'usine | r_has_property
+(vétusté d'installation) de bâtiment | r_has_property
+(innovation de procédé) d'ingénieur | r_has_property
+(routine de travail) d'employé | r_has_property
+(créativité d'approche) de designer | r_has_property
+(conformisme de pensée) de groupe | r_has_property
+(originalité de concept) d'inventeur | r_has_property
+(banalité d'idée) de participant | r_has_property
+(prudence de suggestion) de conseiller | r_has_property
+(ambition de projet) d'entrepreneur | r_has_property
+(modestie d'objectif) de petite entreprise | r_has_property
+(envergure de programme) de gouvernement | r_has_property
+(limitation de moyen) d'association | r_has_property
+(ampleur de défi) d'équipe | r_has_property
+(modestie de résultat) de débutant | r_has_property
+(succès d'entreprise) de dirigeant | r_has_property
+(échec de stratégie) de management | r_has_property
+(réussite d'opération) de chirurgien | r_has_property
+(insuccès de traitement) de médecin | r_has_property
+(triomphe de performance) d'artiste | r_has_property
+(fiasco de représentation) d'acteur | r_has_property
+(gloire de victoire) de champion | r_has_property
+(opprobre de défaite) d'équipe | r_has_property
+(honneur de médaille) de sportif | r_has_property
+(déshonneur de disqualification) d'athlète | r_has_property
+(mérite de réussite) d'étudiant | r_has_property
+(démérite d'échec) de candidat | r_has_property
+(valeur de contribution) de collaborateur | r_has_property
+(inutilité d'effort) de bénévole | r_has_property
+(efficacité de méthode) d'enseignant | r_has_property
+(inefficacité de technique) de thérapeute | r_has_property
+(compétence de professionnel) d'expert | r_has_property
+(incompétence d'employé) de stagiaire | r_has_property
+(maîtrise de sujet) de professeur | r_has_property
+(ignorance de domaine) de novice | r_has_property
+(savoir de spécialiste) de chercheur | r_has_property
+(érudition de savant) d'académicien | r_has_property
+(inculture d'individu) de personne | r_has_property
+(connaissance de terrain) de guide | r_has_property
+(méconnaissance de région) de touriste | r_has_property
+(expérience de vie) de senior | r_has_property
+(inexpérience de jeunesse) de débutant | r_has_property
+(expertise de domaine) de consultant | r_has_property
+(amateurisme d'approche) de passionné | r_has_property
+(professionalisme de service) d'entreprise | r_has_property
+(dilettantisme d'attitude) d'artiste | r_has_property
+(spécialisation de métier) de technicien | r_has_property
+(polyvalence de compétence) d'employé | r_has_property
+(versatilité d'humeur) de personne | r_has_property
+(constance d'effort) de travailleur | r_has_property
+(persévérance de chercheur) de scientifique | r_has_property
+(acharnement de travail) d'entrepreneur | r_has_property
+(obstination de caractère) d'individu | r_has_property
+(entêtement de décision) de dirigeant | r_has_property
+(opiniâtreté de défense) d'avocat | r_has_property
+(inflexibilité de position) de négociateur | r_has_property
+(intransigeance de principe) de juge | r_has_property
+(souplesse d'approche) de médiateur | r_has_property
+(conciliation d'attitude) de diplomate | r_has_property
+(compromis de solution) d'accord | r_has_property
+(intransigeance de demande) de partie | r_has_property
+(rigueur d'application) de règle | r_has_property
+(laxisme de contrôle) d'autorité | r_has_property
+(sévérité de jugement) de critique | r_has_property
+(clémence de sentence) de juge | r_has_property
+(indulgence de parent) de mère | r_has_property
+(intolérance de comportement) de fanatique | r_has_property
+(ouverture d'esprit) de personne | r_has_property
+(étroitesse de vue) de conservateur | r_has_property
+(largeur de perspective) de visionnaire | r_has_property
+(myopie d'analyse) d'expert | r_has_property
+(préscience de décision) de leader | r_has_property
+(aveuglement de choix) de politique | r_has_property
+(lucidité de diagnostic) de médecin | r_has_property
+(illusion de perception) de patient | r_has_property
+(réalisme d'évaluation) d'expert | r_has_property
+(utopie de projet) de rêveur | r_has_property
+(pragmatisme d'approche) de manager | r_has_property
+(idéalisme de vision) de réformateur | r_has_property
+(cynisme de remarque) de critique | r_has_property
+(naïveté de croyance) d'enfant | r_has_property
+(scepticisme d'attitude) de scientifique | r_has_property
+(crédulité d'adepte) de secte | r_has_property
+(critique d'analyse) de journaliste | r_has_property
+(apologie de système) de partisan | r_has_property
+(objectivité de reportage) de média | r_has_property
+(partialité de jugement) d'arbitre | r_has_property
+(impartialité de décision) de tribunal | r_has_property
+(injustice de verdict) de cour | r_has_property
+(équité de traitement) d'administration | r_has_property
+(iniquité de système) de régime | r_has_property
+(justice de cause) de mouvement | r_has_property
+(tort d'argument) de partie | r_has_property
+(raison de position) de défenseur | r_has_property
+(déraison d'exigence) de demandeur | r_has_property
+(logique de raisonnement) de philosophe | r_has_property
+(illogisme de conclusion) d'étudiant | r_has_property
+(coherence de discours) de politicien | r_has_property
+(incohérence de propos) d'orateur | r_has_property
+(consistance d'argument) de thèse | r_has_property
+(faiblesse de démonstration) de plaidoyer | r_has_property
+(solidité de preuve) d'enquête | r_has_property
+(fragilité de témoignage) de témoin | r_has_property
+(véracité de récit) d'historien | r_has_property
+(mensonge de déclaration) de suspect | r_has_property
+(sincérité de confession) d'accusé | r_has_property
+(franchise de parole) d'ami | r_has_property
+(dissimulation d'intention) d'adversaire | r_has_property
+(transparence de procédure) d'institution | r_has_property
+(opacité de fonctionnement) d'organisation | r_has_property
+(clarté de compte) d'entreprise | r_has_property
+(obscurité de financement) d'association | r_has_property
+(probité de gestion) d'administrateur | r_has_property
+(malversation de fonds) de trésorier | r_has_property
+(honnêteté de transaction) de commerçant | r_has_property
+(duplicité de négociation) de partenaire | r_has_property
+(loyauté de collaboration) d'associé | r_has_property
+(fidélité d'engagement) d'employé | r_has_property
+(infidélité de promesse) de partenaire | r_has_property
+(constance d'affection) d'époux | r_has_property
+(inconstance de sentiment) d'amant | r_has_property
+(dévouement de service) d'employé | r_has_property
+(négligence de tâche) de fonctionnaire | r_has_property
+(ponctualité de livraison) de fournisseur | r_has_property
+(retard de production) d'usine | r_has_property
+(qualité de fabrication) d'artisan | r_has_property
+(défaut de produit) de manufacture | r_has_property
+(perfection d'exécution) de maître | r_has_property
+(imperfection de travail) d'apprenti | r_has_property
+(soin de réalisation) d'artiste | r_has_property
+(négligence de finition) d'ouvrier | r_has_property
+(précision de mesure) de scientifique | r_has_property
+(approximation de calcul) d'étudiant | r_has_property
+(exactitude d'information) de source | r_has_property
+(erreur de donnée) de base | r_has_property
+(fiabilité de système) de technologie | r_has_property
+(panne d'équipement) de machine | r_has_property
+(efficience de processus) d'entreprise | r_has_property
+(gaspillage de ressource) de gestion | r_has_property
+(rentabilité d'investissement) de projet | r_has_property
+(perte d'exploitation) d'activité | r_has_property
+(productivité de travail) d'équipe | r_has_property
+(oisiveté de personnel) de service | r_has_property
+(innovation de produit) de département | r_has_property
+(conservatisme d'offre) d'entreprise | r_has_property
+(dynamisme de marché) de secteur | r_has_property
+(immobilisme d'industrie) de branche | r_has_property
+(compétitivité de prix) de produit | r_has_property
+(non-concurrence de position) de monopole | r_has_property
+(attractivité de destination) de ville | r_has_property
+(repoussement d'aspect) de lieu | r_has_property
+(charme de quartier) de vieille ville | r_has_property
+(insignifiance de bourgade) de village | r_has_property
+(prestige d'institution) d'université | r_has_property
+(médiocrité d'établissement) d'école | r_has_property
+(excellence de formation) de centre | r_has_property
+(faiblesse de programme) de cours | r_has_property
+(rigueur d'enseignement) de professeur | r_has_property
+(laxisme d'éducation) de système | r_has_property
+(sévérité de notation) d'examinateur | r_has_property
+(clémence de correction) d'enseignant | r_has_property
+(exigence de standard) d'industrie | r_has_property
+(tolérance de défaut) de production | r_has_property
+(perfectionnisme d'artisan) de maître | r_has_property
+(approximation de travail) d'amateur | r_has_property
+(méticulosité de préparation) de chef | r_has_property
+(négligence d'organisation) d'équipe | r_has_property
+(ordre de classement) de bibliothèque | r_has_property
+(désordre d'arrangement) de collection | r_has_property
+(propreté d'environnement) d'hôpital | r_has_property
+(saleté de lieu) d'usine | r_has_property
+(hygiène de pratique) de restaurant | r_has_property
+(insalubrité de condition) de logement | r_has_property
+(sécurité d'installation) d'usine | r_has_property
+(dangerosité de situation) de chantier | r_has_property
+(confort d'aménagement) d'appartement | r_has_property
+(inconfort de disposition) de pièce | r_has_property
+(functionnalité de design) de produit | r_has_property
+(inutilité de fonction) de gadget | r_has_property
+(ergonomie d'interface) de logiciel | r_has_property
+(complexité d'utilisation) de système | r_has_property
+(simplicité d'opération) d'appareil | r_has_property
+(complication de procédure) d'administration | r_has_property
+(intuitivité de navigation) de site | r_has_property
+(confusion de menu) d'application | r_has_property
+(clarté d'instruction) de manuel | r_has_property
+(obscurité de notice) de produit | r_has_property
+(accessibilité d'information) de base | r_has_property
+(hermétisme de langage) de spécialiste | r_has_property
+(compréhensibilité de texte) d'auteur | r_has_property
+(inintelligibilité de message) d'orateur | r_has_property
+(persuasivité d'argument) de vendeur | r_has_property
+(faiblesse de démonstration) de candidat | r_has_property
+(force de conviction) de leader | r_has_property
+(doute d'assertion) de théorie | r_has_property
+(certitude de conclusion) d'expert | r_has_property
+(incertitude de résultat) d'expérience | r_has_property
+(probabilité de succès) d'entreprise | r_has_property
+(improbabilité de réalisation) de projet | r_has_property
+(possibilité de solution) d'approche | r_has_property
+(impossibilité de résolution) de problème | r_has_property
+(faisabilité de plan) de stratégie | r_has_property
+(irréalisme d'objectif) de vision | r_has_property
+(réalisme d'ambition) de projet | r_has_property
+(utopie de rêve) d'idéaliste | r_has_property
+(pragmatisme de décision) de manager | r_has_property
+(idéalisme de principe) de réformateur | r_has_property
+(opportunisme de comportement) de politicien | r_has_property
+(intégrité de caractère) de personne | r_has_property
+(corruption de système) de gouvernement | r_has_property
+(probité de fonctionnaire) d'administration | r_has_property
+(prévarication d'officiel) de régime | r_has_property
+(transparence de procédure) d'institution | r_has_property
+(opacité de décision) de comité | r_has_property
+(démocratie de processus) d'élection | r_has_property
+(autoritarisme de régime) de gouvernement | r_has_property
+(liberalisme de politique) d'état | r_has_property
+(totalitarisme de système) de dictature | r_has_property
+(pluralisme d'opinion) de société | r_has_property
+(uniformité de pensée) de régime | r_has_property
+(diversité de culture) de communauté | r_has_property
+(homogénéité de population) de région | r_has_property
+(hétérogénéité de groupe) d'équipe | r_has_property
+(unité d'action) de mouvement | r_has_property
+(division d'effort) de coalition | r_has_property
+(cohesion de groupe) d'équipe | r_has_property
+(désunion de membres) d'association | r_has_property
+(solidarité de communauté) de village | r_has_property
+(individualisme de société) de moderne | r_has_property
+(collectivisme d'approche) de système | r_has_property
+(altruisme d'action) de bénévole | r_has_property
+(générosité de don) de mécène | r_has_property
+(avarice d'accumulation) de capitaliste | r_has_property
+(prodigalité de dépense) d'héritier | r_has_property
+(économie de gestion) de ménage | r_has_property
+(durabilité de produit) de fabrication | r_has_property
+(obsolescence de technologie) d'appareil | r_has_property
+(soutenabilité de développement) de projet | r_has_property
+(insoutenabilité de croissance) de modèle | r_has_property
+(respect d'environnement) de politique | r_has_property
+(pollution d'activité) d'industrie | r_has_property
+(conservation de ressource) de stratégie | r_has_property
+(épuisement de réserve) de matière | r_has_property
+(renouvellement de stock) de gestion | r_has_property
+(diminution de quantité) de production | r_has_property
+(augmentation de volume) de vente | r_has_property
+sagesse d'un sage | r_has_property
+élégance d'un mannequin | r_has_property
+rapidité d'un guépard | r_has_property
+courage d'un soldat | r_has_property
+douceur d'un miel | r_has_property
+finesse d'un bijou | r_has_property
+puissance d'un moteur | r_has_property
+agilité d'un chat | r_has_property
+ténacité d'un fourmi | r_has_property
+grâce d'un danseur | r_has_property
+ruse d'un renard | r_has_property
+force d'un lion | r_has_property
+fragilité d'un verre | r_has_property
+souplesse d'un gymnaste | r_has_property
+précision d'un chirurgien | r_has_property
+audace d'un entrepreneur | r_has_property
+patience d'un pêcheur | r_has_property
+intelligence d'un élève | r_has_property
+crédulité d'un enfant | r_has_property
+vanité d'un star | r_has_property
+gourmandise d'un gourmet | r_has_property
+paresse d'un chat | r_has_property
+colère d'un chef | r_has_property
+jalousie d'un rival | r_has_property
+générosité d'un bienfaiteur | r_has_property
+avarice d'un avare | r_has_property
+optimisme d'un jeunesse | r_has_property
+pessimisme d'un vieillard | r_has_property
+curiosité d'un enfant | r_has_property
+nonchalance d'un artiste | r_has_property
+détermination d'un sportif | r_has_property
+timidité d'un adolescent | r_has_property
+extravagance d'un artiste | r_has_property
+rigueur d'un scientifique | r_has_property
+fantaisie d'un poète | r_has_property
+sobriété d'un moine | r_has_property
+exubérance d'un enfant | r_has_property
+méfiance d'un vieillard | r_has_property
+ingéniosité d'un inventeur | r_has_property
+clarté d'un explication | r_has_property
+complexité d'un problème | r_has_property
+profondeur d'un pensée | r_has_property
+superficialité d'un conversation | r_has_property
+originalité d'un création | r_has_property
+banalité d'un remarque | r_has_property
+beauté d'un paysage | r_has_property
+laideur d'un monstre | r_has_property
+harmonie d'un musique | r_has_property
+dissonance d'un accord | r_has_property
+fluidité d'un mouvement | r_has_property
+raideur d'un articulation | r_has_property
+légèreté d'un plume | r_has_property
+lourdeur d'un atmosphère | r_has_property
+transparence d'un eau | r_has_property
+opacité d'un verre | r_has_property
+brillance d'un diamant | r_has_property
+matité d'un surface | r_has_property
+douceur d'un velours | r_has_property
+âpreté d'un vin | r_has_property
+fraîcheur d'un fruit | r_has_property
+fadeur d'un plat | r_has_property
+richesse d'un sol | r_has_property
+pauvreté d'un terre | r_has_property
+fertilité d'un vallée | r_has_property
+aridité d'un désert | r_has_property
+stabilité d'un structure | r_has_property
+instabilité d'un équilibre | r_has_property
+souplesse d'un tige | r_has_property
+rigidité d'un métal | r_has_property
+résistance d'un matériau | r_has_property
+durabilité d'un produit | r_has_property
+éphémère d'un fleur | r_has_property
+constance d'un ami | r_has_property
+inconstance d'un humeur | r_has_property
+fiabilité d'un outil | r_has_property
+défaillance d'un système | r_has_property
+efficacité d'un méthode | r_has_property
+inefficacité d'un procédé | r_has_property
+praticité d'un solution | r_has_property
+inutilité d'un objet | r_has_property
+commodité d'un dispositif | r_has_property
+incommodité d'un situation | r_has_property
+sécurité d'un environnement | r_has_property
+dangerosité d'un produit | r_has_property
+confort d'un siège | r_has_property
+inconfort d'un position | r_has_property
+luxe d'un hôtel | r_has_property
+austérité d'un cellule | r_has_property
+modernité d'un design | r_has_property
+archaïsme d'un méthode | r_has_property
+innovation d'un technologie | r_has_property
+tradition d'un culture | r_has_property
+progressisme d'un pensée | r_has_property
+conservatisme d'un institution | r_has_property
+prudence d'un décision | r_has_property
+témérité d'un conducteur | r_has_property
+circonspection d'un juge | r_has_property
+spontanéité d'un réaction | r_has_property
+calcul d'un geste | r_has_property
+sincérité d'un sentiment | r_has_property
+hypocrisie d'un comportement | r_has_property
+loyauté d'un compagnon | r_has_property
+trahison d'un ami | r_has_property
+fidélité d'un chien | r_has_property
+infidélité d'un partenaire | r_has_property
+dévouement d'un mère | r_has_property
+égoïsme d'un individu | r_has_property
+altruisme d'un bénévole | r_has_property
+indifférence d'un spectateur | r_has_property
+compassion d'un soignant | r_has_property
+cruauté d'un bourreau | r_has_property
+bienveillance d'un professeur | r_has_property
+malveillance d'un critique | r_has_property
+sagesse d'une personne | r_has_property
+élégance d'une danseuse | r_has_property
+rapidité d'une gazelle | r_has_property
+courage d'une femme | r_has_property
+douceur d'une caresse | r_has_property
+finesse d'une œuvre | r_has_property
+puissance d'une voiture | r_has_property
+agilité d'une panthère | r_has_property
+ténacité d'une fourmi | r_has_property
+grâce d'une ballerine | r_has_property
+ruse d'une renarde | r_has_property
+force d'une lionne | r_has_property
+fragilité d'une porcelaine | r_has_property
+souplesse d'une acrobate | r_has_property
+précision d'une opération | r_has_property
+audace d'une décision | r_has_property
+patience d'une mère | r_has_property
+intelligence d'une élève | r_has_property
+crédulité d'une enfant | r_has_property
+vanité d'une star | r_has_property
+gourmandise d'une gourmande | r_has_property
+paresse d'une chatte | r_has_property
+colère d'une directrice | r_has_property
+jalousie d'une rivale | r_has_property
+générosité d'une bienfaitrice | r_has_property
+avarice d'une avare | r_has_property
+optimisme d'une jeunesse | r_has_property
+pessimisme d'une personne | r_has_property
+curiosité d'une enfant | r_has_property
+nonchalance d'une artiste | r_has_property
+détermination d'une sportive | r_has_property
+timidité d'une adolescente | r_has_property
+extravagance d'une artiste | r_has_property
+rigueur d'une scientifique | r_has_property
+fantaisie d'une poétesse | r_has_property
+sobriété d'une nonne | r_has_property
+exubérance d'une enfant | r_has_property
+méfiance d'une vieille | r_has_property
+ingéniosité d'une inventrice | r_has_property
+clarté d'une explication | r_has_property
+complexité d'une situation | r_has_property
+profondeur d'une analyse | r_has_property
+superficialité d'une relation | r_has_property
+originalité d'une idée | r_has_property
+banalité d'une conversation | r_has_property
+beauté d'une femme | r_has_property
+laideur d'une créature | r_has_property
+harmonie d'une mélodie | r_has_property
+dissonance d'une note | r_has_property
+fluidité d'une phrase | r_has_property
+raideur d'une attitude | r_has_property
+légèreté d'une matière | r_has_property
+lourdeur d'une ambiance | r_has_property
+transparence d'une eau | r_has_property
+opacité d'une substance | r_has_property
+brillance d'une pierre | r_has_property
+matité d'une couleur | r_has_property
+douceur d'une voix | r_has_property
+âpreté d'une critique | r_has_property
+fraîcheur d'une brise | r_has_property
+fadeur d'une saveur | r_has_property
+richesse d'une terre | r_has_property
+pauvreté d'une région | r_has_property
+fertilité d'une plaine | r_has_property
+aridité d'une zone | r_has_property
+stabilité d'une structure | r_has_property
+instabilité d'une situation | r_has_property
+souplesse d'une branche | r_has_property
+rigidité d'une règle | r_has_property
+résistance d'une matière | r_has_property
+durabilité d'une construction | r_has_property
+éphémère d'une beauté | r_has_property
+constance d'une amie | r_has_property
+inconstance d'une humeur | r_has_property
+fiabilité d'une machine | r_has_property
+défaillance d'une pièce | r_has_property
+efficacité d'une méthode | r_has_property
+inefficacité d'une technique | r_has_property
+praticité d'une solution | r_has_property
+inutilité d'une fonction | r_has_property
+commodité d'une installation | r_has_property
+incommodité d'une position | r_has_property
+sécurité d'une ville | r_has_property
+dangerosité d'une substance | r_has_property
+confort d'une maison | r_has_property
+inconfort d'une situation | r_has_property
+luxe d'une résidence | r_has_property
+austérité d'une vie | r_has_property
+modernité d'une conception | r_has_property
+archaïsme d'une loi | r_has_property
+innovation d'une approche | r_has_property
+tradition d'une famille | r_has_property
+progressisme d'une politique | r_has_property
+conservatisme d'une institution | r_has_property
+prudence d'une attitude | r_has_property
+témérité d'une action | r_has_property
+circonspection d'une réponse | r_has_property
+spontanéité d'une réaction | r_has_property
+calcul d'une manœuvre | r_has_property
+sincérité d'une émotion | r_has_property
+hypocrisie d'une parole | r_has_property
+loyauté d'une amie | r_has_property
+trahison d'une confidente | r_has_property
+fidélité d'une épouse | r_has_property
+infidélité d'une partenaire | r_has_property
+dévouement d'une mère | r_has_property
+égoïsme d'une personne | r_has_property
+altruisme d'une action | r_has_property
+indifférence d'une attitude | r_has_property
+compassion d'une soignante | r_has_property
+cruauté d'une décision | r_has_property
+bienveillance d'une intention | r_has_property
+malveillance d'une critique | r_has_property
+sagesse du sage | r_has_property
+élégance du mannequin | r_has_property
+rapidité du guépard | r_has_property
+courage du soldat | r_has_property
+douceur du miel | r_has_property
+finesse du bijou | r_has_property
+puissance du moteur | r_has_property
+agilité du chat | r_has_property
+ténacité du fourmi | r_has_property
+grâce du danseur | r_has_property
+ruse du renard | r_has_property
+force du lion | r_has_property
+fragilité du verre | r_has_property
+souplesse du gymnaste | r_has_property
+précision du chirurgien | r_has_property
+audace du entrepreneur | r_has_property
+patience du pêcheur | r_has_property
+intelligence du élève | r_has_property
+crédulité du enfant | r_has_property
+vanité du star | r_has_property
+gourmandise du gourmet | r_has_property
+paresse du chat | r_has_property
+colère du chef | r_has_property
+jalousie du rival | r_has_property
+générosité du bienfaiteur | r_has_property
+avarice du avare | r_has_property
+optimisme du jeunesse | r_has_property
+pessimisme du vieillard | r_has_property
+curiosité du enfant | r_has_property
+nonchalance du artiste | r_has_property
+détermination du sportif | r_has_property
+timidité du adolescent | r_has_property
+extravagance du artiste | r_has_property
+rigueur du scientifique | r_has_property
+fantaisie du poète | r_has_property
+sobriété du moine | r_has_property
+exubérance du enfant | r_has_property
+méfiance du vieillard | r_has_property
+ingéniosité du inventeur | r_has_property
+clarté du explication | r_has_property
+complexité du problème | r_has_property
+profondeur du pensée | r_has_property
+superficialité du conversation | r_has_property
+originalité du création | r_has_property
+banalité du remarque | r_has_property
+beauté du paysage | r_has_property
+laideur du monstre | r_has_property
+harmonie du musique | r_has_property
+dissonance du accord | r_has_property
+fluidité du mouvement | r_has_property
+raideur du articulation | r_has_property
+légèreté du plume | r_has_property
+lourdeur du atmosphère | r_has_property
+transparence du eau | r_has_property
+opacité du verre | r_has_property
+brillance du diamant | r_has_property
+matité du surface | r_has_property
+douceur du velours | r_has_property
+âpreté du vin | r_has_property
+fraîcheur du fruit | r_has_property
+fadeur du plat | r_has_property
+richesse du sol | r_has_property
+pauvreté du terre | r_has_property
+fertilité du vallée | r_has_property
+aridité du désert | r_has_property
+stabilité du structure | r_has_property
+instabilité du équilibre | r_has_property
+souplesse du tige | r_has_property
+rigidité du métal | r_has_property
+résistance du matériau | r_has_property
+durabilité du produit | r_has_property
+éphémère du fleur | r_has_property
+constance du ami | r_has_property
+inconstance du humeur | r_has_property
+fiabilité du outil | r_has_property
+défaillance du système | r_has_property
+efficacité du méthode | r_has_property
+inefficacité du procédé | r_has_property
+praticité du solution | r_has_property
+inutilité du objet | r_has_property
+commodité du dispositif | r_has_property
+incommodité du situation | r_has_property
+sécurité du environnement | r_has_property
+dangerosité du produit | r_has_property
+confort du siège | r_has_property
+inconfort du position | r_has_property
+luxe du hôtel | r_has_property
+austérité du cellule | r_has_property
+modernité du design | r_has_property
+archaïsme du méthode | r_has_property
+innovation du technologie | r_has_property
+tradition du culture | r_has_property
+progressisme du pensée | r_has_property
+conservatisme du institution | r_has_property
+prudence du décision | r_has_property
+témérité du conducteur | r_has_property
+circonspection du juge | r_has_property
+spontanéité du réaction | r_has_property
+calcul du geste | r_has_property
+sincérité du sentiment | r_has_property
+hypocrisie du comportement | r_has_property
+loyauté du compagnon | r_has_property
+trahison du ami | r_has_property
+fidélité du chien | r_has_property
+infidélité du partenaire | r_has_property
+dévouement du mère | r_has_property
+égoïsme du individu | r_has_property
+altruisme du bénévole | r_has_property
+indifférence du spectateur | r_has_property
+compassion du soignant | r_has_property
+cruauté du bourreau | r_has_property
+bienveillance du professeur | r_has_property
+malveillance du critique | r_has_property
+acuité d'un sens | r_has_property
+amplitude d'un mouvement | r_has_property
+ardeur d'un combat | r_has_property
+âpreté d'une lutte | r_has_property
+austérité d'un régime | r_has_property
+authenticité d'un sentiment | r_has_property
+autorité d'un chef | r_has_property
+beauté d'une œuvre | r_has_property
+brièveté d'un instant | r_has_property
+brutalité d'un choc | r_has_property
+cadence d'un rythme | r_has_property
+candeur d'un regard | r_has_property
+capacité d'un réservoir | r_has_property
+caractère d'un homme | r_has_property
+chaleur d'un foyer | r_has_property
+charme d'un sourire | r_has_property
+clarté d'une idée | r_has_property
+complexité d'un mécanisme | r_has_property
+courage d'une décision | r_has_property
+courtoisie d'un hôte | r_has_property
+crédibilité d'un témoignage | r_has_property
+délicatesse d'un parfum | r_has_property
+densité d'une population | r_has_property
+détermination d'un regard | r_has_property
+douceur d'une mélodie | r_has_property
+dureté d'une épreuve | r_has_property
+efficacité d'un remède | r_has_property
+élégance d'une solution | r_has_property
+énergie d'un athlete | r_has_property
+énormité d'une tâche | r_has_property
+enthousiasme d'un enfant | r_has_property
+équilibre d'une structure | r_has_property
+étrangeté d'une situation | r_has_property
+exactitude d'une mesure | r_has_property
+excellence d'un produit | r_has_property
+finesse d'un trait | r_has_property
+fragilité d'un équilibre | r_has_property
+fraîcheur d'une impression | r_has_property
+générosité d'un don | r_has_property
+gracilité d'une forme | r_has_property
+grandeur d'un projet | r_has_property
+gravité d'une blessure | r_has_property
+harmonie d'un ensemble | r_has_property
+hâte d'un départ | r_has_property
+humilité d'un savant | r_has_property
+immensité d'un paysage | r_has_property
+importance d'un événement | r_has_property
+imprévisibilité d'un résultat | r_has_property
+incertitude d'un avenir | r_has_property
+innocence d'un enfant | r_has_property
+intensité d'une couleur | r_has_property
+jeunesse d'une nation | r_has_property
+largeur d'un esprit | r_has_property
+limpidité d'un ruisseau | r_has_property
+lourdeur d'un silence | r_has_property
+lucidité d'un vieillard | r_has_property
+magnificence d'un palais | r_has_property
+majesté d'un paysage | r_has_property
+maturité d'un fruit | r_has_property
+modestie d'un héros | r_has_property
+monotonie d'un travail | r_has_property
+noblesse d'un geste | r_has_property
+nudité d'un fait | r_has_property
+opacité d'un mystère | r_has_property
+originalité d'un style | r_has_property
+pâleur d'un visage | r_has_property
+pénibilité d'un travail | r_has_property
+perfection d'un détail | r_has_property
+persévérance d'un chercheur | r_has_property
+pertinence d'une remarque | r_has_property
+pittoresque d'un village | r_has_property
+plasticité d'une matière | r_has_property
+pureté d'une source | r_has_property
+qualité d'un travail | r_has_property
+quantité d'une production | r_has_property
+rapidité d'une exécution | r_has_property
+rareté d'un objet | r_has_property
+réalisme d'un portrait | r_has_property
+régularité d'un pouls | r_has_property
+richesse d'une culture | r_has_property
+rigueur d'un hiver | r_has_property
+robustesse d'un matériau | r_has_property
+rudesse d'un climat | r_has_property
+sagesse d'un peuple | r_has_property
+santé d'une économie | r_has_property
+sauvagerie d'un animal | r_has_property
+sévérité d'un jugement | r_has_property
+simplicité d'une méthode | r_has_property
+sincérité d'une émotion | r_has_property
+solennité d'un moment | r_has_property
+solidité d'une amitié | r_has_property
+souplesse d'une règle | r_has_property
+spontanéité d'un mouvement | r_has_property
+stabilité d'un gouvernement | r_has_property
+subtilité d'une allusion | r_has_property
+sûreté d'un instinct | r_has_property
+tendresse d'une mère | r_has_property
+ténacité d'une idée | r_has_property
+tension d'une situation | r_has_property
+timidité d'une fleur | r_has_property
+tranquillité d'un lieu | r_has_property
+transparence d'une intention | r_has_property
+tristesse d'un adieu | r_has_property
+unité d'une équipe | r_has_property
+urbanité d'un citadin | r_has_property
+utilité d'un outil | r_has_property
+vacuité d'une existence | r_has_property
+valeur d'un principe | r_has_property
+vanité d'un espoir | r_has_property
+variété d'une offre | r_has_property
+vélocité d'un coureur | r_has_property
+véhémence d'une protestation | r_has_property
+véracité d'un récit | r_has_property
+vigueur d'une plante | r_has_property
+violence d'un orage | r_has_property
+virilité d'un homme | r_has_property
+virtuosité d'un musicien | r_has_property
+vivacité d'un débat | r_has_property
+volubilité d'un orateur | r_has_property
+volupté d'un fruit | r_has_property
+
+acuité de la perception | r_has_property
+amplitude de la marée | r_has_property
+ardeur de la jeunesse | r_has_property
+âpreté de la compétition | r_has_property
+austérité de la règle | r_has_property
+authenticité de la démarche | r_has_property
+autorité de la loi | r_has_property
+beauté de la nature | r_has_property
+brièveté de la vie | r_has_property
+brutalité de la vérité | r_has_property
+cadence de la danse | r_has_property
+candeur de la réponse | r_has_property
+capacité de la mémoire | r_has_property
+caractère de la pierre | r_has_property
+chaleur de la lumière | r_has_property
+charme de la nouveauté | r_has_property
+clarté de la pensée | r_has_property
+complexité de la situation | r_has_property
+courage de la décision | r_has_property
+courtoisie de la réception | r_has_property
+crédibilité de la source | r_has_property
+délicatesse de la situation | r_has_property
+densité de la forêt | r_has_property
+détermination de la volonté | r_has_property
+douceur de la voix | r_has_property
+dureté de la réalité | r_has_property
+efficacité de la méthode | r_has_property
+élégance de la démarche | r_has_property
+énergie de la jeunesse | r_has_property
+énormité de la tâche | r_has_property
+enthousiasme de la foule | r_has_property
+équilibre de la composition | r_has_property
+étrangeté de la coïncidence | r_has_property
+exactitude de la copie | r_has_property
+excellence de la qualité | r_has_property
+finesse de l'analyse | r_has_property
+fragilité de l'équilibre | r_has_property
+fraîcheur de la brise | r_has_property
+générosité de l'offre | r_has_property
+gracilité de la silhouette | r_has_property
+grandeur de l'idée | r_has_property
+gravité de l'infection | r_has_property
+harmonie de l'ensemble | r_has_property
+hâte de la préparation | r_has_property
+humilité de la demande | r_has_property
+immensité de l'espace | r_has_property
+importance de la découverte | r_has_property
+imprévisibilité de la météo | r_has_property
+incertitude de l'issue | r_has_property
+innocence de la victime | r_has_property
+intensité de la douleur | r_has_property
+jeunesse de l'équipe | r_has_property
+largeur de la rivière | r_has_property
+limpidité de l'eau | r_has_property
+lourdeur de l'atmosphère | r_has_property
+lucidité de l'analyse | r_has_property
+magnificence de l'édifice | r_has_property
+majesté de la montagne | r_has_property
+maturité de la réflexion | r_has_property
+modestie de la revendication | r_has_property
+monotonie de la routine | r_has_property
+noblesse de l'intention | r_has_property
+nudité de la vérité | r_has_property
+opacité de la décision | r_has_property
+originalité de l'approche | r_has_property
+pâleur de la lune | r_has_property
+pénibilité de la tâche | r_has_property
+perfection de la forme | r_has_property
+persévérance de l'effort | r_has_property
+pertinence de la question | r_has_property
+pittoresque de la scène | r_has_property
+plasticité de l'argile | r_has_property
+pureté de l'air | r_has_property
+qualité de la relation | r_has_property
+quantité de l'information | r_has_property
+rapidité de la réaction | r_has_property
+rareté de l'espèce | r_has_property
+réalisme de la description | r_has_property
+régularité de la respiration | r_has_property
+richesse de la langue | r_has_property
+rigueur de la discipline | r_has_property
+robustesse de la construction | r_has_property
+rudesse de la mer | r_has_property
+sagesse de la décision | r_has_property
+santé de la démocratie | r_has_property
+sauvagerie de l'attaque | r_has_property
+sévérité de la punition | r_has_property
+simplicité de la solution | r_has_property
+sincérité de l'engagement | r_has_property
+solennité de la cérémonie | r_has_property
+solidité de l'argument | r_has_property
+souplesse de la démarche | r_has_property
+spontanéité de la réaction | r_has_property
+stabilité de la monnaie | r_has_property
+subtilité de l'humour | r_has_property
+sûreté du jugement | r_has_property
+tendresse de l'amour | r_has_property
+ténacité de la conviction | r_has_property
+tension de l'attente | r_has_property
+timidité de l'animal | r_has_property
+tranquillité de la nuit | r_has_property
+transparence de l'eau | r_has_property
+tristesse de la séparation | r_has_property
+unité de la famille | r_has_property
+urbanité de la population | r_has_property
+utilité de l'invention | r_has_property
+vacuité de l'existence | r_has_property
+valeur de l'amitié | r_has_property
+vanité de l'entreprise | r_has_property
+variété de l'offre | r_has_property
+vélocité de la course | r_has_property
+véhémence de la critique | r_has_property
+véracité de l'histoire | r_has_property
+vigueur de la protestation | r_has_property
+violence de la tempête | r_has_property
+virilité de la race | r_has_property
+virtuosité de l'exécution | r_has_property
+vivacité de l'esprit | r_has_property
+volubilité de la conversation | r_has_property
+volupté de la chair | r_has_property
+
+acuité d'esprit | r_has_property
+amplitude du son | r_has_property
+ardeur du combat | r_has_property
+âpreté du débat | r_has_property
+austérité du décor | r_has_property
+authenticité du témoignage | r_has_property
+autorité du maître | r_has_property
+beauté du geste | r_has_property
+brièveté du moment | r_has_property
+brutalité du choc | r_has_property
+cadence du travail | r_has_property
+candeur du regard | r_has_property
+capacité du réservoir | r_has_property
+caractère du sol | r_has_property
+chaleur du soleil | r_has_property
+charme du souvenir | r_has_property
+clarté du ciel | r_has_property
+complexité du problème | r_has_property
+courage du héros | r_has_property
+courtoisie du geste | r_has_property
+crédibilité du récit | r_has_property
+délicatesse du parfum | r_has_property
+densité du brouillard | r_has_property
+détermination du regard | r_has_property
+douceur du vent | r_has_property
+dureté du métal | r_has_property
+efficacité du traitement | r_has_property
+élégance du mouvement | r_has_property
+énergie du vent | r_has_property
+énormité du crime | r_has_property
+enthousiasme du public | r_has_property
+équilibre du corps | r_has_property
+étrangeté du phénomène | r_has_property
+exactitude du calcul | r_has_property
+excellence du service | r_has_property
+finesse du goût | r_has_property
+fragilité du verre | r_has_property
+fraîcheur du matin | r_has_property
+générosité du cœur | r_has_property
+gracilité du cou | r_has_property
+grandeur du sacrifice | r_has_property
+gravité du diagnostic | r_has_property
+harmonie du paysage | r_has_property
+hâte du départ | r_has_property
+humilité du savant | r_has_property
+immensité du ciel | r_has_property
+importance du rôle | r_has_property
+imprévisibilité du résultat | r_has_property
+incertitude du lendemain | r_has_property
+innocence du regard | r_has_property
+intensité du feu | r_has_property
+jeunesse du visage | r_has_property
+largeur du fleuve | r_has_property
+limpidité du regard | r_has_property
+lourdeur du silence | r_has_property
+lucidité du vieillard | r_has_property
+magnificence du spectacle | r_has_property
+majesté de l'aigle | r_has_property
+maturité du raisin | r_has_property
+modestie du logement | r_has_property
+monotonie du paysage | r_has_property
+noblesse du métal | r_has_property
+nudité des faits | r_has_property
+opacité du verre | r_has_property
+originalité de la proposition | r_has_property
+pâleur du teint | r_has_property
+pénibilité du métier | r_has_property
+perfection du détail | r_has_property
+persévérance du chercheur | r_has_property
+pertinence de l'observation | r_has_property
+pittoresque du lieu | r_has_property
+plasticité de la cire | r_has_property
+pureté du marbre | r_has_property
+qualité du travail | r_has_property
+quantité de la production | r_has_property
+rapidité de l'intervention | r_has_property
+rareté du minerai | r_has_property
+réalisme du portrait | r_has_property
+régularité du rythme | r_has_property
+richesse du sol | r_has_property
+rigueur du froid | r_has_property
+robustesse du chêne | r_has_property
+rudesse du climat | r_has_property
+sagesse de l'âge | r_has_property
+santé du patient | r_has_property
+sauvagerie du fauve | r_has_property
+sévérité du regard | r_has_property
+simplicité des moyens | r_has_property
+sincérité des sentiments | r_has_property
+solennité du serment | r_has_property
+solidité du roc | r_has_property
+souplesse du roseau | r_has_property
+spontanéité de l'enfant | r_has_property
+stabilité du marché | r_has_property
+subtilité de l'esprit | r_has_property
+sûreté de la main | r_has_property
+tendresse du souvenir | r_has_property
+ténacité de la résistance | r_has_property
+tension dramatique | r_has_property
+timidité de la biche | r_has_property
+tranquillité du lieu | r_has_property
+transparence de l'air | r_has_property
+tristesse du paysage | r_has_property
+unité du groupe | r_has_property
+urbanité des manières | r_has_property
+utilité de l'objet | r_has_property
+vacuité du discours | r_has_property
+valeur du temps | r_has_property
+vanité des efforts | r_has_property
+variété des espèces | r_has_property
+vélocité du cheval | r_has_property
+véhémence du ton | r_has_property
+véracité des faits | r_has_property
+vigueur de la plante | r_has_property
+violence des passions | r_has_property
+virilité de la voix | r_has_property
+virtuosité technique | r_has_property
+vivacité des couleurs | r_has_property
+volubilité de la langue | r_has_property
+volupté du fruit | r_has_property
+
+acuité d'observation | r_has_property
+amplitude d'oscillation | r_has_property
+ardeur d'enthousiasme | r_has_property
+âpreté d'ambition | r_has_property
+austérité d'apparence | r_has_property
+authenticité d'émotion | r_has_property
+autorité d'experts | r_has_property
+beauté d'architecture | r_has_property
+brièveté d'existence | r_has_property
+brutalité d'assaut | r_has_property
+cadence d'enfer | r_has_property
+candeur d'enfance | r_has_property
+capacité d'absorption | r_has_property
+caractère d'urgence | r_has_property
+chaleur d'accueil | r_has_property
+charme d'originalité | r_has_property
+clarté d'exposition | r_has_property
+complexité d'organisation | r_has_property
+courage d'innovation | r_has_property
+courtoisie d'accueil | r_has_property
+crédibilité d'expert | r_has_property
+délicatesse d'artiste | r_has_property
+densité d'information | r_has_property
+détermination d'acier | r_has_property
+douceur d'abricot | r_has_property
+dureté d'acier | r_has_property
+efficacité d'action | r_has_property
+élégance d'aristocrate | r_has_property
+énergie d'action | r_has_property
+énormité d'entreprise | r_has_property
+enthousiasme d'adolescent | r_has_property
+équilibre d'ensemble | r_has_property
+étrangeté d'apparition | r_has_property
+exactitude d'horloge | r_has_property
+excellence d'exécution | r_has_property
+finesse d'analyse | r_has_property
+fragilité d'équilibre | r_has_property
+fraîcheur d'idée | r_has_property
+générosité d'âme | r_has_property
+gracilité d'allure | r_has_property
+grandeur d'âme | r_has_property
+gravité d'état | r_has_property
+harmonie d'ensemble | r_has_property
+hâte d'agir | r_has_property
+humilité d'attitude | r_has_property
+immensité d'espace | r_has_property
+importance d'enjeu | r_has_property
+imprévisibilité d'humeur | r_has_property
+incertitude d'avenir | r_has_property
+innocence d'enfant | r_has_property
+intensité d'émotion | r_has_property
+jeunesse d'apparence | r_has_property
+largeur d'esprit | r_has_property
+limpidité d'eau | r_has_property
+lourdeur d'atmosphère | r_has_property
+lucidité d'esprit | r_has_property
+magnificence d'édifice | r_has_property
+majesté d'allure | r_has_property
+maturité d'esprit | r_has_property
+modestie d'origine | r_has_property
+monotonie d'existence | r_has_property
+noblesse d'intention | r_has_property
+nudité d'arbre | r_has_property
+opacité d'intention | r_has_property
+originalité d'approche | r_has_property
+pâleur d'argent | r_has_property
+pénibilité d'effort | r_has_property
+perfection d'exécution | r_has_property
+persévérance d'effort | r_has_property
+pertinence d'argument | r_has_property
+pittoresque d'endroit | r_has_property
+plasticité d'argile | r_has_property
+pureté d'intention | r_has_property
+qualité d'exécution | r_has_property
+quantité d'énergie | r_has_property
+rapidité d'exécution | r_has_property
+rareté d'espèce | r_has_property
+réalisme d'approche | r_has_property
+régularité d'horloge | r_has_property
+richesse d'expérience | r_has_property
+rigueur d'hiver | r_has_property
+robustesse d'organisme | r_has_property
+rudesse d'accent | r_has_property
+sagesse d'expérience | r_has_property
+santé d'esprit | r_has_property
+sauvagerie d'attaque | r_has_property
+sévérité d'hiver | r_has_property
+simplicité d'utilisation | r_has_property
+sincérité d'intention | r_has_property
+solennité d'occasion | r_has_property
+solidité d'argument | r_has_property
+souplesse d'adaptation | r_has_property
+spontanéité d'enfant | r_has_property
+stabilité d'humeur | r_has_property
+subtilité d'esprit | r_has_property
+sûreté d'instinct | r_has_property
+tendresse d'amour | r_has_property
+ténacité d'effort | r_has_property
+tension d'attente | r_has_property
+timidité d'animal | r_has_property
+tranquillité d'esprit | r_has_property
+transparence d'eau | r_has_property
+tristesse d'adieu | r_has_property
+unité d'action | r_has_property
+urbanité d'homme | r_has_property
+utilité d'invention | r_has_property
+vacuité d'existence | r_has_property
+valeur d'usage | r_has_property
+vanité d'effort | r_has_property
+variété d'offre | r_has_property
+vélocité d'éclair | r_has_property
+véhémence d'attaque | r_has_property
+véracité d'information | r_has_property
+vigueur d'expression | r_has_property
+violence d'assaut | r_has_property
+virilité d'apparence | r_has_property
+virtuosité d'exécution | r_has_property
+vivacité d'esprit | r_has_property
+volubilité d'élocution | r_has_property
+volupté d'instant | r_has_property
+
+acuité d'une douleur | r_has_property
+amplitude d'une vibration | r_has_property
+ardeur d'une passion | r_has_property
+âpreté d'une rivalité | r_has_property
+austérité d'une vie | r_has_property
+authenticité d'une œuvre | r_has_property
+autorité d'une parole | r_has_property
+beauté d'une femme | r_has_property
+brièveté d'une rencontre | r_has_property
+brutalité d'une chute | r_has_property
+cadence d'une respiration | r_has_property
+candeur d'une réponse | r_has_property
+capacité d'une salle | r_has_property
+caractère d'une personne | r_has_property
+chaleur d'une étreinte | r_has_property
+charme d'une voix | r_has_property
+clarté d'une explication | r_has_property
+complexité d'une structure | r_has_property
+courage d'une décision | r_has_property
+courtoisie d'une invitation | r_has_property
+crédibilité d'une source | r_has_property
+délicatesse d'une fleur | r_has_property
+densité d'une forêt | r_has_property
+détermination d'une équipe | r_has_property
+douceur d'une caresse | r_has_property
+dureté d'une épreuve | r_has_property
+efficacité d'une méthode | r_has_property
+élégance d'une démarche | r_has_property
+énergie d'une jeunesse | r_has_property
+énormité d'une catastrophe | r_has_property
+enthousiasme d'une foule | r_has_property
+équilibre d'une composition | r_has_property
+étrangeté d'une situation | r_has_property
+exactitude d'une copie | r_has_property
+excellence d'une performance | r_has_property
+finesse d'une observation | r_has_property
+fragilité d'une santé | r_has_property
+fraîcheur d'une idée | r_has_property
+générosité d'une offre | r_has_property
+gracilité d'une forme | r_has_property
+grandeur d'une idée | r_has_property
+gravité d'une maladie | r_has_property
+harmonie d'une mélodie | r_has_property
+hâte d'une décision | r_has_property
+humilité d'une demande | r_has_property
+immensité d'une tâche | r_has_property
+importance d'une découverte | r_has_property
+imprévisibilité d'une réaction | r_has_property
+incertitude d'une issue | r_has_property
+innocence d'une victime | r_has_property
+intensité d'une émotion | r_has_property
+jeunesse d'une nation | r_has_property
+largeur d'une rivière | r_has_property
+limpidité d'une source | r_has_property
+lourdeur d'une atmosphère | r_has_property
+lucidité d'une analyse | r_has_property
+magnificence d'une cathédrale | r_has_property
+majesté d'une montagne | r_has_property
+maturité d'une réflexion | r_has_property
+modestie d'une revendication | r_has_property
+monotonie d'une routine | r_has_property
+noblesse d'une intention | r_has_property
+nudité d'une vérité | r_has_property
+opacité d'une décision | r_has_property
+originalité d'une approche | r_has_property
+pâleur d'une lueur | r_has_property
+pénibilité d'une tâche | r_has_property
+perfection d'une forme | r_has_property
+persévérance d'une recherche | r_has_property
+pertinence d'une question | r_has_property
+pittoresque d'une scène | r_has_property
+plasticité d'une matière | r_has_property
+pureté d'une intention | r_has_property
+qualité d'une relation | r_has_property
+quantité d'une information | r_has_property
+rapidité d'une réaction | r_has_property
+rareté d'une espèce | r_has_property
+réalisme d'une description | r_has_property
+régularité d'une pulsation | r_has_property
+richesse d'une culture | r_has_property
+rigueur d'une discipline | r_has_property
+robustesse d'une construction | r_has_property
+rudesse d'une mer | r_has_property
+sagesse d'une décision | r_has_property
+santé d'une économie | r_has_property
+sauvagerie d'une attaque | r_has_property
+sévérité d'une punition | r_has_property
+simplicité d'une solution | r_has_property
+sincérité d'une émotion | r_has_property
+solennité d'une cérémonie | r_has_property
+solidité d'une amitié | r_has_property
+souplesse d'une approche | r_has_property
+spontanéité d'une réaction | r_has_property
+stabilité d'une monnaie | r_has_property
+subtilité d'une allusion | r_has_property
+sûreté d'un instinct | r_has_property
+tendresse d'une mère | r_has_property
+ténacité d'une conviction | r_has_property
+tension d'une attente | r_has_property
+timidité d'une fleur | r_has_property
+tranquillité d'une nuit | r_has_property
+transparence d'une eau | r_has_property
+tristesse d'une séparation | r_has_property
+unité d'une famille | r_has_property
+urbanité d'une population | r_has_property
+utilité d'une invention | r_has_property
+vacuité d'une existence | r_has_property
+valeur d'une amitié | r_has_property
+vanité d'une entreprise | r_has_property
+variété d'une offre | r_has_property
+vélocité d'une course | r_has_property
+véhémence d'une critique | r_has_property
+véracité d'une histoire | r_has_property
+vigueur d'une plante | r_has_property
+violence d'une tempête | r_has_property
+virilité d'une race | r_has_property
+virtuosité d'une exécution | r_has_property
+vivacité d'un débat | r_has_property
+volubilité d'une conversation | r_has_property
+volupté d'un fruit | r_has_property
+
+(profondeur d'analyse) d'expert | r_has_property
+(acuité de regard) d'observateur | r_has_property
+(perspicacité de jugement) de psychologue | r_has_property
+(pénétration d'esprit) de philosophe | r_has_property
+(subtilité de raisonnement) de logicien | r_has_property
+(vivacité de répartie) de débatteur | r_has_property
+(fertilité d'imagination) de créateur | r_has_property
+(fécondité de travail) d'artiste | r_has_property

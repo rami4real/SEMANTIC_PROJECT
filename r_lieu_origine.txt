@@ -1,0 +1,497 @@
+vin de Bordeaux | r_lieu_origine
+fromage de Normandie | r_lieu_origine
+café du Brésil | r_lieu_origine
+thé de Darjeeling | r_lieu_origine
+champagne d'Épernay | r_lieu_origine
+whisky d'Irlande | r_lieu_origine
+huile de Provence | r_lieu_origine
+marbre d'Italie | r_lieu_origine
+cacao du Ghana | r_lieu_origine
+riz de Camargue | r_lieu_origine
+saumon d'Écosse | r_lieu_origine
+coton des États-Unis | r_lieu_origine
+laine de Nouvelle-Zélande | r_lieu_origine
+cuir du Maroc | r_lieu_origine
+porcelaine de Chine | r_lieu_origine
+cristal d'Alsace | r_lieu_origine
+dentelle de Bruges | r_lieu_origine
+parfum de Paris | r_lieu_origine
+couteau de Thiers | r_lieu_origine
+jambon de Parme | r_lieu_origine
+saucisson de Lyon | r_lieu_origine
+bière de Munich | r_lieu_origine
+vodka de Pologne | r_lieu_origine
+sake de Kyoto | r_lieu_origine
+tequila de Jalisco | r_lieu_origine
+rhum de Martinique | r_lieu_origine
+cigare de La Havane | r_lieu_origine
+truffe d'Alba | r_lieu_origine
+foie gras des Landes | r_lieu_origine
+huître de Cancale | r_lieu_origine
+moule de Mont-Saint-Michel | r_lieu_origine
+coquillage de Saint-Malo | r_lieu_origine
+poisson de Marseille | r_lieu_origine
+fruit des Antilles | r_lieu_origine
+lavande de Sault | r_lieu_origine
+olive d'Espagne | r_lieu_origine
+datte d'Algérie | r_lieu_origine
+banane de Martinique | r_lieu_origine
+ananas de Guadeloupe | r_lieu_origine
+mangue du Sénégal | r_lieu_origine
+avocat d'Israël | r_lieu_origine
+kiwi du Chili | r_lieu_origine
+pomme du Limousin | r_lieu_origine
+orange du Maroc | r_lieu_origine
+citron d'Espagne | r_lieu_origine
+amande du Portugal | r_lieu_origine
+noix du Périgord | r_lieu_origine
+châtaigne du Var | r_lieu_origine
+miel du Gâtinais | r_lieu_origine
+sirop du Québec | r_lieu_origine
+cannelle du Vietnam | r_lieu_origine
+poivre du Vietnam | r_lieu_origine
+safran du Maroc | r_lieu_origine
+vanille de La Réunion | r_lieu_origine
+café du Kenya | r_lieu_origine
+thé du Sri Lanka | r_lieu_origine
+sucre de La Réunion | r_lieu_origine
+sel de Camargue | r_lieu_origine
+eau d'Évian | r_lieu_origine
+granit du Sidobre | r_lieu_origine
+ardoise d'Angers | r_lieu_origine
+pierre de Bourgogne | r_lieu_origine
+bois du Morvan | r_lieu_origine
+acier de Lorraine | r_lieu_origine
+aluminium d'Islande | r_lieu_origine
+cuivre du Pérou | r_lieu_origine
+or du Mali | r_lieu_origine
+diamant du Congo | r_lieu_origine
+émeraude de Zambie | r_lieu_origine
+saphir du Cachemire | r_lieu_origine
+rubis du Mozambique | r_lieu_origine
+opale d'Éthiopie | r_lieu_origine
+perle du Japon | r_lieu_origine
+corail de Mer Rouge | r_lieu_origine
+ambre de Russie | r_lieu_origine
+jade de Birmanie | r_lieu_origine
+turquoise du Tibet | r_lieu_origine
+lapis-lazuli du Chili | r_lieu_origine
+soie du Vietnam | r_lieu_origine
+cachemire de Mongolie | r_lieu_origine
+lin de Belgique | r_lieu_origine
+chanvre du Canada | r_lieu_origine
+coton d'Ouzbékistan | r_lieu_origine
+laine d'Argentine | r_lieu_origine
+cuir du Bangladesh | r_lieu_origine
+fourrure de Finlande | r_lieu_origine
+plume du Brésil | r_lieu_origine
+ivoire du Zimbabwe | r_lieu_origine
+bois du Gabon | r_lieu_origine
+acajou du Honduras | r_lieu_origine
+teck de Birmanie | r_lieu_origine
+bambou du Vietnam | r_lieu_origine
+rotin d'Indonésie | r_lieu_origine
+osier de Picardie | r_lieu_origine
+paille de Beauce | r_lieu_origine
+liège d'Espagne | r_lieu_origine
+caoutchouc de Thaïlande | r_lieu_origine
+résine des Landes | r_lieu_origine
+cire de Bretagne | r_lieu_origine
+miel de Narbonne | r_lieu_origine
+propolis de Russie | r_lieu_origine
+gelée de Chine | r_lieu_origine
+pollen de Bulgarie | r_lieu_origine
+essence de Grasse | r_lieu_origine
+extrait de Madagascar | r_lieu_origine
+arôme d'Italie | r_lieu_origine
+parfum de Dubaï | r_lieu_origine
+senteur d'Inde | r_lieu_origine
+odeur d'Orient | r_lieu_origine
+fleur de Grasse | r_lieu_origine
+eau de Cologne | r_lieu_origine
+lait de Normandie | r_lieu_origine
+jus de Floride | r_lieu_origine
+sirop de Belgique | r_lieu_origine
+confiture d'Alsace | r_lieu_origine
+marmelade d'Angleterre | r_lieu_origine
+compote de Savoie | r_lieu_origine
+purée du Poitou | r_lieu_origine
+coulis de Provence | r_lieu_origine
+sauce de Naples | r_lieu_origine
+ketchup de Pittsburgh | r_lieu_origine
+sauce de Soja | r_lieu_origine
+vinaigre d'Orléans | r_lieu_origine
+vinaigre de Modène | r_lieu_origine
+huile de Grèce | r_lieu_origine
+huile de Tunisie | r_lieu_origine
+huile de Croatie | r_lieu_origine
+beurre de Charentes | r_lieu_origine
+crème d'Isigny | r_lieu_origine
+yaourt de Bulgarie | r_lieu_origine
+fromage de Hollande | r_lieu_origine
+fromage de Sardaigne | r_lieu_origine
+fromage de Corse | r_lieu_origine
+beurre de Bretagne | r_lieu_origine
+crème de Normandie | r_lieu_origine
+camembert de Camembert | r_lieu_origine
+roquefort de Roquefort | r_lieu_origine
+brie de Brie | r_lieu_origine
+comté de Franche-Comté | r_lieu_origine
+reblochon de Haute-Savoie | r_lieu_origine
+morbier du Jura | r_lieu_origine
+bleu des Causses | r_lieu_origine
+cantal d'Auvergne | r_lieu_origine
+munster de Munster | r_lieu_origine
+pont-l'évêque de Pont-l'Évêque | r_lieu_origine
+livarot de Livarot | r_lieu_origine
+saint-nectaire de Saint-Nectaire | r_lieu_origine
+ossau-iraty du Béarn | r_lieu_origine
+pouligny-saint-pierre de Pouligny | r_lieu_origine
+selles-sur-cher de Selles | r_lieu_origine
+valençay de Valençay | r_lieu_origine
+crottin de Chavignol | r_lieu_origine
+picodon de la Drôme | r_lieu_origine
+pélardon des Cévennes | r_lieu_origine
+fourme d'Ambert | r_lieu_origine
+salers du Cantal | r_lieu_origine
+laguiole de Laguiole | r_lieu_origine
+beaufort de Savoie | r_lieu_origine
+abondance de Haute-Savoie | r_lieu_origine
+tome de Savoie | r_lieu_origine
+vacherin du Jura | r_lieu_origine
+mont-d'or du Doubs | r_lieu_origine
+cancoillotte de Franche-Comté | r_lieu_origine
+mimolette de Flandre | r_lieu_origine
+boulette d'Avesnes | r_lieu_origine
+maroilles de Thiérache | r_lieu_origine
+rollot de Picardie | r_lieu_origine
+carré de l'Est | r_lieu_origine
+boursin de Normandie | r_lieu_origine
+caprice des dieux de Normandie | r_lieu_origine
+Saint-Félicien du Dauphiné | r_lieu_origine
+rigotte du Lyonnais | r_lieu_origine
+cérilly du Bourbonnais | r_lieu_origine
+charolais du Charolais | r_lieu_origine
+mâconnais de Mâcon | r_lieu_origine
+cîteaux de Bourgogne | r_lieu_origine
+époisses de Bourgogne | r_lieu_origine
+langres de Langres | r_lieu_origine
+chaource de Chaource | r_lieu_origine
+brie de Meaux | r_lieu_origine
+coulommiers de Coulommiers | r_lieu_origine
+explorateur de Normandie | r_lieu_origine
+brillat-savarin de Normandie | r_lieu_origine
+neufchâtel de Neufchâtel | r_lieu_origine
+gournay de Gournay | r_lieu_origine
+bondon de Normandie | r_lieu_origine
+boulette de Bourgogne | r_lieu_origine
+vin de la Bourgogne | r_lieu_origine
+fromage de la Savoie | r_lieu_origine
+café de la Colombie | r_lieu_origine
+thé de la Chine | r_lieu_origine
+champagne de la Champagne | r_lieu_origine
+whisky de la Écosse | r_lieu_origine
+huile de la Provence | r_lieu_origine
+marbre de la Toscane | r_lieu_origine
+cacao de la Côte_d'Ivoire | r_lieu_origine
+riz de la Camargue | r_lieu_origine
+saumon de la Norvège | r_lieu_origine
+coton de la Égypte | r_lieu_origine
+laine de la Australie | r_lieu_origine
+cuir de la Italie | r_lieu_origine
+porcelaine de la Limoges | r_lieu_origine
+cristal de la Bohême | r_lieu_origine
+dentelle de la Bruges | r_lieu_origine
+parfum de la Grasse | r_lieu_origine
+couteau de la Laguiole | r_lieu_origine
+jambon de la Bayonne | r_lieu_origine
+saucisson de la Ardenne | r_lieu_origine
+bière de la Belgique | r_lieu_origine
+vodka de la Russie | r_lieu_origine
+sake de la Japon | r_lieu_origine
+tequila de la Mexique | r_lieu_origine
+rhum de la Martinique | r_lieu_origine
+cigare de la Cuba | r_lieu_origine
+truffe de la Périgord | r_lieu_origine
+foie gras de la Gascogne | r_lieu_origine
+huître de la Bretagne | r_lieu_origine
+moule de la Normandie | r_lieu_origine
+coquillage de la Méditerranée | r_lieu_origine
+poisson de la Mer_du_Nord | r_lieu_origine
+fruit de la Provence | r_lieu_origine
+lavande de la Drôme | r_lieu_origine
+olive de la Grèce | r_lieu_origine
+datte de la Tunisie | r_lieu_origine
+banane de la Guadeloupe | r_lieu_origine
+ananas de la Costa_Rica | r_lieu_origine
+mangue de la Inde | r_lieu_origine
+avocat de la Mexique | r_lieu_origine
+kiwi de la Nouvelle_Zélande | r_lieu_origine
+pomme de la Normandie | r_lieu_origine
+orange de la Floride | r_lieu_origine
+citron de la Espagne | r_lieu_origine
+amande de la Californie | r_lieu_origine
+noix de la Grenoble | r_lieu_origine
+châtaigne de la Ardèche | r_lieu_origine
+miel de la Corse | r_lieu_origine
+sirop de la Québec | r_lieu_origine
+cannelle de la Sri_Lanka | r_lieu_origine
+poivre de la Vietnam | r_lieu_origine
+safran de la Iran | r_lieu_origine
+vanille de la Madagascar | r_lieu_origine
+café de la Éthiopie | r_lieu_origine
+thé de la Inde | r_lieu_origine
+sucre de la Réunion | r_lieu_origine
+sel de la Guérande | r_lieu_origine
+eau de la Vichy | r_lieu_origine
+granit de la Bretagne | r_lieu_origine
+ardoise de la Ardenne | r_lieu_origine
+pierre de la Bourgogne | r_lieu_origine
+bois de la Jura | r_lieu_origine
+acier de la Allemagne | r_lieu_origine
+aluminium de la Canada | r_lieu_origine
+cuivre de la Chili | r_lieu_origine
+or de la Afrique_du_Sud | r_lieu_origine
+diamant de la Botswana | r_lieu_origine
+émeraude de la Colombie | r_lieu_origine
+saphir de la Cachemire | r_lieu_origine
+rubis de la Birmanie | r_lieu_origine
+opale de la Australie | r_lieu_origine
+perle de la Tahiti | r_lieu_origine
+corail de la Mer_Rouge | r_lieu_origine
+ambre de la Baltique | r_lieu_origine
+jade de la Chine | r_lieu_origine
+turquoise de la Perse | r_lieu_origine
+lapis-lazuli de la Afghanistan | r_lieu_origine
+soie de la Chine | r_lieu_origine
+cachemire de la Mongolie | r_lieu_origine
+lin de la Normandie | r_lieu_origine
+chanvre de la France | r_lieu_origine
+coton de la Pakistan | r_lieu_origine
+laine de la Argentine | r_lieu_origine
+cuir de la Maroc | r_lieu_origine
+fourrure de la Finlande | r_lieu_origine
+plume de la Brésil | r_lieu_origine
+ivoire de la Zimbabwe | r_lieu_origine
+bois de la Gabon | r_lieu_origine
+acajou de la Honduras | r_lieu_origine
+teck de la Birmanie | r_lieu_origine
+bambou de la Chine | r_lieu_origine
+rotin de la Indonésie | r_lieu_origine
+osier de la Picardie | r_lieu_origine
+paille de la Beauce | r_lieu_origine
+liège de la Portugal | r_lieu_origine
+caoutchouc de la Malaisie | r_lieu_origine
+résine de la Landes | r_lieu_origine
+cire de la Bretagne | r_lieu_origine
+propolis de la Russie | r_lieu_origine
+gelée de la Chine | r_lieu_origine
+pollen de la Bulgarie | r_lieu_origine
+essence de la Grasse | r_lieu_origine
+extrait de la Madagascar | r_lieu_origine
+arôme de la Italie | r_lieu_origine
+parfum de la France | r_lieu_origine
+senteur de la Inde | r_lieu_origine
+fleur de la Hollande | r_lieu_origine
+lait de la Normandie | r_lieu_origine
+jus de la Floride | r_lieu_origine
+sirop de la Belgique | r_lieu_origine
+confiture de la Alsace | r_lieu_origine
+marmelade de la Angleterre | r_lieu_origine
+compote de la Savoie | r_lieu_origine
+purée de la Picardie | r_lieu_origine
+coulis de la Provence | r_lieu_origine
+sauce de la Italie | r_lieu_origine
+ketchup de la États_Unis | r_lieu_origine
+vinaigre de la Orléans | r_lieu_origine
+huile de la Grèce | r_lieu_origine
+beurre de la Bretagne | r_lieu_origine
+crème de la Normandie | r_lieu_origine
+yaourt de la Bulgarie | r_lieu_origine
+fromage de la Hollande | r_lieu_origine
+camembert de la Normandie | r_lieu_origine
+roquefort de la Aveyron | r_lieu_origine
+brie de la Brie | r_lieu_origine
+comté de la Franche_Comté | r_lieu_origine
+reblochon de la Savoie | r_lieu_origine
+morbier de la Jura | r_lieu_origine
+bleu de la Auvergne | r_lieu_origine
+cantal de la Cantal | r_lieu_origine
+munster de la Alsace | r_lieu_origine
+pont-l'évêque de la Normandie | r_lieu_origine
+livarot de la Normandie | r_lieu_origine
+saint-nectaire de la Auvergne | r_lieu_origine
+ossau-iraty de la Pays_Basque | r_lieu_origine
+pouligny-saint-pierre de la Berry | r_lieu_origine
+selles-sur-cher de la Sologne | r_lieu_origine
+valençay de la Touraine | r_lieu_origine
+crottin de la Chavignol | r_lieu_origine
+picodon de la Drôme | r_lieu_origine
+pélardon de la Cévennes | r_lieu_origine
+fourme de la Auvergne | r_lieu_origine
+salers de la Cantal | r_lieu_origine
+laguiole de la Aveyron | r_lieu_origine
+beaufort de la Savoie | r_lieu_origine
+abondance de la Savoie | r_lieu_origine
+tome de la Savoie | r_lieu_origine
+vacherin de la Jura | r_lieu_origine
+mont-d'or de la Jura | r_lieu_origine
+cancoillotte de la Franche_Comté | r_lieu_origine
+mimolette de la Flandre | r_lieu_origine
+maroilles de la Thiérache | r_lieu_origine
+vin dʼAlsace | r_lieu_origine
+cidre dʼNormandie | r_lieu_origine
+café dʼÉthiopie | r_lieu_origine
+thé dʼAngleterre | r_lieu_origine
+champagne dʼFrance | r_lieu_origine
+whisky dʼIrlande | r_lieu_origine
+huile dʼItalie | r_lieu_origine
+marbre dʼCarrare | r_lieu_origine
+cacao dʼGhana | r_lieu_origine
+riz dʼThaïlande | r_lieu_origine
+saumon dʼÉcosse | r_lieu_origine
+coton dʼÉgypte | r_lieu_origine
+laine dʼAustralie | r_lieu_origine
+cuir dʼMaroc | r_lieu_origine
+porcelaine dʼLimoges | r_lieu_origine
+cristal dʼBohême | r_lieu_origine
+dentelle dʼBruges | r_lieu_origine
+parfum dʼGrasse | r_lieu_origine
+couteau dʼThiers | r_lieu_origine
+jambon dʼParme | r_lieu_origine
+saucisson dʼLyon | r_lieu_origine
+bière dʼAllemagne | r_lieu_origine
+vodka dʼPologne | r_lieu_origine
+sake dʼJapon | r_lieu_origine
+tequila dʼMexique | r_lieu_origine
+rhum dʼMartinique | r_lieu_origine
+cigare dʼCuba | r_lieu_origine
+truffe dʼPérigord | r_lieu_origine
+foie gras dʼLandes | r_lieu_origine
+huître dʼBretagne | r_lieu_origine
+moule dʼNormandie | r_lieu_origine
+vin du Chili | r_lieu_origine
+fromage du Portugal | r_lieu_origine
+café du Brésil | r_lieu_origine
+thé du Sri Lanka | r_lieu_origine
+champagne du vignoble | r_lieu_origine
+whisky du Japon | r_lieu_origine
+huile du Maroc | r_lieu_origine
+marbre du Portugal | r_lieu_origine
+cacao du Venezuela | r_lieu_origine
+riz du Vietnam | r_lieu_origine
+saumon du Canada | r_lieu_origine
+coton du Pakistan | r_lieu_origine
+laine du Népal | r_lieu_origine
+cuir du Bangladesh | r_lieu_origine
+porcelaine du Danemark | r_lieu_origine
+cristal du Luxembourg | r_lieu_origine
+dentelle du Portugal | r_lieu_origine
+parfum du Royaume-Uni | r_lieu_origine
+couteau du Pakistan | r_lieu_origine
+jambon du Serrano | r_lieu_origine
+saucisson du Valais | r_lieu_origine
+bière du Mexique | r_lieu_origine
+vodka du Belarus | r_lieu_origine
+sake du Kyushu | r_lieu_origine
+tequila du Jalisco | r_lieu_origine
+rhum du Guatemala | r_lieu_origine
+cigare du Nicaragua | r_lieu_origine
+truffe du Piémont | r_lieu_origine
+foie gras du Sud-Ouest | r_lieu_origine
+huître du Bassin | r_lieu_origine
+moule du Mont-Saint-Michel | r_lieu_origine
+coquillage du Pacifique | r_lieu_origine
+poisson du Atlantique | r_lieu_origine
+fruit du Maghreb | r_lieu_origine
+lavande du Luberon | r_lieu_origine
+olive du Portugal | r_lieu_origine
+datte du Golfe | r_lieu_origine
+banane du Costa Rica | r_lieu_origine
+ananas du Philippines | r_lieu_origine
+mangue du Pérou | r_lieu_origine
+avocat du Kenya | r_lieu_origine
+kiwi du Italie | r_lieu_origine
+pomme du Washington | r_lieu_origine
+orange du Californie | r_lieu_origine
+citron du Amalfi | r_lieu_origine
+amande du Iran | r_lieu_origine
+noix du Périgord | r_lieu_origine
+châtaigne du Corse | r_lieu_origine
+miel du Gâtinais | r_lieu_origine
+sirop du Vermont | r_lieu_origine
+cannelle du Indonésie | r_lieu_origine
+poivre du Cambodge | r_lieu_origine
+safran du Cachemire | r_lieu_origine
+vanille du Comores | r_lieu_origine
+café du Honduras | r_lieu_origine
+thé du Népal | r_lieu_origine
+sucre du Mauritius | r_lieu_origine
+sel du Atlantique | r_lieu_origine
+eau du Volvic | r_lieu_origine
+granit du Sidobre | r_lieu_origine
+ardoise du Maine | r_lieu_origine
+pierre du Jura | r_lieu_origine
+bois du Amazonie | r_lieu_origine
+acier du Luxembourg | r_lieu_origine
+aluminium du Islande | r_lieu_origine
+cuivre du Zambie | r_lieu_origine
+or du Ghana | r_lieu_origine
+diamant du Sierra Leone | r_lieu_origine
+émeraude du Brésil | r_lieu_origine
+saphir du Madagascar | r_lieu_origine
+rubis du Thaïlande | r_lieu_origine
+opale du Éthiopie | r_lieu_origine
+perle du Polynésie | r_lieu_origine
+corail du Mer Rouge | r_lieu_origine
+ambre du Dominique | r_lieu_origine
+jade du Guatemala | r_lieu_origine
+turquoise du Arizona | r_lieu_origine
+lapis-lazuli du Afghanistan | r_lieu_origine
+soie du Thaïlande | r_lieu_origine
+cachemire du Mongolie | r_lieu_origine
+lin du Belgique | r_lieu_origine
+chanvre du Canada | r_lieu_origine
+coton du Ouzbékistan | r_lieu_origine
+laine du Argentine | r_lieu_origine
+cuir du Tunisie | r_lieu_origine
+fourrure du Norvège | r_lieu_origine
+plume du Brésil | r_lieu_origine
+ivoire du Kenya | r_lieu_origine
+bois du Congo | r_lieu_origine
+acajou du Brésil | r_lieu_origine
+teck du Laos | r_lieu_origine
+bambou du Vietnam | r_lieu_origine
+rotin du Indonésie | r_lieu_origine
+osier du France | r_lieu_origine
+paille du Ukraine | r_lieu_origine
+liège du Espagne | r_lieu_origine
+caoutchouc du Thaïlande | r_lieu_origine
+résine du Grèce | r_lieu_origine
+cire du Bulgarie | r_lieu_origine
+miel du Roumanie | r_lieu_origine
+propolis du Brésil | r_lieu_origine
+gelée du Chine | r_lieu_origine
+pollen du Espagne | r_lieu_origine
+essence du Égypte | r_lieu_origine
+extrait du Mexique | r_lieu_origine
+arôme du Italie | r_lieu_origine
+parfum du Émirats | r_lieu_origine
+senteur du Inde | r_lieu_origine
+fleur du Pays-Bas | r_lieu_origine
+lait du Irlande | r_lieu_origine
+jus du Floride | r_lieu_origine
+sirop du Canada | r_lieu_origine
+confiture du Pologne | r_lieu_origine
+marmelade du Royaume-Uni | r_lieu_origine
+compote du Allemagne | r_lieu_origine
+purée du Belgique | r_lieu_origine
+coulis du Provence | r_lieu_origine
+sauce du Italie | r_lieu_origine
+ketchup du États-Unis | r_lieu_origine
+vinaigre du France | r_lieu_origine
+huile du Tunisie | r_lieu_origine
+beurre du Normandie | r_lieu_origine
+crème du Bretagne | r_lieu_origine
+yaourt du Grèce | r_lieu_origine
+fromage du Suisse | r_lieu_origine

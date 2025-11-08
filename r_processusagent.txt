@@ -1,0 +1,1083 @@
+travail de l'ouvrier | r_processus>agent
+écriture de l'auteur | r_processus>agent
+lecture de l'élève | r_processus>agent
+peinture de l'artiste | r_processus>agent
+sculpture du sculpteur | r_processus>agent
+construction du maçon | r_processus>agent
+réparation du technicien | r_processus>agent
+nettoyage de la femme de ménage | r_processus>agent
+cuisine du chef | r_processus>agent
+jardinage du jardinier | r_processus>agent
+enseignement du professeur | r_processus>agent
+apprentissage de l'étudiant | r_processus>agent
+recherche du scientifique | r_processus>agent
+découverte de l'explorateur | r_processus>agent
+invention de l'inventeur | r_processus>agent
+création de l'artiste | r_processus>agent
+design du designer | r_processus>agent
+programmation du développeur | r_processus>agent
+analyse de l'expert | r_processus>agent
+diagnostic du médecin | r_processus>agent
+soin de l'infirmier | r_processus>agent
+opération du chirurgien | r_processus>agent
+conduite du chauffeur | r_processus>agent
+pilotage du pilote | r_processus>agent
+navigation du marin | r_processus>agent
+direction du manager | r_processus>agent
+gestion de l'administrateur | r_processus>agent
+vente du commercial | r_processus>agent
+achat de l'acheteur | r_processus>agent
+négociation du négociateur | r_processus>agent
+communication du communicateur | r_processus>agent
+présentation de l'orateur | r_processus>agent
+formation du formateur | r_processus>agent
+coaching du coach | r_processus>agent
+conseil du consultant | r_processus>agent
+audit de l'auditeur | r_processus>agent
+contrôle du contrôleur | r_processus>agent
+surveillance du gardien | r_processus>agent
+sécurité de l'agent de sécurité | r_processus>agent
+défense de l'avocat | r_processus>agent
+accusation du procureur | r_processus>agent
+jugement du juge | r_processus>agent
+exécution du bourreau | r_processus>agent
+arrestation du policier | r_processus>agent
+enquête du détective | r_processus>agent
+protection du garde du corps | r_processus>agent
+sauvetage du sauveteur | r_processus>agent
+secours du secouriste | r_processus>agent
+guérison du guérisseur | r_processus>agent
+méditation du méditant | r_processus>agent
+prière du croyant | r_processus>agent
+prédication du prédicateur | r_processus>agent
+célébration du célébrant | r_processus>agent
+sacrifice du sacrificateur | r_processus>agent
+bénédiction du prêtre | r_processus>agent
+confession du pénitent | r_processus>agent
+pèlerinage du pèlerin | r_processus>agent
+évangélisation du missionnaire | r_processus>agent
+prophétie du prophète | r_processus>agent
+miracle du saint | r_processus>agent
+exorcisme de l'exorciste | r_processus>agent
+divination du devin | r_processus>agent
+sorcellerie du sorcier | r_processus>agent
+alchimie de l'alchimiste | r_processus>agent
+médiumnité du médium | r_processus>agent
+télépathie du télépathe | r_processus>agent
+hypnose de l'hypnotiseur | r_processus>agent
+magnétisme du magnétiseur | r_processus>agent
+acupuncture de l'acupuncteur | r_processus>agent
+ostéopathie de l'ostéopathe | r_processus>agent
+homéopathie de l'homéopathe | r_processus>agent
+naturopathie du naturopathe | r_processus>agent
+phytothérapie du phytothérapeute | r_processus>agent
+aromathérapie de l'aromathérapeute | r_processus>agent
+réflexologie du réflexologue | r_processus>agent
+shiatsu du praticien | r_processus>agent
+yoga du yogi | r_processus>agent
+méditation du méditant | r_processus>agent
+taïchi du maître | r_processus>agent
+danse du danseur | r_processus>agent
+chant du chanteur | r_processus>agent
+musique du musicien | r_processus>agent
+composition du compositeur | r_processus>agent
+improvisation de l'improvisateur | r_processus>agent
+interprétation de l'interprète | r_processus>agent
+orchestration de l'orchestrateur | r_processus>agent
+direction du chef d'orchestre | r_processus>agent
+enregistrement de l'ingénieur | r_processus>agent
+mixage de l'ingénieur du son | r_processus>agent
+montage du monteur | r_processus>agent
+réalisation du réalisateur | r_processus>agent
+scénario du scénariste | r_processus>agent
+production du producteur | r_processus>agent
+distribution du distributeur | r_processus>agent
+projection du projectionniste | r_processus>agent
+critique du critique d'art | r_processus>agent
+analyse de l'analyste financier | r_processus>agent
+recherche du chercheur | r_processus>agent
+expérimentation du chercheur | r_processus>agent
+observation de l'astronome | r_processus>agent
+mesure du géomètre | r_processus>agent
+calcul du comptable | r_processus>agent
+modélisation de l'architecte | r_processus>agent
+simulation de l'ingénieur | r_processus>agent
+programmation du programmeur | r_processus>agent
+codage du développeur | r_processus>agent
+débogage du programmeur | r_processus>agent
+test du testeur | r_processus>agent
+intégration de l'intégrateur | r_processus>agent
+déploiement du technicien | r_processus>agent
+maintenance du technicien | r_processus>agent
+support du technicien | r_processus>agent
+assistance de l'assistant | r_processus>agent
+conseil du conseiller | r_processus>agent
+consultation du consultant | r_processus>agent
+expertise de l'expert | r_processus>agent
+audit de l'auditeur | r_processus>agent
+inspection de l'inspecteur | r_processus>agent
+certification du certificateur | r_processus>agent
+accréditation de l'accréditeur | r_processus>agent
+homologation de l'homologueur | r_processus>agent
+agrément de l'agréateur | r_processus>agent
+habilitation de l'agent | r_processus>agent
+qualification de l'expert | r_processus>agent
+sélection du recruteur | r_processus>agent
+recrutement du recruteur | r_processus>agent
+intégration du responsable | r_processus>agent
+formation du formateur | r_processus>agent
+développement du formateur | r_processus>agent
+coaching du coach | r_processus>agent
+mentorat du mentor | r_processus>agent
+tutorat du tuteur | r_processus>agent
+orientation du conseiller | r_processus>agent
+bilan du conseiller | r_processus>agent
+évaluation de l'évaluateur | r_processus>agent
+valorisation de l'expert | r_processus>agent
+reconversion du conseiller | r_processus>agent
+mobilité du conseiller | r_processus>agent
+évolution du conseiller | r_processus>agent
+adaptation du formateur | r_processus>agent
+innovation de l'innovateur | r_processus>agent
+amélioration de l'ingénieur | r_processus>agent
+optimisation de l'ingénieur | r_processus>agent
+restructuration du consultant | r_processus>agent
+réorganisation du manager | r_processus>agent
+transformation du consultant | r_processus>agent
+changement du manager | r_processus>agent
+modernisation de l'ingénieur | r_processus>agent
+numérisation du technicien | r_processus>agent
+automatisation de l'ingénieur | r_processus>agent
+robotisation de l'ingénieur | r_processus>agent
+conception du concepteur | r_processus>agent
+planification du planificateur | r_processus>agent
+organisation de l'organisateur | r_processus>agent
+coordination du coordinateur | r_processus>agent
+orchestration du chef | r_processus>agent
+gestion du gérant | r_processus>agent
+administration de l'administrateur | r_processus>agent
+direction du directeur | r_processus>agent
+leadership du leader | r_processus>agent
+management du manager | r_processus>agent
+supervision du superviseur | r_processus>agent
+contrôle du contrôleur | r_processus>agent
+surveillance du gardien | r_processus>agent
+vérification du vérificateur | r_processus>agent
+validation du validateur | r_processus>agent
+fabrication de l'ouvrier | r_processus>agent
+assemblage de l'ouvrier | r_processus>agent
+usinage de l'opérateur | r_processus>agent
+forage du foreur | r_processus>agent
+soudage du soudeur | r_processus>agent
+meulage du meuleur | r_processus>agent
+perçage du perceur | r_processus>agent
+fraisage du fraiseur | r_processus>agent
+tournage du tourneur | r_processus>agent
+moulage du mouleur | r_processus>agent
+coulage du couleur | r_processus>agent
+estampage de l'estampeur | r_processus>agent
+emboutissage de l'emboutisseur | r_processus>agent
+tréfilage du tréfileur | r_processus>agent
+laminage du lamineur | r_processus>agent
+forgeage du forgeron | r_processus>agent
+fonderie du fondeur | r_processus>agent
+fabrication de l'artisan | r_processus>agent
+artisanat de l'artisan | r_processus>agent
+ébénisterie de l'ébéniste | r_processus>agent
+menuiserie du menuisier | r_processus>agent
+charpente du charpentier | r_processus>agent
+maçonnerie du maçon | r_processus>agent
+carrelage du carreleur | r_processus>agent
+plâtrerie du plâtrier | r_processus>agent
+peinture du peintre | r_processus>agent
+électricité de l'électricien | r_processus>agent
+plomberie du plombier | r_processus>agent
+chauffage du chauffagiste | r_processus>agent
+climatisation du climaticien | r_processus>agent
+électronique de l'électronicien | r_processus>agent
+mécanique du mécanicien | r_processus>agent
+maintenance du technicien | r_processus>agent
+dépannage du dépanneur | r_processus>agent
+réparation du réparateur | r_processus>agent
+installation de l'installateur | r_processus>agent
+configuration du technicien | r_processus>agent
+paramétrage du technicien | r_processus>agent
+calibrage du technicien | r_processus>agent
+étalonnage du technicien | r_processus>agent
+réglage du technicien | r_processus>agent
+ajustage de l'ajusteur | r_processus>agent
+usinage de l'usineur | r_processus>agent
+fabrication de l'opérateur | r_processus>agent
+production de l'opérateur | r_processus>agent
+contrôle du contrôleur | r_processus>agent
+qualité du contrôleur | r_processus>agent
+inspection de l'inspecteur | r_processus>agent
+test du testeur | r_processus>agent
+vérification du vérificateur | r_processus>agent
+validation du validateur | r_processus>agent
+certification du certificateur | r_processus>agent
+homologation de l'homologueur | r_processus>agent
+agrément de l'agréateur | r_processus>agent
+accréditation de l'accréditeur | r_processus>agent
+habilitation de l'agent | r_processus>agent
+qualification de l'expert | r_processus>agent
+sélection du sélectionneur | r_processus>agent
+recrutement du recruteur | r_processus>agent
+intégration du responsable | r_processus>agent
+formation du formateur | r_processus>agent
+développement du formateur | r_processus>agent
+coaching du coach | r_processus>agent
+mentorat du mentor | r_processus>agent
+tutorat du tuteur | r_processus>agent
+orientation du conseiller | r_processus>agent
+bilan du conseiller | r_processus>agent
+évaluation de l'évaluateur | r_processus>agent
+valorisation de l'expert | r_processus>agent
+reconversion du conseiller | r_processus>agent
+mobilité du conseiller | r_processus>agent
+évolution du conseiller | r_processus>agent
+adaptation du formateur | r_processus>agent
+innovation de l'innovateur | r_processus>agent
+amélioration de l'ingénieur | r_processus>agent
+optimisation de l'ingénieur | r_processus>agent
+restructuration du consultant | r_processus>agent
+réorganisation du manager | r_processus>agent
+transformation du consultant | r_processus>agent
+changement du manager | r_processus>agent
+modernisation de l'ingénieur | r_processus>agent
+numérisation du technicien | r_processus>agent
+automatisation de l'ingénieur | r_processus>agent
+robotisation de l'ingénieur | r_processus>agent
+conception du concepteur | r_processus>agent
+planification du planificateur | r_processus>agent
+organisation de l'organisateur | r_processus>agent
+coordination du coordinateur | r_processus>agent
+orchestration du chef | r_processus>agent
+gestion du gérant | r_processus>agent
+administration de l'administrateur | r_processus>agent
+direction du directeur | r_processus>agent
+leadership du leader | r_processus>agent
+management du manager | r_processus>agent
+supervision du superviseur | r_processus>agent
+contrôle du contrôleur | r_processus>agent
+surveillance du gardien | r_processus>agent
+vérification du vérificateur | r_processus>agent
+validation du validateur | r_processus>agent
+agriculture de l'agriculteur | r_processus>agent
+élevage de l'éleveur | r_processus>agent
+culture du cultivateur | r_processus>agent
+moisson du moissonneur | r_processus>agent
+récolte du récolteur | r_processus>agent
+semis du semeur | r_processus>agent
+plantation du planteur | r_processus>agent
+irrigation de l'irrigateur | r_processus>agent
+fertilisation du fertiliseur | r_processus>agent
+traitement du traiteur | r_processus>agent
+protection du protecteur | r_processus>agent
+entretien de l'entretien | r_processus>agent
+soin du soigneur | r_processus>agent
+nourrissage du nourrisseur | r_processus>agent
+abattage de l'abatteur | r_processus>agent
+pêche du pêcheur | r_processus>agent
+chasse du chasseur | r_processus>agent
+cueillette du cueilleur | r_processus>agent
+apiculture de l'apiculteur | r_processus>agent
+sylviculture du sylviculteur | r_processus>agent
+foresterie du forestier | r_processus>agent
+arboriculture de l'arboriculteur | r_processus>agent
+horticulture de l'horticulteur | r_processus>agent
+maraîchage du maraîcher | r_processus>agent
+viticulture du viticulteur | r_processus>agent
+œnologie de l'œnologue | r_processus>agent
+brassage du brasseur | r_processus>agent
+distillation du distillateur | r_processus>agent
+fermentation du fermentateur | r_processus>agent
+transformation du transformateur | r_processus>agent
+conservation du conserveur | r_processus>agent
+conditionnement du conditionneur | r_processus>agent
+emballage de l'emballeur | r_processus>agent
+étiquetage de l'étiqueteur | r_processus>agent
+stockage du stockeur | r_processus>agent
+manutention du manutentionnaire | r_processus>agent
+logistique du logisticien | r_processus>agent
+transport du transporteur | r_processus>agent
+livraison du livreur | r_processus>agent
+expédition de l'expéditeur | r_processus>agent
+importation de l'importateur | r_processus>agent
+exportation de l'exportateur | r_processus>agent
+douane du douanier | r_processus>agent
+commerce du commerçant | r_processus>agent
+vente du vendeur | r_processus>agent
+achat de l'acheteur | r_processus>agent
+négociation du négociateur | r_processus>agent
+marchandage du marchandeur | r_processus>agent
+transaction du transactionnel | r_processus>agent
+paiement du payeur | r_processus>agent
+facturation du facturier | r_processus>agent
+comptabilité du comptable | r_processus>agent
+gestion du gestionnaire | r_processus>agent
+finance du financier | r_processus>agent
+investissement de l'investisseur | r_processus>agent
+crédit du créditeur | r_processus>agent
+prêt du prêteur | r_processus>agent
+emprunt de l'emprunteur | r_processus>agent
+épargne de l'épargnant | r_processus>agent
+assurance de l'assureur | r_processus>agent
+banque du banquier | r_processus>agent
+bourse du boursier | r_processus>agent
+spéculation du spéculateur | r_processus>agent
+trading du trader | r_processus>agent
+analyse de l'analyste | r_processus>agent
+conseil du conseiller | r_processus>agent
+consultation du consultant | r_processus>agent
+expertise de l'expert | r_processus>agent
+audit de l'auditeur | r_processus>agent
+inspection de l'inspecteur | r_processus>agent
+certification du certificateur | r_processus>agent
+accréditation de l'accréditeur | r_processus>agent
+homologation de l'homologueur | r_processus>agent
+agrément de l'agréateur | r_processus>agent
+habilitation de l'agent | r_processus>agent
+qualification de l'expert | r_processus>agent
+sélection du sélectionneur | r_processus>agent
+recrutement du recruteur | r_processus>agent
+intégration du responsable | r_processus>agent
+formation du formateur | r_processus>agent
+développement du formateur | r_processus>agent
+coaching du coach | r_processus>agent
+mentorat du mentor | r_processus>agent
+tutorat du tuteur | r_processus>agent
+orientation du conseiller | r_processus>agent
+bilan du conseiller | r_processus>agent
+évaluation de l'évaluateur | r_processus>agent
+valorisation de l'expert | r_processus>agent
+reconversion du conseiller | r_processus>agent
+mobilité du conseiller | r_processus>agent
+évolution du conseiller | r_processus>agent
+adaptation du formateur | r_processus>agent
+innovation de l'innovateur | r_processus>agent
+amélioration de l'ingénieur | r_processus>agent
+optimisation de l'ingénieur | r_processus>agent
+restructuration du consultant | r_processus>agent
+réorganisation du manager | r_processus>agent
+transformation du consultant | r_processus>agent
+changement du manager | r_processus>agent
+modernisation de l'ingénieur | r_processus>agent
+numérisation du technicien | r_processus>agent
+automatisation de l'ingénieur | r_processus>agent
+robotisation de l'ingénieur | r_processus>agent
+conception du concepteur | r_processus>agent
+planification du planificateur | r_processus>agent
+organisation de l'organisateur | r_processus>agent
+coordination du coordinateur | r_processus>agent
+orchestration du chef | r_processus>agent
+gestion du gérant | r_processus>agent
+administration de l'administrateur | r_processus>agent
+direction du directeur | r_processus>agent
+leadership du leader | r_processus>agent
+management du manager | r_processus>agent
+supervision du superviseur | r_processus>agent
+contrôle du contrôleur | r_processus>agent
+surveillance du gardien | r_processus>agent
+vérification du vérificateur | r_processus>agent
+validation du validateur | r_processus>agent
+enseignement du professeur | r_processus>agent
+éducation de l'éducateur | r_processus>agent
+instruction de l'instructeur | r_processus>agent
+formation du formateur | r_processus>agent
+apprentissage de l'apprenti | r_processus>agent
+étude de l'étudiant | r_processus>agent
+recherche du chercheur | r_processus>agent
+expérimentation de l'expérimentateur | r_processus>agent
+observation de l'observateur | r_processus>agent
+analyse de l'analyste | r_processus>agent
+synthèse du synthétiseur | r_processus>agent
+rédaction du rédacteur | r_processus>agent
+correction du correcteur | r_processus>agent
+édition de l'éditeur | r_processus>agent
+publication du publicateur | r_processus>agent
+diffusion du diffuseur | r_processus>agent
+communication du communicateur | r_processus>agent
+information de l'informateur | r_processus>agent
+presse du journaliste | r_processus>agent
+média du médiateur | r_processus>agent
+télévision du présentateur | r_processus>agent
+radio de l'animateur | r_processus>agent
+internet du webmaster | r_processus>agent
+réseau du networker | r_processus>agent
+programmation du programmeur | r_processus>agent
+développement du développeur | r_processus>agent
+conception du concepteur | r_processus>agent
+design du designer | r_processus>agent
+création du créateur | r_processus>agent
+innovation de l'innovateur | r_processus>agent
+invention de l'inventeur | r_processus>agent
+découverte du découvreur | r_processus>agent
+exploration de l'explorateur | r_processus>agent
+aventure de l'aventurier | r_processus>agent
+voyage du voyageur | r_processus>agent
+tourisme du touriste | r_processus>agent
+randonnée du randonneur | r_processus>agent
+alpinisme de l'alpiniste | r_processus>agent
+plongée du plongeur | r_processus>agent
+navigation du navigateur | r_processus>agent
+pilotage du pilote | r_processus>agent
+conduite du conducteur | r_processus>agent
+transport du transporteur | r_processus>agent
+livraison du livreur | r_processus>agent
+logistique du logisticien | r_processus>agent
+manutention du manutentionnaire | r_processus>agent
+stockage du stockeur | r_processus>agent
+entreposage de l'entreposeur | r_processus>agent
+gestion du gestionnaire | r_processus>agent
+administration de l'administrateur | r_processus>agent
+direction du directeur | r_processus>agent
+leadership du leader | r_processus>agent
+management du manager | r_processus>agent
+supervision du superviseur | r_processus>agent
+contrôle du contrôleur | r_processus>agent
+surveillance du surveillant | r_processus>agent
+inspection de l'inspecteur | r_processus>agent
+audit de l'auditeur | r_processus>agent
+vérification du vérificateur | r_processus>agent
+validation du validateur | r_processus>agent
+certification du certificateur | r_processus>agent
+homologation de l'homologueur | r_processus>agent
+agrément de l'agréateur | r_processus>agent
+accréditation de l'accréditeur | r_processus>agent
+habilitation de l'agent | r_processus>agent
+qualification de l'expert | r_processus>agent
+sélection du sélectionneur | r_processus>agent
+recrutement du recruteur | r_processus>agent
+intégration du responsable | r_processus>agent
+formation du formateur | r_processus>agent
+développement du formateur | r_processus>agent
+coaching du coach | r_processus>agent
+mentorat du mentor | r_processus>agent
+tutorat du tuteur | r_processus>agent
+orientation du conseiller | r_processus>agent
+bilan du conseiller | r_processus>agent
+évaluation de l'évaluateur | r_processus>agent
+valorisation de l'expert | r_processus>agent
+reconversion du conseiller | r_processus>agent
+mobilité du conseiller | r_processus>agent
+évolution du conseiller | r_processus>agent
+adaptation du formateur | r_processus>agent
+innovation de l'innovateur | r_processus>agent
+amélioration de l'ingénieur | r_processus>agent
+optimisation de l'ingénieur | r_processus>agent
+restructuration du consultant | r_processus>agent
+réorganisation du manager | r_processus>agent
+transformation du consultant | r_processus>agent
+changement du manager | r_processus>agent
+modernisation de l'ingénieur | r_processus>agent
+numérisation du technicien | r_processus>agent
+automatisation de l'ingénieur | r_processus>agent
+robotisation de l'ingénieur | r_processus>agent
+conception du concepteur | r_processus>agent
+planification du planificateur | r_processus>agent
+organisation de l'organisateur | r_processus>agent
+coordination du coordinateur | r_processus>agent
+orchestration du chef | r_processus>agent
+gestion du gérant | r_processus>agent
+administration de l'administrateur | r_processus>agent
+direction du directeur | r_processus>agent
+leadership du leader | r_processus>agent
+management du manager | r_processus>agent
+supervision du superviseur | r_processus>agent
+contrôle du contrôleur | r_processus>agent
+surveillance du gardien | r_processus>agent
+vérification du vérificateur | r_processus>agent
+validation du validateur | r_processus>agent
+médicine du médecin | r_processus>agent
+chirurgie du chirurgien | r_processus>agent
+dentisterie du dentiste | r_processus>agent
+pharmacie du pharmacien | r_processus>agent
+infirmerie de l'infirmier | r_processus>agent
+soin du soignant | r_processus>agent
+diagnostic du diagnostiqueur | r_processus>agent
+traitement du traitant | r_processus>agent
+thérapie du thérapeute | r_processus>agent
+rééducation du rééducateur | r_processus>agent
+réadaptation du réadaptateur | r_processus>agent
+psychologie du psychologue | r_processus>agent
+psychiatrie du psychiatre | r_processus>agent
+psychanalyse du psychanalyste | r_processus>agent
+thérapie du thérapeute | r_processus>agent
+soin du soignant | r_processus>agent
+accompagnement de l'accompagnateur | r_processus>agent
+soutien du souteneur | r_processus>agent
+écoute de l'écouteur | r_processus>agent
+conseil du conseiller | r_processus>agent
+orientation du conseiller | r_processus>agent
+bilan du conseiller | r_processus>agent
+évaluation de l'évaluateur | r_processus>agent
+valorisation de l'expert | r_processus>agent
+reconversion du conseiller | r_processus>agent
+mobilité du conseiller | r_processus>agent
+évolution du conseiller | r_processus>agent
+adaptation du formateur | r_processus>agent
+innovation de l'innovateur | r_processus>agent
+amélioration de l'ingénieur | r_processus>agent
+optimisation de l'ingénieur | r_processus>agent
+restructuration du consultant | r_processus>agent
+réorganisation du manager | r_processus>agent
+transformation du consultant | r_processus>agent
+changement du manager | r_processus>agent
+modernisation de l'ingénieur | r_processus>agent
+numérisation du technicien | r_processus>agent
+automatisation de l'ingénieur | r_processus>agent
+robotisation de l'ingénieur | r_processus>agent
+conception du concepteur | r_processus>agent
+planification du planificateur | r_processus>agent
+organisation de l'organisateur | r_processus>agent
+coordination du coordinateur | r_processus>agent
+orchestration du chef | r_processus>agent
+gestion du gérant | r_processus>agent
+administration de l'administrateur | r_processus>agent
+direction du directeur | r_processus>agent
+leadership du leader | r_processus>agent
+management du manager | r_processus>agent
+supervision du superviseur | r_processus>agent
+contrôle du contrôleur | r_processus>agent
+surveillance du gardien | r_processus>agent
+vérification du vérificateur | r_processus>agent
+validation du validateur | r_processus>agent
+art de l'artiste | r_processus>agent
+peinture du peintre | r_processus>agent
+sculpture du sculpteur | r_processus>agent
+dessin du dessinateur | r_processus>agent
+gravure du graveur | r_processus>agent
+photographie du photographe | r_processus>agent
+cinéma du cinéaste | r_processus>agent
+théâtre du comédien | r_processus>agent
+danse du danseur | r_processus>agent
+chant du chanteur | r_processus>agent
+musique du musicien | r_processus>agent
+littérature de l'écrivain | r_processus>agent
+poésie du poète | r_processus>agent
+roman du romancier | r_processus>agent
+nouvelle du nouvelliste | r_processus>agent
+théâtre du dramaturge | r_processus>agent
+cinéma du scénariste | r_processus>agent
+radio du journaliste | r_processus>agent
+télévision du présentateur | r_processus>agent
+presse du reporter | r_processus>agent
+édition de l'éditeur | r_processus>agent
+publication du publiciste | r_processus>agent
+diffusion du diffuseur | r_processus>agent
+communication du communicateur | r_processus>agent
+information de l'informateur | r_processus>agent
+média du médiateur | r_processus>agent
+journalisme du journaliste | r_processus>agent
+reportage du reporter | r_processus>agent
+interview de l'intervieweur | r_processus>agent
+enquête de l'enquêteur | r_processus>agent
+investigation de l'investigateur | r_processus>agent
+recherche du chercheur | r_processus>agent
+analyse de l'analyste | r_processus>agent
+synthèse du synthétiseur | r_processus>agent
+rédaction du rédacteur | r_processus>agent
+correction du correcteur | r_processus>agent
+édition de l'éditeur | r_processus>agent
+publication du publicateur | r_processus>agent
+diffusion du diffuseur | r_processus>agent
+communication du communicateur | r_processus>agent
+information de l'informateur | r_processus>agent
+presse du journaliste | r_processus>agent
+média du médiateur | r_processus>agent
+télévision du présentateur | r_processus>agent
+radio de l'animateur | r_processus>agent
+internet du webmaster | r_processus>agent
+réseau du networker | r_processus>agent
+programmation du programmeur | r_processus>agent
+développement du développeur | r_processus>agent
+conception du concepteur | r_processus>agent
+design du designer | r_processus>agent
+création du créateur | r_processus>agent
+innovation de l'innovateur | r_processus>agent
+invention de l'inventeur | r_processus>agent
+découverte du découvreur | r_processus>agent
+exploration de l'explorateur | r_processus>agent
+aventure de l'aventurier | r_processus>agent
+voyage du voyageur | r_processus>agent
+tourisme du touriste | r_processus>agent
+randonnée du randonneur | r_processus>agent
+alpinisme de l'alpiniste | r_processus>agent
+plongée du plongeur | r_processus>agent
+navigation du navigateur | r_processus>agent
+pilotage du pilote | r_processus>agent
+conduite du conducteur | r_processus>agent
+transport du transporteur | r_processus>agent
+livraison du livreur | r_processus>agent
+logistique du logisticien | r_processus>agent
+manutention du manutentionnaire | r_processus>agent
+stockage du stockeur | r_processus>agent
+entreposage de l'entreposeur | r_processus>agent
+gestion du gestionnaire | r_processus>agent
+administration de l'administrateur | r_processus>agent
+direction du directeur | r_processus>agent
+leadership du leader | r_processus>agent
+management du manager | r_processus>agent
+supervision du superviseur | r_processus>agent
+contrôle du contrôleur | r_processus>agent
+surveillance du surveillant | r_processus>agent
+inspection de l'inspecteur | r_processus>agent
+audit de l'auditeur | r_processus>agent
+vérification du vérificateur | r_processus>agent
+validation du validateur | r_processus>agent
+certification du certificateur | r_processus>agent
+homologation de l'homologueur | r_processus>agent
+agrément de l'agréateur | r_processus>agent
+accréditation de l'accréditeur | r_processus>agent
+habilitation de l'agent | r_processus>agent
+qualification de l'expert | r_processus>agent
+sélection du sélectionneur | r_processus>agent
+recrutement du recruteur | r_processus>agent
+intégration du responsable | r_processus>agent
+formation du formateur | r_processus>agent
+développement du formateur | r_processus>agent
+coaching du coach | r_processus>agent
+mentorat du mentor | r_processus>agent
+tutorat du tuteur | r_processus>agent
+orientation du conseiller | r_processus>agent
+bilan du conseiller | r_processus>agent
+évaluation de l'évaluateur | r_processus>agent
+valorisation de l'expert | r_processus>agent
+reconversion du conseiller | r_processus>agent
+mobilité du conseiller | r_processus>agent
+évolution du conseiller | r_processus>agent
+adaptation du formateur | r_processus>agent
+innovation de l'innovateur | r_processus>agent
+amélioration de l'ingénieur | r_processus>agent
+optimisation de l'ingénieur | r_processus>agent
+restructuration du consultant | r_processus>agent
+réorganisation du manager | r_processus>agent
+transformation du consultant | r_processus>agent
+changement du manager | r_processus>agent
+modernisation de l'ingénieur | r_processus>agent
+numérisation du technicien | r_processus>agent
+automatisation de l'ingénieur | r_processus>agent
+robotisation de l'ingénieur | r_processus>agent
+conception du concepteur | r_processus>agent
+planification du planificateur | r_processus>agent
+organisation de l'organisateur | r_processus>agent
+coordination du coordinateur | r_processus>agent
+orchestration du chef | r_processus>agent
+gestion du gérant | r_processus>agent
+administration de l'administrateur | r_processus>agent
+direction du directeur | r_processus>agent
+leadership du leader | r_processus>agent
+management du manager | r_processus>agent
+supervision du superviseur | r_processus>agent
+contrôle du contrôleur | r_processus>agent
+surveillance du gardien | r_processus>agent
+vérification du vérificateur | r_processus>agent
+validation du validateur | r_processus>agent
+couture d’une couturière | r_processus>agent
+broderie d’une brodeuse | r_processus>agent
+création d’une styliste | r_processus>agent
+mode d’un modéliste | r_processus>agent
+taille d’un tailleur | r_processus>agent
+ciselure d’un orfèvre | r_processus>agent
+gravure d’un graveur | r_processus>agent
+bijouterie d’une bijoutière | r_processus>agent
+orfèvrerie d’un joaillier | r_processus>agent
+polissage d’un polisseur | r_processus>agent
+teinture d’un teinturier | r_processus>agent
+lavage d’un blanchisseur | r_processus>agent
+nettoyage d’une technicienne de surface | r_processus>agent
+repas d’une cuisinière | r_processus>agent
+préparation d’un pâtissier | r_processus>agent
+boulangerie d’un boulanger | r_processus>agent
+confiserie d’une confiseuse | r_processus>agent
+chocolaterie d’un chocolatier | r_processus>agent
+brassage d’un brasseur | r_processus>agent
+distillation d’une distillatrice | r_processus>agent
+vinification d’un œnologue | r_processus>agent
+mise en bouteille d’un caviste | r_processus>agent
+dégustation d’un sommelier | r_processus>agent
+service d’une serveuse | r_processus>agent
+accueil d’un réceptionniste | r_processus>agent
+réservation d’une hôtesse | r_processus>agent
+gestion d’un hôtelier | r_processus>agent
+entretien d’une gouvernante | r_processus>agent
+nettoyage d’une femme de chambre | r_processus>agent
+maintenance d’un technicien | r_processus>agent
+dépannage d’un réparateur | r_processus>agent
+révision d’un mécanicien | r_processus>agent
+diagnostic d’un garagiste | r_processus>agent
+réparation d’un électricien | r_processus>agent
+installation d’un plombier | r_processus>agent
+chauffage d’un chauffagiste | r_processus>agent
+climatisation d’un climaticien | r_processus>agent
+bricolage d’un bricoleur | r_processus>agent
+menuiserie d’un menuisier | r_processus>agent
+ébénisterie d’une ébéniste | r_processus>agent
+décoration d’une décoratrice | r_processus>agent
+peinture d’une peintre | r_processus>agent
+mosaïque d’un mosaïste | r_processus>agent
+vitrail d’un verrier | r_processus>agent
+céramique d’une céramiste | r_processus>agent
+poterie d’un potier | r_processus>agent
+sculpture d’une sculptrice | r_processus>agent
+dessin d’une dessinatrice | r_processus>agent
+illustration d’un illustrateur | r_processus>agent
+calligraphie d’une calligraphe | r_processus>agent
+peinture d’une aquarelliste | r_processus>agent
+portrait d’un portraitiste | r_processus>agent
+photographie d’une photographe | r_processus>agent
+tournage d’un vidéaste | r_processus>agent
+montage d’une monteuse | r_processus>agent
+réalisation d’une réalisatrice | r_processus>agent
+production d’une productrice | r_processus>agent
+diffusion d’un diffuseur | r_processus>agent
+communication d’une communicante | r_processus>agent
+présentation d’une présentatrice | r_processus>agent
+animation d’un animateur | r_processus>agent
+interview d’une intervieweuse | r_processus>agent
+journalisme d’une journaliste | r_processus>agent
+reportage d’un reporter | r_processus>agent
+investigation d’un enquêteur | r_processus>agent
+publication d’une éditrice | r_processus>agent
+édition d’un éditeur | r_processus>agent
+correction d’une correctrice | r_processus>agent
+traduction d’une traductrice | r_processus>agent
+rédaction d’une rédactrice | r_processus>agent
+lecture d’une lectrice | r_processus>agent
+enseignement d’une professeure | r_processus>agent
+instruction d’un instituteur | r_processus>agent
+formation d’une formatrice | r_processus>agent
+coaching d’un coach | r_processus>agent
+orientation d’une conseillère | r_processus>agent
+soutien d’un tuteur | r_processus>agent
+encadrement d’une éducatrice | r_processus>agent
+évaluation d’une évaluatrice | r_processus>agent
+analyse d’une analyste | r_processus>agent
+synthèse d’un chercheur | r_processus>agent
+expérimentation d’une scientifique | r_processus>agent
+observation d’une observatrice | r_processus>agent
+mesure d’un ingénieur | r_processus>agent
+modélisation d’un statisticien | r_processus>agent
+calcul d’un mathématicien | r_processus>agent
+programmation d’une développeuse | r_processus>agent
+conception d’un architecte | r_processus>agent
+planification d’une planificatrice | r_processus>agent
+organisation d’une organisatrice | r_processus>agent
+coordination d’une coordinatrice | r_processus>agent
+direction d’une directrice | r_processus>agent
+supervision d’une superviseure | r_processus>agent
+gestion d’une gestionnaire | r_processus>agent
+leadership d’un leader | r_processus>agent
+management d’un manager | r_processus>agent
+contrôle d’une contrôleuse | r_processus>agent
+surveillance d’une surveillante | r_processus>agent
+sécurité d’une agente | r_processus>agent
+police d’une policière | r_processus>agent
+enquête d’une inspectrice | r_processus>agent
+jugement d’une juge | r_processus>agent
+défense d’une avocate | r_processus>agent
+accusation d’une procureure | r_processus>agent
+procédure d’un greffier | r_processus>agent
+arrestation d’un gendarme | r_processus>agent
+sauvetage d’un pompier | r_processus>agent
+soin d’une infirmière | r_processus>agent
+consultation d’un médecin | r_processus>agent
+opération d’une chirurgienne | r_processus>agent
+traitement d’une thérapeute | r_processus>agent
+massage d’une masseuse | r_processus>agent
+kinésithérapie d’un kinésithérapeute | r_processus>agent
+ostéopathie d’une ostéopathe | r_processus>agent
+nutrition d’une diététicienne | r_processus>agent
+cure d’une naturopathe | r_processus>agent
+soin d’un psychologue | r_processus>agent
+écoute d’une psychothérapeute | r_processus>agent
+médiation d’une médiatrice | r_processus>agent
+négociation d’un négociateur | r_processus>agent
+vente d’une vendeuse | r_processus>agent
+achat d’un acheteur | r_processus>agent
+marketing d’un marketeur | r_processus>agent
+promotion d’une promotrice | r_processus>agent
+publicité d’un publicitaire | r_processus>agent
+communication d’une chargée de communication | r_processus>agent
+graphisme d’un graphiste | r_processus>agent
+illustration d’une illustratrice | r_processus>agent
+affichage d’une afficheuse | r_processus>agent
+distribution d’une distributrice | r_processus>agent
+livraison d’une livreuse | r_processus>agent
+transport d’un transporteur | r_processus>agent
+logistique d’un logisticien | r_processus>agent
+manutention d’une manutentionnaire | r_processus>agent
+emballage d’une emballeuse | r_processus>agent
+stockage d’un magasinier | r_processus>agent
+inventaire d’un gestionnaire de stock | r_processus>agent
+approvisionnement d’un fournisseur | r_processus>agent
+production d’une productrice | r_processus>agent
+fabrication d’une artisane | r_processus>agent
+assemblage d’un assembleur | r_processus>agent
+usinage d’un usineur | r_processus>agent
+test d’une testeuse | r_processus>agent
+vérification d’une vérificatrice | r_processus>agent
+validation d’une validatrice | r_processus>agent
+homologation d’une ingénieure qualité | r_processus>agent
+certification d’une auditrice | r_processus>agent
+contrôle d’une inspectrice | r_processus>agent
+maintenance d’une technicienne | r_processus>agent
+réparation d’une réparatrice | r_processus>agent
+réglage d’un ajusteur | r_processus>agent
+paramétrage d’un configurateur | r_processus>agent
+calibrage d’un technicien | r_processus>agent
+assemblage d’une opératrice | r_processus>agent
+usinage d’une technicienne | r_processus>agent
+électricité d’une électricienne | r_processus>agent
+soudure d’une soudeuse | r_processus>agent
+plomberie d’une plombière | r_processus>agent
+chauffage d’une chauffeuse | r_processus>agent
+peinture d’une peintre décoratrice | r_processus>agent
+nettoyage d’une femme de ménage | r_processus>agent
+entretien d’une jardinière | r_processus>agent
+culture d’une cultivatrice | r_processus>agent
+récolte d’une agricultrice | r_processus>agent
+plantation d’une planteuse | r_processus>agent
+semis d’un semeur | r_processus>agent
+irrigation d’une irrigatrice | r_processus>agent
+apiculture d’une apicultrice | r_processus>agent
+viticulture d’une viticultrice | r_processus>agent
+cueillette d’une cueilleuse | r_processus>agent
+pêche d’une pêcheuse | r_processus>agent
+chasse d’une chasseuse | r_processus>agent
+forêt d’un forestier | r_processus>agent
+bûcheronnage d’un bûcheron | r_processus>agent
+scierie d’un scieur | r_processus>agent
+menuiserie d’une menuisière | r_processus>agent
+ébénisterie d’un ébéniste | r_processus>agent
+charpente d’une charpentière | r_processus>agent
+maçonnerie d’une maçonne | r_processus>agent
+peinture d’une décoratrice | r_processus>agent
+architecture d’une architecte | r_processus>agent
+urbanisme d’un urbaniste | r_processus>agent
+paysagisme d’une paysagiste | r_processus>agent
+planification d’un ingénieur urbaniste | r_processus>agent
+cartographie d’un cartographe | r_processus>agent
+dessin d’une dessinatrice technique | r_processus>agent
+modélisation 3D d’un infographiste | r_processus>agent
+simulation d’un ingénieur | r_processus>agent
+programmation d’une informaticienne | r_processus>agent
+cybersécurité d’une analyste sécurité | r_processus>agent
+développement d’une développeuse web | r_processus>agent
+conception d’un concepteur UX | r_processus>agent
+test d’une testeuse QA | r_processus>agent
+débogage d’une ingénieure logicielle | r_processus>agent
+analyse de données d’un data scientist | r_processus>agent
+visualisation de données d’une analyste | r_processus>agent
+formation d’une formatrice | r_processus>agent
+enseignement d’une maîtresse | r_processus>agent
+coaching d’une coach | r_processus>agent
+encadrement d’une tutrice | r_processus>agent
+suivi d’une accompagnatrice | r_processus>agent
+animation d’une facilitatrice | r_processus>agent
+gestion d’une responsable RH | r_processus>agent
+recrutement d’une recruteuse | r_processus>agent
+sélection d’un sélectionneur | r_processus>agent
+évaluation d’une DRH | r_processus>agent
+formation d’un responsable pédagogique | r_processus>agent
+audit d’une auditrice interne | r_processus>agent
+analyse d’une consultante | r_processus>agent
+stratégie d’une cheffe de projet | r_processus>agent
+planification d’un coordinateur | r_processus>agent
+réorganisation d’une manageuse | r_processus>agent
+conduite d’un conducteur | r_processus>agent
+pilotage d’une pilote | r_processus>agent
+navigation d’une navigatrice | r_processus>agent
+voyage d’un voyageur | r_processus>agent
+exploration d’une exploratrice | r_processus>agent
+découverte d’une découvreuse | r_processus>agent
+aventures d’une aventurière | r_processus>agent
+randonnée d’une randonneuse | r_processus>agent
+escalade d’une grimpeuse | r_processus>agent
+plongée d’une plongeuse | r_processus>agent
+natation d’une nageuse | r_processus>agent
+athlétisme d’un athlète | r_processus>agent
+course d’une coureuse | r_processus>agent
+lancer d’une lanceuse | r_processus>agent
+saut d’un sauteur | r_processus>agent
+football d’un footballeur | r_processus>agent
+tennis d’une tenniswoman | r_processus>agent
+basket d’une basketteuse | r_processus>agent
+volley d’une volleyeuse | r_processus>agent
+rugby d’un rugbyman | r_processus>agent
+escrime d’une escrimeuse | r_processus>agent
+tir d’un tireur | r_processus>agent
+cyclisme d’une cycliste | r_processus>agent
+automobile d’un pilote | r_processus>agent
+moto d’un motard | r_processus>agent
+aviation d’un aviateur | r_processus>agent
+vol d’une aviatrice | r_processus>agent
+navigation d’un capitaine | r_processus>agent
+commandement d’un commandant | r_processus>agent
+direction d’une cheffe | r_processus>agent
+supervision d’un responsable | r_processus>agent
+coordination d’une coordinatrice | r_processus>agent
+enseignement d’un maître | r_processus>agent
+discipline d’un pédagogue | r_processus>agent
+apprentissage d’une apprentie | r_processus>agent
+lecture d’un lecteur | r_processus>agent
+écriture d’une écrivaine | r_processus>agent
+composition d’un compositeur | r_processus>agent
+improvisation d’un musicien | r_processus>agent
+direction d’une cheffe d’orchestre | r_processus>agent
+interprétation d’une interprète | r_processus>agent
+orchestration d’un orchestrateur | r_processus>agent
+arrangement d’un arrangeur | r_processus>agent
+chant d’une soprano | r_processus>agent
+chorale d’un chef de chœur | r_processus>agent
+danse d’une chorégraphe | r_processus>agent
+spectacle d’une metteuse en scène | r_processus>agent
+théâtre d’une comédienne | r_processus>agent
+jeu d’un acteur | r_processus>agent
+cinématographie d’une cinéaste | r_processus>agent
+prise de vue d’un caméraman | r_processus>agent
+montage d’un monteur vidéo | r_processus>agent
+mixage d’une ingénieure du son | r_processus>agent
+production d’un producteur exécutif | r_processus>agent
+distribution d’une distributrice de films | r_processus>agent
+critique d’une critique de cinéma | r_processus>agent
+journal d’un journaliste culturel | r_processus>agent
+analyse d’une historienne d’art | r_processus>agent
+rédaction d’un rédacteur en chef | r_processus>agent
+correction d’une relectrice | r_processus>agent
+édition d’une éditrice scientifique | r_processus>agent
+publication d’un auteur | r_processus>agent
+illustration d’une dessinatrice jeunesse | r_processus>agent
+mise en page d’un graphiste | r_processus>agent
+affichage d’un imprimeur | r_processus>agent
+typographie d’un typographe | r_processus>agent
+calligraphie d’une calligraphe | r_processus>agent
+gravure d’une graveuse | r_processus>agent
+photographie d’un photoreporter | r_processus>agent
+vidéographie d’un vidéaste | r_processus>agent
+reportage d’une correspondante | r_processus>agent
+présentation d’un journaliste TV | r_processus>agent
+animation d’un animateur radio | r_processus>agent
+réalisation d’une productrice TV | r_processus>agent
+modération d’une community manager | r_processus>agent
+publication d’un blogueur | r_processus>agent
+influence d’une influenceuse | r_processus>agent
+partage d’un créateur de contenu | r_processus>agent
+communication d’une attachée de presse | r_processus>agent
+gestion d’une social media manager | r_processus>agent
+campagne d’un responsable marketing | r_processus>agent
+stratégie d’un planificateur média | r_processus>agent
+analyse d’une data analyst | r_processus>agent
+étude d’un statisticien | r_processus>agent
+prévision d’un économiste | r_processus>agent
+budget d’une comptable | r_processus>agent
+gestion d’une contrôleur de gestion | r_processus>agent
+audit d’un commissaire aux comptes | r_processus>agent
+investissement d’une analyste financière | r_processus>agent
+évaluation d’une banquière | r_processus>agent
+prêt d’un banquier | r_processus>agent
+assurance d’une courtière | r_processus>agent
+protection d’un assureur | r_processus>agent
+sécurité d’un agent de sûreté | r_processus>agent
+surveillance d’une opératrice sécurité | r_processus>agent
+inspection d’un contrôleur qualité | r_processus>agent
+vérification d’une vérificatrice technique | r_processus>agent
+calibration d’une technicienne métrologie | r_processus>agent
+réglage d’un mécanicien ajusteur | r_processus>agent
+dépannage d’une électronicienne | r_processus>agent
+maintenance d’une automaticienne | r_processus>agent
+supervision d’une ingénieure système | r_processus>agent
+configuration d’un administrateur réseau | r_processus>agent
+déploiement d’un ingénieur cloud | r_processus>agent
+sécurisation d’un expert cybersécurité | r_processus>agent
+formation d’une formatrice digitale | r_processus>agent
+sensibilisation d’une responsable conformité | r_processus>agent
+évaluation d’un inspecteur qualité | r_processus>agent
+contrôle d’une auditrice industrielle | r_processus>agent
+gestion d’une cheffe de projet IT | r_processus>agent
+pilotage d’un directeur technique | r_processus>agent
+stratégie d’une consultante en innovation | r_processus>agent
+transformation d’une cheffe de mission | r_processus>agent
+modernisation d’un architecte SI | r_processus>agent
+développement d’une développeuse backend | r_processus>agent
+intégration d’un ingénieur logiciel | r_processus>agent
+automatisation d’une ingénieure DevOps | r_processus>agent
+surveillance d’un analyste SOC | r_processus>agent
+détection d’un ingénieur en détection | r_processus>agent
+analyse d’une spécialiste en forensic | r_processus>agent
+investigation d’une enquêtrice numérique | r_processus>agent
+restauration d’un archiviste | r_processus>agent
+préservation d’une conservatrice | r_processus>agent
+documentation d’une documentaliste | r_processus>agent
+catalogage d’un bibliothécaire | r_processus>agent
+numérisation d’un technicien d’archives | r_processus>agent
+classement d’une archiviste | r_processus>agent
+recherche d’un historien | r_processus>agent
+étude d’une chercheuse | r_processus>agent
+expérimentation d’une biologiste | r_processus>agent
+observation d’une astronome | r_processus>agent
+mesure d’un physicien | r_processus>agent
+analyse d’une chimiste | r_processus>agent
+explication d’un professeur de sciences | r_processus>agent
+enseignement d’une maîtresse de laboratoire | r_processus>agent
+préparation d’un laborantin | r_processus>agent
+manipulation d’un technicien chimiste | r_processus>agent
+analyse d’une microbiologiste | r_processus>agent
+culture d’une généticienne | r_processus>agent
+séquençage d’un bioinformaticien | r_processus>agent
+modélisation d’une ingénieure IA | r_processus>agent
+entraîne­ment d’un data engineer | r_processus>agent
+annotation d’une annotatrice | r_processus>agent
+nettoyage d’un data cleaner | r_processus>agent
+visualisation d’un data visualizer | r_processus>agent
+présentation d’une cheffe de produit data | r_processus>agent
+démonstration d’un expert IA | r_processus>agent
+documentation d’une rédactrice technique | r_processus>agent
+traduction d’un traducteur technique | r_processus>agent
+adaptation d’une localisatrice | r_processus>agent
+formation d’un formateur logiciel | r_processus>agent
+test d’une testeuse fonctionnelle | r_processus>agent
+recette d’un chef de projet QA | r_processus>agent
+déploiement d’une responsable infrastructure | r_processus>agent
+administration d’une administratrice système | r_processus>agent
+surveillance d’un opérateur réseau | r_processus>agent
+analyse d’un ingénieur performance | r_processus>agent
+amélioration d’une cheffe produit | r_processus>agent
+optimisation d’un ingénieur process | r_processus>agent
+planification d’un planificateur industriel | r_processus>agent
+logistique d’une responsable supply chain | r_processus>agent
+distribution d’un logisticien transport | r_processus>agent
+organisation d’une assistante logistique | r_processus>agent
+réception d’une réceptionnaire | r_processus>agent
+inventaire d’un magasinier cariste | r_processus>agent
+conditionnement d’une opératrice production | r_processus>agent
+emballage d’une emballeuse industrielle | r_processus>agent
+étiquetage d’un technicien packaging | r_processus>agent
+expédition d’une responsable transport | r_processus>agent
+livraison d’un chauffeur-livreur | r_processus>agent
+collecte d’une factrice | r_processus>agent
+distribution d’un coursier | r_processus>agent
+réception d’une secrétaire | r_processus>agent
+accueil d’un agent d’accueil | r_processus>agent
+orientation d’une standardiste | r_processus>agent
+prise de rendez-vous d’une assistante | r_processus>agent
+communication d’un responsable relation client | r_processus>agent
+satisfaction d’un chargé de clientèle | r_processus>agent
+fidélisation d’une chargée marketing | r_processus>agent
+prospection d’un commercial | r_processus>agent
+négociation d’une vendeuse | r_processus>agent
+transaction d’un courtier | r_processus>agent
+signature d’une notaire | r_processus>agent
+conseil d’un conseiller juridique | r_processus>agent
+rédaction d’une juriste | r_processus>agent
+médiation d’un avocat | r_processus>agent
+arbitrage d’un médiateur | r_processus>agent
+jugement d’une magistrate | r_processus>agent
+exécution d’un huissier | r_processus>agent
+protection d’une agente de sécurité | r_processus>agent
+gardiennage d’un gardien | r_processus>agent
+patrouille d’un vigile | r_processus>agent
+secours d’un sauveteur | r_processus>agent
+soin d’une secouriste | r_processus>agent
+

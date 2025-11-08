@@ -1,0 +1,983 @@
+branche de arbre | r_holo
+racine de plante | r_holo
+feuille de chêne | r_holo
+fleur de jardin | r_holo
+pétale de rose | r_holo
+tige de fleur | r_holo
+tronc de chêne | r_holo
+écorce de bouleau | r_holo
+sève de érable | r_holo
+fruit de pommier | r_holo
+graine de tournesol | r_holo
+bulbe de tulipe | r_holo
+épine de cactus | r_holo
+mousse de forêt | r_holo
+lichen de rocher | r_holo
+champignon de bois | r_holo
+algue de mer | r_holo
+corail de récif | r_holo
+anémone de mer | r_holo
+éponge de océan | r_holo
+tête de corps | r_holo
+cou de humain | r_holo
+épaule de squelette | r_holo
+bras de personne | r_holo
+avant-bras de membre | r_holo
+coude de articulation | r_holo
+poignet de main | r_holo
+main de bras | r_holo
+doigt de main | r_holo
+ongle de doigt | r_holo
+poitrine de torse | r_holo
+ventre de abdomen | r_holo
+dos de corps | r_holo
+hanche de bassin | r_holo
+jambe de corps | r_holo
+cuisse de membre | r_holo
+genou de jambe | r_holo
+mollet de membre | r_holo
+cheville de pied | r_holo
+pied de jambe | r_holo
+orteil de pied | r_holo
+cerveau de crâne | r_holo
+œil de visage | r_holo
+oreille de tête | r_holo
+nez de face | r_holo
+bouche de visage | r_holo
+dent de mâchoire | r_holo
+langue de bouche | r_holo
+gorge de cou | r_holo
+cœur de poitrine | r_holo
+poumon de thorax | r_holo
+estomac de abdomen | r_holo
+foie de corps | r_holo
+rein de système | r_holo
+peau de corps | r_holo
+os de squelette | r_holo
+muscle de membre | r_holo
+nerf de système | r_holo
+veine de circulation | r_holo
+artère de cœur | r_holo
+sang de organisme | r_holo
+cellule de tissu | r_holo
+chromosome de noyau | r_holo
+ADN de cellule | r_holo
+gène de chromosome | r_holo
+protéine de cellule | r_holo
+enzyme de métabolisme | r_holo
+hormone de système | r_holo
+neurone de cerveau | r_holo
+synapse de neurone | r_holo
+axone de cellule | r_holo
+dendrite de neurone | r_holo
+rétine de œil | r_holo
+cornée de globe | r_holo
+iris de œil | r_holo
+pupille de iris | r_holo
+cristallin de œil | r_holo
+tympan de oreille | r_holo
+cochlée de oreille | r_holo
+vestibule de oreille | r_holo
+cordes vocales de larynx | r_holo
+trachée de cou | r_holo
+bronche de poumon | r_holo
+alvéole de poumon | r_holo
+diaphragme de thorax | r_holo
+côtes de cage | r_holo
+sternum de thorax | r_holo
+vertèbre de colonne | r_holo
+disque de vertèbre | r_holo
+moelle de os | r_holo
+cartilage de articulation | r_holo
+tendon de muscle | r_holo
+ligament de articulation | r_holo
+capsule de articulation | r_holo
+membrane de cellule | r_holo
+cytoplasme de cellule | r_holo
+noyau de cellule | r_holo
+mitochondrie de cellule | r_holo
+ribosome de cellule | r_holo
+appareil de Golgi de cellule | r_holo
+réticulum de cellule | r_holo
+lysosome de cellule | r_holo
+vacuole de cellule | r_holo
+chloroplaste de cellule | r_holo
+paroi de cellule | r_holo
+flagelle de bactérie | r_holo
+cil de cellule | r_holo
+poil de peau | r_holo
+cheveu de tête | r_holo
+ongle de doigt | r_holo
+plume de oiseau | r_holo
+écaille de poisson | r_holo
+carapace de tortue | r_holo
+coquille de escargot | r_holo
+corne de rhinocéros | r_holo
+sabot de cheval | r_holo
+griffe de lion | r_holo
+crocs de serpent | r_holo
+défense de éléphant | r_holo
+antenne de insecte | r_holo
+aile de papillon | r_holo
+patte de araignée | r_holo
+abdomen de insecte | r_holo
+thorax de insecte | r_holo
+tête de insecte | r_holo
+mandibule de fourmi | r_holo
+dard de guêpe | r_holo
+trompe de papillon | r_holo
+œil de insecte | r_holo
+aile de oiseau | r_holo
+bec de canard | r_holo
+serre de aigle | r_holo
+plume de paon | r_holo
+crête de coq | r_holo
+barbillon de poisson | r_holo
+nageoire de requin | r_holo
+ouïe de poisson | r_holo
+branchies de poisson | r_holo
+écailles de serpent | r_holo
+crochet de serpent | r_holo
+ventouse de pieuvre | r_holo
+tentacule de méduse | r_holo
+coquille de moule | r_holo
+perle de huître | r_holo
+carapace de crabe | r_holo
+pince de homard | r_holo
+antenne de crevette | r_holo
+pattes de scorpion | r_holo
+queue de scorpion | r_holo
+dard de scorpion | r_holo
+toile de araignée | r_holo
+fil de soie | r_holo
+cocon de ver | r_holo
+chrysalide de papillon | r_holo
+larve de moustique | r_holo
+nymphe de insecte | r_holo
+œuf de poule | r_holo
+coquille de œuf | r_holo
+jaune de œuf | r_holo
+blanc de œuf | r_holo
+chalaze de œuf | r_holo
+germes de graine | r_holo
+cotylédon de plante | r_holo
+radicule de graine | r_holo
+tégument de graine | r_holo
+albumen de graine | r_holo
+embryon de graine | r_holo
+bourgeon de arbre | r_holo
+méristème de plante | r_holo
+phloème de plante | r_holo
+xylème de plante | r_holo
+cambium de arbre | r_holo
+épiderme de feuille | r_holo
+stomate de feuille | r_holo
+chlorophylle de cellule | r_holo
+parenchyme de tissu | r_holo
+vaisseau de plante | r_holo
+poil de racine | r_holo
+nodule de racine | r_holo
+rhizome de plante | r_holo
+stolon de fraisier | r_holo
+bulbe de plante | r_holo
+tubercule de pomme de terre | r_holo
+rhizoïde de mousse | r_holo
+thalle de algue | r_holo
+spore de champignon | r_holo
+mycélium de champignon | r_holo
+chapeau de champignon | r_holo
+lamelle de champignon | r_holo
+pied de champignon | r_holo
+anneau de champignon | r_holo
+volve de champignon | r_holo
+branche de la forêt | r_holo
+racine de la plante | r_holo
+feuille de la vigne | r_holo
+fleur de la prairie | r_holo
+pétale de la fleur | r_holo
+tige de la plante | r_holo
+tronc de la forêt | r_holo
+écorce de l'arbre | r_holo
+sève de l'érable | r_holo
+fruit de la terre | r_holo
+graine de la vie | r_holo
+bulbe de la jonquille | r_holo
+épine de la rose | r_holo
+mousse de la pierre | r_holo
+lichen de la forêt | r_holo
+champignon de la souche | r_holo
+algue de la rivière | r_holo
+corail de la mer | r_holo
+anémone de l'océan | r_holo
+éponge de la mer | r_holo
+tête de la statue | r_holo
+cou de la girafe | r_holo
+épaule de l'athlète | r_holo
+bras de la victoire | r_holo
+avant-bras de la force | r_holo
+coude de l'articulation | r_holo
+poignet de la main | r_holo
+main de l'artiste | r_holo
+doigt de la main | r_holo
+ongle de la beauté | r_holo
+poitrine de la femme | r_holo
+ventre de la grossesse | r_holo
+dos de la main | r_holo
+hanche de la danse | r_holo
+jambe de la course | r_holo
+cuisse de la puissance | r_holo
+genou de la marche | r_holo
+mollet de la jambe | r_holo
+cheville de la souplesse | r_holo
+pied de la danse | r_holo
+orteil de la marche | r_holo
+cerveau de l'intelligence | r_holo
+œil de la tempête | r_holo
+oreille de la musique | r_holo
+nez de la respiration | r_holo
+bouche de la vérité | r_holo
+dent de la sagesse | r_holo
+langue de la parole | r_holo
+gorge de la voix | r_holo
+cœur de l'émotion | r_holo
+poumon de la respiration | r_holo
+estomac de la digestion | r_holo
+foie de la détoxication | r_holo
+rein de la filtration | r_holo
+peau de la protection | r_holo
+os de la structure | r_holo
+muscle de la force | r_holo
+nerf de la sensation | r_holo
+veine de la circulation | r_holo
+artère de la vie | r_holo
+sang de l'organisme | r_holo
+cellule de la vie | r_holo
+chromosome de l'hérédité | r_holo
+ADN de la cellule | r_holo
+gène de l'hérédité | r_holo
+protéine de la structure | r_holo
+enzyme de la réaction | r_holo
+hormone de la régulation | r_holo
+neurone de la pensée | r_holo
+synapse de la communication | r_holo
+axone de la transmission | r_holo
+dendrite de la réception | r_holo
+rétine de la vision | r_holo
+cornée de la protection | r_holo
+iris de la couleur | r_holo
+pupille de la lumière | r_holo
+cristallin de la focalisation | r_holo
+tympan de l'audition | r_holo
+cochlée de l'audition | r_holo
+vestibule de l'équilibre | r_holo
+cordes vocales de la voix | r_holo
+trachée de la respiration | r_holo
+bronche de l'arbre | r_holo
+alvéole de l'échange | r_holo
+diaphragme de la respiration | r_holo
+côtes de la protection | r_holo
+sternum de la cage | r_holo
+vertèbre de la colonne | r_holo
+disque de l'amortissement | r_holo
+moelle de la production | r_holo
+cartilage de la souplesse | r_holo
+tendon de la connexion | r_holo
+ligament de la stabilité | r_holo
+capsule de la protection | r_holo
+membrane de la séparation | r_holo
+cytoplasme de la vie | r_holo
+noyau de la cellule | r_holo
+mitochondrie de l'énergie | r_holo
+ribosome de la synthèse | r_holo
+appareil de Golgi de la sécrétion | r_holo
+réticulum de la production | r_holo
+lysosome de la digestion | r_holo
+vacuole du stockage | r_holo
+chloroplaste de la photosynthèse | r_holo
+paroi de la protection | r_holo
+flagelle de la mobilité | r_holo
+cil de la protection | r_holo
+poil de la sensation | r_holo
+cheveu de la tête | r_holo
+ongle de la protection | r_holo
+plume de l'oiseau | r_holo
+écaille de la protection | r_holo
+carapace de la tortue | r_holo
+coquille de la protection | r_holo
+corne de la défense | r_holo
+sabot de la marche | r_holo
+griffe de la chasse | r_holo
+crocs de la morsure | r_holo
+défense de la protection | r_holo
+antenne de la communication | r_holo
+aile du vol | r_holo
+patte de la marche | r_holo
+abdomen de la digestion | r_holo
+thorax de la protection | r_holo
+tête de la pensée | r_holo
+mandibule de la mastication | r_holo
+dard de la défense | r_holo
+trompe de l'alimentation | r_holo
+œil de la vision | r_holo
+aile de la liberté | r_holo
+bec de l'alimentation | r_holo
+serre de la chasse | r_holo
+plume de la parade | r_holo
+crête de la reconnaissance | r_holo
+barbillon de la détection | r_holo
+nageoire de la propulsion | r_holo
+ouïe de l'audition | r_holo
+branchies de la respiration | r_holo
+écailles de la protection | r_holo
+crochet de l'injection | r_holo
+ventouse de la fixation | r_holo
+tentacule de la capture | r_holo
+coquille de la filtration | r_holo
+perle de la beauté | r_holo
+carapace de la mue | r_holo
+pince de la défense | r_holo
+antenne de la détection | r_holo
+pattes de la marche | r_holo
+queue de l'équilibre | r_holo
+dard de la défense | r_holo
+toile de la chasse | r_holo
+fil de la construction | r_holo
+cocon de la métamorphose | r_holo
+chrysalide de la transformation | r_holo
+larve de la croissance | r_holo
+nymphe de la maturation | r_holo
+œuf de la reproduction | r_holo
+coquille de la protection | r_holo
+jaune de la nutrition | r_holo
+blanc de la protection | r_holo
+chalaze de la fixation | r_holo
+germes de la vie | r_holo
+cotylédon de la nutrition | r_holo
+radicule de la racine | r_holo
+tégument de la protection | r_holo
+albumen de la réserve | r_holo
+embryon de la vie | r_holo
+bourgeon de la croissance | r_holo
+méristème de la croissance | r_holo
+phloème de la sève | r_holo
+xylème de l'eau | r_holo
+cambium de la croissance | r_holo
+épiderme de la protection | r_holo
+stomate de la respiration | r_holo
+chlorophylle de la photosynthèse | r_holo
+parenchyme de la fonction | r_holo
+vaisseau du transport | r_holo
+poil de l'absorption | r_holo
+nodule de la fixation | r_holo
+rhizome de la reproduction | r_holo
+stolon de la propagation | r_holo
+bulbe de la réserve | r_holo
+tubercule de la réserve | r_holo
+rhizoïde de la fixation | r_holo
+thalle de la structure | r_holo
+spore de la reproduction | r_holo
+mycélium de la nutrition | r_holo
+chapeau de la sporulation | r_holo
+lamelle de la sporulation | r_holo
+pied de la structure | r_holo
+anneau de la protection | r_holo
+volve de la protection | r_holo
+branche d'un arbre | r_holo
+racine d'une plante | r_holo
+feuille d'un chêne | r_holo
+fleur d'un jardin | r_holo
+pétale d'une rose | r_holo
+tige d'une fleur | r_holo
+tronc d'un arbre | r_holo
+écorce d'un bouleau | r_holo
+sève d'un érable | r_holo
+fruit d'un pommier | r_holo
+graine d'un tournesol | r_holo
+bulbe d'une tulipe | r_holo
+épine d'un cactus | r_holo
+mousse d'une forêt | r_holo
+lichen d'un rocher | r_holo
+champignon d'un bois | r_holo
+algue d'une mer | r_holo
+corail d'un récif | r_holo
+anémone d'une mer | r_holo
+éponge d'un océan | r_holo
+tête d'un corps | r_holo
+cou d'un humain | r_holo
+épaule d'un squelette | r_holo
+bras d'une personne | r_holo
+avant-bras d'un membre | r_holo
+coude d'une articulation | r_holo
+poignet d'une main | r_holo
+main d'un bras | r_holo
+doigt d'une main | r_holo
+ongle d'un doigt | r_holo
+poitrine d'un torse | r_holo
+ventre d'un abdomen | r_holo
+dos d'un corps | r_holo
+hanche d'un bassin | r_holo
+jambe d'un corps | r_holo
+cuisse d'un membre | r_holo
+genou d'une jambe | r_holo
+mollet d'un membre | r_holo
+cheville d'un pied | r_holo
+pied d'une jambe | r_holo
+orteil d'un pied | r_holo
+cerveau d'un crâne | r_holo
+œil d'un visage | r_holo
+oreille d'une tête | r_holo
+nez d'une face | r_holo
+bouche d'un visage | r_holo
+dent d'une mâchoire | r_holo
+langue d'une bouche | r_holo
+gorge d'un cou | r_holo
+cœur d'une poitrine | r_holo
+poumon d'un thorax | r_holo
+estomac d'un abdomen | r_holo
+foie d'un corps | r_holo
+rein d'un système | r_holo
+peau d'un corps | r_holo
+os d'un squelette | r_holo
+muscle d'un membre | r_holo
+nerf d'un système | r_holo
+veine d'une circulation | r_holo
+artère d'un cœur | r_holo
+sang d'un organisme | r_holo
+cellule d'un tissu | r_holo
+chromosome d'un noyau | r_holo
+ADN d'une cellule | r_holo
+gène d'un chromosome | r_holo
+protéine d'une cellule | r_holo
+enzyme d'un métabolisme | r_holo
+hormone d'un système | r_holo
+neurone d'un cerveau | r_holo
+synapse d'un neurone | r_holo
+axone d'une cellule | r_holo
+dendrite d'un neurone | r_holo
+rétine d'un œil | r_holo
+cornée d'un globe | r_holo
+iris d'un œil | r_holo
+pupille d'un iris | r_holo
+cristallin d'un œil | r_holo
+tympan d'une oreille | r_holo
+cochlée d'une oreille | r_holo
+vestibule d'une oreille | r_holo
+cordes vocales d'un larynx | r_holo
+trachée d'un cou | r_holo
+bronche d'un poumon | r_holo
+alvéole d'un poumon | r_holo
+diaphragme d'un thorax | r_holo
+côtes d'une cage | r_holo
+sternum d'un thorax | r_holo
+vertèbre d'une colonne | r_holo
+disque d'une vertèbre | r_holo
+moelle d'un os | r_holo
+cartilage d'une articulation | r_holo
+tendon d'un muscle | r_holo
+ligament d'une articulation | r_holo
+capsule d'une articulation | r_holo
+membrane d'une cellule | r_holo
+cytoplasme d'une cellule | r_holo
+noyau d'une cellule | r_holo
+mitochondrie d'une cellule | r_holo
+ribosome d'une cellule | r_holo
+appareil de Golgi d'une cellule | r_holo
+réticulum d'une cellule | r_holo
+lysosome d'une cellule | r_holo
+vacuole d'une cellule | r_holo
+chloroplaste d'une cellule | r_holo
+paroi d'une cellule | r_holo
+flagelle d'une bactérie | r_holo
+cil d'une cellule | r_holo
+poil d'une peau | r_holo
+cheveu d'une tête | r_holo
+ongle d'un doigt | r_holo
+plume d'un oiseau | r_holo
+écaille d'un poisson | r_holo
+carapace d'une tortue | r_holo
+coquille d'un escargot | r_holo
+corne d'un rhinocéros | r_holo
+sabot d'un cheval | r_holo
+griffe d'un lion | r_holo
+crocs d'un serpent | r_holo
+défense d'un éléphant | r_holo
+antenne d'un insecte | r_holo
+aile d'un papillon | r_holo
+patte d'une araignée | r_holo
+abdomen d'un insecte | r_holo
+thorax d'un insecte | r_holo
+tête d'un insecte | r_holo
+mandibule d'une fourmi | r_holo
+dard d'une guêpe | r_holo
+trompe d'un papillon | r_holo
+œil d'un insecte | r_holo
+aile d'un oiseau | r_holo
+bec d'un canard | r_holo
+serre d'un aigle | r_holo
+plume d'un paon | r_holo
+crête d'un coq | r_holo
+barbillon d'un poisson | r_holo
+nageoire d'un requin | r_holo
+ouïe d'un poisson | r_holo
+branchies d'un poisson | r_holo
+écailles d'un serpent | r_holo
+crochet d'un serpent | r_holo
+ventouse d'une pieuvre | r_holo
+tentacule d'une méduse | r_holo
+coquille d'une moule | r_holo
+perle d'une huître | r_holo
+carapace d'un crabe | r_holo
+pince d'un homard | r_holo
+antenne d'une crevette | r_holo
+pattes d'un scorpion | r_holo
+queue d'un scorpion | r_holo
+dard d'un scorpion | r_holo
+toile d'une araignée | r_holo
+fil d'une soie | r_holo
+cocon d'un ver | r_holo
+chrysalide d'un papillon | r_holo
+larve d'un moustique | r_holo
+nymphe d'un insecte | r_holo
+œuf d'une poule | r_holo
+coquille d'un œuf | r_holo
+jaune d'un œuf | r_holo
+blanc d'un œuf | r_holo
+chalaze d'un œuf | r_holo
+germes d'une graine | r_holo
+cotylédon d'une plante | r_holo
+radicule d'une graine | r_holo
+tégument d'une graine | r_holo
+albumen d'une graine | r_holo
+embryon d'une graine | r_holo
+bourgeon d'un arbre | r_holo
+méristème d'une plante | r_holo
+phloème d'une plante | r_holo
+xylème d'une plante | r_holo
+cambium d'un arbre | r_holo
+épiderme d'une feuille | r_holo
+stomate d'une feuille | r_holo
+chlorophylle d'une cellule | r_holo
+parenchyme d'un tissu | r_holo
+vaisseau d'une plante | r_holo
+poil d'une racine | r_holo
+nodule d'une racine | r_holo
+rhizome d'une plante | r_holo
+stolon d'un fraisier | r_holo
+bulbe d'une plante | r_holo
+tubercule d'une pomme de terre | r_holo
+rhizoïde d'une mousse | r_holo
+thalle d'une algue | r_holo
+spore d'un champignon | r_holo
+mycélium d'un champignon | r_holo
+chapeau d'un champignon | r_holo
+lamelle d'un champignon | r_holo
+pied d'un champignon | r_holo
+anneau d'un champignon | r_holo
+volve d'un champignon | r_holo
+branche d'une forêt | r_holo
+racine d'une terre | r_holo
+feuille d'une branche | r_holo
+fleur d'une prairie | r_holo
+pétale d'une corolle | r_holo
+tige d'une herbe | r_holo
+tronc d'une forêt | r_holo
+écorce d'une protection | r_holo
+sève d'une vie | r_holo
+fruit d'une récolte | r_holo
+graine d'une future | r_holo
+bulbe d'une réserve | r_holo
+épine d'une défense | r_holo
+mousse d'une humidité | r_holo
+lichen d'une symbiose | r_holo
+champignon d'une forêt | r_holo
+algue d'une eau | r_holo
+corail d'une vie | r_holo
+anémone d'une mer | r_holo
+éponge d'une mer | r_holo
+tête d'une statue | r_holo
+cou d'une girafe | r_holo
+épaule d'une anatomie | r_holo
+bras d'une force | r_holo
+avant-bras d'une extension | r_holo
+coude d'une flexion | r_holo
+poignet d'une mobilité | r_holo
+main d'une habileté | r_holo
+doigt d'une précision | r_holo
+ongle d'une protection | r_holo
+poitrine d'une respiration | r_holo
+ventre d'une digestion | r_holo
+dos d'une structure | r_holo
+hanche d'une mobilité | r_holo
+jambe d'une locomotion | r_holo
+cuisse d'une puissance | r_holo
+genou d'une articulation | r_holo
+mollet d'une propulsion | r_holo
+cheville d'une stabilité | r_holo
+pied d'une marche | r_holo
+orteil d'une équilibre | r_holo
+cerveau d'une intelligence | r_holo
+œil d'une vision | r_holo
+oreille d'une audition | r_holo
+nez d'une odorat | r_holo
+bouche d'une alimentation | r_holo
+dent d'une mastication | r_holo
+langue d'une gustation | r_holo
+gorge d'une déglutition | r_holo
+cœur d'une circulation | r_holo
+poumon d'une respiration | r_holo
+estomac d'une digestion | r_holo
+foie d'une détoxication | r_holo
+rein d'une filtration | r_holo
+peau d'une protection | r_holo
+os d'une structure | r_holo
+muscle d'une mouvement | r_holo
+nerf d'une transmission | r_holo
+veine d'une retour | r_holo
+artère d'une oxygénation | r_holo
+sang d'une vie | r_holo
+cellule d'une unité | r_holo
+chromosome d'une information | r_holo
+ADN d'une hérédité | r_holo
+gène d'une caractéristique | r_holo
+protéine d'une fonction | r_holo
+enzyme d'une catalyse | r_holo
+hormone d'une régulation | r_holo
+neurone d'une transmission | r_holo
+synapse d'une connexion | r_holo
+axone d'une conduction | r_holo
+dendrite d'une réception | r_holo
+rétine d'une image | r_holo
+cornée d'une réfraction | r_holo
+iris d'une ouverture | r_holo
+pupille d'une lumière | r_holo
+cristallin d'une accommodation | r_holo
+tympan d'une vibration | r_holo
+cochlée d'une fréquence | r_holo
+vestibule d'une équilibre | r_holo
+cordes vocales d'une phonation | r_holo
+trachée d'une air | r_holo
+bronche d'une ramification | r_holo
+alvéole d'une échange | r_holo
+diaphragme d'une inspiration | r_holo
+côtes d'une protection | r_holo
+sternum d'une attache | r_holo
+vertèbre d'une mobilité | r_holo
+disque d'une amortissement | r_holo
+moelle d'une production | r_holo
+cartilage d'une souplesse | r_holo
+tendon d'une transmission | r_holo
+ligament d'une stabilité | r_holo
+capsule d'une synoviale | r_holo
+membrane d'une perméabilité | r_holo
+cytoplasme d'une métabolisme | r_holo
+noyau d'une information | r_holo
+mitochondrie d'une énergie | r_holo
+ribosome d'une synthèse | r_holo
+appareil de Golgi d'une sécrétion | r_holo
+réticulum d'une production | r_holo
+lysosome d'une digestion | r_holo
+vacuole d'une stockage | r_holo
+chloroplaste d'une photosynthèse | r_holo
+paroi d'une rigidité | r_holo
+flagelle d'une mobilité | r_holo
+cil d'une protection | r_holo
+poil d'une isolation | r_holo
+cheveu d'une pousse | r_holo
+ongle d'une kératine | r_holo
+plume d'une isolation | r_holo
+écaille d'une protection | r_holo
+carapace d'une dureté | r_holo
+coquille d'une calcification | r_holo
+corne d'une kératine | r_holo
+sabot d'une usure | r_holo
+griffe d'une préhension | r_holo
+crocs d'une injection | r_holo
+défense d'une ivoire | r_holo
+antenne d'une détection | r_holo
+aile d'une vol | r_holo
+patte d'une locomotion | r_holo
+abdomen d'une digestion | r_holo
+thorax d'une protection | r_holo
+tête d'une sens | r_holo
+mandibule d'une mastication | r_holo
+dard d'une défense | r_holo
+trompe d'une succion | r_holo
+œil d'une vision | r_holo
+aile d'une envol | r_holo
+bec d'une alimentation | r_holo
+serre d'une saisie | r_holo
+plume d'une parade | r_holo
+crête d'une reconnaissance | r_holo
+barbillon d'une détection | r_holo
+nageoire d'une propulsion | r_holo
+ouïe d'une audition | r_holo
+branchies d'une respiration | r_holo
+écailles d'une protection | r_holo
+crochet d'une inoculation | r_holo
+ventouse d'une adhérence | r_holo
+tentacule d'une capture | r_holo
+coquille d'une filtration | r_holo
+perle d'une sécrétion | r_holo
+carapace d'une mue | r_holo
+pince d'une défense | r_holo
+antenne d'une chimioréception | r_holo
+pattes d'une marche | r_holo
+queue d'une équilibre | r_holo
+dard d'une défense | r_holo
+toile d'une capture | r_holo
+fil d'une soie | r_holo
+cocon d'une protection | r_holo
+chrysalide d'une métamorphose | r_holo
+larve d'une croissance | r_holo
+nymphe d'une maturation | r_holo
+œuf d'une reproduction | r_holo
+coquille d'une protection | r_holo
+jaune d'une nutrition | r_holo
+blanc d'une protection | r_holo
+chalaze d'une fixation | r_holo
+germes d'une vie | r_holo
+cotylédon d'une nutrition | r_holo
+radicule d'une racine | r_holo
+tégument d'une protection | r_holo
+albumen d'une réserve | r_holo
+embryon d'une vie | r_holo
+bourgeon d'une croissance | r_holo
+méristème d'une croissance | r_holo
+phloème d'une sève | r_holo
+xylème d'une eau | r_holo
+cambium d'une croissance | r_holo
+épiderme d'une protection | r_holo
+stomate d'une respiration | r_holo
+chlorophylle d'une photosynthèse | r_holo
+parenchyme d'une fonction | r_holo
+vaisseau d'un transport | r_holo
+poil d'une absorption | r_holo
+nodule d'une fixation | r_holo
+rhizome d'une reproduction | r_holo
+stolon d'une propagation | r_holo
+bulbe d'une réserve | r_holo
+tubercule d'une réserve | r_holo
+rhizoïde d'une fixation | r_holo
+thalle d'une structure | r_holo
+spore d'une reproduction | r_holo
+mycélium d'une nutrition | r_holo
+chapeau d'une sporulation | r_holo
+lamelle d'une sporulation | r_holo
+pied d'une structure | r_holo
+anneau d'une protection | r_holo
+volve d'une protection | r_holo
+nervure de feuille | r_holo
+limbe de feuille | r_holo
+pétiole de feuille | r_holo
+stipule de tige | r_holo
+lenticelle de tige | r_holo
+aisselle de branche | r_holo
+apex de tige | r_holo
+noeud de tige | r_holo
+entre-noeud de tige | r_holo
+moelle de tige | r_holo
+écorce interne de tronc | r_holo
+aubier de tronc | r_holo
+duramen de tronc | r_holo
+cernes de tronc | r_holo
+rayon médullaire de tronc | r_holo
+péricarpe de fruit | r_holo
+mésocarpe de fruit | r_holo
+endocarpe de fruit | r_holo
+épicarpe de fruit | r_holo
+pépin de fruit | r_holo
+noyau de fruit | r_holo
+arille de graine | r_holo
+tégument de graine | r_holo
+hilum de graine | r_holo
+micropyle de graine | r_holo
+radicule de embryon | r_holo
+gemmule de embryon | r_holo
+coléoptile de embryon | r_holo
+coléorhize de embryon | r_holo
+scutellum de embryon | r_holo
+épi de blé | r_holo
+glume de épi | r_holo
+glumelle de fleur | r_holo
+palea de fleur | r_holo
+lemma de fleur | r_holo
+étamine de fleur | r_holo
+filet de étamine | r_holo
+anthère de étamine | r_holo
+pollen de anthère | r_holo
+pistil de fleur | r_holo
+stigmate de pistil | r_holo
+style de pistil | r_holo
+ovaire de pistil | r_holo
+ovule de ovaire | r_holo
+nucelle de ovule | r_holo
+sac embryonnaire de ovule | r_holo
+réceptacle de fleur | r_holo
+pédoncule de fleur | r_holo
+sépale de fleur | r_holo
+pétale de corolle | r_holo
+corolle de fleur | r_holo
+calice de fleur | r_holo
+péricycle de racine | r_holo
+endoderme de racine | r_holo
+cortex de racine | r_holo
+coiffe de racine | r_holo
+zone pilifère de racine | r_holo
+méristème apical de racine | r_holo
+assise pilifère de racine | r_holo
+poil absorbant de racine | r_holo
+nodule racinaire de légumineuse | r_holo
+bactérioïde de nodule | r_holo
+thylakoïde de chloroplaste | r_holo
+granum de chloroplaste | r_holo
+stroma de chloroplaste | r_holo
+enveloppe de chloroplaste | r_holo
+lamelle de chloroplaste | r_holo
+pigment de chloroplaste | r_holo
+caroténoïde de chromoplaste | r_holo
+xanthophylle de chromoplaste | r_holo
+amidon de leucoplaste | r_holo
+plaste de cellule | r_holo
+proplaste de cellule | r_holo
+étioplaste de cellule | r_holo
+vacuome de cellule | r_holo
+tonoplaste de vacuole | r_holo
+suc vacuolaire de vacuole | r_holo
+paroi primaire de cellule | r_holo
+paroi secondaire de cellule | r_holo
+lamelle moyenne de paroi | r_holo
+plasmodesme de paroi | r_holo
+desmotubule de plasmodesme | r_holo
+ergastoplasme de cellule | r_holo
+ribosome libre de cytoplasme | r_holo
+polysome de cytoplasme | r_holo
+centrosome de cellule | r_holo
+centriole de centrosome | r_holo
+microtubule de cytosquelette | r_holo
+filament intermédiaire de cytosquelette | r_holo
+microfilament de cytosquelette | r_holo
+actine de microfilament | r_holo
+myosine de microfilament | r_holo
+tubuline de microtubule | r_holo
+kinésine de microtubule | r_holo
+dyneine de microtubule | r_holo
+membrane plasmique de cellule | r_holo
+phospholipide de membrane | r_holo
+protéine intégrale de membrane | r_holo
+protéine périphérique de membrane | r_holo
+glycocalyx de membrane | r_holo
+cholestérol de membrane | r_holo
+canal ionique de membrane | r_holo
+pompe sodium-potassium de membrane | r_holo
+récepteur de membrane | r_holo
+enveloppe nucléaire de noyau | r_holo
+pore nucléaire de enveloppe | r_holo
+complexe de pore de noyau | r_holo
+lamina nucléaire de noyau | r_holo
+chromatine de noyau | r_holo
+euchromatine de noyau | r_holo
+hétérochromatine de noyau | r_holo
+nucléole de noyau | r_holo
+ARN ribosomal de nucléole | r_holo
+protéine ribosomale de nucléole | r_holo
+matrice de mitochondrie | r_holo
+crête de mitochondrie | r_holo
+membrane interne de mitochondrie | r_holo
+membrane externe de mitochondrie | r_holo
+espace intermembranaire de mitochondrie | r_holo
+ADN mitochondrial de mitochondrie | r_holo
+ribosome mitochondrial de mitochondrie | r_holo
+ATP synthase de mitochondrie | r_holo
+chaîne respiratoire de mitochondrie | r_holo
+cytochrome de mitochondrie | r_holo
+ubiquinone de mitochondrie | r_holo
+face cis de appareil de Golgi | r_holo
+face trans de appareil de Golgi | r_holo
+citerne de appareil de Golgi | r_holo
+vésicule de transition de réticulum | r_holo
+vésicule sécrétrice de Golgi | r_holo
+lysosome primaire de cellule | r_holo
+lysosome secondaire de cellule | r_holo
+enzyme lysosomale de lysosome | r_holo
+autophagosome de cellule | r_holo
+hétérophagosome de cellule | r_holo
+corps résiduel de lysosome | r_holo
+peroxysome de cellule | r_holo
+catalase de peroxysome | r_holo
+glyoxysome de cellule | r_holo
+mélanosome de cellule | r_holo
+mélanine de mélanosome | r_holo
+liposome de cellule | r_holo
+glycogénosome de cellule | r_holo
+inclusion de cytoplasme | r_holo
+cristal de inclusion | r_holo
+gouttelette lipidique de cytoplasme | r_holo
+granule de sécrétion de cytoplasme | r_holo
+granule de pigment de cytoplasme | r_holo
+axonème de cil | r_holo
+doublet de microtubule de axonème | r_holo
+paire centrale de microtubule de axonème | r_holo
+dyneine de bras de microtubule | r_holo
+radial spoke de axonème | r_holo
+membrane ciliaire de cil | r_holo
+corps basal de cil | r_holo
+centriole de corps basal | r_holo
+fibre striée de cil | r_holo
+appareil de fixation de cil | r_holo
+membrane flagellaire de flagelle | r_holo
+hameçon de flagelle | r_holo
+filament de flagelle | r_holo
+capsule de bactérie | r_holo
+paroi de bactérie | r_holo
+membrane de bactérie | r_holo
+mésosome de bactérie | r_holo
+nucleoïde de bactérie | r_holo
+plasmide de bactérie | r_holo
+fimbriae de bactérie | r_holo
+pili de bactérie | r_holo
+endospore de bactérie | r_holo
+toxine de bactérie | r_holo
+enveloppe de virus | r_holo
+capside de virus | r_holo
+capsomère de capside | r_holo
+acide nucléique de virus | r_holo
+protéine de structure de virus | r_holo
+enzyme de virus | r_holo
+spicule de virus | r_holo
+membrane de virus enveloppé | r_holo
+glycoprotéine de enveloppe | r_holo
+peplomère de virus | r_holo
+matrice de capside | r_holo
+core de virus | r_holo
+précurseur de protéine de virus | r_holo
+ARN polymérase de virus | r_holo
+réverse transcriptase de virus | r_holo
+intégrase de virus | r_holo
+protéase de virus | r_holo
+neuraminidase de virus | r_holo
+hémagglutinine de virus | r_holo
+antigène de surface de virus | r_holo
+récepteur de pénétration de virus | r_holo
+canal ionique viroporine de virus | r_holo
+endonucléase de virus | r_holo
+exonucléase de virus | r_holo
+ligase de virus | r_holo
+kinase de virus | r_holo
+phosphatase de virus | r_holo
+ubiquitine de virus | r_holo
+interféron de cellule | r_holo
+anticorps de système immunitaire | r_holo
+antigène de pathogène | r_holo
+épitope de antigène | r_holo
+paratope de anticorps | r_holo
+chaîne lourde de anticorps | r_holo
+chaîne légère de anticorps | r_holo
+région variable de anticorps | r_holo
+région constante de anticorps | r_holo
+site de liaison de anticorps | r_holo
+fragment Fab de anticorps | r_holo
+fragment Fc de anticorps | r_holo
+complément de système immunitaire | r_holo
+lymphocyte de système immunitaire | r_holo
+macrophage de système immunitaire | r_holo
+granulocyte de système immunitaire | r_holo
