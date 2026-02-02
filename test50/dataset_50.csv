@@ -1,0 +1,546 @@
+mot1,mot2,relation
+vin,bordeaux r_lieu_origine,data50
+fromage,normandie r_lieu_origine,data50
+cafe,bresil r_lieu_origine,data50
+the,darjeeling r_lieu_origine,data50
+champagne,reims r_lieu_origine,data50
+huile,provence r_lieu_origine,data50
+riz,camargue r_lieu_origine,data50
+laine,mongolie r_lieu_origine,data50
+cuir,maroc r_lieu_origine,data50
+porcelaine,chine r_lieu_origine,data50
+cristal,boheme r_lieu_origine,data50
+dentelle,calais r_lieu_origine,data50
+parfum,grasse r_lieu_origine,data50
+jambon,parme r_lieu_origine,data50
+saucisson,lyon r_lieu_origine,data50
+biere,munich r_lieu_origine,data50
+vodka,pologne r_lieu_origine,data50
+sake,kyoto r_lieu_origine,data50
+tequila,jalisco r_lieu_origine,data50
+rhum,martinique r_lieu_origine,data50
+cigare,cuba r_lieu_origine,data50
+huitre,cancale r_lieu_origine,data50
+lavande,sault r_lieu_origine,data50
+datte,tunisie r_lieu_origine,data50
+banane,guadeloupe r_lieu_origine,data50
+ananas,costa rica r_lieu_origine,data50
+mangue,senegal r_lieu_origine,data50
+kiwi,nouvelle zelande r_lieu_origine,data50
+pomme,limousin r_lieu_origine,data50
+orange,maroc r_lieu_origine,data50
+citron,sicile r_lieu_origine,data50
+amande,californie r_lieu_origine,data50
+noix,perigord r_lieu_origine,data50
+miel,provence r_lieu_origine,data50
+sel,guerande r_lieu_origine,data50
+granit,bretagne r_lieu_origine,data50
+bois,morvan r_lieu_origine,data50
+acier,lorraine r_lieu_origine,data50
+or,mali r_lieu_origine,data50
+diamant,congo r_lieu_origine,data50
+jade,birmanie r_lieu_origine,data50
+soie,vietnam r_lieu_origine,data50
+bambou,chine r_lieu_origine,data50
+table,bois r_object_matiere,data50
+bague,or r_object_matiere,data50
+statue,marbre r_object_matiere,data50
+mur,brique r_object_matiere,data50
+sac,cuir r_object_matiere,data50
+verre,cristal r_object_matiere,data50
+corde,chanvre r_object_matiere,data50
+tissu,soie r_object_matiere,data50
+bouteille,verre r_object_matiere,data50
+toit,tuile r_object_matiere,data50
+pont,fer r_object_matiere,data50
+batiment,beton r_object_matiere,data50
+sculpture,bronze r_object_matiere,data50
+ustensile,plastique r_object_matiere,data50
+poutre,acier r_object_matiere,data50
+panier,osier r_object_matiere,data50
+tapis,laine r_object_matiere,data50
+couverture,coton r_object_matiere,data50
+vetement,lin r_object_matiere,data50
+fil,cuivre r_object_matiere,data50
+cable,acier r_object_matiere,data50
+jouet,bois r_object_matiere,data50
+instrument,metal r_object_matiere,data50
+route,goudron r_object_matiere,data50
+carrelage,ceramique r_object_matiere,data50
+comptoir,granit r_object_matiere,data50
+echarpe,cachemire r_object_matiere,data50
+ceinture,cuir r_object_matiere,data50
+bouchon,liege r_object_matiere,data50
+lame,acier r_object_matiere,data50
+miroir,verre r_object_matiere,data50
+vaisselle,porcelaine r_object_matiere,data50
+bol,ceramique r_object_matiere,data50
+theiere,fonte r_object_matiere,data50
+poele,fer r_object_matiere,data50
+plateau,bois r_object_matiere,data50
+barriere,fer r_object_matiere,data50
+dalle,pierre r_object_matiere,data50
+escalier,marbre r_object_matiere,data50
+statue,platre r_object_matiere,data50
+monument,granit r_object_matiere,data50
+voile,coton r_object_matiere,data50
+corde,nylon r_object_matiere,data50
+ancre,fer r_object_matiere,data50
+coque,acier r_object_matiere,data50
+planche,bois r_object_matiere,data50
+ballon,cuir r_object_matiere,data50
+filet,nylon r_object_matiere,data50
+clou,fer r_object_matiere,data50
+branche,arbre r_holo,data50
+racine,plante r_holo,data50
+feuille,chene r_holo,data50
+petale,rose r_holo,data50
+tronc,chene r_holo,data50
+ecorce,bouleau r_holo,data50
+graine,tournesol r_holo,data50
+fruit,pommier r_holo,data50
+tige,fleur r_holo,data50
+fleur,jardin r_holo,data50
+bras,corps r_holo,data50
+main,bras r_holo,data50
+doigt,main r_holo,data50
+ongle,doigt r_holo,data50
+jambe,corps r_holo,data50
+genou,jambe r_holo,data50
+pied,jambe r_holo,data50
+orteil,pied r_holo,data50
+œil,visage r_holo,data50
+oreille,tete r_holo,data50
+nez,visage r_holo,data50
+bouche,visage r_holo,data50
+dent,machoire r_holo,data50
+langue,bouche r_holo,data50
+cerveau,crane r_holo,data50
+cœur,poitrine r_holo,data50
+poumon,thorax r_holo,data50
+estomac,abdomen r_holo,data50
+foie,corps r_holo,data50
+rein,systeme r_holo,data50
+os,squelette r_holo,data50
+muscle,membre r_holo,data50
+nerf,systeme r_holo,data50
+sang,organisme r_holo,data50
+cellule,tissu r_holo,data50
+noyau,cellule r_holo,data50
+adn,cellule r_holo,data50
+chromosome,noyau r_holo,data50
+gene,chromosome r_holo,data50
+proteine,cellule r_holo,data50
+enzyme,metabolisme r_holo,data50
+neurone,cerveau r_holo,data50
+synapse,neurone r_holo,data50
+axone,neurone r_holo,data50
+dendrite,neurone r_holo,data50
+retine,œil r_holo,data50
+iris,œil r_holo,data50
+pupille,iris r_holo,data50
+tympan,oreille r_holo,data50
+force,lion r_has_property,data50
+douceur,velours r_has_property,data50
+rapidite,guepard r_has_property,data50
+patience,moine r_has_property,data50
+agilite,chat r_has_property,data50
+fragilite,verre r_has_property,data50
+rigueur,scientifique r_has_property,data50
+colere,chef r_has_property,data50
+tenacite,fourmi r_has_property,data50
+elegance,danseur r_has_property,data50
+complexite,systeme r_has_property,data50
+richesse,sol r_has_property,data50
+aridite,desert r_has_property,data50
+souplesse,gymnaste r_has_property,data50
+rigidite,metal r_has_property,data50
+profondeur,pensee r_has_property,data50
+superficialite,discours r_has_property,data50
+originalite,creation r_has_property,data50
+banalite,remarque r_has_property,data50
+modernite,design r_has_property,data50
+archaisme,methode r_has_property,data50
+innovation,technologie r_has_property,data50
+tradition,culture r_has_property,data50
+prudence,decision r_has_property,data50
+temerite,conducteur r_has_property,data50
+sincerite,sentiment r_has_property,data50
+hypocrisie,comportement r_has_property,data50
+loyaute,compagnon r_has_property,data50
+fidelite,chien r_has_property,data50
+infidelite,partenaire r_has_property,data50
+devouement,mere r_has_property,data50
+altruisme,benevole r_has_property,data50
+compassion,soignant r_has_property,data50
+cruaute,bourreau r_has_property,data50
+bienveillance,professeur r_has_property,data50
+malveillance,critique r_has_property,data50
+noblesse,cœur r_has_property,data50
+vilenie,caractere r_has_property,data50
+magnanimite,vainqueur r_has_property,data50
+velo,cycliste r_own,data50
+voiture,conducteur r_own,data50
+moto,motard r_own,data50
+camion,routier r_own,data50
+tracteur,agriculteur r_own,data50
+bateau,marin r_own,data50
+avion,pilote r_own,data50
+scooter,livreur r_own,data50
+trottinette,enfant r_own,data50
+skateboard,skateur r_own,data50
+skis,skieur r_own,data50
+snowboard,surfeur r_own,data50
+planche,surfeur r_own,data50
+kayak,kayakiste r_own,data50
+canoe,canoeiste r_own,data50
+cheval,cavalier r_own,data50
+chien,maitre r_own,data50
+chat,proprietaire r_own,data50
+poisson,aquariophile r_own,data50
+hamster,enfant r_own,data50
+vache,eleveur r_own,data50
+mouton,berger r_own,data50
+poule,fermier r_own,data50
+lapin,fermier r_own,data50
+maison,proprietaire r_own,data50
+appartement,locataire r_own,data50
+villa,proprietaire r_own,data50
+chalet,montagnard r_own,data50
+tente,campeur r_own,data50
+caravane,campeur r_own,data50
+yourte,nomade r_own,data50
+garage,proprietaire r_own,data50
+atelier,artisan r_own,data50
+boutique,commercant r_own,data50
+bureau,employe r_own,data50
+laboratoire,chercheur r_own,data50
+usine,industriel r_own,data50
+ferme,fermier r_own,data50
+champ,paysan r_own,data50
+jardin,jardinier r_own,data50
+verger,arboriculteur r_own,data50
+vigne,vigneron r_own,data50
+foret,forestier r_own,data50
+livre,lecteur r_own,data50
+cahier,ecolier r_own,data50
+ordinateur,informaticien r_own,data50
+smartphone,utilisateur r_own,data50
+televiseur,telespectateur r_own,data50
+appareil,photographe r_own,data50
+travail,l ouvrier r_processus agent,data50
+ecriture,l auteur r_processus agent,data50
+lecture,l eleve r_processus agent,data50
+peinture,l artiste r_processus agent,data50
+sculpture,sculpteur r_processus agent,data50
+construction,macon r_processus agent,data50
+reparation,technicien r_processus agent,data50
+nettoyage,l agent r_processus agent,data50
+cuisine,chef r_processus agent,data50
+jardinage,jardinier r_processus agent,data50
+enseignement,professeur r_processus agent,data50
+apprentissage,l etudiant r_processus agent,data50
+recherche,scientifique r_processus agent,data50
+decouverte,l explorateur r_processus agent,data50
+invention,l inventeur r_processus agent,data50
+creation,l artiste r_processus agent,data50
+design,designer r_processus agent,data50
+programmation,developpeur r_processus agent,data50
+analyse,l expert r_processus agent,data50
+diagnostic,medecin r_processus agent,data50
+soin,l infirmier r_processus agent,data50
+operation,chirurgien r_processus agent,data50
+conduite,chauffeur r_processus agent,data50
+pilotage,pilote r_processus agent,data50
+navigation,marin r_processus agent,data50
+direction,manager r_processus agent,data50
+gestion,l administrateur r_processus agent,data50
+vente,commercant r_processus agent,data50
+achat,l acheteur r_processus agent,data50
+negociation,negociateur r_processus agent,data50
+communication,porte parole r_processus agent,data50
+presentation,l orateur r_processus agent,data50
+formation,formateur r_processus agent,data50
+coaching,coach r_processus agent,data50
+conseil,consultant r_processus agent,data50
+audit,l auditeur r_processus agent,data50
+controle,controleur r_processus agent,data50
+surveillance,gardien r_processus agent,data50
+defense,l avocat r_processus agent,data50
+jugement,juge r_processus agent,data50
+arrestation,policier r_processus agent,data50
+enquete,detective r_processus agent,data50
+sauvetage,sauveteur r_processus agent,data50
+secours,secouriste r_processus agent,data50
+meditation,meditant r_processus agent,data50
+priere,croyant r_processus agent,data50
+chant,chanteur r_processus agent,data50
+danse,danseur r_processus agent,data50
+composition,compositeur r_processus agent,data50
+cle,porte r_processus instr,data50
+cle,voiture r_processus instr,data50
+cle,maison r_processus instr,data50
+tournevis,mecanicien r_processus instr,data50
+marteau,menuisier r_processus instr,data50
+scie,bucheron r_processus instr,data50
+couteau,cuisinier r_processus instr,data50
+ciseaux,coiffeur r_processus instr,data50
+pince,electricien r_processus instr,data50
+perceuse,bricoleur r_processus instr,data50
+rabot,menuisier r_processus instr,data50
+lime,mecanicien r_processus instr,data50
+rape,cuisinier r_processus instr,data50
+balai,concierge r_processus instr,data50
+serpilliere,agent r_processus instr,data50
+aspirateur,menage r_processus instr,data50
+beche,jardinier r_processus instr,data50
+pelle,terrassier r_processus instr,data50
+pioche,mineur r_processus instr,data50
+fourche,agriculteur r_processus instr,data50
+rateau,jardinier r_processus instr,data50
+faux,faucheur r_processus instr,data50
+hache,bucheron r_processus instr,data50
+maillet,sculpteur r_processus instr,data50
+burin,sculpteur r_processus instr,data50
+compas,geometre r_processus instr,data50
+equerre,charpentier r_processus instr,data50
+regle,dessinateur r_processus instr,data50
+niveau,macon r_processus instr,data50
+truelle,macon r_processus instr,data50
+spatule,peintre r_processus instr,data50
+rouleau,peintre r_processus instr,data50
+pinceau,artiste r_processus instr,data50
+palette,peintre r_processus instr,data50
+crayon,dessinateur r_processus instr,data50
+stylo,ecrivain r_processus instr,data50
+plume,calligraphe r_processus instr,data50
+cahier,ecolier r_processus instr,data50
+ordinateur,programmeur r_processus instr,data50
+clavier,informaticien r_processus instr,data50
+souris,utilisateur r_processus instr,data50
+camera,videaste r_processus instr,data50
+appareil,photographe r_processus instr,data50
+trepied,photographe r_processus instr,data50
+boussole,navigateur r_processus instr,data50
+sextant,marin r_processus instr,data50
+rame,rameur r_processus instr,data50
+pagaie,kayakiste r_processus instr,data50
+filet,pecheur r_processus instr,data50
+photo,famille r_depict,data50
+peinture,paysage r_depict,data50
+gravure,monument r_depict,data50
+fresque,bataille r_depict,data50
+mosaique,divinite r_depict,data50
+affiche,film r_depict,data50
+aquarelle,fleur r_depict,data50
+croquis,modele r_depict,data50
+esquisse,composition r_depict,data50
+tableau,nature morte r_depict,data50
+icone,saint r_depict,data50
+statuette,dieu r_depict,data50
+bas relief,scene r_depict,data50
+haut relief,heros r_depict,data50
+masque,personnage r_depict,data50
+vitrail,prophete r_depict,data50
+tapisserie,legende r_depict,data50
+broderie,symbole r_depict,data50
+ceramique,motif r_depict,data50
+poterie,forme r_depict,data50
+porcelaine,decor r_depict,data50
+email,couleur r_depict,data50
+joaillerie,gemme r_depict,data50
+horlogerie,mecanisme r_depict,data50
+marqueterie,motif r_depict,data50
+ebenisterie,meuble r_depict,data50
+maquette,batiment r_depict,data50
+modele,machine r_depict,data50
+schema,circuit r_depict,data50
+plan,structure r_depict,data50
+carte,territoire r_depict,data50
+globe,monde r_depict,data50
+atlas,continent r_depict,data50
+diagramme,processus r_depict,data50
+graphique,donnee r_depict,data50
+cinema,fiction r_depict,data50
+theatre,drame r_depict,data50
+opera,passion r_depict,data50
+ballet,mouvement r_depict,data50
+marionnette,personnage r_depict,data50
+animation,heros r_depict,data50
+brulure,soleil r_has_causatif,data50
+cicatrice,coupure r_has_causatif,data50
+inondation,pluie r_has_causatif,data50
+panne,surtension r_has_causatif,data50
+tache,graisse r_has_causatif,data50
+carie,sucre r_has_causatif,data50
+rouille,humidite r_has_causatif,data50
+fumee,combustion r_has_causatif,data50
+intoxication,champignon r_has_causatif,data50
+fievre,grippe r_has_causatif,data50
+ecorchure,chute r_has_causatif,data50
+fissure,gel r_has_causatif,data50
+retard,greve r_has_causatif,data50
+casse,surcharge r_has_causatif,data50
+usure,frottement r_has_causatif,data50
+odeur,brule r_has_causatif,data50
+crampe,deshydratation r_has_causatif,data50
+allergie,pollen r_has_causatif,data50
+panne,court circuit r_has_causatif,data50
+erosion,vent r_has_causatif,data50
+glissement,terrain r_has_causatif,data50
+vertige,fatigue r_has_causatif,data50
+nausee,mal de mer r_has_causatif,data50
+migraine,stress r_has_causatif,data50
+insomnie,cafeine r_has_causatif,data50
+irritation,savon r_has_causatif,data50
+deformation,chaleur r_has_causatif,data50
+corrosion,sel r_has_causatif,data50
+vibration,moteur r_has_causatif,data50
+blessure,choc r_has_causatif,data50
+fracture,collision r_has_causatif,data50
+decoloration,soleil r_has_causatif,data50
+contamination,bacterie r_has_causatif,data50
+infection,virus r_has_causatif,data50
+asphyxie,fumee r_has_causatif,data50
+empoisonnement,plomb r_has_causatif,data50
+inflammation,frottement r_has_causatif,data50
+obstruction,calcaire r_has_causatif,data50
+rupture,pression r_has_causatif,data50
+bosselure,grele r_has_causatif,data50
+rayure,sable r_has_causatif,data50
+jaunissement,nicotine r_has_causatif,data50
+gonflement,chaleur r_has_causatif,data50
+retrecissement,lavage r_has_causatif,data50
+pourriture,eau r_has_causatif,data50
+moisissure,condensation r_has_causatif,data50
+oxydation,air r_has_causatif,data50
+fermentation,levure r_has_causatif,data50
+carbonisation,feu r_has_causatif,data50
+chef,groupe r_social_tie,data50
+directeur,societe r_social_tie,data50
+manager,departement r_social_tie,data50
+superviseur,service r_social_tie,data50
+coordinateur,projet r_social_tie,data50
+commandant,troupe r_social_tie,data50
+pere,famille r_social_tie,data50
+fils,parent r_social_tie,data50
+fille,mere r_social_tie,data50
+frere,sœur r_social_tie,data50
+sœur,frere r_social_tie,data50
+grand pere,petit fils r_social_tie,data50
+grand mere,petite fille r_social_tie,data50
+oncle,neveu r_social_tie,data50
+tante,niece r_social_tie,data50
+cousin,cousine r_social_tie,data50
+parrain,filleul r_social_tie,data50
+marraine,filleule r_social_tie,data50
+epoux,epouse r_social_tie,data50
+mari,femme r_social_tie,data50
+conjoint,conjointe r_social_tie,data50
+compagnon,compagne r_social_tie,data50
+ami,ami r_social_tie,data50
+copain,copine r_social_tie,data50
+camarade,classe r_social_tie,data50
+collegue,bureau r_social_tie,data50
+partenaire,projet r_social_tie,data50
+mentor,protege r_social_tie,data50
+eleve,professeur r_social_tie,data50
+apprenti,maitre r_social_tie,data50
+medecin,patient r_social_tie,data50
+infirmier,malade r_social_tie,data50
+avocat,client r_social_tie,data50
+juge,tribunal r_social_tie,data50
+policier,commissariat r_social_tie,data50
+pompier,caserne r_social_tie,data50
+pretre,paroisse r_social_tie,data50
+imam,mosquee r_social_tie,data50
+maire,commune r_social_tie,data50
+depute,circonscription r_social_tie,data50
+roman,science fiction r_topic,data50
+piece,theatre r_topic,data50
+exposition,peinture r_topic,data50
+festival,musique r_topic,data50
+cours,philosophie r_topic,data50
+manuel,grammaire r_topic,data50
+recherche,linguistique r_topic,data50
+these,sociologie r_topic,data50
+article,physique r_topic,data50
+conference,biologie r_topic,data50
+projet,robotique r_topic,data50
+seance,meditation r_topic,data50
+livre,nutrition r_topic,data50
+atelier,yoga r_topic,data50
+etude,psychologie r_topic,data50
+rapport,marche r_topic,data50
+enquete,sociologie r_topic,data50
+strategie,communication r_topic,data50
+documentaire,nature r_topic,data50
+conference,developpement durable r_topic,data50
+match,football r_topic,data50
+cours,danse r_topic,data50
+tournoi,tennis r_topic,data50
+blog,cybersecurite r_topic,data50
+tutoriel,programmation r_topic,data50
+forum,jeux video r_topic,data50
+atelier,poterie r_topic,data50
+cours,couture r_topic,data50
+stage,menuiserie r_topic,data50
+recette,patisserie r_topic,data50
+cours,cuisine r_topic,data50
+livre,gastronomie r_topic,data50
+degustation,vin r_topic,data50
+film,guerre r_topic,data50
+essai,litterature r_topic,data50
+seminaire,droit r_topic,data50
+analyse,texte r_topic,data50
+creation,mode r_topic,data50
+concours,poesie r_topic,data50
+discussion,politique r_topic,data50
+presentation,design r_topic,data50
+exercice,mathematiques r_topic,data50
+experience,chimie r_topic,data50
+heure,travail r_quantificateur,data50
+jour,repos r_quantificateur,data50
+semaine,vacances r_quantificateur,data50
+mois,formation r_quantificateur,data50
+seconde,reflexion r_quantificateur,data50
+instant,bonheur r_quantificateur,data50
+moment,silence r_quantificateur,data50
+gramme,sel r_quantificateur,data50
+kilogramme,farine r_quantificateur,data50
+tonne,charbon r_quantificateur,data50
+millilitre,sirop r_quantificateur,data50
+verre,lait r_quantificateur,data50
+tasse,cafe r_quantificateur,data50
+cuillere,sucre r_quantificateur,data50
+goutte,pluie r_quantificateur,data50
+dose,medicament r_quantificateur,data50
+metre,tissu r_quantificateur,data50
+kilometre,route r_quantificateur,data50
+centimetre,ruban r_quantificateur,data50
+millimetre,precision r_quantificateur,data50
+pouce,terrain r_quantificateur,data50
+pourcentage,reussite r_quantificateur,data50
+fraction,total r_quantificateur,data50
+part,marche r_quantificateur,data50
+portion,gateau r_quantificateur,data50
+tranche,pain r_quantificateur,data50
+morceau,fromage r_quantificateur,data50
+bouchee,nourriture r_quantificateur,data50
+gorgee,boisson r_quantificateur,data50
+pincee,sel r_quantificateur,data50
+poignee,riz r_quantificateur,data50
+tas,sable r_quantificateur,data50
+pile,livres r_quantificateur,data50
+boite,conserve r_quantificateur,data50
+carton,demenagement r_quantificateur,data50
+caisse,pommes r_quantificateur,data50
+ballot,foin r_quantificateur,data50
+bouquet,fleurs r_quantificateur,data50
+brique,construction r_quantificateur,data50
+tuile,toiture r_quantificateur,data50
+page,livre r_quantificateur,data50
+ligne,texte r_quantificateur,data50
+mot,phrase r_quantificateur,data50
+chiffre,code r_quantificateur,data50
+numero,serie r_quantificateur,data50
